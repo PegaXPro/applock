@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Setări</string>
+
+  
+
+    <string name="share">Acțiune</string>
+
+    <string name="notification_protecting_title">Protejarea aplicațiilor dvs.</string>
+
+    <string name="notification_protecting_description">Blocați aplicațiile pentru a vă proteja confidențialitatea.</string>
+
+    <string name="notification_permission_need_title">Activați permisiunea de protecție</string>
+
+    <string name="notification_permission_need_description">Vă rugăm să activați permisiunile pentru a utiliza caseta de aplicații.</string>
+    <string name="you_accept_privacy_policy">Continuând sunteți de acord cu<u> Politica de Confidențialitate</u> </string>
+
+    <string name="header_recommended_to_lock">Recomandat pentru blocare</string>
+    <string name="header_all_apps">Toate aplicațiile</string>
+
+    <string name="title_general_settings">General</string>
+
+    <string name="title_lock_all">Blochează-le pe toate</string>
+    <string name="description_lock_all">Aceasta vă va bloca toate aplicațiile</string>
+
+ 
+    <string name="title_unlock_all">Descuie tot</string>
+
+    <string name="description_unlock_all">Acest lucru vă va debloca toate aplicațiile</string>
+    <string name="settings_change_pattern_title">Schimbați modelul</string>
+
+    <string name="settings_change_pattern_description">Schimbați modelul existent</string>
+    <string name="message_pattern_changed">Modelul s-a schimbat cu succes</string>
+
+    <string name="setting_in_stealth_mode_title">Ascunde desenul</string>
+    <string name="setting_in_stealth_mode_description">Model invizibil în timpul desenului</string>
+    <string name="setting_fingerprint_title">Activați amprenta</string>
+
+    <string name="setting_fingerprint_description">Lansați aplicația cu amprenta.</string>
+    <string name="setting_fingerprint_not_supported_title">Amprenta nu este acceptată</string>
+
+    <string name="setting_fingerprint_not_supported_description">Dispozitivul dvs. nu are senzor</string>
+    <string name="setting_fingerprint_not_registered_title">Înregistrați-vă amprenta</string>
+
+    <string name="setting_fingerprint_not_registered_description">Accesați setările de securitate</string>
+    <string name="next">Următorul</string>
+
+    <string name="permission_usage_access_title">Permisiune de acces la utilizare</string>
+    <string name="permission_usage_access_description">Activați accesul de utilizare pentru a utiliza dulapul de aplicații.</string>
+
+    <string name="permission_overlay_title">Permisiunea ecranului de blocare</string>
+
+    <string name="settings_card_intruders_title">Prinde intruși</string>
+    <string name="settings_enable_intruders_title">Faceți intrușii</string>
+    <string name="settings_enable_intruders_description">Activați capturarea intrușilor.</string>
+
+    <string name="settings_intruders_folder_title">Fotografii intrate capturate</string>
+    <string name="settings_intruders_folder_description">Faceți clic pentru a vedea spioni pe telefonul dvs.</string>
+
+    <string name="settings_card_advance_protection_title">Protecție avansată</string>
+    <string name="settings_enable_advance_protection_title">Activați protecția în avans</string>
+    <string name="settings_enable_advance_protection_description">Pentru a activa Protecția avansată, vă rugăm să activați App Lock Pro ca „administrator de dispozitiv”. Este utilizat numai pentru a preveni dezinstalarea intrușilor și oprirea forțată a App Lock Pro. Vă rugăm să vă asigurați că App Lock Pro nu va folosi niciodată această permisiune pentru a vă accesa datele de confidențialitate. .</string>
+    <string name="device_admin_permission_description">Activați acum, avansați protecția și mai sigur! \n\nPentru a activa Protecția avansată, vă rugăm să activați App Lock Pro ca „administrator de dispozitiv”. Este utilizat numai pentru a preveni dezinstalarea intrușilor și oprirea forțată a App Lock Pro. Vă rugăm să vă asigurați că App Lock Pro nu va folosi niciodată această permisiune pentru accesați datele dvs. de confidențialitate.</string>
+
+
+    <string name="permission_overlay_description">Activați suprapunerea pentru a afișa ecranul de blocare.</string>
+    <string name="permission_toast_enable_permissions">Activați permisiunile pentru a utiliza caseta de aplicații</string>
+
+    <string name="draw_pattern_title">Creați un nou model</string>
+    <string name="redraw_pattern_title">Redesenați pentru a finaliza</string>
+
+    <string name="recreate_pattern_error">Modelul nu se potrivește. Redesenați.</string>
+
+    <string name="create_pattern_successful">Creat cu succes.</string>
+    <string name="overlay_prompt_pattern_title">Desenați modelul pentru a deschide aplicația</string>
+    <string name="overlay_prompt_pattern_title_wrong">Model greșit. Desenați din nou.</string>
+    <string name="overlay_prompt_pattern_title_correct">Model corect.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Desenați modelul pentru a deschide aplicația</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Nu s-a potrivit +. Au mai rămas + %1$s.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Amprentă digitală potrivită!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Eroare de amprentă! Încercați modelul.</string>
+    <string name="dialog_title_rate_us">Ti-a placut Secure Zone?</string>
+    <string name="dialog_description_rate_us">Vom fi atât de fericiți dacă ne evaluați pe piață.</string>
+    <string name="dialog_action_rate_us_rate">Rată</string>
+
+    <string name="dialog_action_rate_us_later">Mai tarziu</string>
+    <string name="dialog_title_usage_permission">Permisiunea Android 5.0</string>
+    <string name="dialog_description_usage_permission">În Android 5.0 sau o versiune ulterioară, trebuie să permiteți accesul de utilizare pentru
+        AppLocker, astfel încât să puteți utiliza Secure Zone Feature</string>
+    <string name="dialog_action_usage_permission_permit">Permite</string>
+
+    <string name="dialog_action_usage_permission_cancel">Anulare</string>
+    <string name="dialog_title_privacy_policy">Politica de Confidențialitate</string>
+    <string name="dialog_description_privacy_policy">Ne-am actualizat politica de confidențialitate. Continuând sunteți de acord cu<u> Politica de Confidențialitate</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Accept</string>
+
+    <string name="hint_browser_search">Căutați sau introduceți adresa URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Stare de nervozitate</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Sigur. Sigur. Privat.</string>
+    <string name="subtitle_browser_empty">Navigare pe internet. Sigur.</string>
+    <string name="bookmarks">Marcaje</string>
+    <string name="title_name_unknown_number">Numar necunoscut</string>
+
+
+
+    <string name="blacklist_empty_title">Lista neagră este goală</string>
+    <string name="blacklist_empty_description">Faceți clic pentru a bloca numărul de telefon</string>
+    <string name="call_log_empty_title">Fără jurnale</string>
+
+    <string name="call_log_empty_description">Jurnalul apare aici când apelul este blocat</string>
+    <string name="dialog_add_to_blacklist_title">Blocați numărul de telefon</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nume (opțional)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Introduceti numarul de telefon</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Anulare</string>
+    <string name="dialog_black_list_delete_title">Ștergeți din lista neagră</string>
+    <string name="dialog_black_list_delete_description">Doriți să eliminați numărul blocat din lista neagră?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Anulare</string>
+    <string name="dialog_title_add_to_vault">Prelucrare</string>
+    <string name="dialog_description_process">Mediul dvs. se elimină din galerie și se adaugă în seiful dvs.</string>
+
+    <string name="dialog_title_removal_confirmation">Confirmarea eliminării</string>
+    <string name="dialog_description_removal">Acest fișier va fi eliminat din seif și va fi afișat în galerie.</string>
+    <string name="dialog_action_removal_confirmation_accept">Accept</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault este gol</string>
+    <string name="vault_photo_empty_page_description">Adăugați pictograma pentru a ascunde fotografiile din galerie</string>
+    <string name="vault_video_empty_page_title">Seiful video este gol</string>
+
+    <string name="vault_video_empty_page_description">Adăugați pictograma la fotografiile video din galerie</string>
+    <string-array name="tabs">
+        <item>Securitate</item>
+        <item>Setări</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Lista neagră</item>
+        <item>Evidența convorbirilor</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Imagini</item>
+        <item>Videoclipuri</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Nu s-au prins intruși</string>
+    <string name="empty_page_intruders_description">Telefonul dvs. este sigur!</string>
+    <string name="Vault">Seif</string>
+    <string name="Call_blocker">Blocare apeluri</string>
+    <string name="browser">Browser</string>
+    <string name="theme">Teme</string>
+    <string name="rate_us">Ne evalua</string>
+    <string name="removeads">Versiune premium</string>
+    <string name="enter_pin">Introduceți pinul</string>
+    <string name="pin_matched">Pinul s-a potrivit</string>
+    <string name="confirm_pin">Confirmați pinul</string>
+    <string name="pin_chahnged">Pinul s-a schimbat cu succes</string>
+    <string name="pin_not_matched">Pinul nu se potrivește</string>
+    <string name="incorrect_pin">Pin incorect</string>
+    <string name="settings_set_pin">Setați pinul</string>
+    <string name="change_pin">Schimba pin-ul</string>
+    <string name="settings_set_pin_description">Setați un pin nou</string>
+    <string name="create_new_pin">Creați un nou pin</string>
+    <string name="home">Acasă</string>
+    <string name="settings_change_pin_description">Schimbați pinul existent</string>
+    <string name="message_pin_changed">Pinul s-a schimbat cu succes</string>
+    <string name="non_protected">Neprotejat</string>
+    <string name="status_protected">Protejat</string>
+    <string name="starting_hour">Ora de început</string>
+    <string name="ending_hour">Ora de încheiere</string>
+    <string name="auto_start_p">permisiunea de rulare automată</string>
+    <string name="permission_usage_access_description1">deschideți opțiunea de rulare automată</string>
+
+
+    <string name="privat_browser">Browser privat</string>
+    <string name="prem_title">Versiune Premium Forever</string>
+    <string name="prem_no_ads">Fără anunțuri pentru totdeauna</string>
+    <string name="prem_restore">Restabili cumpărare</string>
+
+    <string name="please_give_us_five_stars">Vă rugăm să ne dați cinci stele pe Google Play! Am aprecia mult!</string>
+    <string name="great_tex">Grozav!</string>
+    <string name="choose_the_icon">Alegeți pictograma și pictograma originală va fi modificată. Ascundeți această aplicație de la intruși</string>
+    <string name="app_name1">Ceas</string>
+    <string name="app_name2">Hărți</string>
+    <string name="app_name3">Calendar</string>
+    <string name="app_name4">Muzică</string>
+    <string name="app_name5">Calculator</string>
+
+    <string name="callblocker_black">Lista neagră</string>
+    <string name="callblocker_logs">Evidența convorbirilor</string>
+    <string name="icon_change_title">Icoane</string>
+    <string name="intruders_title">Intrus</string>
+    <string name="intruders_access_apps">Accesați aplicații cu utilizare</string>
+    <string name="main_unlocked">Deblocat</string>
+    <string name="main_locked">Blocat</string>
+    <string name="prem_not_sub">Acesta nu este un abonament. Plătești o singură dată!</string>
+    <string name="prem_fake_icon">Pictogramă falsă</string>
+    <string name="prem_intruders">Selfie intrus</string>
+    <string name="prem_themes">Teme mai creative</string>
+    <string name="prem_one_time">Plată unică</string>
+    <string name="splash_create">Creat pentru a vă proteja confidențialitatea</string>
+    <string name="vault_photos">Fotografii</string>
+    <string name="vault_videos">Videoclipuri</string>
+    <string name="btn_ok">O.K</string>
+    <string name="dialog_intruder_text">Doriți să ștergeți fotografia?</string>
+    <string name="btn_cancel">ANULARE</string>
+    <string name="fragment_security_text">Opps! \n Nu aveți încă aplicații blocate</string>
+    <string name="settings_security">Securitate</string>
+    <string name="settings_face_icon">Pictogramă falsă</string>
+    <string name="settings_face_icon_text">Pictograma originală a acestei aplicații va fi modificată</string>
+    <string name="rate_us_enjoying">Îți place AppLock?</string>
+    <string name="rate_us_could_be">Ar putea fi mai bine</string>
+    <string name="menu_privacy">Politica de Confidențialitate</string>
+    <string name="menu_contact">Contactează-ne</string>
+    <string name="menu_face_icon">Pictogramă falsă</string>
+    <string name="menu_intruder">Manager de intruși</string>
+    <string name="menu_chat">Cameră de chat</string>
+
+</resources>

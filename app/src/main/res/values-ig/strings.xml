@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Ntọala</string>
+
+  
+
+    <string name="share">Kee</string>
+
+    <string name="notification_protecting_title">Ikpuchido ngwa gị</string>
+
+    <string name="notification_protecting_description">Mkpọchi ngwa gị iji kpuchido nzuzo gị.</string>
+
+    <string name="notification_permission_need_title">Kwado ikike iji chebe</string>
+
+    <string name="notification_permission_need_description">Biko mee ka gị ikikere iji ngwa mkpuchi.</string>
+    <string name="you_accept_privacy_policy">Site na ịga n\'ihu ị kwenyere na<u> amụma nzuzo</u> </string>
+
+    <string name="header_recommended_to_lock">Na-atụ aro igbachi</string>
+    <string name="header_all_apps">Ngwa niile</string>
+
+    <string name="title_general_settings">General</string>
+
+    <string name="title_lock_all">Kpochie ihe niile</string>
+    <string name="description_lock_all">Nke a ga-agbachi niile ngwa gị</string>
+
+ 
+    <string name="title_unlock_all">Mepee ha niile</string>
+
+    <string name="description_unlock_all">Nke a ga-kpọghee niile nke gị ngwa</string>
+    <string name="settings_change_pattern_title">Gbanwee ụkpụrụ</string>
+
+    <string name="settings_change_pattern_description">Gbanwee ụkpụrụ gị dị ugbu a</string>
+    <string name="message_pattern_changed">Kpụrụ gbanwere n\'ụzọ gara nke ọma</string>
+
+    <string name="setting_in_stealth_mode_title">Zoo eserese</string>
+    <string name="setting_in_stealth_mode_description">Inkpụrụ a na-apụghị ịhụ anya mgbe ị na-ese ihe</string>
+    <string name="setting_fingerprint_title">Kwado mkpisiaka</string>
+
+    <string name="setting_fingerprint_description">Ẹkedori ngwa na mkpisiaka gị.</string>
+    <string name="setting_fingerprint_not_supported_title">Mkpisiaka anaghị akwado</string>
+
+    <string name="setting_fingerprint_not_supported_description">Ngwaọrụ gị enweghị ihe mmetụta</string>
+    <string name="setting_fingerprint_not_registered_title">Debanye mkpịsị aka gị</string>
+
+    <string name="setting_fingerprint_not_registered_description">Gaa na ntọala nche</string>
+    <string name="next">Osote</string>
+
+    <string name="permission_usage_access_title">Iji ikike nweta ojiji</string>
+    <string name="permission_usage_access_description">Kwado ojiji acces iji ngwa mkpuchi.</string>
+
+    <string name="permission_overlay_title">Mkpọchi ikike ikike</string>
+
+    <string name="settings_card_intruders_title">Jidesie ndị omempụ</string>
+    <string name="settings_enable_intruders_title">Were ndị omempụ see foto</string>
+    <string name="settings_enable_intruders_description">Kwado ijide ndị omekome.</string>
+
+    <string name="settings_intruders_folder_title">Detuo foto onye omekome</string>
+    <string name="settings_intruders_folder_description">Pịa ịhụ ndị nledo na ekwentị gị.</string>
+
+    <string name="settings_card_advance_protection_title">Ọganihu Na-aga n\'ihu</string>
+    <string name="settings_enable_advance_protection_title">Kwado nchebe n\'ihu</string>
+    <string name="settings_enable_advance_protection_description">Iji mee ka Ọganihu Advance, biko mee ka App Lock Pro dị ka "onye nchịkwa ngwaọrụ" .Ọ bụ naanị iji gbochie ndị mwakpo iwepụ na ịmanye nkwụsị App Lock Pro. Biko hụ na App Lock Pro agaghị eji ikike a iji nweta data nzuzo gị .</string>
+    <string name="device_admin_permission_description">Mee ọ rụọ ọrụ ugbu a, nweta nchedo na nchekwa! \n\nIji mee ka Nchedo Ọganihu, biko mee ka App Lock Pro rụọ ọrụ dị ka "onye nchịkwa ngwaọrụ" .Ọ bụ naanị iji gbochie ndị mwakpo iwepụ na ịmanye nkwụsị App Lock Pro. Biko hụ na App Lock Pro agaghị eji ikike a nweta data nzuzo gị.</string>
+
+
+    <string name="permission_overlay_description">Kwado machie igosi mkpọchi ihuenyo.</string>
+    <string name="permission_toast_enable_permissions">Kwado ikikere iji mkpuchi ngwa</string>
+
+    <string name="draw_pattern_title">Mepụta ụkpụrụ ọhụrụ</string>
+    <string name="redraw_pattern_title">Redraw iji wuchaa</string>
+
+    <string name="recreate_pattern_error">Ternkpụrụ adabaghị. Redraw.</string>
+
+    <string name="create_pattern_successful">Emepụtara nke ọma.</string>
+    <string name="overlay_prompt_pattern_title">See ụkpụrụ iji mepee ngwa</string>
+    <string name="overlay_prompt_pattern_title_wrong">Kpụrụ na-ezighi ezi. See ọzọ.</string>
+    <string name="overlay_prompt_pattern_title_correct">Correctkpụrụ ziri ezi.</string>
+
+    <string name="overlay_prompt_fingerprint_title">See ụkpụrụ iji mepee ngwa</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Abaghị + adabaghị. + %1$s + ekpe.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Mkpisiaka dakọtara!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Mkpisiaka aka! Gbalịa ụkpụrụ.</string>
+    <string name="dialog_title_rate_us">Ọ masịrị gị ka Nchekwa Mpaghara?</string>
+    <string name="dialog_description_rate_us">Anyị ga-enwe obi anụrị Ọ bụrụ na ị nye anyị ọnụego na ahịa.</string>
+    <string name="dialog_action_rate_us_rate">Ọnụego</string>
+
+    <string name="dialog_action_rate_us_later">Emechaa</string>
+    <string name="dialog_title_usage_permission">Ikike 5.0 gam akporo</string>
+    <string name="dialog_description_usage_permission">Na gam akporo 5.0 ma ọ bụ karịa, ịkwesịrị ikwe ka ịnweta ojiji maka
+        AppLocker, ka ị nwee ike iji Njirimara Mpaghara Nzuzo</string>
+    <string name="dialog_action_usage_permission_permit">Ikike</string>
+
+    <string name="dialog_action_usage_permission_cancel">Kagbuo</string>
+    <string name="dialog_title_privacy_policy">amụma nzuzo</string>
+    <string name="dialog_description_privacy_policy">Anyị emelitere iwu nzuzo anyị. Site na ịga n\'ihu ị kwenyere na<u> amụma nzuzo</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Nabata</string>
+
+    <string name="hint_browser_search">Chọọ ma ọ bụ tinye URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Nchekwa. Nzuzo.</string>
+    <string name="subtitle_browser_empty">Sọfụ na ịntanetị. Na ntukwasi-obi.</string>
+    <string name="bookmarks">Ibe edokwubara</string>
+    <string name="title_name_unknown_number">Nọmba Amaghi</string>
+
+
+
+    <string name="blacklist_empty_title">Blacklist bụ ihe efu</string>
+    <string name="blacklist_empty_description">Pịa igbochi nọmba ekwentị</string>
+    <string name="call_log_empty_title">Enweghị ndekọ</string>
+
+    <string name="call_log_empty_description">Abanye na-egosi ebe a mgbe akpọchiri oku</string>
+    <string name="dialog_add_to_blacklist_title">Gbochie nọmba ekwentị</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Aha (Nhọrọ)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Tinye nọmba ekwentị</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Kagbuo</string>
+    <string name="dialog_black_list_delete_title">Hichapụ na ndepụta aha gị</string>
+    <string name="dialog_black_list_delete_description">Youchọrọ Iwepu Nọmba egbochiri na ndepụta ojii?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Kagbuo</string>
+    <string name="dialog_title_add_to_vault">Nhazi</string>
+    <string name="dialog_description_process">Mgbasa ozi gị na-ewepu na gallery ma na-agbakwunye gị volult.</string>
+
+    <string name="dialog_title_removal_confirmation">Mwepụ mwepụ</string>
+    <string name="dialog_description_removal">Nke a faịlụ ga-ewepụ si volt na-egosi n\'ime gallery.</string>
+    <string name="dialog_action_removal_confirmation_accept">Nabata</string>
+
+    <string name="vault_photo_empty_page_title">Foto Vault bụ ihe efu</string>
+    <string name="vault_photo_empty_page_description">Tinye akara ngosi iji zoo foto site na gallery</string>
+    <string name="vault_video_empty_page_title">Video Vault bụ ihe efu</string>
+
+    <string name="vault_video_empty_page_description">Tinye akara ngosi na vidiyo vidiyo site na gallery</string>
+    <string-array name="tabs">
+        <item>Nche</item>
+        <item>Ntọala</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Blacklist</item>
+        <item>Kpọọ ndekọ</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Ihe onyonyo</item>
+        <item>Vidio</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Enweghị Ndị Ntinye</string>
+    <string name="empty_page_intruders_description">Ekwentị gị bụ ala!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Kpọọ mgbochi</string>
+    <string name="browser">Nchọgharị</string>
+    <string name="theme">Gburugburu</string>
+    <string name="rate_us">Nye anyị</string>
+    <string name="removeads">Versiondị adịchaghị</string>
+    <string name="enter_pin">Tinye ntụtụ</string>
+    <string name="pin_matched">Ntụtụ dakọtara</string>
+    <string name="confirm_pin">Kwenye ntụtụ</string>
+    <string name="pin_chahnged">Pin gbanwere nke ọma</string>
+    <string name="pin_not_matched">Pin adabaghị</string>
+    <string name="incorrect_pin">Ntụtụ ezighi ezi</string>
+    <string name="settings_set_pin">Tọọ ntụtụ</string>
+    <string name="change_pin">Gbanwee ntụtụ</string>
+    <string name="settings_set_pin_description">Tọọ ntụtụ ọhụrụ</string>
+    <string name="create_new_pin">Mepụta ntụtụ ọhụrụ</string>
+    <string name="home">Ulo</string>
+    <string name="settings_change_pin_description">Gbanwee ntụtụ gị dị</string>
+    <string name="message_pin_changed">Ntụtụ Pin-agbanwe Ọma</string>
+    <string name="non_protected">Na-echekwaghị</string>
+    <string name="status_protected">Echebe</string>
+    <string name="starting_hour">Oge Awa</string>
+    <string name="ending_hour">Ọgwụgwụ Oge Awa</string>
+    <string name="auto_start_p">akpaaka-ọsọ ikike</string>
+    <string name="permission_usage_access_description1">imeghe akpaaka-ọsọ nhọrọ</string>
+
+
+    <string name="privat_browser">Nchọgharị onwe</string>
+    <string name="prem_title">Premium Version Ruo Mgbe Ebighị Ebi</string>
+    <string name="prem_no_ads">Ọ dịghị AD ruo mgbe ebighị ebi</string>
+    <string name="prem_restore">Weghachi chazụ</string>
+
+    <string name="please_give_us_five_stars">Biko nye anyị kpakpando ise na Google Play! Anyị ga-ekele ya nke ukwuu!</string>
+    <string name="great_tex">Akwa!</string>
+    <string name="choose_the_icon">Họrọ akara ngosi na akara ngosi mbụ ga-agbanwe. Zoo ngwa a site n\'aka ndị omempụ</string>
+    <string name="app_name1">Elekere</string>
+    <string name="app_name2">Maapụ</string>
+    <string name="app_name3">Kalinda</string>
+    <string name="app_name4">Egwu</string>
+    <string name="app_name5">Ihe mgbako</string>
+
+    <string name="callblocker_black">Black ndepụta</string>
+    <string name="callblocker_logs">Kpọọ ndekọ</string>
+    <string name="icon_change_title">Oyiyi</string>
+    <string name="intruders_title">Omekpo</string>
+    <string name="intruders_access_apps">Nweta ngwa na ojiji</string>
+    <string name="main_unlocked">Agbachi</string>
+    <string name="main_locked">Kpọchiri akpọchi</string>
+    <string name="prem_not_sub">Nke a abụghị ndenye aha. Na-akwụ ụgwọ naanị otu ugboro!</string>
+    <string name="prem_fake_icon">Adịgboroja Icon</string>
+    <string name="prem_intruders">Onye mmekpa ahụ selfie</string>
+    <string name="prem_themes">Isiokwu ndị ọzọ banyere okike</string>
+    <string name="prem_one_time">Paykwụ gwọ Otu Oge</string>
+    <string name="splash_create">Emepụtara iji kpuchido nzuzo gị</string>
+    <string name="vault_photos">Foto</string>
+    <string name="vault_videos">Vidio</string>
+    <string name="btn_ok">Ọ DỊ MMA</string>
+    <string name="dialog_intruder_text">Ọ ga-amasị gị ihichapụ foto ahụ?</string>
+    <string name="btn_cancel">Kagbuo</string>
+    <string name="fragment_security_text">Opps! \n apps nwetụbeghị ngwa ndị ekpochiri</string>
+    <string name="settings_security">Nche</string>
+    <string name="settings_face_icon">Adịgboroja Icon</string>
+    <string name="settings_face_icon_text">A ga-agbanwe akara ngosi mbụ nke ngwa a</string>
+    <string name="rate_us_enjoying">L na-ekpori ndụ AppLock?</string>
+    <string name="rate_us_could_be">ọ ga-aka mma</string>
+    <string name="menu_privacy">amụma nzuzo</string>
+    <string name="menu_contact">Kpọtụrụ anyị</string>
+    <string name="menu_face_icon">Adịgboroja Icon</string>
+    <string name="menu_intruder">Onye mmeghe ihe</string>
+    <string name="menu_chat">Nkata Roomlọ</string>
+
+</resources>

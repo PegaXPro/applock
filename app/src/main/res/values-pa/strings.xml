@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">ਐਪਲੌਕ</string>
+
+    <string name="action_settings">ਸੈਟਿੰਗਜ਼</string>
+
+  
+
+    <string name="share">ਸਾਂਝਾ ਕਰੋ</string>
+
+    <string name="notification_protecting_title">ਤੁਹਾਡੇ ਐਪਸ ਦੀ ਰੱਖਿਆ ਕਰ ਰਿਹਾ ਹੈ</string>
+
+    <string name="notification_protecting_description">ਆਪਣੀ ਨਿੱਜਤਾ ਦੀ ਰੱਖਿਆ ਲਈ ਆਪਣੇ ਐਪਸ ਨੂੰ ਲਾਕ ਕਰੋ.</string>
+
+    <string name="notification_permission_need_title">ਸੁਰੱਖਿਆ ਲਈ ਅਨੁਮਤੀ ਯੋਗ ਕਰੋ</string>
+
+    <string name="notification_permission_need_description">ਐਪ ਲੌਕਰ ਨੂੰ ਵਰਤਣ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਅਧਿਕਾਰਾਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ.</string>
+    <string name="you_accept_privacy_policy">ਜਾਰੀ ਰੱਖ ਕੇ ਤੁਸੀਂ ਸਹਿਮਤ ਹੋ<u> ਪਰਾਈਵੇਟ ਨੀਤੀ</u> </string>
+
+    <string name="header_recommended_to_lock">ਲਾਕ ਕਰਨ ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ</string>
+    <string name="header_all_apps">ਸਾਰੇ ਕਾਰਜ</string>
+
+    <string name="title_general_settings">ਜਨਰਲ</string>
+
+    <string name="title_lock_all">ਸਭ ਨੂੰ ਲਾਕ ਕਰੋ</string>
+    <string name="description_lock_all">ਇਹ ਤੁਹਾਡੇ ਸਾਰੇ ਐਪਸ ਨੂੰ ਲਾਕ ਕਰ ਦੇਵੇਗਾ</string>
+
+ 
+    <string name="title_unlock_all">ਸਭ ਨੂੰ ਅਨਲੌਕ ਕਰੋ</string>
+
+    <string name="description_unlock_all">ਇਹ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਐਪਸ ਨੂੰ ਅਨਲੌਕ ਕਰ ਦੇਵੇਗਾ</string>
+    <string name="settings_change_pattern_title">ਪੈਟਰਨ ਬਦਲੋ</string>
+
+    <string name="settings_change_pattern_description">ਆਪਣੇ ਮੌਜੂਦਾ ਪੈਟਰਨ ਨੂੰ ਬਦਲੋ</string>
+    <string name="message_pattern_changed">ਪੈਟਰਨ ਸਫਲਤਾਪੂਰਵਕ ਬਦਲਿਆ ਗਿਆ</string>
+
+    <string name="setting_in_stealth_mode_title">ਡਰਾਇੰਗ ਲੁਕਾਓ</string>
+    <string name="setting_in_stealth_mode_description">ਡਰਾਇੰਗ ਕਰਦੇ ਸਮੇਂ ਅਦਿੱਖ ਪੈਟਰਨ</string>
+    <string name="setting_fingerprint_title">ਫਿੰਗਰਪ੍ਰਿੰਟ ਨੂੰ ਸਮਰੱਥ ਕਰੋ</string>
+
+    <string name="setting_fingerprint_description">ਆਪਣੀ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨਾਲ ਐਪ ਲੌਂਚ ਕਰੋ.</string>
+    <string name="setting_fingerprint_not_supported_title">ਫਿੰਗਰਪ੍ਰਿੰਟ ਸਮਰਥਤ ਨਹੀਂ ਹੈ</string>
+
+    <string name="setting_fingerprint_not_supported_description">ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਵਿੱਚ ਸੈਂਸਰ ਨਹੀਂ ਹੈ</string>
+    <string name="setting_fingerprint_not_registered_title">ਆਪਣੀ ਫਿੰਗਰਪ੍ਰਿੰਟ ਰਜਿਸਟਰ ਕਰੋ</string>
+
+    <string name="setting_fingerprint_not_registered_description">ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਜ਼ \'ਤੇ ਜਾਓ</string>
+    <string name="next">ਅਗਲਾ</string>
+
+    <string name="permission_usage_access_title">ਵਰਤੋਂ ਪਹੁੰਚ ਅਨੁਮਤੀ</string>
+    <string name="permission_usage_access_description">ਐਪ ਲਾਕਰ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਵਰਤੋਂ ਦੀ ਵਰਤੋਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ.</string>
+
+    <string name="permission_overlay_title">ਲਾਕ ਸਕ੍ਰੀਨ ਅਨੁਮਤੀ</string>
+
+    <string name="settings_card_intruders_title">ਘੁਸਪੈਠੀਏ ਫੜੋ</string>
+    <string name="settings_enable_intruders_title">ਘੁਸਪੈਠੀਏ ਦੀ ਤਸਵੀਰ ਲਓ</string>
+    <string name="settings_enable_intruders_description">ਘੁਸਪੈਠੀਏ ਫੜਨ ਲਈ ਸਮਰੱਥ ਕਰੋ.</string>
+
+    <string name="settings_intruders_folder_title">ਘੁਸਪੈਠੀਆ ਦੀਆਂ ਫੋਟੋਆਂ ਪਕੜੀਆਂ</string>
+    <string name="settings_intruders_folder_description">ਤੁਹਾਡੇ ਫੋਨ ਤੇ ਜਾਸੂਸਾਂ ਨੂੰ ਵੇਖਣ ਲਈ ਕਲਿਕ ਕਰੋ.</string>
+
+    <string name="settings_card_advance_protection_title">ਪੇਸ਼ਗੀ ਸੁਰੱਖਿਆ</string>
+    <string name="settings_enable_advance_protection_title">ਪੇਸ਼ਗੀ ਸੁਰੱਖਿਆ ਨੂੰ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="settings_enable_advance_protection_description">ਅਡਵਾਂਸ ਪ੍ਰੋਟੈਕਸ਼ਨ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਐਪ ਲੌਕ ਪ੍ਰੋ ਨੂੰ "ਡਿਵਾਈਸ ਐਡਮਿਨਿਸਟ੍ਰੇਟਰ" ਵਜੋਂ ਸਰਗਰਮ ਕਰੋ. ਇਹ ਸਿਰਫ ਘੁਸਪੈਠੀਏ ਨੂੰ ਅਣਇੰਸਟੌਲ ਕਰਨ ਅਤੇ ਐਪ ਲਾਕ ਪ੍ਰੋ ਨੂੰ ਰੋਕਣ ਲਈ ਰੋਕਣ ਲਈ ਵਰਤੀ ਜਾਂਦੀ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ ਇਹ ਸੁਨਿਸ਼ਚਿਤ ਕਰੋ ਕਿ ਐਪ ਲੌਕ ਪ੍ਰੋ ਕਦੇ ਵੀ ਤੁਹਾਡੀ ਪ੍ਰਾਈਵੇਸੀ ਡੇਟਾ ਤੱਕ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਇਸ ਅਨੁਮਤੀ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕਰੇਗਾ .</string>
+    <string name="device_admin_permission_description">ਹੁਣ ਸਰਗਰਮ, ਪੇਸ਼ਗੀ ਸੁਰੱਖਿਆ ਅਤੇ ਹੋਰ ਸੁਰੱਖਿਅਤ! \n\nਅਡਵਾਂਸ ਪ੍ਰੋਟੈਕਸ਼ਨ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਐਪ ਲੌਕ ਪ੍ਰੋ ਨੂੰ "ਡਿਵਾਈਸ ਐਡਮਿਨਿਸਟ੍ਰੇਟਰ" ਦੇ ਤੌਰ ਤੇ ਸਰਗਰਮ ਕਰੋ. ਇਹ ਸਿਰਫ ਘੁਸਪੈਠੀਏ ਨੂੰ ਅਣਇੰਸਟੌਲ ਕਰਨ ਅਤੇ ਐਪ ਲੌਕ ਪ੍ਰੋ ਨੂੰ ਰੋਕਣ ਲਈ ਰੋਕਣ ਲਈ ਵਰਤੀ ਜਾਂਦੀ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ ਇਹ ਸੁਨਿਸ਼ਚਿਤ ਕੀਤਾ ਜਾਏ ਕਿ ਐਪ ਲੌਕ ਪ੍ਰੋ ਕਦੇ ਵੀ ਇਸ ਅਨੁਮਤੀ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕਰੇਗਾ. ਆਪਣੇ ਗੋਪਨੀਯਤਾ ਡੇਟਾ ਤੱਕ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਕਰੋ.</string>
+
+
+    <string name="permission_overlay_description">ਲੌਕ ਸਕ੍ਰੀਨ ਦਿਖਾਉਣ ਲਈ ਓਵਰਲੇ ਨੂੰ ਸਮਰੱਥ ਕਰੋ.</string>
+    <string name="permission_toast_enable_permissions">ਐਪ ਲਾਕਰ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਅਨੁਮਤੀਆਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ</string>
+
+    <string name="draw_pattern_title">ਇੱਕ ਨਵਾਂ ਪੈਟਰਨ ਬਣਾਓ</string>
+    <string name="redraw_pattern_title">ਮੁਕੰਮਲ ਕਰਨ ਲਈ ਮੁੜ ਉਤਾਰਨਾ</string>
+
+    <string name="recreate_pattern_error">ਪੈਟਰਨ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ. ਰੀਡ੍ਰਾ.</string>
+
+    <string name="create_pattern_successful">ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਇਆ ਗਿਆ.</string>
+    <string name="overlay_prompt_pattern_title">ਐਪ ਖੋਲ੍ਹਣ ਲਈ ਪੈਟਰਨ ਡਰਾਅ ਕਰੋ</string>
+    <string name="overlay_prompt_pattern_title_wrong">ਗਲਤ ਪੈਟਰਨ. ਦੁਬਾਰਾ ਖਿੱਚੋ.</string>
+    <string name="overlay_prompt_pattern_title_correct">ਪੈਟਰਨ ਸਹੀ.</string>
+
+    <string name="overlay_prompt_fingerprint_title">ਐਪ ਖੋਲ੍ਹਣ ਲਈ ਪੈਟਰਨ ਡਰਾਅ ਕਰੋ</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ. + %1$s + ਬਾਕੀ ਹੈ.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">ਫਿੰਗਰਪ੍ਰਿੰਟ ਮੇਲ ਖਾਂਦਾ!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">ਫਿੰਗਰਪ੍ਰਿੰਟ ਗਲਤੀ! ਪੈਟਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ.</string>
+    <string name="dialog_title_rate_us">ਕੀ ਤੁਹਾਨੂੰ ਸਿਕਿਓਰ ਜ਼ੋਨ ਪਸੰਦ ਹੈ?</string>
+    <string name="dialog_description_rate_us">ਜੇ ਤੁਸੀਂ ਸਾਨੂੰ ਮਾਰਕੀਟ \'ਤੇ ਦਰਜਾ ਦਿੰਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਖੁਸ਼ ਰਹਾਂਗੇ.</string>
+    <string name="dialog_action_rate_us_rate">ਰੇਟ</string>
+
+    <string name="dialog_action_rate_us_later">ਬਾਅਦ ਵਿਚ</string>
+    <string name="dialog_title_usage_permission">ਐਂਡਰਾਇਡ 5.0 ਅਨੁਮਤੀ</string>
+    <string name="dialog_description_usage_permission">ਐਂਡਰਾਇਡ 5.0 ਜਾਂ ਇਸਤੋਂ ਵੱਧ ਵਿਚ, ਤੁਹਾਨੂੰ ਇਸ ਦੀ ਵਰਤੋਂ ਦੀ ਆਗਿਆ ਦੀ ਲੋੜ ਹੈ
+        ਐਪਲੌਕਰ, ਤਾਂ ਜੋ ਤੁਸੀਂ ਸਿਕਿਓਰ ਜ਼ੋਨ ਫੀਚਰ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕੋ</string>
+    <string name="dialog_action_usage_permission_permit">ਪਰਮਿਟ</string>
+
+    <string name="dialog_action_usage_permission_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="dialog_title_privacy_policy">ਪਰਾਈਵੇਟ ਨੀਤੀ</string>
+    <string name="dialog_description_privacy_policy">ਅਸੀਂ ਆਪਣੀ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਨੂੰ ਅਪਡੇਟ ਕੀਤਾ ਹੈ. ਜਾਰੀ ਰੱਖ ਕੇ ਤੁਸੀਂ ਸਹਿਮਤ ਹੋ<u> ਪਰਾਈਵੇਟ ਨੀਤੀ</u> </string>
+    <string name="dialog_action_privacy_policy_accept">ਸਵੀਕਾਰ ਕਰੋ</string>
+
+    <string name="hint_browser_search">URL ਲੱਭੋ ਜਾਂ ਦਾਖਲ ਕਰੋ</string>
+    <string name="facebook">ਫੇਸਬੁੱਕ</string>
+
+    <string name="twitter">ਟਵਿੱਟਰ</string>
+
+    <string name="snapchat">ਸਨੈਪਚੈਟ</string>
+
+
+    <string name="instagram">ਇੰਸਟਾਗ੍ਰਾਮ</string>
+    <string name="youtube">ਰੈਡਿਟ</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">ਇੰਟਰਨੈੱਟ \'ਤੇ ਸਰਫ. ਸੁਰੱਖਿਅਤ ੰਗ ਨਾਲ.</string>
+    <string name="bookmarks">ਬੁੱਕਮਾਰਕ</string>
+    <string name="title_name_unknown_number">ਅਣਜਾਣ ਨੰਬਰ</string>
+
+
+
+    <string name="blacklist_empty_title">ਬਲੈਕਲਿਸਟ ਖਾਲੀ ਹੈ</string>
+    <string name="blacklist_empty_description">ਫੋਨ ਨੰਬਰ ਨੂੰ ਰੋਕਣ ਲਈ ਕਲਿਕ ਕਰੋ</string>
+    <string name="call_log_empty_title">ਕੋਈ ਲਾਗ ਨਹੀਂ</string>
+
+    <string name="call_log_empty_description">ਜਦੋਂ ਕਾਲ ਬਲੌਕ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਲੌਗ ਇੱਥੇ ਪ੍ਰਗਟ ਹੁੰਦੇ ਹਨ</string>
+    <string name="dialog_add_to_blacklist_title">ਬਲਾਕ ਫੋਨ ਨੰਬਰ</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">ਨਾਮ (ਅਖ਼ਤਿਆਰੀ)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">ਫੋਨ ਨੰਬਰ ਦਰਜ ਕਰੋ</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="dialog_black_list_delete_title">ਕਾਲੀ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਓ</string>
+    <string name="dialog_black_list_delete_description">ਕੀ ਤੁਸੀਂ ਬਲੈਕ ਲਿਸਟ ਵਿੱਚੋਂ ਬਲੌਕ ਕੀਤੇ ਨੰਬਰ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="dialog_title_add_to_vault">ਕਾਰਵਾਈ</string>
+    <string name="dialog_description_process">ਤੁਹਾਡਾ ਮੀਡੀਆ ਗੈਲਰੀ ਤੋਂ ਹਟਾ ਰਿਹਾ ਹੈ ਅਤੇ ਤੁਹਾਡੀ ਵਾਲਟ ਨੂੰ ਜੋੜ ਰਿਹਾ ਹੈ.</string>
+
+    <string name="dialog_title_removal_confirmation">ਹਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ</string>
+    <string name="dialog_description_removal">ਇਹ ਫਾਈਲ ਵਾਲਟ ਤੋਂ ਹਟਾ ਦੇਵੇਗੀ ਅਤੇ ਗੈਲਰੀ ਵਿਚ ਪ੍ਰਦਰਸ਼ਿਤ ਹੋਵੇਗੀ.</string>
+    <string name="dialog_action_removal_confirmation_accept">ਸਵੀਕਾਰ ਕਰੋ</string>
+
+    <string name="vault_photo_empty_page_title">ਫੋਟੋ ਵਾਲਟ ਖਾਲੀ ਹੈ</string>
+    <string name="vault_photo_empty_page_description">ਗੈਲਰੀ ਤੋਂ ਫੋਟੋਆਂ ਲੁਕਾਉਣ ਲਈ ਆਈਕਾਨ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="vault_video_empty_page_title">ਵੀਡੀਓ ਵਾਲਟ ਖਾਲੀ ਹੈ</string>
+
+    <string name="vault_video_empty_page_description">ਗੈਲਰੀ ਤੋਂ ਵੀਡਿਓ ਫੋਟੋਆਂ \'ਤੇ ਆਈਕਾਨ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string-array name="tabs">
+        <item>ਸੁਰੱਖਿਆ</item>
+        <item>ਸੈਟਿੰਗਜ਼</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>ਬਲੈਕਲਿਸਟ</item>
+        <item>ਕਾਲ ਕਰੋ</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>ਚਿੱਤਰ</item>
+        <item>ਵੀਡੀਓ</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">ਕੋਈ ਘੁਸਪੈਠੀਏ ਨਹੀਂ ਫੜਿਆ ਗਿਆ</string>
+    <string name="empty_page_intruders_description">ਤੁਹਾਡਾ ਫੋਨ ਸੁਰੱਖਿਅਤ ਹੈ!</string>
+    <string name="Vault">ਵਾਲਟ</string>
+    <string name="Call_blocker">ਕਾਲ ਰੋਕਣ ਵਾਲੇ ਨੂੰ</string>
+    <string name="browser">ਬ੍ਰਾ .ਜ਼ਰ</string>
+    <string name="theme">ਥੀਮ</string>
+    <string name="rate_us">ਸਾਨੂੰ ਦਰਜਾ ਦਿਓ</string>
+    <string name="removeads">ਪ੍ਰੀਮੀਅਮ ਵਰਜਨ</string>
+    <string name="enter_pin">ਪਿੰਨ ਦਰਜ ਕਰੋ</string>
+    <string name="pin_matched">ਪਿੰਨ ਮੇਲ ਖਾਂਦਾ ਹੈ</string>
+    <string name="confirm_pin">ਪਿੰਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="pin_chahnged">ਪਿੰਨ ਸਫਲਤਾਪੂਰਵਕ ਬਦਲਿਆ ਗਿਆ</string>
+    <string name="pin_not_matched">ਪਿੰਨ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ</string>
+    <string name="incorrect_pin">ਗਲਤ ਪਿੰਨ</string>
+    <string name="settings_set_pin">ਪਿੰਨ ਸੈਟ ਕਰੋ</string>
+    <string name="change_pin">ਪਿੰਨ ਬਦਲੋ</string>
+    <string name="settings_set_pin_description">ਨਵਾਂ ਪਿੰਨ ਸੈਟ ਕਰੋ</string>
+    <string name="create_new_pin">ਇੱਕ ਨਵਾਂ ਪਿੰਨ ਬਣਾਓ</string>
+    <string name="home">ਘਰ</string>
+    <string name="settings_change_pin_description">ਆਪਣੀ ਮੌਜੂਦਾ ਪਿੰਨ ਬਦਲੋ</string>
+    <string name="message_pin_changed">ਪਿੰਨ ਸਫਲਤਾਪੂਰਵਕ ਬਦਲਿਆ ਗਿਆ</string>
+    <string name="non_protected">ਗੈਰ ਸੁਰੱਖਿਅਤ</string>
+    <string name="status_protected">ਸੁਰੱਖਿਅਤ</string>
+    <string name="starting_hour">ਅਰੰਭ ਅਰੰਭ</string>
+    <string name="ending_hour">ਅੰਤ ਖ਼ਤਮ</string>
+    <string name="auto_start_p">ਆਟੋ-ਰਨ ਇਜਾਜ਼ਤ</string>
+    <string name="permission_usage_access_description1">ਆਟੋ-ਰਨ ਵਿਕਲਪ ਖੋਲ੍ਹੋ</string>
+
+
+    <string name="privat_browser">ਪ੍ਰਾਈਵੇਟ ਬਰਾserਜ਼ਰ</string>
+    <string name="prem_title">ਪ੍ਰੀਮੀਅਮ ਵਰਜਨ ਹਮੇਸ਼ਾਂ ਲਈ</string>
+    <string name="prem_no_ads">ਕੋਈ ਵੀ ADs ਹਮੇਸ਼ਾਂ ਨਹੀਂ</string>
+    <string name="prem_restore">ਖਰੀਦ ਨੂੰ ਮੁੜ</string>
+
+    <string name="please_give_us_five_stars">ਕ੍ਰਿਪਾ ਕਰਕੇ ਸਾਨੂੰ ਪਲੇਅਮਾਰਕੇਟ ਤੇ ਪੰਜ ਤਾਰੇ ਦਿਓ! ਅਸੀਂ ਇਸ ਦੀ ਬਹੁਤ ਕਦਰ ਕਰਾਂਗੇ!</string>
+    <string name="great_tex">ਮਹਾਨ!</string>
+    <string name="choose_the_icon">ਆਈਕਾਨ ਚੁਣੋ ਅਤੇ ਅਸਲੀ ਆਈਕਾਨ ਬਦਲਿਆ ਜਾਵੇਗਾ. ਘੁਸਪੈਠੀਏ ਤੋਂ ਇਸ ਐਪ ਨੂੰ ਲੁਕਾਓ</string>
+    <string name="app_name1">ਘੜੀ</string>
+    <string name="app_name2">ਨਕਸ਼ੇ</string>
+    <string name="app_name3">ਕੈਲੰਡਰ</string>
+    <string name="app_name4">ਸੰਗੀਤ</string>
+    <string name="app_name5">ਕੈਲਕੁਲੇਟਰ</string>
+
+    <string name="callblocker_black">ਕਾਲੀ ਸੂਚੀ</string>
+    <string name="callblocker_logs">ਕਾਲ ਲੌਗ</string>
+    <string name="icon_change_title">ਆਈਕਾਨ</string>
+    <string name="intruders_title">ਘੁਸਪੈਠੀਏ</string>
+    <string name="intruders_access_apps">ਵਰਤੋਂ ਦੇ ਨਾਲ ਐਪਸ ਤੱਕ ਪਹੁੰਚ ਕਰੋ</string>
+    <string name="main_unlocked">ਅਨਲੌਕ ਕੀਤਾ</string>
+    <string name="main_locked">ਬੰਦ</string>
+    <string name="prem_not_sub">ਇਹ ਗਾਹਕੀ ਨਹੀਂ ਹੈ. ਤੁਸੀਂ ਸਿਰਫ ਇੱਕ ਵਾਰ ਭੁਗਤਾਨ ਕਰੋ!</string>
+    <string name="prem_fake_icon">ਨਕਲੀ ਆਈਕਾਨ</string>
+    <string name="prem_intruders">ਘੁਸਪੈਠੀਏ ਸੈਲਫੀ</string>
+    <string name="prem_themes">ਵਧੇਰੇ ਰਚਨਾਤਮਕ ਥੀਮ</string>
+    <string name="prem_one_time">ਇਕ ਸਮੇਂ ਦਾ ਭੁਗਤਾਨ</string>
+    <string name="splash_create">ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਦੀ ਰੱਖਿਆ ਲਈ ਬਣਾਇਆ ਗਿਆ ਹੈ</string>
+    <string name="vault_photos">ਫੋਟੋਆਂ</string>
+    <string name="vault_videos">ਵੀਡੀਓ</string>
+    <string name="btn_ok">ਠੀਕ ਹੈ</string>
+    <string name="dialog_intruder_text">ਕੀ ਤੁਸੀਂ ਫੋਟੋ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="btn_cancel">ਰੱਦ</string>
+    <string name="fragment_security_text">ਓਪਸ! You n ਤੁਹਾਡੇ ਕੋਲ ਹਾਲੇ ਲੌਕ ਕੀਤੇ ਐਪਸ ਨਹੀਂ ਹਨ</string>
+    <string name="settings_security">ਸੁਰੱਖਿਆ</string>
+    <string name="settings_face_icon">ਨਕਲੀ ਆਈਕਾਨ</string>
+    <string name="settings_face_icon_text">ਇਸ ਐਪ ਦਾ ਅਸਲ ਆਈਕਨ ਬਦਲਿਆ ਜਾਵੇਗਾ</string>
+    <string name="rate_us_enjoying">ਕੀ ਤੁਸੀਂ ਐਪਲੌਕ ਦਾ ਅਨੰਦ ਲੈ ਰਹੇ ਹੋ?</string>
+    <string name="rate_us_could_be">ਇਹ ਬਿਹਤਰ ਹੋ ਸਕਦਾ ਹੈ</string>
+    <string name="menu_privacy">ਪਰਾਈਵੇਟ ਨੀਤੀ</string>
+    <string name="menu_contact">ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</string>
+    <string name="menu_face_icon">ਨਕਲੀ ਆਈਕਾਨ</string>
+    <string name="menu_intruder">ਘੁਸਪੈਠੀਆ ਪ੍ਰਬੰਧਕ</string>
+    <string name="menu_chat">ਚੈਟ ਰੂਮ</string>
+
+</resources>

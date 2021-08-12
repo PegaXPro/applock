@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">Suidhichidhean</string>
+
+
+
+    <string name="share">Co-roinn</string>
+
+    <string name="notification_protecting_title">A ’dìon na h-aplacaidean agad</string>
+
+    <string name="notification_protecting_description">Glasadh na h-aplacaidean agad gus do phrìobhaideachd a dhìon.</string>
+
+    <string name="notification_permission_need_title">Dèan comas air dìon</string>
+
+    <string name="notification_permission_need_description">Feuch an leig thu le do cheadan locker app a chleachdadh.</string>
+    <string name="you_accept_privacy_policy">Le bhith a ’leantainn ort tha thu ag aontachadh an<u> Poileasaidh Dìomhaireachd</u> </string>
+
+    <string name="header_recommended_to_lock">Air a mholadh airson glasadh</string>
+    <string name="header_all_apps">A h-uile tagradh</string>
+
+    <string name="title_general_settings">Coitcheann</string>
+
+    <string name="title_lock_all">Glasadh a h-uile càil</string>
+    <string name="description_lock_all">Bidh seo a ’glasadh na h-aplacaidean agad gu lèir</string>
+
+
+    <string name="title_unlock_all">Fuasgail a h-uile càil</string>
+
+    <string name="description_unlock_all">Fosglaidh seo na h-aplacaidean agad gu lèir</string>
+    <string name="settings_change_pattern_title">Atharraich pàtran</string>
+
+    <string name="settings_change_pattern_description">Atharraich am pàtran a th ’agad mu thràth</string>
+    <string name="message_pattern_changed">Dh\'atharraich am pàtran gu soirbheachail</string>
+
+    <string name="setting_in_stealth_mode_title">Cuir am falach dealbh</string>
+    <string name="setting_in_stealth_mode_description">Pàtran neo-fhaicsinneach fhad ‘s a tha e a’ dèanamh dhealbhan</string>
+    <string name="setting_fingerprint_title">Dèan comas air lorgan-meòir</string>
+
+    <string name="setting_fingerprint_description">Cuir air bhog app le do mheur-lorg.</string>
+    <string name="setting_fingerprint_not_supported_title">Chan eil taic ri lorgan-meòir</string>
+
+    <string name="setting_fingerprint_not_supported_description">Chan eil sensor aig an inneal agad</string>
+    <string name="setting_fingerprint_not_registered_title">Clàraich do mheur-lorg</string>
+
+    <string name="setting_fingerprint_not_registered_description">Rach gu roghainnean tèarainteachd</string>
+    <string name="next">An ath rud</string>
+
+    <string name="permission_usage_access_title">Cleachd cead ruigsinneachd</string>
+    <string name="permission_usage_access_description">Dèan comas air acces cleachdaidh gus locker app a chleachdadh.</string>
+
+    <string name="permission_overlay_title">Glas cead cead</string>
+
+    <string name="settings_card_intruders_title">Glac luchd-ionnsaigh</string>
+    <string name="settings_enable_intruders_title">Gabh dealbh intruders</string>
+    <string name="settings_enable_intruders_description">Dèan comas air luchd-ionnsaigh a ghlacadh.</string>
+
+    <string name="settings_intruders_folder_title">A ’glacadh dhealbhan de luchd-ionnsaigh</string>
+    <string name="settings_intruders_folder_description">Cliog gus brathadairean fhaicinn air an fhòn agad.</string>
+
+    <string name="settings_card_advance_protection_title">Dìon ro-làimh</string>
+    <string name="settings_enable_advance_protection_title">Dèan comas air dìon ro-làimh</string>
+    <string name="settings_enable_advance_protection_description">Gus dìon ro-làimh a chomasachadh, feuch an cuir thu App Lock Pro an gnìomh mar “rianadair inneal”. Chan eil e air a chleachdadh ach airson casg a chuir air luchd-ionnsaigh a-steach agus stad a chuir air App Lock Pro.Please dèanamh cinnteach nach cleachd App Lock Pro a-riamh an cead seo gus faighinn chun dàta prìobhaideachd agad .</string>
+    <string name="device_admin_permission_description">Dèan gnìomh a-nis, dìon ro-làimh agus nas tèarainte! \n \nfaigh cothrom air an dàta prìobhaideachd agad.</string>
+
+
+    <string name="permission_overlay_description">Dèan comas air ath-chòmhdach gus an sgrìn glas a shealltainn.</string>
+    <string name="permission_toast_enable_permissions">Dèan comas air ceadan airson locker app a chleachdadh</string>
+
+    <string name="draw_pattern_title">Cruthaich pàtran ùr</string>
+    <string name="redraw_pattern_title">Ath-tharraing gus a chrìochnachadh</string>
+
+    <string name="recreate_pattern_error">Chan eil am pàtran a ’freagairt. Ath-tharraing.</string>
+
+    <string name="create_pattern_successful">Air a chruthachadh gu soirbheachail.</string>
+    <string name="overlay_prompt_pattern_title">Tarraing pàtran gus an aplacaid fhosgladh</string>
+    <string name="overlay_prompt_pattern_title_wrong">Pàtran ceàrr. Tarraing a-rithist.</string>
+    <string name="overlay_prompt_pattern_title_correct">Pàtran ceart.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Tarraing pàtran gus an aplacaid fhosgladh</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Cha deach + a mhaidseadh. + %1$s + air fhàgail.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Meur-lorg air a mhaidseadh!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Mearachd lorgan-meòir! Feuch pàtran.</string>
+    <string name="dialog_title_rate_us">An robh thu a ’còrdadh ri Secure Zone?</string>
+    <string name="dialog_description_rate_us">Bidh sinn toilichte ma tha thu den bheachd gu bheil sinn air a ’mhargaidh.</string>
+    <string name="dialog_action_rate_us_rate">Ìre</string>
+
+    <string name="dialog_action_rate_us_later">Nas fhaide air adhart</string>
+    <string name="dialog_title_usage_permission">Cead Android 5.0</string>
+    <string name="dialog_description_usage_permission">Ann an Android 5.0 no nas àirde, feumaidh tu cead cleachdaidh a cheadachadh airson
+        AppLocker, gus an urrainn dhut Feart Sòn tèarainte a chleachdadh</string>
+    <string name="dialog_action_usage_permission_permit">Cead</string>
+
+    <string name="dialog_action_usage_permission_cancel">Sguir dheth</string>
+    <string name="dialog_title_privacy_policy">Poileasaidh Dìomhaireachd</string>
+    <string name="dialog_description_privacy_policy">Tha sinn air ar poileasaidh prìobhaideachd ùrachadh. Le bhith a ’leantainn ort tha thu ag aontachadh an<u> Poileasaidh Dìomhaireachd</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Gabhail</string>
+
+    <string name="hint_browser_search">Rannsaich no cuir a-steach URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Surf air an eadar-lìn. Gu tèarainte.</string>
+    <string name="bookmarks">Comharran-leabhair</string>
+    <string name="title_name_unknown_number">Àireamh neo-aithnichte</string>
+
+
+
+    <string name="blacklist_empty_title">Tha liosta dhubh falamh</string>
+    <string name="blacklist_empty_description">Cliog gus àireamh fòn a bhacadh</string>
+    <string name="call_log_empty_title">Chan eil logaichean</string>
+
+    <string name="call_log_empty_description">Bidh log a ’nochdadh an seo nuair a thèid gairm a bhacadh</string>
+    <string name="dialog_add_to_blacklist_title">Cuir bacadh air àireamh fòn</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Ainm (Roghainneil)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Cuir a-steach àireamh fòn</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Sguir dheth</string>
+    <string name="dialog_black_list_delete_title">Cuir às bhon liosta dhubh</string>
+    <string name="dialog_black_list_delete_description">A bheil thu airson àireamh dùinte a thoirt air falbh bhon liosta dhubh?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Sguir dheth</string>
+    <string name="dialog_title_add_to_vault">Giullachd</string>
+    <string name="dialog_description_process">Tha na meadhanan agad a ’toirt air falbh bhon ghailearaidh agus a’ cur ris an rùm agad.</string>
+
+    <string name="dialog_title_removal_confirmation">Dearbhadh toirt air falbh</string>
+    <string name="dialog_description_removal">Bidh am faidhle seo a ’toirt air falbh bho chrùis agus a’ sealltainn a-steach don ghailearaidh.</string>
+    <string name="dialog_action_removal_confirmation_accept">Gabhail</string>
+
+    <string name="vault_photo_empty_page_title">Tha Photo Vault falamh</string>
+    <string name="vault_photo_empty_page_description">Cuir ìomhaigh ris gus dealbhan a fhalach bhon ghailearaidh</string>
+    <string name="vault_video_empty_page_title">Tha Video Vault falamh</string>
+
+    <string name="vault_video_empty_page_description">Cuir ìomhaigh ri dealbhan bhidio bhon ghailearaidh</string>
+    <string-array name="tabs">
+        <item>Tèarainteachd</item>
+        <item>Suidhichidhean</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Liosta dhubh</item>
+        <item>Logaichean Call</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Dealbhan</item>
+        <item>Bhideothan</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">Cha do ghlacar luchd-ionnsaigh</string>
+    <string name="empty_page_intruders_description">Tha am fòn agad tèarainte!</string>
+    <string name="Vault">Neart</string>
+    <string name="Call_blocker">Call Blocker</string>
+    <string name="browser">Brabhsair</string>
+    <string name="theme">Cuspairean</string>
+    <string name="rate_us">Dèan measadh oirnn</string>
+    <string name="removeads">Tionndadh Premium</string>
+    <string name="enter_pin">Cuir a-steach prìne</string>
+    <string name="pin_matched">Pin air a mhaidseadh</string>
+    <string name="confirm_pin">Dearbhaich prìne</string>
+    <string name="pin_chahnged">Pin air atharrachadh gu soirbheachail</string>
+    <string name="pin_not_matched">Pin gun a bhith a ’maidseadh</string>
+    <string name="incorrect_pin">Prìne ceàrr</string>
+    <string name="settings_set_pin">Prìne suidhichte</string>
+    <string name="change_pin">Atharraich prìne</string>
+    <string name="settings_set_pin_description">Suidhich prìne ùr</string>
+    <string name="create_new_pin">Cruthaich prìne ùr</string>
+    <string name="home">Dachaigh</string>
+    <string name="settings_change_pin_description">Atharraich am prìne a th ’agad mu thràth</string>
+    <string name="message_pin_changed">Pin air atharrachadh gu soirbheachail</string>
+    <string name="non_protected">Gun dìon</string>
+    <string name="status_protected">Dìon</string>
+    <string name="starting_hour">Uair tòiseachaidh</string>
+    <string name="ending_hour">Uair a ’tighinn gu crìch</string>
+    <string name="auto_start_p">cead fèin-ruith</string>
+    <string name="permission_usage_access_description1">fosgail an roghainn fèin-ruith</string>
+
+
+    <string name="privat_browser">Brabhsair prìobhaideach</string>
+    <string name="prem_title">Tionndadh Premium Gu bràth</string>
+    <string name="prem_no_ads">No AD Gu bràth</string>
+    <string name="prem_restore">Ath-nuadhachadh ceannach</string>
+
+    <string name="please_give_us_five_stars">Feuch an toir thu dhuinn còig rionnagan air Google Play! Bhiodh sinn fada nur comain!</string>
+    <string name="great_tex">Sgoinneil!</string>
+    <string name="choose_the_icon">Tagh an ìomhaigh agus thèid an ìomhaigh thùsail atharrachadh. Cuir am falach an aplacaid seo bho luchd-ionnsaigh</string>
+    <string name="app_name1">Cloc</string>
+    <string name="app_name2">Mapaichean</string>
+    <string name="app_name3">Mìosachan</string>
+    <string name="app_name4">Ceòl</string>
+    <string name="app_name5">Àireamhair</string>
+
+    <string name="callblocker_black">Liosta dhubh</string>
+    <string name="callblocker_logs">Logaichean gairm</string>
+    <string name="icon_change_title">Icons</string>
+    <string name="intruders_title">Intruder</string>
+    <string name="intruders_access_apps">A ’faighinn cothrom air aplacaidean le cleachdadh</string>
+    <string name="main_unlocked">Gun fhosgladh</string>
+    <string name="main_locked">Glaiste</string>
+    <string name="prem_not_sub">Chan e fo-sgrìobhadh a tha seo. Cha phàigh thu ach aon turas!</string>
+    <string name="prem_fake_icon">Ìomhaigh Fake</string>
+    <string name="prem_intruders">Intieuder selfie</string>
+    <string name="prem_themes">Barrachd chuspairean cruthachail</string>
+    <string name="prem_one_time">Pàigheadh ​​aon-ùine</string>
+    <string name="splash_create">Air a chruthachadh gus do phrìobhaideachd a dhìon</string>
+    <string name="vault_photos">Dealbhan</string>
+    <string name="vault_videos">Bhideothan</string>
+    <string name="btn_ok">Ceart gu leòr</string>
+    <string name="dialog_intruder_text">Am bu mhath leat an dealbh a dhubhadh às?</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="fragment_security_text">Opps! \n Chan eil aplacaidean glaiste agad fhathast</string>
+    <string name="settings_security">Tèarainteachd</string>
+    <string name="settings_face_icon">Ìomhaigh Fake</string>
+    <string name="settings_face_icon_text">Thèid ìomhaigh tùsail an aplacaid seo atharrachadh</string>
+    <string name="rate_us_enjoying">A bheil AppLock a ’còrdadh riut?</string>
+    <string name="rate_us_could_be">dh ’fhaodadh e a bhith na b’ fheàrr</string>
+    <string name="menu_privacy">Poileasaidh Dìomhaireachd</string>
+    <string name="menu_contact">Cuir fios thugainn</string>
+    <string name="menu_face_icon">Ìomhaigh Fake</string>
+    <string name="menu_intruder">Manaidsear Intruder</string>
+    <string name="menu_chat">Seòmar còmhraidh</string>
+
+</resources>

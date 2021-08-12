@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+        <variable name="viewState"
+                  type="com.aviapp.app.security.applocker.ui.vault.vaultlist.VaultListItemViewState"/>
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/item_card"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        app:cardElevation="3dp"
+        app:cardCornerRadius="30dp">
+
+        <com.aviapp.app.security.applocker.ui.common.view.SquareLayout
+                android:id="@+id/squareLayoutItem"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorTextGray"
+                android:scaleType="centerCrop"
+                android:scaleX="1.1"
+                android:scaleY="1.1"
+                app:file="@{viewState.getDecryptedCachePath}"
+                android:layout_margin="@dimen/margin_4dp"/>
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/loading"
+                    android:background="#4D000000"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                <ProgressBar
+                        style="?android:attr/progressBarStyle"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:indeterminateTint="@color/gnt_gray" app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"/>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </com.aviapp.app.security.applocker.ui.common.view.SquareLayout>
+    </androidx.cardview.widget.CardView>
+
+</layout>

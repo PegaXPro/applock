@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">تنظیمات</string>
+
+
+
+    <string name="share">اشتراک گذاری</string>
+
+    <string name="notification_protecting_title">محافظت از برنامه های خود</string>
+
+    <string name="notification_protecting_description">برنامه های خود را قفل کنید تا از حریم خصوصی شما محافظت کند.</string>
+
+    <string name="notification_permission_need_title">اجازه محافظت را فعال کنید</string>
+
+    <string name="notification_permission_need_description">لطفاً مجوزهای خود را برای استفاده از قفل برنامه فعال کنید.</string>
+    <string name="you_accept_privacy_policy">با ادامه موافقت می کنید<u> سیاست حفظ حریم خصوصی</u> </string>
+
+    <string name="header_recommended_to_lock">توصیه می شود قفل شود</string>
+    <string name="header_all_apps">همه برنامه ها</string>
+
+    <string name="title_general_settings">عمومی</string>
+
+    <string name="title_lock_all">همه را قفل کنید</string>
+    <string name="description_lock_all">با این کار همه برنامه های شما قفل می شوند</string>
+
+
+    <string name="title_unlock_all">باز کردن همه</string>
+
+    <string name="description_unlock_all">با این کار همه برنامه های شما باز می شوند</string>
+    <string name="settings_change_pattern_title">تغییر الگو</string>
+
+    <string name="settings_change_pattern_description">الگوی موجود خود را تغییر دهید</string>
+    <string name="message_pattern_changed">الگو با موفقیت تغییر کرد</string>
+
+    <string name="setting_in_stealth_mode_title">نقاشی را پنهان کنید</string>
+    <string name="setting_in_stealth_mode_description">الگوی نامرئی هنگام طراحی</string>
+    <string name="setting_fingerprint_title">اثر انگشت را فعال کنید</string>
+
+    <string name="setting_fingerprint_description">برنامه را با اثر انگشت خود راه اندازی کنید.</string>
+    <string name="setting_fingerprint_not_supported_title">اثر انگشت پشتیبانی نمی شود</string>
+
+    <string name="setting_fingerprint_not_supported_description">دستگاه شما سنسور ندارد</string>
+    <string name="setting_fingerprint_not_registered_title">اثر انگشت خود را ثبت کنید</string>
+
+    <string name="setting_fingerprint_not_registered_description">به تنظیمات امنیتی بروید</string>
+    <string name="next">بعد</string>
+
+    <string name="permission_usage_access_title">اجازه دسترسی به استفاده</string>
+    <string name="permission_usage_access_description">دسترسیهای استفاده را برای استفاده از قفل برنامه فعال کنید.</string>
+
+    <string name="permission_overlay_title">مجوز قفل صفحه</string>
+
+    <string name="settings_card_intruders_title">متجاوزین را بگیرید</string>
+    <string name="settings_enable_intruders_title">از مزاحمان عکس بگیرید</string>
+    <string name="settings_enable_intruders_description">فعال کردن افراد متجاوز.</string>
+
+    <string name="settings_intruders_folder_title">عکس های متجاوز گرفته شده</string>
+    <string name="settings_intruders_folder_description">برای دیدن جاسوسی در تلفن خود کلیک کنید.</string>
+
+    <string name="settings_card_advance_protection_title">محافظت پیشرفته</string>
+    <string name="settings_enable_advance_protection_title">محافظت از پیش را فعال کنید</string>
+    <string name="settings_enable_advance_protection_description">برای فعال کردن Advance Protection ، لطفاً App Lock Pro را به عنوان "سرپرست دستگاه" فعال کنید. این فقط برای جلوگیری از حذف مزاحمان و متوقف کردن اجباری برنامه Lock Lock Pro است. لطفاً اطمینان حاصل کنید که App Lock Pro هرگز از این مجوز برای دسترسی به اطلاعات حریم خصوصی شما استفاده نخواهد کرد .</string>
+    <string name="device_admin_permission_description">اکنون فعال شوید ، از محافظت و امنیت بیشتری برخوردار شوید! \n\nبرای فعال کردن Advance Protection ، لطفاً App Lock Pro را به عنوان "سرپرست دستگاه" فعال کنید. این فقط برای جلوگیری از حذف مزاحمان و متوقف کردن اجباری برنامه Lock Lock Pro به کار می رود. اطمینان حاصل کنید که App Lock Pro هرگز از این مجوز برای استفاده به اطلاعات حریم خصوصی خود دسترسی پیدا کنید.</string>
+
+
+    <string name="permission_overlay_description">برای نمایش قفل صفحه ، پوشش را فعال کنید.</string>
+    <string name="permission_toast_enable_permissions">مجوزهای استفاده از قفل برنامه را فعال کنید</string>
+
+    <string name="draw_pattern_title">الگوی جدیدی ایجاد کنید</string>
+    <string name="redraw_pattern_title">برای تکمیل دوباره بکشید</string>
+
+    <string name="recreate_pattern_error">الگو مطابقت ندارد دوباره بکشید</string>
+
+    <string name="create_pattern_successful">با موفقیت ایجاد شد</string>
+    <string name="overlay_prompt_pattern_title">برای باز کردن برنامه ، الگو بکشید</string>
+    <string name="overlay_prompt_pattern_title_wrong">الگوی اشتباه دوباره بکشید.</string>
+    <string name="overlay_prompt_pattern_title_correct">الگو درست است.</string>
+
+    <string name="overlay_prompt_fingerprint_title">برای باز کردن برنامه ، الگو بکشید</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ مطابقت ندارد. +٪ 1 $ s + باقی مانده است.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">اثر انگشت مطابقت دارد!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">خطای اثر انگشت! الگو را امتحان کنید.</string>
+    <string name="dialog_title_rate_us">آیا منطقه امن را دوست داشتید؟</string>
+    <string name="dialog_description_rate_us">اگر به ما در بازار امتیاز دهید بسیار خوشحال خواهیم شد.</string>
+    <string name="dialog_action_rate_us_rate">نرخ</string>
+
+    <string name="dialog_action_rate_us_later">بعد</string>
+    <string name="dialog_title_usage_permission">مجوز Android 5.0</string>
+    <string name="dialog_description_usage_permission">در Android 5.0 یا بالاتر ، باید اجازه استفاده برای
+        AppLocker ، بنابراین شما می توانید از ویژگی منطقه امن استفاده کنید</string>
+    <string name="dialog_action_usage_permission_permit">اجازه</string>
+
+    <string name="dialog_action_usage_permission_cancel">لغو</string>
+    <string name="dialog_title_privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="dialog_description_privacy_policy">ما سیاست حفظ حریم خصوصی خود را به روز کرده ایم. با ادامه موافقت می کنید<u> سیاست حفظ حریم خصوصی</u> </string>
+    <string name="dialog_action_privacy_policy_accept">تایید کنید</string>
+
+    <string name="hint_browser_search">URL را جستجو یا وارد کنید</string>
+    <string name="facebook">فیس بوک</string>
+
+    <string name="twitter">توییتر</string>
+
+    <string name="snapchat">اسنپ ​​چت</string>
+
+
+    <string name="instagram">اینستاگرام</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">امن. امن. خصوصی</string>
+    <string name="subtitle_browser_empty">در اینترنت گشت و گذار کنید. ایمن</string>
+    <string name="bookmarks">نشانک ها</string>
+    <string name="title_name_unknown_number">شماره ناشناخته</string>
+
+
+
+    <string name="blacklist_empty_title">لیست سیاه خالی است</string>
+    <string name="blacklist_empty_description">برای مسدود کردن شماره تلفن کلیک کنید</string>
+    <string name="call_log_empty_title">بدون گزارش</string>
+
+    <string name="call_log_empty_description">هنگام مسدود شدن تماس ، گزارش در اینجا ظاهر می شود</string>
+    <string name="dialog_add_to_blacklist_title">شماره تلفن را مسدود کنید</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">نام (اختیاری)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">شماره تلفن را وارد کنید</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">لغو</string>
+    <string name="dialog_black_list_delete_title">حذف از لیست سیاه</string>
+    <string name="dialog_black_list_delete_description">آیا می خواهید شماره مسدود شده را از لیست سیاه حذف کنید؟</string>
+
+    <string name="dialog_black_list_delete_action_cancel">لغو</string>
+    <string name="dialog_title_add_to_vault">در حال پردازش</string>
+    <string name="dialog_description_process">رسانه شما در حال حذف از گالری و افزودن به طاق شما است.</string>
+
+    <string name="dialog_title_removal_confirmation">تأیید حذف</string>
+    <string name="dialog_description_removal">این پرونده از طاق حذف شده و به گالری نمایش داده می شود.</string>
+    <string name="dialog_action_removal_confirmation_accept">تایید کنید</string>
+
+    <string name="vault_photo_empty_page_title">عکس خرک خالی است</string>
+    <string name="vault_photo_empty_page_description">برای پنهان کردن عکس ها از گالری ، نماد اضافه کنید</string>
+    <string name="vault_video_empty_page_title">ویدیو خرک خالی است</string>
+
+    <string name="vault_video_empty_page_description">به عکسهای ویدئویی گالری نماد اضافه کنید</string>
+    <string-array name="tabs">
+        <item>امنیت</item>
+        <item>تنظیمات</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>لیست سیاه</item>
+        <item>گزارش های تماس</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>تصاویر</item>
+        <item>فیلم های</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">متجاوزان جلب نمی شوند</string>
+    <string name="empty_page_intruders_description">تلفن شما ایمن است!</string>
+    <string name="Vault">طاق</string>
+    <string name="Call_blocker">مسدود کننده تماس بگیرید</string>
+    <string name="browser">مرورگر</string>
+    <string name="theme">مضامین</string>
+    <string name="rate_us">به ما رای دهید</string>
+    <string name="removeads">نسخه ممتاز</string>
+    <string name="enter_pin">پین را وارد کنید</string>
+    <string name="pin_matched">پین منطبق است</string>
+    <string name="confirm_pin">پین را تأیید کنید</string>
+    <string name="pin_chahnged">پین با موفقیت تغییر کرد</string>
+    <string name="pin_not_matched">پین مطابقت ندارد</string>
+    <string name="incorrect_pin">پین نادرست است</string>
+    <string name="settings_set_pin">تنظیم سنجاق</string>
+    <string name="change_pin">تغییر پین</string>
+    <string name="settings_set_pin_description">پین جدید تنظیم کنید</string>
+    <string name="create_new_pin">یک پین جدید ایجاد کنید</string>
+    <string name="home">خانه</string>
+    <string name="settings_change_pin_description">پین موجود خود را تغییر دهید</string>
+    <string name="message_pin_changed">پین با موفقیت تغییر کرد</string>
+    <string name="non_protected">بدون محافظت</string>
+    <string name="status_protected">حفاظت شده</string>
+    <string name="starting_hour">شروع ساعت</string>
+    <string name="ending_hour">پایان ساعت</string>
+    <string name="auto_start_p">اجازه اجرای خودکار</string>
+    <string name="permission_usage_access_description1">گزینه اجرای خودکار را باز کنید</string>
+
+
+    <string name="privat_browser">مرورگر خصوصی</string>
+    <string name="prem_title">نسخه برتر برای همیشه لطفا برای</string>
+    <string name="prem_no_ads">بدون تبلیغات برای همیشه</string>
+    <string name="prem_restore">بازیابی را بازیابی کنید</string>
+
+    <string name="please_give_us_five_stars">لطفاً در Google Play پنج ستاره به ما بدهید! ما بسیار قدردان آن خواهیم بود!</string>
+    <string name="great_tex">عالی!</string>
+    <string name="choose_the_icon">نماد را انتخاب کنید و نماد اصلی تغییر خواهد کرد. پنهان کردن این برنامه از مزاحمان</string>
+    <string name="app_name1">ساعت</string>
+    <string name="app_name2">نقشه ها</string>
+    <string name="app_name3">تقویم</string>
+    <string name="app_name4">موسیقی</string>
+    <string name="app_name5">ماشین حساب</string>
+
+    <string name="callblocker_black">لیست سیاه</string>
+    <string name="callblocker_logs">گزارش های تماس</string>
+    <string name="icon_change_title">نمادها</string>
+    <string name="intruders_title">متجاوز</string>
+    <string name="intruders_access_apps">با استفاده از برنامه ها دسترسی پیدا کنید</string>
+    <string name="main_unlocked">قفل شده است</string>
+    <string name="main_locked">قفل شده</string>
+    <string name="prem_not_sub">این اشتراک نیست شما فقط یکبار پرداخت می کنید!</string>
+    <string name="prem_fake_icon">نماد جعلی</string>
+    <string name="prem_intruders">سلفی متجاوز</string>
+    <string name="prem_themes">مضامین خلاقانه تر</string>
+    <string name="prem_one_time">پرداخت یکبار مصرف</string>
+    <string name="splash_create">ایجاد شده برای محافظت از حریم خصوصی شما</string>
+    <string name="vault_photos">عکسها</string>
+    <string name="vault_videos">فیلم های</string>
+    <string name="btn_ok">خوب</string>
+    <string name="dialog_intruder_text">آیا می خواهید عکس را حذف کنید؟</string>
+    <string name="btn_cancel">لغو</string>
+    <string name="fragment_security_text">مخالفت ها! \nشما هنوز برنامه های قفل شده ندارید</string>
+    <string name="settings_security">امنیت</string>
+    <string name="settings_face_icon">نماد جعلی</string>
+    <string name="settings_face_icon_text">نماد اصلی این برنامه تغییر خواهد کرد</string>
+    <string name="rate_us_enjoying">آیا از AppLock لذت می برید؟</string>
+    <string name="rate_us_could_be">میتوانست بهتر باشد</string>
+    <string name="menu_privacy">سیاست حفظ حریم خصوصی</string>
+    <string name="menu_contact">با ما تماس بگیرید</string>
+    <string name="menu_face_icon">نماد جعلی</string>
+    <string name="menu_intruder">مدیر مزاحم</string>
+    <string name="menu_chat">اتاق گفتگو</string>
+</resources>

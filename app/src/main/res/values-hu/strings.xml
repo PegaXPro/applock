@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Beállítások</string>
+
+  
+
+    <string name="share">Ossza meg</string>
+
+    <string name="notification_protecting_title">Az alkalmazások védelme</string>
+
+    <string name="notification_protecting_description">Zárja be alkalmazásait a magánélet védelme érdekében.</string>
+
+    <string name="notification_permission_need_title">Engedélyezze a védelmet</string>
+
+    <string name="notification_permission_need_description">Kérjük, engedélyezze engedélyeit az alkalmazás szekrény használatához.</string>
+    <string name="you_accept_privacy_policy">A folytatással elfogadja a<u> Adatvédelmi irányelvek</u> </string>
+
+    <string name="header_recommended_to_lock">Zároláshoz ajánlott</string>
+    <string name="header_all_apps">Minden alkalmazás</string>
+
+    <string name="title_general_settings">Tábornok</string>
+
+    <string name="title_lock_all">Zárja be az összeset</string>
+    <string name="description_lock_all">Ez zárolja az összes alkalmazást</string>
+
+ 
+    <string name="title_unlock_all">Mindegyik feloldása</string>
+
+    <string name="description_unlock_all">Ez feloldja az összes alkalmazásod zárolását</string>
+    <string name="settings_change_pattern_title">Változtassa meg a mintát</string>
+
+    <string name="settings_change_pattern_description">Módosítsa a meglévő mintát</string>
+    <string name="message_pattern_changed">A minta sikeresen megváltozott</string>
+
+    <string name="setting_in_stealth_mode_title">Rajz elrejtése</string>
+    <string name="setting_in_stealth_mode_description">Láthatatlan minta rajzolás közben</string>
+    <string name="setting_fingerprint_title">Engedélyezze az ujjlenyomatot</string>
+
+    <string name="setting_fingerprint_description">Indítsa el az alkalmazást az ujjlenyomatával.</string>
+    <string name="setting_fingerprint_not_supported_title">Az ujjlenyomat nem támogatott</string>
+
+    <string name="setting_fingerprint_not_supported_description">Az eszközén nincs érzékelő</string>
+    <string name="setting_fingerprint_not_registered_title">Regisztrálja az ujjlenyomatát</string>
+
+    <string name="setting_fingerprint_not_registered_description">Lépjen a biztonsági beállításokhoz</string>
+    <string name="next">Következő</string>
+
+    <string name="permission_usage_access_title">Használja a hozzáférési engedélyt</string>
+    <string name="permission_usage_access_description">Engedélyezze a használati hozzáférést az alkalmazás szekrény használatához.</string>
+
+    <string name="permission_overlay_title">Képernyő engedélyezése</string>
+
+    <string name="settings_card_intruders_title">Elkapni a betolakodókat</string>
+    <string name="settings_enable_intruders_title">Készítsen betolakodók képét</string>
+    <string name="settings_enable_intruders_description">Engedje be a behatolókat.</string>
+
+    <string name="settings_intruders_folder_title">Elkapott behatoló fotók</string>
+    <string name="settings_intruders_folder_description">Kattintson, hogy kémeket láthasson telefonján.</string>
+
+    <string name="settings_card_advance_protection_title">Előzetes védelem</string>
+    <string name="settings_enable_advance_protection_title">Engedélyezze az előzetes védelmet</string>
+    <string name="settings_enable_advance_protection_description">Az előzetes védelem engedélyezéséhez aktiválja az App Lock Pro-t "eszköz rendszergazdaként". Csak a behatolók megakadályozására és az App Lock Pro eltávolításának megakadályozására használják. Kérjük, győződjön meg arról, hogy az App Lock Pro soha nem fogja használni ezt az engedélyt az adatvédelmi adatok eléréséhez. .</string>
+    <string name="device_admin_permission_description">Aktiválja most, fokozza a védelmet és biztonságosabb! \n\nAz előzetes védelem engedélyezéséhez aktiválja az App Lock Pro-t "eszköz rendszergazdaként". Csak a behatolók megakadályozására és az App Lock Pro eltávolításának megakadályozására használják. Biztosítsa, hogy az App Lock Pro soha ne használja ezt az engedélyt hozzáférhet az adatvédelmi adatokhoz.</string>
+
+
+    <string name="permission_overlay_description">Engedélyezze az átfedést a zárolási képernyő megjelenítéséhez.</string>
+    <string name="permission_toast_enable_permissions">Engedélyezze az alkalmazásszekrény használatához szükséges engedélyeket</string>
+
+    <string name="draw_pattern_title">Hozzon létre egy új mintát</string>
+    <string name="redraw_pattern_title">Újrarajzolás a befejezéshez</string>
+
+    <string name="recreate_pattern_error">A minta nem egyezik. Újrarajzolni.</string>
+
+    <string name="create_pattern_successful">Sikeresen létrehozva.</string>
+    <string name="overlay_prompt_pattern_title">Rajzoljon mintát az alkalmazás megnyitásához</string>
+    <string name="overlay_prompt_pattern_title_wrong">Rossz minta. Rajzolj újra.</string>
+    <string name="overlay_prompt_pattern_title_correct">Minta helyes.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Rajzoljon mintát az alkalmazás megnyitásához</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Nem + egyezik. + %1$s + maradt.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Ujjlenyomat egyezett!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Ujjlenyomat-hiba! Próbálja ki a mintát.</string>
+    <string name="dialog_title_rate_us">Tetszett a Secure Zone?</string>
+    <string name="dialog_description_rate_us">Nagyon boldogok leszünk, ha értékelsz minket a piacon.</string>
+    <string name="dialog_action_rate_us_rate">Mérték</string>
+
+    <string name="dialog_action_rate_us_later">Később</string>
+    <string name="dialog_title_usage_permission">Android 5.0 engedély</string>
+    <string name="dialog_description_usage_permission">Android 5.0 vagy újabb verzióban engedélyeznie kell a hozzáférést a következőhöz:
+        AppLocker, így használhatja a Secure Zone Feature alkalmazást</string>
+    <string name="dialog_action_usage_permission_permit">Engedély</string>
+
+    <string name="dialog_action_usage_permission_cancel">Megszünteti</string>
+    <string name="dialog_title_privacy_policy">Adatvédelmi irányelvek</string>
+    <string name="dialog_description_privacy_policy">Frissítettük adatvédelmi irányelveinket. A folytatással elfogadja a<u> Adatvédelmi irányelvek</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Elfogad</string>
+
+    <string name="hint_browser_search">Keressen vagy írjon be URL-t</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Internetezni. Biztosan.</string>
+    <string name="bookmarks">Könyvjelzők</string>
+    <string name="title_name_unknown_number">Ismeretlen szám</string>
+
+
+
+    <string name="blacklist_empty_title">A feketelista üres</string>
+    <string name="blacklist_empty_description">Kattintson a telefonszám blokkolásához</string>
+    <string name="call_log_empty_title">Nincs napló</string>
+
+    <string name="call_log_empty_description">A napló itt jelenik meg, ha a hívás blokkolva van</string>
+    <string name="dialog_add_to_blacklist_title">Telefonszám letiltása</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Név (opcionális)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Írja be a telefonszámot</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Megszünteti</string>
+    <string name="dialog_black_list_delete_title">Törlés a feketelistáról</string>
+    <string name="dialog_black_list_delete_description">El akarja távolítani a letiltott számot a feketelistáról?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Megszünteti</string>
+    <string name="dialog_title_add_to_vault">Feldolgozás</string>
+    <string name="dialog_description_process">Médiája eltávolításra kerül a galériából, és hozzáadódik a tárolóhoz.</string>
+
+    <string name="dialog_title_removal_confirmation">Eltávolítás megerősítése</string>
+    <string name="dialog_description_removal">Ez a fájl eltávolításra kerül a tárolóból, és megjelenik a galériában.</string>
+    <string name="dialog_action_removal_confirmation_accept">Elfogad</string>
+
+    <string name="vault_photo_empty_page_title">A Photo Vault üres</string>
+    <string name="vault_photo_empty_page_description">Ikon hozzáadása a fotók elrejtéséhez a galériából</string>
+    <string name="vault_video_empty_page_title">A Video Vault üres</string>
+
+    <string name="vault_video_empty_page_description">Ikon hozzáadása a galéria videófotóihoz</string>
+    <string-array name="tabs">
+        <item>Biztonság</item>
+        <item>Beállítások</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Feketelista</item>
+        <item>Híváslista</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Képek</item>
+        <item>Videók</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Nincs elfogott behatoló</string>
+    <string name="empty_page_intruders_description">Telefonja biztonságos!</string>
+    <string name="Vault">Boltozat</string>
+    <string name="Call_blocker">Hívásblokkoló</string>
+    <string name="browser">Böngésző</string>
+    <string name="theme">Témák</string>
+    <string name="rate_us">Értékelj minket</string>
+    <string name="removeads">Prémium változat</string>
+    <string name="enter_pin">Írja be a PIN-kódot</string>
+    <string name="pin_matched">Pin egyezik</string>
+    <string name="confirm_pin">Erősítse meg a PIN-kódot</string>
+    <string name="pin_chahnged">PIN-kód sikeresen megváltozott</string>
+    <string name="pin_not_matched">A pin nem egyezik</string>
+    <string name="incorrect_pin">Helytelen csap</string>
+    <string name="settings_set_pin">Set pin</string>
+    <string name="change_pin">Csavar módosítása</string>
+    <string name="settings_set_pin_description">Állítson be új csapot</string>
+    <string name="create_new_pin">Hozzon létre egy új PIN-kódot</string>
+    <string name="home">itthon</string>
+    <string name="settings_change_pin_description">Módosítsa a meglévő PIN-kódot</string>
+    <string name="message_pin_changed">PIN-kód sikeresen megváltozott</string>
+    <string name="non_protected">Nem védett</string>
+    <string name="status_protected">Védett</string>
+    <string name="starting_hour">Kezdő óra</string>
+    <string name="ending_hour">Vége óra</string>
+    <string name="auto_start_p">automatikus futtatási engedély</string>
+    <string name="permission_usage_access_description1">nyissa meg az automatikus futtatás opciót</string>
+
+
+    <string name="privat_browser">Privát böngésző</string>
+    <string name="prem_title">Prémium verzió örökre</string>
+    <string name="prem_no_ads">Nincsenek AD-k örökre</string>
+    <string name="prem_restore">Vásárlás visszaállítása</string>
+
+    <string name="please_give_us_five_stars">Kérjük, adjon nekünk öt csillagot a Google Play-en! Nagyra értékelnénk!</string>
+    <string name="great_tex">Nagy!</string>
+    <string name="choose_the_icon">Válassza ki az ikont, és az eredeti ikon megváltozik. Az alkalmazás elrejtése a behatolók elől</string>
+    <string name="app_name1">Óra</string>
+    <string name="app_name2">Térképek</string>
+    <string name="app_name3">Naptár</string>
+    <string name="app_name4">Zene</string>
+    <string name="app_name5">Számológép</string>
+
+    <string name="callblocker_black">Feketelista</string>
+    <string name="callblocker_logs">Híváslista</string>
+    <string name="icon_change_title">Ikonok</string>
+    <string name="intruders_title">Betolakodó</string>
+    <string name="intruders_access_apps">Hozzáférés az alkalmazások használatához</string>
+    <string name="main_unlocked">Feloldva</string>
+    <string name="main_locked">Zárt</string>
+    <string name="prem_not_sub">Ez nem előfizetés. Csak egyszer fizet!</string>
+    <string name="prem_fake_icon">Hamis ikon</string>
+    <string name="prem_intruders">Betolakodó szelfi</string>
+    <string name="prem_themes">Kreatívabb témák</string>
+    <string name="prem_one_time">Egyszeri fizetés</string>
+    <string name="splash_create">Az Ön adatainak védelme érdekében jött létre</string>
+    <string name="vault_photos">Fotók</string>
+    <string name="vault_videos">Videók</string>
+    <string name="btn_ok">rendben</string>
+    <string name="dialog_intruder_text">Törölné a fényképet?</string>
+    <string name="btn_cancel">MEGSZÜNTETI</string>
+    <string name="fragment_security_text">Hoppá! \n Még nem rendelkezik lezárt alkalmazásokkal</string>
+    <string name="settings_security">Biztonság</string>
+    <string name="settings_face_icon">Hamis ikon</string>
+    <string name="settings_face_icon_text">Az alkalmazás eredeti ikonja megváltozik</string>
+    <string name="rate_us_enjoying">Élvezi az AppLock alkalmazást?</string>
+    <string name="rate_us_could_be">lehetne jobb is</string>
+    <string name="menu_privacy">Adatvédelmi irányelvek</string>
+    <string name="menu_contact">Lépjen kapcsolatba velünk</string>
+    <string name="menu_face_icon">Hamis ikon</string>
+    <string name="menu_intruder">Betolakodó menedzser</string>
+    <string name="menu_chat">Chat szoba</string>
+
+</resources>

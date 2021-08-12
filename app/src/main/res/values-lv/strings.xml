@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Iestatījumi</string>
+
+  
+
+    <string name="share">Dalīties</string>
+
+    <string name="notification_protecting_title">Jūsu lietotņu aizsardzība</string>
+
+    <string name="notification_protecting_description">Bloķējiet savas lietotnes, lai aizsargātu jūsu privātumu.</string>
+
+    <string name="notification_permission_need_title">Iespējot atļauju aizsardzībai</string>
+
+    <string name="notification_permission_need_description">Lūdzu, iespējojiet savas atļaujas lietotnes skapīša izmantošanai.</string>
+    <string name="you_accept_privacy_policy">Turpinot jūs piekrītat<u> Privātuma politika</u> </string>
+
+    <string name="header_recommended_to_lock">Ieteicams bloķēt</string>
+    <string name="header_all_apps">Visas lietojumprogrammas</string>
+
+    <string name="title_general_settings">Vispārīgi</string>
+
+    <string name="title_lock_all">Bloķēt visu</string>
+    <string name="description_lock_all">Tas bloķēs visas jūsu lietotnes</string>
+
+ 
+    <string name="title_unlock_all">Atbloķēt visu</string>
+
+    <string name="description_unlock_all">Tas atbloķēs visas jūsu lietotnes</string>
+    <string name="settings_change_pattern_title">Mainīt modeli</string>
+
+    <string name="settings_change_pattern_description">Mainiet esošo modeli</string>
+    <string name="message_pattern_changed">Modelis veiksmīgi mainīts</string>
+
+    <string name="setting_in_stealth_mode_title">Slēpt zīmējumu</string>
+    <string name="setting_in_stealth_mode_description">Neredzams raksts zīmēšanas laikā</string>
+    <string name="setting_fingerprint_title">Iespējot pirkstu nospiedumu</string>
+
+    <string name="setting_fingerprint_description">Palaidiet lietotni ar pirksta nospiedumu.</string>
+    <string name="setting_fingerprint_not_supported_title">Pirkstu nospiedumi netiek atbalstīti</string>
+
+    <string name="setting_fingerprint_not_supported_description">Jūsu ierīcei nav sensora</string>
+    <string name="setting_fingerprint_not_registered_title">Reģistrējiet pirkstu nospiedumu</string>
+
+    <string name="setting_fingerprint_not_registered_description">Atveriet drošības iestatījumus</string>
+    <string name="next">Nākamais</string>
+
+    <string name="permission_usage_access_title">Izmantojiet piekļuves atļauju</string>
+    <string name="permission_usage_access_description">Iespējojiet lietošanas piekļuvi, lai izmantotu lietotņu skapi.</string>
+
+    <string name="permission_overlay_title">Bloķēt ekrāna atļauju</string>
+
+    <string name="settings_card_intruders_title">Noķert iebrucējus</string>
+    <string name="settings_enable_intruders_title">Uzņemiet iebrucēju attēlu</string>
+    <string name="settings_enable_intruders_description">Ļauj noķert iebrucējus.</string>
+
+    <string name="settings_intruders_folder_title">Uzņemtie iebrucēja fotoattēli</string>
+    <string name="settings_intruders_folder_description">Noklikšķiniet, lai savā tālrunī redzētu spiegus.</string>
+
+    <string name="settings_card_advance_protection_title">Iepriekšēja aizsardzība</string>
+    <string name="settings_enable_advance_protection_title">Iespējot iepriekšēju aizsardzību</string>
+    <string name="settings_enable_advance_protection_description">Lai iespējotu iepriekšējo aizsardzību, lūdzu, aktivizējiet App Lock Pro kā "ierīces administratoru". To izmanto tikai, lai novērstu iebrucēju atinstalēšanu un piespiedu apturēšanu App Lock Pro. Lūdzu, pārliecinieties, ka App Lock Pro nekad neizmantos šo atļauju, lai piekļūtu jūsu privātuma datiem .</string>
+    <string name="device_admin_permission_description">Aktivizējiet tūlīt, uzlabojiet aizsardzību un drošāk! \n\nLai iespējotu iepriekšēju aizsardzību, lūdzu, aktivizējiet App Lock Pro kā "ierīces administratoru". To izmanto tikai, lai novērstu iebrucēju atinstalēšanu un piespiedu apturēšanu. Lūdzu, pārliecinieties, ka App Lock Pro nekad neizmantos šo atļauju piekļūt jūsu konfidencialitātes datiem.</string>
+
+
+    <string name="permission_overlay_description">Iespējojiet pārklājumu, lai parādītu bloķēšanas ekrānu.</string>
+    <string name="permission_toast_enable_permissions">Iespējojiet atļaujas lietotnes skapīša izmantošanai</string>
+
+    <string name="draw_pattern_title">Izveidojiet jaunu modeli</string>
+    <string name="redraw_pattern_title">Pārzīmējiet, lai pabeigtu</string>
+
+    <string name="recreate_pattern_error">Raksts neatbilst. Pārzīmēt.</string>
+
+    <string name="create_pattern_successful">Veiksmīgi izveidots.</string>
+    <string name="overlay_prompt_pattern_title">Lai atvērtu lietotni, zīmējiet zīmējumu</string>
+    <string name="overlay_prompt_pattern_title_wrong">Nepareizs raksts. Vēlreiz zīmējiet.</string>
+    <string name="overlay_prompt_pattern_title_correct">Pattern ir pareizs.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Lai atvērtu lietotni, zīmējiet zīmējumu</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Nav + neatbilst. + %1$s + pa kreisi.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Pirkstu nospiedums sakrita!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Pirksta nospieduma kļūda! Izmēģiniet modeli.</string>
+    <string name="dialog_title_rate_us">Vai jums patika drošā zona?</string>
+    <string name="dialog_description_rate_us">Mēs būsim tik laimīgi, ja jūs mūs vērtēsit tirgū.</string>
+    <string name="dialog_action_rate_us_rate">Likme</string>
+
+    <string name="dialog_action_rate_us_later">Vēlāk</string>
+    <string name="dialog_title_usage_permission">Android 5.0 atļauja</string>
+    <string name="dialog_description_usage_permission">Operētājsistēmā Android 5.0 vai jaunākā versijā jums ir jāatļauj piekļuve lietotnei
+        AppLocker, lai jūs varētu izmantot drošās zonas funkciju</string>
+    <string name="dialog_action_usage_permission_permit">Atļaut</string>
+
+    <string name="dialog_action_usage_permission_cancel">Atcelt</string>
+    <string name="dialog_title_privacy_policy">Privātuma politika</string>
+    <string name="dialog_description_privacy_policy">Mēs esam atjauninājuši savu privātuma politiku. Turpinot jūs piekrītat<u> Privātuma politika</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Pieņemt</string>
+
+    <string name="hint_browser_search">Meklējiet vai ievadiet URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Drošs. Drošs. Privāts.</string>
+    <string name="subtitle_browser_empty">Sērfot internetā. Droši.</string>
+    <string name="bookmarks">Grāmatzīmes</string>
+    <string name="title_name_unknown_number">Nezināms numurs</string>
+
+
+
+    <string name="blacklist_empty_title">Melnais saraksts ir tukšs</string>
+    <string name="blacklist_empty_description">Noklikšķiniet, lai bloķētu tālruņa numuru</string>
+    <string name="call_log_empty_title">Nav žurnālu</string>
+
+    <string name="call_log_empty_description">Kad zvans ir bloķēts, šeit parādās žurnāls</string>
+    <string name="dialog_add_to_blacklist_title">Bloķēt tālruņa numuru</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nosaukums (pēc izvēles)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Ievadiet tālruņa numuru</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Atcelt</string>
+    <string name="dialog_black_list_delete_title">Dzēst no melnā saraksta</string>
+    <string name="dialog_black_list_delete_description">Vai vēlaties noņemt bloķēto numuru no melnā saraksta?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Atcelt</string>
+    <string name="dialog_title_add_to_vault">Apstrāde</string>
+    <string name="dialog_description_process">Jūsu multivide tiek noņemta no galerijas un tiek pievienota jūsu glabātuvei.</string>
+
+    <string name="dialog_title_removal_confirmation">Noņemšanas apstiprinājums</string>
+    <string name="dialog_description_removal">Šis fails tiks noņemts no glabātavas un parādīts galerijā.</string>
+    <string name="dialog_action_removal_confirmation_accept">Pieņemt</string>
+
+    <string name="vault_photo_empty_page_title">Fotoattēla glabātava ir tukša</string>
+    <string name="vault_photo_empty_page_description">Pievienojiet ikonu, lai paslēptu fotoattēlus no galerijas</string>
+    <string name="vault_video_empty_page_title">Video glabātava ir tukša</string>
+
+    <string name="vault_video_empty_page_description">Pievienojiet ikonu video fotoattēliem no galerijas</string>
+    <string-array name="tabs">
+        <item>Drošība</item>
+        <item>Iestatījumi</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Melnais saraksts</item>
+        <item>Zvanu žurnāli</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Attēli</item>
+        <item>Video</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Nav noķertu iebrucēju</string>
+    <string name="empty_page_intruders_description">Jūsu tālrunis ir drošs!</string>
+    <string name="Vault">Velvju</string>
+    <string name="Call_blocker">Zvanu bloķētājs</string>
+    <string name="browser">Pārlūkprogramma</string>
+    <string name="theme">Tēmas</string>
+    <string name="rate_us">Novērtē mūs</string>
+    <string name="removeads">Premium versija</string>
+    <string name="enter_pin">Ievadiet piespraudi</string>
+    <string name="pin_matched">Pieskaņota tapa</string>
+    <string name="confirm_pin">Apstipriniet piespraudi</string>
+    <string name="pin_chahnged">PIN ir veiksmīgi nomainīts</string>
+    <string name="pin_not_matched">Piespraude nav saskaņota</string>
+    <string name="incorrect_pin">Nepareiza tapa</string>
+    <string name="settings_set_pin">Iestatiet tapu</string>
+    <string name="change_pin">Mainīt tapu</string>
+    <string name="settings_set_pin_description">Iestatiet jaunu tapu</string>
+    <string name="create_new_pin">Izveidojiet jaunu piespraudi</string>
+    <string name="home">Mājas</string>
+    <string name="settings_change_pin_description">Mainiet savu esošo piespraudi</string>
+    <string name="message_pin_changed">Piespraude veiksmīgi nomainīta</string>
+    <string name="non_protected">Nav aizsargāts</string>
+    <string name="status_protected">Aizsargāts</string>
+    <string name="starting_hour">Sākuma stunda</string>
+    <string name="ending_hour">Beigu stunda</string>
+    <string name="auto_start_p">automātiskās palaišanas atļauja</string>
+    <string name="permission_usage_access_description1">atveriet automātiskās palaišanas opciju</string>
+
+
+    <string name="privat_browser">Privātā pārlūkprogramma</string>
+    <string name="prem_title">Premium versija uz visiem laikiem</string>
+    <string name="prem_no_ads">Nav ADs uz visiem laikiem</string>
+    <string name="prem_restore">Atjaunojiet pirkumu</string>
+
+    <string name="please_give_us_five_stars">Lūdzu, piešķiriet mums Google Play piecas zvaigznes! Mēs to ļoti novērtētu!</string>
+    <string name="great_tex">Lieliski!</string>
+    <string name="choose_the_icon">Izvēlieties ikonu, un sākotnējā ikona tiks mainīta. Paslēpt šo lietotni no iebrucējiem</string>
+    <string name="app_name1">Pulkstenis</string>
+    <string name="app_name2">Kartes</string>
+    <string name="app_name3">Kalendārs</string>
+    <string name="app_name4">Mūzika</string>
+    <string name="app_name5">Kalkulators</string>
+
+    <string name="callblocker_black">Melnais saraksts</string>
+    <string name="callblocker_logs">Zvanu žurnāli</string>
+    <string name="icon_change_title">Ikonas</string>
+    <string name="intruders_title">Iebrucējs</string>
+    <string name="intruders_access_apps">Piekļūstiet lietotnēm, izmantojot lietojumu</string>
+    <string name="main_unlocked">Atbloķēts</string>
+    <string name="main_locked">Bloķēts</string>
+    <string name="prem_not_sub">Šis nav abonements. Jūs maksājat tikai vienu reizi!</string>
+    <string name="prem_fake_icon">Viltus ikona</string>
+    <string name="prem_intruders">Iebrucēja selfijs</string>
+    <string name="prem_themes">Radošākas tēmas</string>
+    <string name="prem_one_time">Vienreizējs maksājums</string>
+    <string name="splash_create">Izveidots, lai aizsargātu jūsu privātumu</string>
+    <string name="vault_photos">Fotoattēli</string>
+    <string name="vault_videos">Video</string>
+    <string name="btn_ok">labi</string>
+    <string name="dialog_intruder_text">Vai vēlaties izdzēst fotoattēlu?</string>
+    <string name="btn_cancel">ATCELT</string>
+    <string name="fragment_security_text">Opps! \n Jums vēl nav bloķētu lietotņu</string>
+    <string name="settings_security">Drošība</string>
+    <string name="settings_face_icon">Viltus ikona</string>
+    <string name="settings_face_icon_text">Šīs lietotnes sākotnējā ikona tiks mainīta</string>
+    <string name="rate_us_enjoying">Vai jums patīk AppLock?</string>
+    <string name="rate_us_could_be">tas varētu būt labāk</string>
+    <string name="menu_privacy">Privātuma politika</string>
+    <string name="menu_contact">Sazinies ar mums</string>
+    <string name="menu_face_icon">Viltus ikona</string>
+    <string name="menu_intruder">Iebrucēju menedžeris</string>
+    <string name="menu_chat">Tērzēšanas istaba</string>
+
+</resources>

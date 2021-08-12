@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Tautuhinga</string>
+
+  
+
+    <string name="share">Tohaina</string>
+
+    <string name="notification_protecting_title">Te tiaki i o taupānga</string>
+
+    <string name="notification_protecting_description">Maukatia o taupānga hei tiaki i to muna.</string>
+
+    <string name="notification_permission_need_title">Whakahohea te whakaaetanga ki te whakamarumaru</string>
+
+    <string name="notification_permission_need_description">Whakahohea o whakaaetanga ki te whakamahi i te kaapuni taupānga.</string>
+    <string name="you_accept_privacy_policy">Ma te haere tonu ka whakaae koe ki te<u> Kaupapahere Tūmataiti</u> </string>
+
+    <string name="header_recommended_to_lock">E taunaki ana kia raka</string>
+    <string name="header_all_apps">Nga tono katoa</string>
+
+    <string name="title_general_settings">Whanui</string>
+
+    <string name="title_lock_all">Raka katoa</string>
+    <string name="description_lock_all">Ma tenei ka raka katoa o o taupānga</string>
+
+ 
+    <string name="title_unlock_all">Wewete katoa</string>
+
+    <string name="description_unlock_all">Ma tenei e iriti katoa o o taupānga</string>
+    <string name="settings_change_pattern_title">Huri tauira</string>
+
+    <string name="settings_change_pattern_description">Hurihia o tauira</string>
+    <string name="message_pattern_changed">I angitu te panoni o te tauira</string>
+
+    <string name="setting_in_stealth_mode_title">Hunaia te tuhi</string>
+    <string name="setting_in_stealth_mode_description">Tauira e kore e kitea ana i te wa e tuhi ana</string>
+    <string name="setting_fingerprint_title">Whakahohea te matimati</string>
+
+    <string name="setting_fingerprint_description">Whakarewahia te taupānga me to tapumati.</string>
+    <string name="setting_fingerprint_not_supported_title">Kaore i te tautokohia te matimati</string>
+
+    <string name="setting_fingerprint_not_supported_description">Kaore he taputapu a to taputapu</string>
+    <string name="setting_fingerprint_not_registered_title">Rēhita i to tapumati</string>
+
+    <string name="setting_fingerprint_not_registered_description">Haere ki nga tautuhinga ahuru</string>
+    <string name="next">Panuku</string>
+
+    <string name="permission_usage_access_title">Whakaaetanga urunga whakamahi</string>
+    <string name="permission_usage_access_description">Whakahohea te whakamahi i nga acces ki te whakamahi i te pouaka taputapu</string>
+
+    <string name="permission_overlay_title">Whakaaetanga raka mata</string>
+
+    <string name="settings_card_intruders_title">Hopukia te hunga whakauru</string>
+    <string name="settings_enable_intruders_title">Whakaahuatia te hunga whakauru</string>
+    <string name="settings_enable_intruders_description">Whakahohea kia mau ki nga kaiwhaiwhai.</string>
+
+    <string name="settings_intruders_folder_title">I hopukina nga whakaahua whakauru</string>
+    <string name="settings_intruders_folder_description">Patohia kia kite i nga tutei i runga i to waea.</string>
+
+    <string name="settings_card_advance_protection_title">Whakahaumaru Mua</string>
+    <string name="settings_enable_advance_protection_title">Whakahohea te tiaki i mua</string>
+    <string name="settings_enable_advance_protection_description">Hei whakahohe i te Whakamaaitanga Mua, me whakahohe i te App Lock Pro hei "kaiwhakahaere taputapu". Ka whakamahia noa hei aukati i te hunga whakauru mai ki te tango me te kaha ki te aukati i te App Lock Pro. Tena koa kia mohio kaore a App Lock Pro e whakamahi i tenei whakaaetanga kia uru atu ki o korero muna .</string>
+    <string name="device_admin_permission_description">Whakahohe inaianei, whakamarumaru whakamua me te haumaru! \n\nKia ahei ai te Whakahaumaru Mua, whakahohe mai i te App Lock Pro hei "kaiwhakahaere taputapu". Ka whakamahia noa hei aukati i nga hunga whakauru ki te tango i te tango me te kaha ki te aukati i te App Lock Pro. Tena koa kia kore e uru a App Lock Pro ki tenei whakaaetanga kia uru ki o raraunga muna.</string>
+
+
+    <string name="permission_overlay_description">Whakahohea te whakakikorua hei whakaatu i te mata raka.</string>
+    <string name="permission_toast_enable_permissions">Whakahohehia nga whakaaetanga ki te whakamahi i te pouaka taputapu</string>
+
+    <string name="draw_pattern_title">Hangaia he tauira hou</string>
+    <string name="redraw_pattern_title">Tuhia ano kia oti</string>
+
+    <string name="recreate_pattern_error">Kaore te tauira e taurite. Mahia ano.</string>
+
+    <string name="create_pattern_successful">I angitu te hanga.</string>
+    <string name="overlay_prompt_pattern_title">Tuhia he tauira hei whakatuwhera i te taupānga</string>
+    <string name="overlay_prompt_pattern_title_wrong">Tauira he. Tuhia ano.</string>
+    <string name="overlay_prompt_pattern_title_correct">Tauira tika.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Tuhia he tauira hei whakatuwhera i te taupānga</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Kaore + i taurite. + %1$s + toe.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">I hangai a matimati!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Hapa matihao! Whakamātauria te tauira.</string>
+    <string name="dialog_title_rate_us">I pai koe ki te Rohe Haumaru?</string>
+    <string name="dialog_description_rate_us">Ka tino harikoa matou ki te kiia koe e koe i te maakete.</string>
+    <string name="dialog_action_rate_us_rate">Whakatauranga</string>
+
+    <string name="dialog_action_rate_us_later">Ā muri ake</string>
+    <string name="dialog_title_usage_permission">Whakaaetanga Android 5.0</string>
+    <string name="dialog_description_usage_permission">I te Android 5.0 i runga ake ranei, me whakaae koe ki te urunga whakamahi
+        AppLocker, kia taea ai e koe te whakamahi i te Rohenga Haumaru Haumaru</string>
+    <string name="dialog_action_usage_permission_permit">Whakaaetanga</string>
+
+    <string name="dialog_action_usage_permission_cancel">Whakakore</string>
+    <string name="dialog_title_privacy_policy">Kaupapahere Tūmataiti</string>
+    <string name="dialog_description_privacy_policy">Kua whakahoutia e maatau taatau kaupapa here muna. Ma te haere tonu ka whakaae koe ki te<u> Kaupapahere Tūmataiti</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Whakaae</string>
+
+    <string name="hint_browser_search">Rapua ka whakauru ranei i te URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Whakatika</string>
+    <string name="title_browser_empty">Haumaru. Haumaru. Tuuru.</string>
+    <string name="subtitle_browser_empty">Ngaru i runga i te ipurangi. Haumaru.</string>
+    <string name="bookmarks">Tohuwāhi</string>
+    <string name="title_name_unknown_number">Tau Kaore e mohiotia</string>
+
+
+
+    <string name="blacklist_empty_title">Kua noho kau te Rarangi Pango</string>
+    <string name="blacklist_empty_description">Patohia ki te aukati i te nama waea</string>
+    <string name="call_log_empty_title">Karekau he Rangitaki</string>
+
+    <string name="call_log_empty_description">Ka puta mai te takiuru ka aukatihia te waea</string>
+    <string name="dialog_add_to_blacklist_title">Poraka nama waea</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Ingoa (Kōwhiri)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Whakauruhia te nama waea</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Whakakore</string>
+    <string name="dialog_black_list_delete_title">Mukua mai i te raarangi pango</string>
+    <string name="dialog_black_list_delete_description">Kei te hiahia koe ki te tango i te tau ārai mai i te raarangi pango?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Whakakore</string>
+    <string name="dialog_title_add_to_vault">Tukatuka</string>
+    <string name="dialog_description_process">Kei te tango o papaho mai i te whare taiwhanga ka taapiri atu ki to pouaka.</string>
+
+    <string name="dialog_title_removal_confirmation">Whakaaetanga Tango</string>
+    <string name="dialog_description_removal">Ka tangohia tenei konae mai i te pouaka ki te whare taonga.</string>
+    <string name="dialog_action_removal_confirmation_accept">Whakaae</string>
+
+    <string name="vault_photo_empty_page_title">Whakaahua Vault he kau</string>
+    <string name="vault_photo_empty_page_description">Taapirihia he ata hei huna i nga whakaahua mai i te taiwhanga</string>
+    <string name="vault_video_empty_page_title">Kei te putu te Vault Video</string>
+
+    <string name="vault_video_empty_page_description">Taapirihia te ata ki nga whakaahua ataata mai i te taiwhanga</string>
+    <string-array name="tabs">
+        <item>Haumarutanga</item>
+        <item>Tautuhinga</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Rarangi Pango</item>
+        <item>Karanga Rangitaki</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Whakaahua</item>
+        <item>Ataata</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Kaore he Kaipupuri i Mau</string>
+    <string name="empty_page_intruders_description">Kei te mau to waea!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Karangarangahia te Poraka</string>
+    <string name="browser">Pūtirotiro</string>
+    <string name="theme">Kaupapa</string>
+    <string name="rate_us">Whakatauria maatau</string>
+    <string name="removeads">Putanga moni</string>
+    <string name="enter_pin">Tomo titi</string>
+    <string name="pin_matched">I honoa a Pin</string>
+    <string name="confirm_pin">Whakaaetia te titi</string>
+    <string name="pin_chahnged">I pai te huri o te pine</string>
+    <string name="pin_not_matched">Kaore i taurite te titi</string>
+    <string name="incorrect_pin">Titi hē</string>
+    <string name="settings_set_pin">Tautuhi titi</string>
+    <string name="change_pin">Huri titi</string>
+    <string name="settings_set_pin_description">Tautuhia he pine hou</string>
+    <string name="create_new_pin">Hangaia he pine hou</string>
+    <string name="home">Kaainga</string>
+    <string name="settings_change_pin_description">Hurihia to pine kei i tenei waa</string>
+    <string name="message_pin_changed">I Angitu te Panoni</string>
+    <string name="non_protected">Kore Tiakina</string>
+    <string name="status_protected">Tiakina</string>
+    <string name="starting_hour">Haora timata</string>
+    <string name="ending_hour">Haora Whakamutunga</string>
+    <string name="auto_start_p">whakaaetanga oma-aunoa</string>
+    <string name="permission_usage_access_description1">whakatuwheratia te whiringa-a-aunoa</string>
+
+
+    <string name="privat_browser">Pūtirotiro Tūmataiti</string>
+    <string name="prem_title">Putanga Premium Ake Ake</string>
+    <string name="prem_no_ads">Kaore he Panui Ake Ake</string>
+    <string name="prem_restore">Whakaora Hoko</string>
+
+    <string name="please_give_us_five_stars">Tena koa hoatu ki a matou nga whetu e rima i runga i te Google Play! Ka nui to maatau maioha!</string>
+    <string name="great_tex">Pai rawa atu!</string>
+    <string name="choose_the_icon">Tohua te tohu ka whakarerekehia te ata tuuturu. Hunaia tenei taupānga mai i nga kaiwhaiwhai</string>
+    <string name="app_name1">Karaka</string>
+    <string name="app_name2">Mahere</string>
+    <string name="app_name3">Maramataka</string>
+    <string name="app_name4">Waiata</string>
+    <string name="app_name5">Tātaitai</string>
+
+    <string name="callblocker_black">Rarangi Pango</string>
+    <string name="callblocker_logs">Karangatia nga rakau</string>
+    <string name="icon_change_title">Ata</string>
+    <string name="intruders_title">Kaiuru</string>
+    <string name="intruders_access_apps">Whakauru atu ki nga taupānga me te whakamahinga</string>
+    <string name="main_unlocked">Wewete</string>
+    <string name="main_locked">Maukatia</string>
+    <string name="prem_not_sub">Ehara tenei i te ohaurunga. Kotahi noa te utu!</string>
+    <string name="prem_fake_icon">Ata Hake</string>
+    <string name="prem_intruders">Whakauru selfie</string>
+    <string name="prem_themes">Kaupapa auaha ake</string>
+    <string name="prem_one_time">Utu-Kotahi</string>
+    <string name="splash_create">I hangaia hei tiaki i to muna</string>
+    <string name="vault_photos">Whakaahua</string>
+    <string name="vault_videos">Ataata</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">Kei te hiahia muku i te whakaahua?</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="fragment_security_text">Opps! \n Kaore ano kia tutakina nga taupānga</string>
+    <string name="settings_security">Haumarutanga</string>
+    <string name="settings_face_icon">Ata Hake</string>
+    <string name="settings_face_icon_text">Ko te tohu taketake o tenei taupānga ka hurihia</string>
+    <string name="rate_us_enjoying">Kei te pai ki a koe a AppLock?</string>
+    <string name="rate_us_could_be">he pai ake pea</string>
+    <string name="menu_privacy">Kaupapahere Tūmataiti</string>
+    <string name="menu_contact">Whakapā Mai</string>
+    <string name="menu_face_icon">Ata Hake</string>
+    <string name="menu_intruder">Kaiwhakahaere Kaiuru</string>
+    <string name="menu_chat">Ruuma Korero</string>
+
+</resources>

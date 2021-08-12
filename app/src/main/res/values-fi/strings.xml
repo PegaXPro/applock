@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">asetukset</string>
+
+
+
+    <string name="share">Jaa</string>
+
+    <string name="notification_protecting_title">Suojaa sovelluksiasi</string>
+
+    <string name="notification_protecting_description">Lukitse sovelluksesi yksityisyyden suojaamiseksi.</string>
+
+    <string name="notification_permission_need_title">Ota suojauksen käyttöoikeus käyttöön</string>
+
+    <string name="notification_permission_need_description">Ota käyttöön käyttöoikeutesi käyttääksesi sovelluksen kaappia.</string>
+    <string name="you_accept_privacy_policy">Jatkamalla hyväksyt<u> Tietosuojakäytäntö</u> </string>
+
+    <string name="header_recommended_to_lock">Suositellaan lukittavaksi</string>
+    <string name="header_all_apps">Kaikki sovellukset</string>
+
+    <string name="title_general_settings">Kenraali</string>
+
+    <string name="title_lock_all">Lukitse kaikki</string>
+    <string name="description_lock_all">Tämä lukitsee kaikki sovelluksesi</string>
+
+
+    <string name="title_unlock_all">Avaa kaikki</string>
+
+    <string name="description_unlock_all">Tämä avaa kaikki sovelluksesi lukituksen</string>
+    <string name="settings_change_pattern_title">Vaihda kuvio</string>
+
+    <string name="settings_change_pattern_description">Muuta nykyistä malliasi</string>
+    <string name="message_pattern_changed">Kuviota muutettiin onnistuneesti</string>
+
+    <string name="setting_in_stealth_mode_title">Piilota piirustus</string>
+    <string name="setting_in_stealth_mode_description">Näkymätön kuvio piirrettäessä</string>
+    <string name="setting_fingerprint_title">Ota sormenjälki käyttöön</string>
+
+    <string name="setting_fingerprint_description">Käynnistä sovellus sormenjäljelläsi.</string>
+    <string name="setting_fingerprint_not_supported_title">Sormenjälkeä ei tueta</string>
+
+    <string name="setting_fingerprint_not_supported_description">Laitteessasi ei ole anturia</string>
+    <string name="setting_fingerprint_not_registered_title">Rekisteröi sormenjälkesi</string>
+
+    <string name="setting_fingerprint_not_registered_description">Siirry suojausasetuksiin</string>
+    <string name="next">Seuraava</string>
+
+    <string name="permission_usage_access_title">Käytä käyttöoikeutta</string>
+    <string name="permission_usage_access_description">Ota käyttöön käyttöoikeus käyttääksesi sovelluksen kaappia.</string>
+
+    <string name="permission_overlay_title">Lukitse näyttöoikeus</string>
+
+    <string name="settings_card_intruders_title">Saada tunkeilijoita</string>
+    <string name="settings_enable_intruders_title">Ota tunkeilijoiden kuva</string>
+    <string name="settings_enable_intruders_description">Ota kiinni tunkeilijoista.</string>
+
+    <string name="settings_intruders_folder_title">Siepattujen tunkeilijoiden valokuvia</string>
+    <string name="settings_intruders_folder_description">Napsauta nähdäksesi vakoojat puhelimessasi.</string>
+
+    <string name="settings_card_advance_protection_title">Ennakkosuoja</string>
+    <string name="settings_enable_advance_protection_title">Ota ennakkosuojaus käyttöön</string>
+    <string name="settings_enable_advance_protection_description">Ota ennakkosuojaus käyttöön aktivoimalla App Lock Pro "laitteen järjestelmänvalvojana". Sitä käytetään vain estämään tunkeilijoita poistamasta sovelluksia ja pakottamasta pysäyttämästä App Lock Pro -sovelluksia. .</string>
+    <string name="device_admin_permission_description">Aktivoi nyt, suojaa etukäteen ja turvallisemmin! \n\nOta ennakkosuojaus käyttöön aktivoimalla App Lock Pro "laitteen järjestelmänvalvojana". Sitä käytetään vain estämään tunkeilijoita poistamasta sovelluksia ja pakottamasta pysäyttämästä App Lock Prota. Varmista, että App Lock Pro ei koskaan käytä tätä lupaa käyttää yksityisyystietojasi.</string>
+
+
+    <string name="permission_overlay_description">Ota peittokuva käyttöön lukitusnäytön näyttämiseksi.</string>
+    <string name="permission_toast_enable_permissions">Salli käyttöoikeudet käyttää sovelluksen kaappia</string>
+
+    <string name="draw_pattern_title">Luo uusi malli</string>
+    <string name="redraw_pattern_title">Piirrä uudelleen loppuun</string>
+
+    <string name="recreate_pattern_error">Kuvio ei täsmää. Piirrä uudelleen.</string>
+
+    <string name="create_pattern_successful">Luotu onnistuneesti.</string>
+    <string name="overlay_prompt_pattern_title">Piirrä kuvio avataksesi sovelluksen</string>
+    <string name="overlay_prompt_pattern_title_wrong">Väärä kuvio. Piirrä uudelleen.</string>
+    <string name="overlay_prompt_pattern_title_correct">Kuvio oikea.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Piirrä kuvio avataksesi sovelluksen</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Ei + täsmää. + %1$s + jäljellä.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Sormenjälki täsmää!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Sormenjäljen virhe! Kokeile mallia.</string>
+    <string name="dialog_title_rate_us">Piditkö Secure Zonesta?</string>
+    <string name="dialog_description_rate_us">Olemme niin onnellisia, jos arvioit meitä markkinoilla.</string>
+    <string name="dialog_action_rate_us_rate">Hinta</string>
+
+    <string name="dialog_action_rate_us_later">Myöhemmin</string>
+    <string name="dialog_title_usage_permission">Android 5.0 -käyttöoikeus</string>
+    <string name="dialog_description_usage_permission">Android 5.0 tai uudempi, sinun on sallittava käyttöoikeus verkkotunnukselle
+        AppLocker, jotta voit käyttää Secure Zone -ominaisuutta</string>
+    <string name="dialog_action_usage_permission_permit">Lupa</string>
+
+    <string name="dialog_action_usage_permission_cancel">Peruuttaa</string>
+    <string name="dialog_title_privacy_policy">Tietosuojakäytäntö</string>
+    <string name="dialog_description_privacy_policy">Olemme päivittäneet tietosuojakäytäntömme. Jatkamalla hyväksyt<u> Tietosuojakäytäntö</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Hyväksyä</string>
+
+    <string name="hint_browser_search">Etsi tai kirjoita URL-osoite</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Viserrys</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Turvallinen, suojattu, yksityinen.</string>
+    <string name="subtitle_browser_empty">Surffaa Internetissä. Turvallisesti.</string>
+    <string name="bookmarks">Kirjanmerkit</string>
+    <string name="title_name_unknown_number">Tuntematon numero</string>
+
+
+
+    <string name="blacklist_empty_title">Musta lista on tyhjä</string>
+    <string name="blacklist_empty_description">Napsauta estääksesi puhelinnumeron</string>
+    <string name="call_log_empty_title">Ei lokeja</string>
+
+    <string name="call_log_empty_description">Loki näkyy tässä, kun puhelu on estetty</string>
+    <string name="dialog_add_to_blacklist_title">Estä puhelinnumero</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nimi (valinnainen)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Anna puhelinnumero</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Peruuttaa</string>
+    <string name="dialog_black_list_delete_title">Poista mustalta listalta</string>
+    <string name="dialog_black_list_delete_description">Haluatko poistaa estetyn numeron mustalta listalta?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Peruuttaa</string>
+    <string name="dialog_title_add_to_vault">Käsittely</string>
+    <string name="dialog_description_process">Mediasi poistetaan galleriasta ja lisätään holviisi.</string>
+
+    <string name="dialog_title_removal_confirmation">Poistovahvistus</string>
+    <string name="dialog_description_removal">Tämä tiedosto poistetaan holvista ja näytetään galleriassa.</string>
+    <string name="dialog_action_removal_confirmation_accept">Hyväksyä</string>
+
+    <string name="vault_photo_empty_page_title">Photo Holvi on tyhjä</string>
+    <string name="vault_photo_empty_page_description">Lisää kuvake piilottaaksesi valokuvat galleriasta</string>
+    <string name="vault_video_empty_page_title">Video Holvi on tyhjä</string>
+
+    <string name="vault_video_empty_page_description">Lisää kuvake gallerian videokuviin</string>
+    <string-array name="tabs">
+        <item>Turvallisuus</item>
+        <item>asetukset</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Musta lista</item>
+        <item>Puhelulokit</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Kuvat</item>
+        <item>Videot</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">Ei tunkeilijoita kiinni</string>
+    <string name="empty_page_intruders_description">Puhelimesi on suojattu!</string>
+    <string name="Vault">Holvi</string>
+    <string name="Call_blocker">Puhelun esto</string>
+    <string name="browser">Selain</string>
+    <string name="theme">Teemat</string>
+    <string name="rate_us">Anna meille arvosana</string>
+    <string name="removeads">Premium-versio</string>
+    <string name="enter_pin">Syötä tappi</string>
+    <string name="pin_matched">Pin sovittu</string>
+    <string name="confirm_pin">Vahvista tappi</string>
+    <string name="pin_chahnged">Tapin vaihto onnistui</string>
+    <string name="pin_not_matched">Nasta ei täsmää</string>
+    <string name="incorrect_pin">Väärä tappi</string>
+    <string name="settings_set_pin">Aseta tappi</string>
+    <string name="change_pin">Vaihda tappi</string>
+    <string name="settings_set_pin_description">Aseta uusi tappi</string>
+    <string name="create_new_pin">Luo uusi tappi</string>
+    <string name="home">Koti</string>
+    <string name="settings_change_pin_description">Vaihda nykyinen PIN-koodi</string>
+    <string name="message_pin_changed">Tappi vaihdettu onnistuneesti</string>
+    <string name="non_protected">Ei suojattu</string>
+    <string name="status_protected">Suojattu</string>
+    <string name="starting_hour">Aloitusaika</string>
+    <string name="ending_hour">Loppuaika</string>
+    <string name="auto_start_p">automaattinen käyttöoikeus</string>
+    <string name="permission_usage_access_description1">avaa automaattisen ajon vaihtoehto</string>
+
+
+    <string name="privat_browser">Yksityinen selain</string>
+    <string name="prem_title">Premium-versio ikuisesti</string>
+    <string name="prem_no_ads">Ei mainoksia ikuisesti</string>
+    <string name="prem_restore">Palauta osto</string>
+
+    <string name="please_give_us_five_stars">Anna meille viisi tähteä Google Playissa! Arvostamme sitä paljon!</string>
+    <string name="great_tex">Loistava!</string>
+    <string name="choose_the_icon">Valitse kuvake ja alkuperäinen kuvake muuttuu. Piilota tämä sovellus tunkeilijoilta</string>
+    <string name="app_name1">Kello</string>
+    <string name="app_name2">Kartat</string>
+    <string name="app_name3">Kalenteri</string>
+    <string name="app_name4">Musiikki</string>
+    <string name="app_name5">Laskin</string>
+
+    <string name="callblocker_black">Musta lista</string>
+    <string name="callblocker_logs">Puhelulokit</string>
+    <string name="icon_change_title">Kuvakkeet</string>
+    <string name="intruders_title">Tunkeilija</string>
+    <string name="intruders_access_apps">Käytä sovelluksia käytön avulla</string>
+    <string name="main_unlocked">Avattu</string>
+    <string name="main_locked">Lukittu</string>
+    <string name="prem_not_sub">Tämä ei ole tilaus. Maksat vain kerran!</string>
+    <string name="prem_fake_icon">Fake-kuvake</string>
+    <string name="prem_intruders">Tunkeilijan selfie</string>
+    <string name="prem_themes">Luovampia teemoja</string>
+    <string name="prem_one_time">Kertamaksu</string>
+    <string name="splash_create">Luotu suojaamaan yksityisyyttäsi</string>
+    <string name="vault_photos">Valokuvat</string>
+    <string name="vault_videos">Videot</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">Haluatko poistaa kuvan?</string>
+    <string name="btn_cancel">PERUUTTAA</string>
+    <string name="fragment_security_text">Hups! \n Sinulla ei ole vielä lukittuja sovelluksia</string>
+    <string name="settings_security">Turvallisuus</string>
+    <string name="settings_face_icon">Fake-kuvake</string>
+    <string name="settings_face_icon_text">Tämän sovelluksen alkuperäinen kuvake muuttuu</string>
+    <string name="rate_us_enjoying">Nautitko AppLockista?</string>
+    <string name="rate_us_could_be">voisi olla parempi</string>
+    <string name="menu_privacy">Tietosuojakäytäntö</string>
+    <string name="menu_contact">Ota meihin yhteyttä</string>
+    <string name="menu_face_icon">Fake-kuvake</string>
+    <string name="menu_intruder">Tunkeilijapäällikkö</string>
+    <string name="menu_chat">Chattihuone</string>
+</resources>

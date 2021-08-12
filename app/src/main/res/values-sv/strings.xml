@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">inställningar</string>
+
+  
+
+    <string name="share">Dela med sig</string>
+
+    <string name="notification_protecting_title">Skydda dina appar</string>
+
+    <string name="notification_protecting_description">Lås dina appar för att skydda din integritet.</string>
+
+    <string name="notification_permission_need_title">Aktivera tillstånd för skydd</string>
+
+    <string name="notification_permission_need_description">Aktivera dina behörigheter att använda applås.</string>
+    <string name="you_accept_privacy_policy">Genom att fortsätta godkänner du<u> Integritetspolicy</u> </string>
+
+    <string name="header_recommended_to_lock">Rekommenderas att låsa</string>
+    <string name="header_all_apps">Alla applikationer</string>
+
+    <string name="title_general_settings">Allmän</string>
+
+    <string name="title_lock_all">Lås allt</string>
+    <string name="description_lock_all">Detta låser alla dina appar</string>
+
+ 
+    <string name="title_unlock_all">Lås upp alla</string>
+
+    <string name="description_unlock_all">Detta låser upp alla dina appar</string>
+    <string name="settings_change_pattern_title">Ändra mönster</string>
+
+    <string name="settings_change_pattern_description">Ändra ditt befintliga mönster</string>
+    <string name="message_pattern_changed">Mönstret ändrades framgångsrikt</string>
+
+    <string name="setting_in_stealth_mode_title">Dölj ritning</string>
+    <string name="setting_in_stealth_mode_description">Osynligt mönster när du ritar</string>
+    <string name="setting_fingerprint_title">Aktivera fingeravtryck</string>
+
+    <string name="setting_fingerprint_description">Starta appen med ditt fingeravtryck.</string>
+    <string name="setting_fingerprint_not_supported_title">Fingeravtryck stöds inte</string>
+
+    <string name="setting_fingerprint_not_supported_description">Enheten har ingen sensor</string>
+    <string name="setting_fingerprint_not_registered_title">Registrera ditt fingeravtryck</string>
+
+    <string name="setting_fingerprint_not_registered_description">Gå till säkerhetsinställningar</string>
+    <string name="next">Nästa</string>
+
+    <string name="permission_usage_access_title">Behörighet att använda åtkomst</string>
+    <string name="permission_usage_access_description">Aktivera användartillgångar för att använda applås.</string>
+
+    <string name="permission_overlay_title">Låsskärmstillstånd</string>
+
+    <string name="settings_card_intruders_title">Fånga inkräktare</string>
+    <string name="settings_enable_intruders_title">Ta en inkräktare bild</string>
+    <string name="settings_enable_intruders_description">Aktivera att fånga inkräktare.</string>
+
+    <string name="settings_intruders_folder_title">Fångade inkräktarfoton</string>
+    <string name="settings_intruders_folder_description">Klicka för att se spioner på din telefon.</string>
+
+    <string name="settings_card_advance_protection_title">Förskottsskydd</string>
+    <string name="settings_enable_advance_protection_title">Aktivera förhandsskydd</string>
+    <string name="settings_enable_advance_protection_description">För att aktivera Advance Protection, vänligen aktivera App Lock Pro som "enhetsadministratör". Det används endast för att förhindra inkräktare att avinstallera och tvinga att stoppa App Lock Pro. Se till att App Lock Pro aldrig kommer att använda denna behörighet för att komma åt din integritetsinformation .</string>
+    <string name="device_admin_permission_description">Aktivera nu, förskydd och säkrare! \n\nFör att aktivera Advance Protection, vänligen aktivera App Lock Pro som "enhetsadministratör". Det används endast för att förhindra inkräktare att avinstallera och tvinga stopp av App Lock Pro. Se till att App Lock Pro aldrig kommer att använda detta tillstånd för att få tillgång till dina sekretessuppgifter.</string>
+
+
+    <string name="permission_overlay_description">Aktivera överlägg för att visa låsskärmen.</string>
+    <string name="permission_toast_enable_permissions">Aktivera behörigheter för att använda applås</string>
+
+    <string name="draw_pattern_title">Skapa ett nytt mönster</string>
+    <string name="redraw_pattern_title">Rita om för att slutföra</string>
+
+    <string name="recreate_pattern_error">Mönstret matchar inte. Rita om.</string>
+
+    <string name="create_pattern_successful">Framgångsrikt skapat.</string>
+    <string name="overlay_prompt_pattern_title">Rita mönster för att öppna appen</string>
+    <string name="overlay_prompt_pattern_title_wrong">Fel mönster. Rita igen.</string>
+    <string name="overlay_prompt_pattern_title_correct">Mönster korrekt.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Rita mönster för att öppna appen</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Inte + matchade. + %1$s + kvar.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Matchat fingeravtryck!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Fingeravtryck fel! Prova mönster.</string>
+    <string name="dialog_title_rate_us">Gillade du Secure Zone?</string>
+    <string name="dialog_description_rate_us">Vi blir sååå glada om du betygsätter oss på marknaden.</string>
+    <string name="dialog_action_rate_us_rate">Betygsätta</string>
+
+    <string name="dialog_action_rate_us_later">Senare</string>
+    <string name="dialog_title_usage_permission">Android 5.0-tillstånd</string>
+    <string name="dialog_description_usage_permission">I Android 5.0 eller senare måste du tillåta åtkomst till användning för
+        AppLocker, så att du kan använda Secure Zone Feature</string>
+    <string name="dialog_action_usage_permission_permit">Tillåta</string>
+
+    <string name="dialog_action_usage_permission_cancel">Avbryt</string>
+    <string name="dialog_title_privacy_policy">Integritetspolicy</string>
+    <string name="dialog_description_privacy_policy">Vi har uppdaterat vår integritetspolicy. Genom att fortsätta godkänner du<u> Integritetspolicy</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Acceptera</string>
+
+    <string name="hint_browser_search">Sök eller ange URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Säker. Säker. Privat.</string>
+    <string name="subtitle_browser_empty">Surfa på internet. Säkert.</string>
+    <string name="bookmarks">Bokmärken</string>
+    <string name="title_name_unknown_number">Okänt nummer</string>
+
+
+
+    <string name="blacklist_empty_title">Svartlistan är tom</string>
+    <string name="blacklist_empty_description">Klicka för att blockera telefonnummer</string>
+    <string name="call_log_empty_title">Inga loggar</string>
+
+    <string name="call_log_empty_description">Logg visas här när samtalet blockeras</string>
+    <string name="dialog_add_to_blacklist_title">Blockera telefonnummer</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Namn (valfritt)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Skriv in telefonnummer</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Avbryt</string>
+    <string name="dialog_black_list_delete_title">Ta bort från svartlistan</string>
+    <string name="dialog_black_list_delete_description">Vill du ta bort blockerat nummer från svart lista?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Avbryt</string>
+    <string name="dialog_title_add_to_vault">Bearbetning</string>
+    <string name="dialog_description_process">Ditt media tas bort från galleriet och lägger till ditt valv.</string>
+
+    <string name="dialog_title_removal_confirmation">Bekräftelse på borttagning</string>
+    <string name="dialog_description_removal">Den här filen tas bort från valvet och visas i galleriet.</string>
+    <string name="dialog_action_removal_confirmation_accept">Acceptera</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault är tomt</string>
+    <string name="vault_photo_empty_page_description">Lägg till ikon för att dölja foton från galleriet</string>
+    <string name="vault_video_empty_page_title">Video Vault är tomt</string>
+
+    <string name="vault_video_empty_page_description">Lägg till ikon i videofoton från galleriet</string>
+    <string-array name="tabs">
+        <item>säkerhet</item>
+        <item>inställningar</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Svartlista</item>
+        <item>Samtalsloggar</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Bilder</item>
+        <item>videoklipp</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Inga inkräktare fångade</string>
+    <string name="empty_page_intruders_description">Din telefon är säker!</string>
+    <string name="Vault">Valv</string>
+    <string name="Call_blocker">Samtalsspärr</string>
+    <string name="browser">Webbläsare</string>
+    <string name="theme">Teman</string>
+    <string name="rate_us">Gradera oss</string>
+    <string name="removeads">Premiumversion</string>
+    <string name="enter_pin">Ange stift</string>
+    <string name="pin_matched">Stift matchat</string>
+    <string name="confirm_pin">Bekräfta stift</string>
+    <string name="pin_chahnged">Pin ändrades framgångsrikt</string>
+    <string name="pin_not_matched">Nålen matchas inte</string>
+    <string name="incorrect_pin">Fel stift</string>
+    <string name="settings_set_pin">Ställ in stift</string>
+    <string name="change_pin">Byt stift</string>
+    <string name="settings_set_pin_description">Ställ in ny stift</string>
+    <string name="create_new_pin">Skapa en ny stift</string>
+    <string name="home">Hem</string>
+    <string name="settings_change_pin_description">Ändra din befintliga stift</string>
+    <string name="message_pin_changed">Pin har ändrats framgångsrikt</string>
+    <string name="non_protected">Ej skyddad</string>
+    <string name="status_protected">Skyddad</string>
+    <string name="starting_hour">Starttid</string>
+    <string name="ending_hour">Avslutande timme</string>
+    <string name="auto_start_p">autokörningsbehörighet</string>
+    <string name="permission_usage_access_description1">öppna alternativet för automatisk körning</string>
+
+
+    <string name="privat_browser">Privat webbläsare</string>
+    <string name="prem_title">Premiumversion för alltid</string>
+    <string name="prem_no_ads">Inga annonser för alltid</string>
+    <string name="prem_restore">Återställa köp</string>
+
+    <string name="please_give_us_five_stars">Snälla ge oss fem stjärnor på Google Play! Vi skulle uppskatta det mycket!</string>
+    <string name="great_tex">Bra!</string>
+    <string name="choose_the_icon">Välj ikonen och originalikonen ändras. Dölj den här appen från inkräktare</string>
+    <string name="app_name1">Klocka</string>
+    <string name="app_name2">Kartor</string>
+    <string name="app_name3">Kalender</string>
+    <string name="app_name4">musik</string>
+    <string name="app_name5">Kalkylator</string>
+
+    <string name="callblocker_black">Svart lista</string>
+    <string name="callblocker_logs">Samtalsloggar</string>
+    <string name="icon_change_title">Ikoner</string>
+    <string name="intruders_title">Inkräktare</string>
+    <string name="intruders_access_apps">Få åtkomst till appar med användning</string>
+    <string name="main_unlocked">Olåst</string>
+    <string name="main_locked">Låst</string>
+    <string name="prem_not_sub">Detta är inte en prenumeration. Du betalar bara en gång!</string>
+    <string name="prem_fake_icon">Falsk ikon</string>
+    <string name="prem_intruders">Inbrottselfie</string>
+    <string name="prem_themes">Mer kreativa teman</string>
+    <string name="prem_one_time">Engångsbetalning</string>
+    <string name="splash_create">Skapad för att skydda din integritet</string>
+    <string name="vault_photos">Foton</string>
+    <string name="vault_videos">videoklipp</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">Vill du radera fotot?</string>
+    <string name="btn_cancel">AVBRYT</string>
+    <string name="fragment_security_text">Opps! \n Du har inte låsta appar än</string>
+    <string name="settings_security">säkerhet</string>
+    <string name="settings_face_icon">Falsk ikon</string>
+    <string name="settings_face_icon_text">Den ursprungliga ikonen för den här appen kommer att ändras</string>
+    <string name="rate_us_enjoying">Tycker du om AppLock?</string>
+    <string name="rate_us_could_be">det kunde vara bättre</string>
+    <string name="menu_privacy">Integritetspolicy</string>
+    <string name="menu_contact">Kontakta oss</string>
+    <string name="menu_face_icon">Falsk ikon</string>
+    <string name="menu_intruder">Inbrottschef</string>
+    <string name="menu_chat">Chattrum</string>
+
+</resources>

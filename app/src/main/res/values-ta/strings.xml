@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">ஆப்லாக்</string>
+
+    <string name="action_settings">அமைப்புகள்</string>
+
+  
+
+    <string name="share">பகிர்</string>
+
+    <string name="notification_protecting_title">உங்கள் பயன்பாடுகளைப் பாதுகாக்கிறது</string>
+
+    <string name="notification_protecting_description">உங்கள் தனியுரிமையைப் பாதுகாக்க உங்கள் பயன்பாடுகளைப் பூட்டவும்.</string>
+
+    <string name="notification_permission_need_title">பாதுகாப்பிற்கான அனுமதியை இயக்கு</string>
+
+    <string name="notification_permission_need_description">பயன்பாட்டு லாக்கரைப் பயன்படுத்த உங்கள் அனுமதிகளை இயக்கவும்.</string>
+    <string name="you_accept_privacy_policy">தொடர்வதன் மூலம் நீங்கள் ஒப்புக்கொள்கிறீர்கள்<u> தனியுரிமைக் கொள்கை</u> </string>
+
+    <string name="header_recommended_to_lock">பூட்ட பரிந்துரைக்கப்படுகிறது</string>
+    <string name="header_all_apps">அனைத்து பயன்பாடுகளும்</string>
+
+    <string name="title_general_settings">பொது</string>
+
+    <string name="title_lock_all">அனைத்தையும் பூட்டு</string>
+    <string name="description_lock_all">இது உங்கள் எல்லா பயன்பாடுகளையும் பூட்டுகிறது</string>
+
+ 
+    <string name="title_unlock_all">அனைத்தையும் திற</string>
+
+    <string name="description_unlock_all">இது உங்கள் எல்லா பயன்பாடுகளையும் திறக்கும்</string>
+    <string name="settings_change_pattern_title">வடிவத்தை மாற்று</string>
+
+    <string name="settings_change_pattern_description">உங்கள் இருக்கும் வடிவத்தை மாற்றவும்</string>
+    <string name="message_pattern_changed">முறை வெற்றிகரமாக மாற்றப்பட்டது</string>
+
+    <string name="setting_in_stealth_mode_title">வரைதல் மறைக்க</string>
+    <string name="setting_in_stealth_mode_description">வரைதல் போது கண்ணுக்கு தெரியாத முறை</string>
+    <string name="setting_fingerprint_title">கைரேகையை இயக்கவும்</string>
+
+    <string name="setting_fingerprint_description">உங்கள் கைரேகை மூலம் பயன்பாட்டைத் தொடங்கவும்.</string>
+    <string name="setting_fingerprint_not_supported_title">கைரேகை ஆதரிக்கப்படவில்லை</string>
+
+    <string name="setting_fingerprint_not_supported_description">உங்கள் சாதனத்தில் சென்சார் இல்லை</string>
+    <string name="setting_fingerprint_not_registered_title">உங்கள் கைரேகையை பதிவு செய்யுங்கள்</string>
+
+    <string name="setting_fingerprint_not_registered_description">பாதுகாப்பு அமைப்புகளுக்குச் செல்லவும்</string>
+    <string name="next">அடுத்தது</string>
+
+    <string name="permission_usage_access_title">பயன்பாட்டு அணுகல் அனுமதி</string>
+    <string name="permission_usage_access_description">பயன்பாட்டு லாக்கரைப் பயன்படுத்த பயன்பாட்டு செயல்களை இயக்கவும்.</string>
+
+    <string name="permission_overlay_title">பூட்டு திரை அனுமதி</string>
+
+    <string name="settings_card_intruders_title">ஊடுருவும் நபர்களைப் பிடிக்கவும்</string>
+    <string name="settings_enable_intruders_title">ஊடுருவும் படத்தை எடுத்துக் கொள்ளுங்கள்</string>
+    <string name="settings_enable_intruders_description">ஊடுருவும் நபர்களை பிடிக்க இயக்கவும்.</string>
+
+    <string name="settings_intruders_folder_title">ஊடுருவும் புகைப்படங்களைப் பிடித்தது</string>
+    <string name="settings_intruders_folder_description">உங்கள் தொலைபேசியில் ஒற்றர்களைக் காண கிளிக் செய்க.</string>
+
+    <string name="settings_card_advance_protection_title">அட்வான்ஸ் பாதுகாப்பு</string>
+    <string name="settings_enable_advance_protection_title">முன்கூட்டியே பாதுகாப்பை இயக்கு</string>
+    <string name="settings_enable_advance_protection_description">அட்வான்ஸ் பாதுகாப்பை இயக்க, தயவுசெய்து பயன்பாட்டு பூட்டு புரோவை "சாதன நிர்வாகி" ஆக செயல்படுத்தவும் .இது ஊடுருவும் நபர்களை நிறுவல் நீக்குவதைத் தடுக்கவும், பயன்பாட்டு பூட்டு புரோவை கட்டாயப்படுத்தவும் மட்டுமே பயன்படுத்தப்படுகிறது. தயவுசெய்து உங்கள் தனியுரிமை தரவை அணுக பயன்பாட்டு பூட்டு புரோ இந்த அனுமதியைப் பயன்படுத்தாது என்பதை உறுதிப்படுத்தவும். .</string>
+    <string name="device_admin_permission_description">இப்போது செயல்படுத்தவும், முன்கூட்டியே பாதுகாப்பு மற்றும் மிகவும் பாதுகாப்பானது! Advan n \nஅட்வான்ஸ் பாதுகாப்பை இயக்க, தயவுசெய்து பயன்பாட்டு பூட்டு புரோவை "சாதன நிர்வாகி" ஆக செயல்படுத்தவும் .இது ஊடுருவும் நபர்களை நிறுவல் நீக்குவதைத் தடுக்கவும், பயன்பாட்டு பூட்டு புரோவை கட்டாயப்படுத்தவும் தடுக்க மட்டுமே பயன்படுத்தப்படுகிறது. தயவுசெய்து பயன்பாட்டு பூட்டு புரோ இந்த அனுமதியை ஒருபோதும் பயன்படுத்தாது என்பதை உறுதிப்படுத்தவும். உங்கள் தனியுரிமை தரவை அணுகவும்.</string>
+
+
+    <string name="permission_overlay_description">பூட்டுத் திரையைக் காண்பிக்க மேலடுக்கை இயக்கவும்.</string>
+    <string name="permission_toast_enable_permissions">பயன்பாட்டு லாக்கரைப் பயன்படுத்த அனுமதிகளை இயக்கவும்</string>
+
+    <string name="draw_pattern_title">புதிய வடிவத்தை உருவாக்கவும்</string>
+    <string name="redraw_pattern_title">முடிக்க மீண்டும் வரையவும்</string>
+
+    <string name="recreate_pattern_error">முறை பொருந்தவில்லை. மீண்டும் வரைய.</string>
+
+    <string name="create_pattern_successful">வெற்றிகரமாக உருவாக்கப்பட்டது.</string>
+    <string name="overlay_prompt_pattern_title">பயன்பாட்டைத் திறக்க வடிவத்தை வரையவும்</string>
+    <string name="overlay_prompt_pattern_title_wrong">தவறான முறை. மீண்டும் வரையவும்.</string>
+    <string name="overlay_prompt_pattern_title_correct">முறை சரியானது.</string>
+
+    <string name="overlay_prompt_fingerprint_title">பயன்பாட்டைத் திறக்க வடிவத்தை வரையவும்</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ பொருந்தவில்லை. + %1$s + இடது.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">கைரேகை பொருந்தியது!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">கைரேகை பிழை! முறை முயற்சிக்கவும்.</string>
+    <string name="dialog_title_rate_us">நீங்கள் பாதுகாப்பான மண்டலத்தை விரும்பினீர்களா?</string>
+    <string name="dialog_description_rate_us">நீங்கள் சந்தையில் எங்களை மதிப்பிட்டால் நாங்கள் மிகவும் மகிழ்ச்சியாக இருப்போம்.</string>
+    <string name="dialog_action_rate_us_rate">விகிதம்</string>
+
+    <string name="dialog_action_rate_us_later">பின்னர்</string>
+    <string name="dialog_title_usage_permission">Android 5.0 அனுமதி</string>
+    <string name="dialog_description_usage_permission">Android 5.0 அல்லது அதற்கு மேற்பட்டவற்றில், பயன்பாட்டு அணுகலை நீங்கள் அனுமதிக்க வேண்டும்
+        AppLocker, இதன் மூலம் நீங்கள் பாதுகாப்பான மண்டல அம்சத்தைப் பயன்படுத்தலாம்</string>
+    <string name="dialog_action_usage_permission_permit">அனுமதி</string>
+
+    <string name="dialog_action_usage_permission_cancel">ரத்துசெய்</string>
+    <string name="dialog_title_privacy_policy">தனியுரிமைக் கொள்கை</string>
+    <string name="dialog_description_privacy_policy">எங்கள் தனியுரிமைக் கொள்கையை நாங்கள் புதுப்பித்துள்ளோம். தொடர்வதன் மூலம் நீங்கள் ஒப்புக்கொள்கிறீர்கள்<u> தனியுரிமைக் கொள்கை</u> </string>
+    <string name="dialog_action_privacy_policy_accept">ஏற்றுக்கொள்</string>
+
+    <string name="hint_browser_search">URL ஐத் தேடவும் அல்லது உள்ளிடவும்</string>
+    <string name="facebook">முகநூல்</string>
+
+    <string name="twitter">ட்விட்டர்</string>
+
+    <string name="snapchat">ஸ்னாப்சாட்</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">ரெடிட்</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">இணையத்தில் உலாவவும். பாதுகாப்பாக.</string>
+    <string name="bookmarks">புக்மார்க்குகள்</string>
+    <string name="title_name_unknown_number">தெரியாத எண்</string>
+
+
+
+    <string name="blacklist_empty_title">தடுப்புப்பட்டியல் காலியாக உள்ளது</string>
+    <string name="blacklist_empty_description">தொலைபேசி எண்ணைத் தடுக்க கிளிக் செய்க</string>
+    <string name="call_log_empty_title">பதிவுகள் இல்லை</string>
+
+    <string name="call_log_empty_description">அழைப்பு தடுக்கப்படும்போது பதிவு இங்கே தோன்றும்</string>
+    <string name="dialog_add_to_blacklist_title">தொலைபேசி எண்ணைத் தடு</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">பெயர் (விரும்பினால்)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">தொலைபேசி எண்ணை உள்ளிடவும்</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">ரத்துசெய்</string>
+    <string name="dialog_black_list_delete_title">தடுப்புப்பட்டியலில் இருந்து நீக்கு</string>
+    <string name="dialog_black_list_delete_description">தடுக்கப்பட்ட எண்ணை கருப்பு பட்டியலிலிருந்து அகற்ற விரும்புகிறீர்களா?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">ரத்துசெய்</string>
+    <string name="dialog_title_add_to_vault">செயலாக்கம்</string>
+    <string name="dialog_description_process">உங்கள் மீடியா கேலரியில் இருந்து அகற்றி உங்கள் பெட்டகத்தை சேர்க்கிறது.</string>
+
+    <string name="dialog_title_removal_confirmation">அகற்றுதல் உறுதிப்படுத்தல்</string>
+    <string name="dialog_description_removal">இந்த கோப்பு பெட்டகத்திலிருந்து அகற்றப்பட்டு கேலரியில் காண்பிக்கப்படும்.</string>
+    <string name="dialog_action_removal_confirmation_accept">ஏற்றுக்கொள்</string>
+
+    <string name="vault_photo_empty_page_title">புகைப்பட வால்ட் காலியாக உள்ளது</string>
+    <string name="vault_photo_empty_page_description">கேலரியில் இருந்து புகைப்படங்களை மறைக்க ஐகானைச் சேர்க்கவும்</string>
+    <string name="vault_video_empty_page_title">வீடியோ வால்ட் காலியாக உள்ளது</string>
+
+    <string name="vault_video_empty_page_description">கேலரியில் இருந்து வீடியோ புகைப்படங்களுக்கு ஐகானைச் சேர்க்கவும்</string>
+    <string-array name="tabs">
+        <item>பாதுகாப்பு</item>
+        <item>அமைப்புகள்</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>தடுப்புப்பட்டியல்</item>
+        <item>அழைப்பு பதிவுகள்</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>படங்கள்</item>
+        <item>வீடியோக்கள்</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">ஊடுருவும் நபர்கள் பிடிக்கப்படவில்லை</string>
+    <string name="empty_page_intruders_description">உங்கள் தொலைபேசி பாதுகாப்பானது!</string>
+    <string name="Vault">வால்ட்</string>
+    <string name="Call_blocker">ப்ளாக்கரை அழைக்கவும்</string>
+    <string name="browser">உலாவி</string>
+    <string name="theme">தீம்கள்</string>
+    <string name="rate_us">எங்களை மதிப்பிடு</string>
+    <string name="removeads">பிரீமியம் பதிப்பு</string>
+    <string name="enter_pin">முள் உள்ளிடவும்</string>
+    <string name="pin_matched">முள் பொருந்தியது</string>
+    <string name="confirm_pin">முள் உறுதிப்படுத்தவும்</string>
+    <string name="pin_chahnged">முள் வெற்றிகரமாக மாற்றப்பட்டது</string>
+    <string name="pin_not_matched">முள் பொருந்தவில்லை</string>
+    <string name="incorrect_pin">தவறான முள்</string>
+    <string name="settings_set_pin">முள் அமை</string>
+    <string name="change_pin">முள் மாற்று</string>
+    <string name="settings_set_pin_description">புதிய முள் அமைக்கவும்</string>
+    <string name="create_new_pin">புதிய முள் உருவாக்கவும்</string>
+    <string name="home">வீடு</string>
+    <string name="settings_change_pin_description">உங்கள் இருக்கும் முள் மாற்றவும்</string>
+    <string name="message_pin_changed">முள் வெற்றிகரமாக மாற்றப்பட்டது</string>
+    <string name="non_protected">பாதுகாக்கப்படாதது</string>
+    <string name="status_protected">பாதுகாக்கப்படுகிறது</string>
+    <string name="starting_hour">தொடக்க நேரம்</string>
+    <string name="ending_hour">முடிவடையும் நேரம்</string>
+    <string name="auto_start_p">தானாக இயக்க அனுமதி</string>
+    <string name="permission_usage_access_description1">தானாக இயங்கும் விருப்பத்தைத் திறக்கவும்</string>
+
+
+    <string name="privat_browser">தனியார் உலாவி</string>
+    <string name="prem_title">பிரீமியம் பதிப்பு எப்போதும்</string>
+    <string name="prem_no_ads">எப்போதும் AD கள் இல்லை</string>
+    <string name="prem_restore">கொள்முதலை மீட்டமை</string>
+
+    <string name="please_give_us_five_stars">பிளேமார்க்கெட்டில் எங்களுக்கு ஐந்து நட்சத்திரங்களைக் கொடுங்கள்! நாங்கள் அதை மிகவும் பாராட்டுகிறோம்!</string>
+    <string name="great_tex">நன்று!</string>
+    <string name="choose_the_icon">ஐகானைத் தேர்வுசெய்து அசல் ஐகான் மாற்றப்படும். ஊடுருவும் நபர்களிடமிருந்து இந்த பயன்பாட்டை மறைக்கவும்</string>
+    <string name="app_name1">கடிகாரம்</string>
+    <string name="app_name2">வரைபடங்கள்</string>
+    <string name="app_name3">நாட்காட்டி</string>
+    <string name="app_name4">இசை</string>
+    <string name="app_name5">கால்குலேட்டர்</string>
+
+    <string name="callblocker_black">கருப்பு பட்டியல்</string>
+    <string name="callblocker_logs">அழைப்பு பதிவுகள்</string>
+    <string name="icon_change_title">சின்னங்கள்</string>
+    <string name="intruders_title">ஊடுருவும்</string>
+    <string name="intruders_access_apps">பயன்பாட்டுடன் பயன்பாடுகளை அணுகவும்</string>
+    <string name="main_unlocked">திறக்கப்பட்டது</string>
+    <string name="main_locked">பூட்டப்பட்டுள்ளது</string>
+    <string name="prem_not_sub">இது சந்தா அல்ல. நீங்கள் ஒரு முறை மட்டுமே செலுத்துகிறீர்கள்!</string>
+    <string name="prem_fake_icon">போலி ஐகான்</string>
+    <string name="prem_intruders">ஊடுருவும் செல்பி</string>
+    <string name="prem_themes">மேலும் படைப்பு கருப்பொருள்கள்</string>
+    <string name="prem_one_time">ஒரு முறை கட்டணம்</string>
+    <string name="splash_create">உங்கள் தனியுரிமையைப் பாதுகாக்க உருவாக்கப்பட்டது</string>
+    <string name="vault_photos">புகைப்படங்கள்</string>
+    <string name="vault_videos">வீடியோக்கள்</string>
+    <string name="btn_ok">சரி</string>
+    <string name="dialog_intruder_text">புகைப்படத்தை நீக்க விரும்புகிறீர்களா?</string>
+    <string name="btn_cancel">ரத்துசெய்</string>
+    <string name="fragment_security_text">Opps! \n உங்களிடம் இன்னும் பூட்டப்பட்ட பயன்பாடுகள் இல்லை</string>
+    <string name="settings_security">பாதுகாப்பு</string>
+    <string name="settings_face_icon">போலி ஐகான்</string>
+    <string name="settings_face_icon_text">இந்த பயன்பாட்டின் அசல் ஐகான் மாற்றப்படும்</string>
+    <string name="rate_us_enjoying">நீங்கள் ஆப்லாக் ரசிக்கிறீர்களா?</string>
+    <string name="rate_us_could_be">இன்னும் நன்றாக இருக்கலாம்</string>
+    <string name="menu_privacy">தனியுரிமைக் கொள்கை</string>
+    <string name="menu_contact">எங்களை தொடர்பு கொள்ள</string>
+    <string name="menu_face_icon">போலி ஐகான்</string>
+    <string name="menu_intruder">ஊடுருவும் மேலாளர்</string>
+    <string name="menu_chat">அரட்டை அறை</string>
+
+</resources>

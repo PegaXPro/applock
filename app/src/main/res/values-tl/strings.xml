@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Mga setting</string>
+
+  
+
+    <string name="share">Magbahagi</string>
+
+    <string name="notification_protecting_title">Pagprotekta sa iyong mga app</string>
+
+    <string name="notification_protecting_description">I-lock ang iyong mga app upang maprotektahan ang iyong privacy.</string>
+
+    <string name="notification_permission_need_title">Paganahin ang pahintulot sa proteksyon</string>
+
+    <string name="notification_permission_need_description">Mangyaring paganahin ang iyong mga pahintulot na gumamit ng locker ng app.</string>
+    <string name="you_accept_privacy_policy">Sa pagpapatuloy sumasang-ayon ka sa<u> Patakaran sa Pagkapribado</u> </string>
+
+    <string name="header_recommended_to_lock">Inirekumenda upang i-lock</string>
+    <string name="header_all_apps">Lahat ng mga application</string>
+
+    <string name="title_general_settings">Pangkalahatan</string>
+
+    <string name="title_lock_all">Lock lahat</string>
+    <string name="description_lock_all">I-lock nito ang lahat ng iyong apps</string>
+
+ 
+    <string name="title_unlock_all">I-unlock lahat</string>
+
+    <string name="description_unlock_all">Ini-unlock nito ang lahat ng iyong mga app</string>
+    <string name="settings_change_pattern_title">Baguhin ang pattern</string>
+
+    <string name="settings_change_pattern_description">Baguhin ang mayroon nang pattern</string>
+    <string name="message_pattern_changed">Matagumpay na nagbago ang pattern</string>
+
+    <string name="setting_in_stealth_mode_title">Itago ang pagguhit</string>
+    <string name="setting_in_stealth_mode_description">Hindi nakikita ang pattern habang gumuhit</string>
+    <string name="setting_fingerprint_title">Paganahin ang fingerprint</string>
+
+    <string name="setting_fingerprint_description">Ilunsad ang app gamit ang iyong fingerprint.</string>
+    <string name="setting_fingerprint_not_supported_title">Hindi suportado ang fingerprint</string>
+
+    <string name="setting_fingerprint_not_supported_description">Walang sensor ang iyong aparato</string>
+    <string name="setting_fingerprint_not_registered_title">Irehistro ang iyong fingerprint</string>
+
+    <string name="setting_fingerprint_not_registered_description">Pumunta sa mga setting ng seguridad</string>
+    <string name="next">Susunod</string>
+
+    <string name="permission_usage_access_title">Pahintulot sa pag-access sa paggamit</string>
+    <string name="permission_usage_access_description">Paganahin ang mga acces ng paggamit upang magamit ang locker ng app.</string>
+
+    <string name="permission_overlay_title">Pahintulot sa lock screen</string>
+
+    <string name="settings_card_intruders_title">Makibalita Mga Nanghihimasok</string>
+    <string name="settings_enable_intruders_title">Kunan ng larawan ang mga nanghihimasok</string>
+    <string name="settings_enable_intruders_description">Paganahin upang mahuli ang mga nanghihimasok.</string>
+
+    <string name="settings_intruders_folder_title">Nakakuha ng mga nanghihimasok na larawan</string>
+    <string name="settings_intruders_folder_description">Mag-click upang makita ang mga tiktik sa iyong telepono.</string>
+
+    <string name="settings_card_advance_protection_title">Paunang Proteksyon</string>
+    <string name="settings_enable_advance_protection_title">Paganahin ang paunang proteksyon</string>
+    <string name="settings_enable_advance_protection_description">Upang paganahin ang Advance Protection, mangyaring i-aktibo ang App Lock Pro bilang "administrator ng aparato". Ginagamit lamang ito para mapigilan ang mga nanghihimasok na i-uninstall at pilitin ang pagtigil sa App Lock Pro. Mangyaring tiyakin na hindi kailanman gagamitin ng App Lock Pro ang pahintulot na ito upang ma-access ang iyong data sa privacy .</string>
+    <string name="device_admin_permission_description">Isaaktibo ngayon, isulong ang proteksyon at mas ligtas! \n\nUpang paganahin ang Advance Protection, mangyaring i-aktibo ang App Lock Pro bilang "tagapangasiwa ng aparato". Ginagamit lamang ito para mapigilan ang mga nanghihimasok na i-uninstall at pilitin ang pagtigil sa App Lock Pro. Mangyaring tiyakin na ang App Lock Pro ay hindi kailanman gagamit ng pahintulot na ito upang i-access ang iyong data sa privacy.</string>
+
+
+    <string name="permission_overlay_description">Paganahin ang overlay upang ipakita ang lock screen.</string>
+    <string name="permission_toast_enable_permissions">Paganahin ang mga pahintulot na gumamit ng locker ng app</string>
+
+    <string name="draw_pattern_title">Lumikha ng isang bagong pattern</string>
+    <string name="redraw_pattern_title">I-redraw upang makumpleto</string>
+
+    <string name="recreate_pattern_error">Hindi tumutugma ang pattern. Redraw.</string>
+
+    <string name="create_pattern_successful">Matagumpay na nilikha.</string>
+    <string name="overlay_prompt_pattern_title">Gumuhit ng pattern upang buksan ang app</string>
+    <string name="overlay_prompt_pattern_title_wrong">Maling pattern. Gumuhit ulit.</string>
+    <string name="overlay_prompt_pattern_title_correct">Tama ang pattern.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Gumuhit ng pattern upang buksan ang app</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Hindi + naitugma. + %1$s + ang natitira.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Nag-match ang fingerprint!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Error sa fingerprint! Subukan ang pattern.</string>
+    <string name="dialog_title_rate_us">Nagustuhan mo ba ang Secure Zone?</string>
+    <string name="dialog_description_rate_us">Kami ay magiging labis na masaya Kung na-rate mo kami sa merkado.</string>
+    <string name="dialog_action_rate_us_rate">Rate</string>
+
+    <string name="dialog_action_rate_us_later">Mamaya</string>
+    <string name="dialog_title_usage_permission">Pahintulot sa Android 5.0</string>
+    <string name="dialog_description_usage_permission">Sa Android 5.0 o mas mataas pa, kailangan mong pahintulutan ang pag-access sa paggamit para sa
+        AppLocker, upang maaari mong gamitin ang Secure Zone Feature</string>
+    <string name="dialog_action_usage_permission_permit">Pahintulot</string>
+
+    <string name="dialog_action_usage_permission_cancel">Kanselahin</string>
+    <string name="dialog_title_privacy_policy">Patakaran sa Pagkapribado</string>
+    <string name="dialog_description_privacy_policy">Na-update namin ang aming patakaran sa privacy. Sa pagpapatuloy sumasang-ayon ka sa<u> Patakaran sa Pagkapribado</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Tanggapin</string>
+
+    <string name="hint_browser_search">Maghanap o ipasok ang URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Ligtas. Seguro. Pribado.</string>
+    <string name="subtitle_browser_empty">Mag-surf sa internet. Ligtas.</string>
+    <string name="bookmarks">Mga bookmark</string>
+    <string name="title_name_unknown_number">Hindi kilalang numero</string>
+
+
+
+    <string name="blacklist_empty_title">Walang laman ang blacklist</string>
+    <string name="blacklist_empty_description">Mag-click upang harangan ang numero ng telepono</string>
+    <string name="call_log_empty_title">Walang Mga Log</string>
+
+    <string name="call_log_empty_description">Lilitaw dito ang pag-log kapag naka-block ang tawag</string>
+    <string name="dialog_add_to_blacklist_title">I-block ang numero ng telepono</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Pangalan (Opsyonal)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Ilagay ang Numero ng telepono</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Kanselahin</string>
+    <string name="dialog_black_list_delete_title">Tanggalin mula sa blacklist</string>
+    <string name="dialog_black_list_delete_description">Nais mo bang alisin ang naka-block na numero mula sa itim na listahan?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Kanselahin</string>
+    <string name="dialog_title_add_to_vault">Pinoproseso</string>
+    <string name="dialog_description_process">Inaalis ang iyong media mula sa gallery at nagdaragdag sa iyong vault.</string>
+
+    <string name="dialog_title_removal_confirmation">Pag-aalis ng Pagkumpirma</string>
+    <string name="dialog_description_removal">Aalisin ang file na ito mula sa vault at ipapakita sa gallery.</string>
+    <string name="dialog_action_removal_confirmation_accept">Tanggapin</string>
+
+    <string name="vault_photo_empty_page_title">Walang laman ang Photo Vault</string>
+    <string name="vault_photo_empty_page_description">Magdagdag ng icon upang maitago ang mga larawan mula sa gallery</string>
+    <string name="vault_video_empty_page_title">Walang laman ang Video Vault</string>
+
+    <string name="vault_video_empty_page_description">Magdagdag ng icon sa mga larawan ng video mula sa gallery</string>
+    <string-array name="tabs">
+        <item>Seguridad</item>
+        <item>Mga setting</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Blacklist</item>
+        <item>Talaan ng mga tawag</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Mga imahe</item>
+        <item>Mga video</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Walang Nanghihimasok na Dumakip</string>
+    <string name="empty_page_intruders_description">Ang iyong telepono ay ligtas!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Tumawag sa Blocker</string>
+    <string name="browser">Browser</string>
+    <string name="theme">Mga Tema</string>
+    <string name="rate_us">I-rate mo kami</string>
+    <string name="removeads">Premium na bersyon</string>
+    <string name="enter_pin">Ipasok ang pin</string>
+    <string name="pin_matched">Tumugma si pin</string>
+    <string name="confirm_pin">Kumpirmahin ang pin</string>
+    <string name="pin_chahnged">Matagumpay na nagbago ang pin</string>
+    <string name="pin_not_matched">Hindi tugma ang pin</string>
+    <string name="incorrect_pin">Maling pin</string>
+    <string name="settings_set_pin">Itakda ang pin</string>
+    <string name="change_pin">Palitan ang pin</string>
+    <string name="settings_set_pin_description">Magtakda ng bagong pin</string>
+    <string name="create_new_pin">Lumikha ng isang bagong pin</string>
+    <string name="home">Bahay</string>
+    <string name="settings_change_pin_description">Baguhin ang mayroon nang pin</string>
+    <string name="message_pin_changed">Matagumpay na Nabago ang Pin</string>
+    <string name="non_protected">Hindi Protektado</string>
+    <string name="status_protected">Protektado</string>
+    <string name="starting_hour">Simula ng Oras</string>
+    <string name="ending_hour">Pagtatapos ng Oras</string>
+    <string name="auto_start_p">pahintulot na awtomatikong patakbuhin</string>
+    <string name="permission_usage_access_description1">buksan ang pagpipiliang auto-run</string>
+
+
+    <string name="privat_browser">Pribadong Browser</string>
+    <string name="prem_title">Premium na Bersyon Magpakailanman</string>
+    <string name="prem_no_ads">Walang Mga AD Magpakailanman</string>
+    <string name="prem_restore">Ibalik ang Pagbili</string>
+
+    <string name="please_give_us_five_stars">Mangyaring bigyan kami ng limang mga bituin sa Google Play! Mas pahalagahan namin ito!</string>
+    <string name="great_tex">Malaki!</string>
+    <string name="choose_the_icon">Piliin ang icon at mabago ang orihinal na icon. Itago ang app na ito mula sa mga nanghihimasok</string>
+    <string name="app_name1">Orasan</string>
+    <string name="app_name2">Mga Mapa</string>
+    <string name="app_name3">Kalendaryo</string>
+    <string name="app_name4">Musika</string>
+    <string name="app_name5">Calculator</string>
+
+    <string name="callblocker_black">Itim na listahan</string>
+    <string name="callblocker_logs">Talaan ng mga tawag</string>
+    <string name="icon_change_title">Mga Icon</string>
+    <string name="intruders_title">Nanghihimasok</string>
+    <string name="intruders_access_apps">I-access ang mga app na may paggamit</string>
+    <string name="main_unlocked">Hindi naka-unlock</string>
+    <string name="main_locked">Naka-lock</string>
+    <string name="prem_not_sub">Hindi ito isang subscription. Minsan ka lang magbayad!</string>
+    <string name="prem_fake_icon">Pekeng Icon</string>
+    <string name="prem_intruders">Intruder selfie</string>
+    <string name="prem_themes">Mas malikhaing mga tema</string>
+    <string name="prem_one_time">Isang beses na pagbabayad</string>
+    <string name="splash_create">Nilikha upang maprotektahan ang iyong privacy</string>
+    <string name="vault_photos">Mga larawan</string>
+    <string name="vault_videos">Mga video</string>
+    <string name="btn_ok">OK lang</string>
+    <string name="dialog_intruder_text">Nais mo bang tanggalin ang larawan?</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="fragment_security_text">Opps! \n Wala ka pang mga naka-lock na app</string>
+    <string name="settings_security">Seguridad</string>
+    <string name="settings_face_icon">Pekeng Icon</string>
+    <string name="settings_face_icon_text">Ang orihinal na icon ng app na ito ay mababago</string>
+    <string name="rate_us_enjoying">Nasisiyahan ka ba sa AppLock?</string>
+    <string name="rate_us_could_be">maaari itong maging mas mahusay</string>
+    <string name="menu_privacy">Patakaran sa Pagkapribado</string>
+    <string name="menu_contact">Makipag-ugnayan sa amin</string>
+    <string name="menu_face_icon">Pekeng Icon</string>
+    <string name="menu_intruder">Intruder Manager</string>
+    <string name="menu_chat">Silid pang-usap</string>
+
+</resources>

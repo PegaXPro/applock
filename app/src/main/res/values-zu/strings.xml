@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">I-AppLock</string>
+
+    <string name="action_settings">Amasethingi</string>
+
+  
+
+    <string name="share">Yabelana</string>
+
+    <string name="notification_protecting_title">Ukuvikela izinhlelo zakho zokusebenza</string>
+
+    <string name="notification_protecting_description">Khiya izinhlelo zakho zokusebenza ukuvikela ubumfihlo bakho.</string>
+
+    <string name="notification_permission_need_title">Nika amandla imvume yokuvikela</string>
+
+    <string name="notification_permission_need_description">Sicela unike amandla izimvume zakho ukuze usebenzise ilokhi yohlelo lokusebenza.</string>
+    <string name="you_accept_privacy_policy">Ngokuqhubeka uyavumelana ne-<u> Inqubomgomo yobumfihlo</u> </string>
+
+    <string name="header_recommended_to_lock">Kunconyelwe ukukhiya</string>
+    <string name="header_all_apps">Zonke izinhlelo zokusebenza</string>
+
+    <string name="title_general_settings">Jikelele</string>
+
+    <string name="title_lock_all">Khiya konke</string>
+    <string name="description_lock_all">Lokhu kuzokhiya zonke izinhlelo zakho zokusebenza</string>
+
+ 
+    <string name="title_unlock_all">Vula konke</string>
+
+    <string name="description_unlock_all">Lokhu kuzovula zonke izinhlelo zakho zokusebenza</string>
+    <string name="settings_change_pattern_title">Shintsha iphethini</string>
+
+    <string name="settings_change_pattern_description">Shintsha iphethini yakho ekhona</string>
+    <string name="message_pattern_changed">Iphethini liguqulwe ngempumelelo</string>
+
+    <string name="setting_in_stealth_mode_title">Fihla umdwebo</string>
+    <string name="setting_in_stealth_mode_description">Iphethini engabonakali ngenkathi udweba</string>
+    <string name="setting_fingerprint_title">Nika amandla izigxivizo zeminwe</string>
+
+    <string name="setting_fingerprint_description">Qalisa uhlelo lokusebenza ngeminwe yakho.</string>
+    <string name="setting_fingerprint_not_supported_title">Izigxivizo zeminwe azisekelwa</string>
+
+    <string name="setting_fingerprint_not_supported_description">Idivayisi yakho ayinayo inzwa</string>
+    <string name="setting_fingerprint_not_registered_title">Bhalisa iminwe yakho</string>
+
+    <string name="setting_fingerprint_not_registered_description">Iya kuzilungiselelo zokuphepha</string>
+    <string name="next">Olandelayo</string>
+
+    <string name="permission_usage_access_title">Sebenzisa imvume yokufinyelela</string>
+    <string name="permission_usage_access_description">Nika amandla ama-acces wokusebenzisa ukusebenzisa eydijithali yohlelo lokusebenza.</string>
+
+    <string name="permission_overlay_title">Vala imvume yesikrini</string>
+
+    <string name="settings_card_intruders_title">Abahlaseli Bokubamba</string>
+    <string name="settings_enable_intruders_title">Thatha isithombe sabangenayo</string>
+    <string name="settings_enable_intruders_description">Nika amandla ukubamba abahlaseli.</string>
+
+    <string name="settings_intruders_folder_title">Izithombe ezibanjiwe zangaphakathi</string>
+    <string name="settings_intruders_folder_description">Chofoza ukuze ubone izinhloli efonini yakho.</string>
+
+    <string name="settings_card_advance_protection_title">Advance Ukuvikelwa</string>
+    <string name="settings_enable_advance_protection_title">Nika amandla ukuvikelwa kwangaphambili</string>
+    <string name="settings_enable_advance_protection_description">Ukuze unike amandla i-Advance Protection, sicela wenze kusebenze i-App Lock Pro "njengomphathi wedivayisi". Isetshenziselwa kuphela ukuvimbela abangena ngaphandle kokufaka nokuphoqa ukumisa i-App Lock Pro.Sicela uqinisekiswe ukuthi i-App Lock Pro ayisoze yasebenzisa le mvume ukufinyelela idatha yakho yobumfihlo .</string>
+    <string name="device_admin_permission_description">Yenza kusebenze manje, vikela kusengaphambili futhi uvikeleke ngokwengeziwe! \n\nUkuze unike amandla i-Advance Protection, sicela wenze kusebenze i-App Lock Pro njengokuthi "umphathi wedivayisi". Isetshenziselwa kuphela ukuvimbela abangena ngaphandle kokufaka nokuphoqa ukumisa i-App Lock Pro.Sicela uqinisekiswe ukuthi i-App Lock Pro ayisoze yasebenzisa le mvume finyelela imininingwane yakho yobumfihlo.</string>
+
+
+    <string name="permission_overlay_description">Nika amandla imbondela ukubonisa ukukhiya isikrini.</string>
+    <string name="permission_toast_enable_permissions">Nika amandla izimvume zokusebenzisa eydijithali yohlelo lokusebenza</string>
+
+    <string name="draw_pattern_title">Dala iphethini entsha</string>
+    <string name="redraw_pattern_title">Dweba kabusha ukuze uqedele</string>
+
+    <string name="recreate_pattern_error">Iphethini ayifani. Dweba kabusha.</string>
+
+    <string name="create_pattern_successful">Idalwe ngempumelelo.</string>
+    <string name="overlay_prompt_pattern_title">Dweba iphethini ukuvula uhlelo lokusebenza</string>
+    <string name="overlay_prompt_pattern_title_wrong">Iphethini engalungile. Dweba futhi.</string>
+    <string name="overlay_prompt_pattern_title_correct">Iphethini ilungile.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Dweba iphethini ukuvula uhlelo lokusebenza</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Akufani. + %1$s + okusele.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Izigxivizo zeminwe zifana!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Iphutha lezigxivizo zeminwe! Zama iphethini.</string>
+    <string name="dialog_title_rate_us">Ingabe ubuyithanda indawo ephephile?</string>
+    <string name="dialog_description_rate_us">Sizojabula kakhulu uma usilinganisela emakethe.</string>
+    <string name="dialog_action_rate_us_rate">Linganisa</string>
+
+    <string name="dialog_action_rate_us_later">Kamuva</string>
+    <string name="dialog_title_usage_permission">Imvume ye-Android 5.0</string>
+    <string name="dialog_description_usage_permission">Ku-Android 5.0 noma ngaphezulu, udinga ukuvumela ukufinyelela kokusebenzisa kwe-
+        AppLocker, ukuze ukwazi ukusebenzisa i-Secure Zone Feature</string>
+    <string name="dialog_action_usage_permission_permit">Imvume</string>
+
+    <string name="dialog_action_usage_permission_cancel">Khansela</string>
+    <string name="dialog_title_privacy_policy">Inqubomgomo yobumfihlo</string>
+    <string name="dialog_description_privacy_policy">Sibuyekeze inqubomgomo yethu yobumfihlo. Ngokuqhubeka uyavumelana ne-<u> Inqubomgomo yobumfihlo</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Yamukela</string>
+
+    <string name="hint_browser_search">Sesha noma faka i-URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">I-Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">I-Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Kuyimfihlo.</string>
+    <string name="subtitle_browser_empty">Swayipha ku-inthanethi. Ngokuvikeleka.</string>
+    <string name="bookmarks">Amabhukhimakhi</string>
+    <string name="title_name_unknown_number">Inombolo Engaziwa</string>
+
+
+
+    <string name="blacklist_empty_title">Uhlu olumnyama alunalutho</string>
+    <string name="blacklist_empty_description">Chofoza ukuvimba inombolo yocingo</string>
+    <string name="call_log_empty_title">Azikho izingodo</string>
+
+    <string name="call_log_empty_description">Ukungena kuvela lapha lapho ikholi ivinjiwe</string>
+    <string name="dialog_add_to_blacklist_title">Vimba inombolo yocingo</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Igama (Ongakukhetha)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Faka inombolo yocingo</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Khansela</string>
+    <string name="dialog_black_list_delete_title">Susa ohlwini lokuvinjelwe</string>
+    <string name="dialog_black_list_delete_description">Ngabe ufuna ukususa inombolo evinjiwe ohlwini lwabamnyama?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Khansela</string>
+    <string name="dialog_title_add_to_vault">Iyacubungula</string>
+    <string name="dialog_description_process">Imidiya yakho iyasusa kugalari futhi ingeza ku-vault yakho.</string>
+
+    <string name="dialog_title_removal_confirmation">Isiqinisekiso Sokususa</string>
+    <string name="dialog_description_removal">Leli fayela lizosusa egumbini elingaphansi bese libonisa igalari.</string>
+    <string name="dialog_action_removal_confirmation_accept">Yamukela</string>
+
+    <string name="vault_photo_empty_page_title">Isithombe Vault asinalutho</string>
+    <string name="vault_photo_empty_page_description">Faka isithonjana ukufihla izithombe kusuka kugalari</string>
+    <string name="vault_video_empty_page_title">IVault yevidiyo ayinalutho</string>
+
+    <string name="vault_video_empty_page_description">Faka isithonjana kuzithombe zevidiyo kusuka kugalari</string>
+    <string-array name="tabs">
+        <item>Ukuphepha</item>
+        <item>Amasethingi</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Uhlu olumnyama</item>
+        <item>Shayela izingodo</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Izithombe</item>
+        <item>Amavidiyo</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Azikho izigebengu ezibanjiwe</string>
+    <string name="empty_page_intruders_description">Ifoni yakho ivikelekile!</string>
+    <string name="Vault">I-Vault</string>
+    <string name="Call_blocker">Shayela iBlocker</string>
+    <string name="browser">Isiphequluli</string>
+    <string name="theme">Izindikimba</string>
+    <string name="rate_us">Sikala</string>
+    <string name="removeads">Uhlobo lwe-Premium</string>
+    <string name="enter_pin">Faka iphini</string>
+    <string name="pin_matched">Iphini ifanisiwe</string>
+    <string name="confirm_pin">Qinisekisa iphini</string>
+    <string name="pin_chahnged">Iphini liguqulwe ngempumelelo</string>
+    <string name="pin_not_matched">Iphini alifani</string>
+    <string name="incorrect_pin">Iphini engalungile</string>
+    <string name="settings_set_pin">Setha iphini</string>
+    <string name="change_pin">Shintsha iphini</string>
+    <string name="settings_set_pin_description">Setha iphini entsha</string>
+    <string name="create_new_pin">Dala iphinikhodi entsha</string>
+    <string name="home">Ikhaya</string>
+    <string name="settings_change_pin_description">Shintsha iphinikhodi yakho ekhona</string>
+    <string name="message_pin_changed">Iphini Ishintshwe ngempumelelo</string>
+    <string name="non_protected">Akuvikelwe</string>
+    <string name="status_protected">Kuvikelwe</string>
+    <string name="starting_hour">Ihora lokuqala</string>
+    <string name="ending_hour">Ihora Lokuqeda</string>
+    <string name="auto_start_p">imvume yokusebenzisa ngokuzenzakalela</string>
+    <string name="permission_usage_access_description1">vula inketho yokusebenzisa ngokuzenzakalela</string>
+
+
+    <string name="privat_browser">Isiphequluli Esizimele</string>
+    <string name="prem_title">Inguqulo ye-Premium Phakade</string>
+    <string name="prem_no_ads">Awekho ama-AD Phakade</string>
+    <string name="prem_restore">Buyisela okuthengiwe</string>
+
+    <string name="please_give_us_five_stars">Sicela usinike izinkanyezi ezinhlanu ku-Google Play! Singakuthokozela kakhulu!</string>
+    <string name="great_tex">Kuhle!</string>
+    <string name="choose_the_icon">Khetha isithonjana nesithonjana sangempela sizoshintshwa. Fihla lolu hlelo lokusebenza kubahlaseli</string>
+    <string name="app_name1">Iwashi</string>
+    <string name="app_name2">Amamephu</string>
+    <string name="app_name3">Ikhalenda</string>
+    <string name="app_name4">Umculo</string>
+    <string name="app_name5">I-Calculator</string>
+
+    <string name="callblocker_black">Uhlu olumnyama</string>
+    <string name="callblocker_logs">Izingodo zokushayela</string>
+    <string name="icon_change_title">Izithonjana</string>
+    <string name="intruders_title">Isigelekeqe</string>
+    <string name="intruders_access_apps">Finyelela kuzinhlelo zokusebenza ngokusetshenziswa</string>
+    <string name="main_unlocked">Kuvuliwe</string>
+    <string name="main_locked">Kukhiyiwe</string>
+    <string name="prem_not_sub">Lokhu akusikho ukubhalisa. Ukhokha kanye kuphela!</string>
+    <string name="prem_fake_icon">Isithonjana Inkohliso</string>
+    <string name="prem_intruders">Isithombe ozishuthe sona</string>
+    <string name="prem_themes">Amatimu wokudala amaningi</string>
+    <string name="prem_one_time">Inkokhelo Yesikhathi Esinye</string>
+    <string name="splash_create">Idalwe ukuvikela ubumfihlo bakho</string>
+    <string name="vault_photos">Izithombe</string>
+    <string name="vault_videos">Amavidiyo</string>
+    <string name="btn_ok">KULUNGILE</string>
+    <string name="dialog_intruder_text">Ungathanda ukususa isithombe?</string>
+    <string name="btn_cancel">KHansela</string>
+    <string name="fragment_security_text">Hawu! \n Awunazo izinhlelo zokusebenza ezivaliwe okwamanje</string>
+    <string name="settings_security">Ukuphepha</string>
+    <string name="settings_face_icon">Isithonjana Inkohliso</string>
+    <string name="settings_face_icon_text">Isithonjana sangempela salolu hlelo lokusebenza sizoshintshwa</string>
+    <string name="rate_us_enjoying">Uyayijabulela i-AppLock?</string>
+    <string name="rate_us_could_be">kungaba ngcono</string>
+    <string name="menu_privacy">Inqubomgomo yobumfihlo</string>
+    <string name="menu_contact">Xhumana nathi</string>
+    <string name="menu_face_icon">Isithonjana Inkohliso</string>
+    <string name="menu_intruder">Umphathi ongenelela</string>
+    <string name="menu_chat">Igumbi Lokuxoxa</string>
+
+</resources>

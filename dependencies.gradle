@@ -1,0 +1,90 @@
+ext {
+
+    def retrofit_version = '2.6.1'
+    def kotlin_coroutines_adapter_version = '0.9.2'
+    def gson_version = '2.8.5'
+    def kotlinx_coroutines = '1.5.0'
+    def lifecycle_version = '2.3.1'
+    def room_version = "2.2.5"
+    def koin_version = '2.1.6'
+    def nav_version = "2.2.1"
+    def glide_version = "4.10.0"
+    def preference_version = "1.1.0-alpha05"
+    def paging_version = "2.1.0"
+    def exoplayer_version = "2.11.1"
+    def ads_version = "20.0.0"
+    def droidnet_version = "2.0.0"
+    def custom_anim_version = "2.4@aar"
+
+    ads = "com.google.android.gms:play-services-ads:$ads_version"
+    droidnet = "com.job:droidnet:$droidnet_version"
+    custom_anim = "com.daimajia.androidanimations:library:$custom_anim_version"
+
+    exoplayer = "com.google.android.exoplayer:exoplayer:$exoplayer_version"
+
+    gson = "com.google.code.gson:gson:$gson_version"
+
+    //retrofit
+    retrofit_dependencies = [
+            retrofit : "com.squareup.retrofit2:retrofit:$retrofit_version",
+            converter_gson : "com.squareup.retrofit2:converter-gson:$retrofit_version",
+            retrofit2_coroutines_adapter : "com.jakewharton.retrofit:retrofit2-kotlin-coroutines-adapter:$kotlin_coroutines_adapter_version",
+            gson: "com.google.code.gson:gson:$gson_version"
+    ]
+
+    gsson = "com.google.code.gson:gson:$gson_version"
+
+    //coroutines
+    coroutines_dependencies = [
+            coroutines_core: "org.jetbrains.kotlinx:kotlinx-coroutines-core:$kotlinx_coroutines",
+            coroutines_android: "org.jetbrains.kotlinx:kotlinx-coroutines-android:$kotlinx_coroutines"
+    ]
+
+    //koin
+    koin_dependencies = [
+        koin: "org.koin:koin-android:$koin_version",
+        koin_viewmodel: "org.koin:koin-android-viewmodel:$koin_version",
+        koin_scope: "org.koin:koin-android-scope:$koin_version"
+    ]
+
+    //firebase
+    firebase_dependencies = [
+            firebaseAnalytics: 'com.google.firebase:firebase-analytics-ktx',
+            firebaseMessaging: 'com.google.firebase:firebase-messaging-ktx'
+    ]
+
+
+    //room
+    room_dependencies = [
+        room_runtime: "androidx.room:room-runtime:$room_version",
+        room_ktx: "androidx.room:room-ktx:$room_version",
+        room_testing: "androidx.room:room-testing:$room_version"
+    ]
+
+
+    room_compiler = "androidx.room:room-compiler:$room_version" //use kapt instead annotationProcessor
+
+
+    // navigation component
+    navigation_dependencies = [
+        navigtion_fragment: "androidx.navigation:navigation-fragment-ktx:$nav_version",
+        anvigtion_ui: "androidx.navigation:navigation-ui-ktx:$nav_version"
+    ]
+
+    lifecycle_kompiler = "android.arch.lifecycle:compiler:$lifecycle_version"
+    lifecycle_runtime = "androidx.lifecycle:lifecycle-runtime-ktx:$lifecycle_version"
+    view_model =  "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0"
+    live_data = "androidx.lifecycle:lifecycle-livedata-ktx:$lifecycle_version"
+    lifecycle_compiler = "androidx.lifecycle:lifecycle-compiler:$lifecycle_version" // For Kotlin use kapt instead of annotationProcessor
+
+    //Glide
+    glide = "com.github.bumptech.glide:glide:$glide_version"
+    glide_blur = "jp.wasabeef:glide-transformations:4.0.0"
+    glide_compiler = "com.github.bumptech.glide:compiler:$glide_version"
+
+    preference1 = "androidx.preference:preference-ktx:$preference_version"
+    paging = "androidx.paging:paging-runtime:$paging_version"
+    javaX = 'javax.mail:mail:1.4.7'
+
+
+}

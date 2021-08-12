@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">تەڭشەك</string>
+
+  
+
+    <string name="share">ھەمبەھىرلەش</string>
+
+    <string name="notification_protecting_title">ئەپلىرىڭىزنى قوغداش</string>
+
+    <string name="notification_protecting_description">مەخپىيەتلىكىڭىزنى قوغداش ئۈچۈن ئەپلىرىڭىزنى قۇلۇپلاڭ.</string>
+
+    <string name="notification_permission_need_title">قوغداشقا ئىجازەت بېرىڭ</string>
+
+    <string name="notification_permission_need_description">ئەپ قۇلۇپىنى ئىشلىتىش ئىجازەتلىرىڭىزنى قوزغىتىڭ.</string>
+    <string name="you_accept_privacy_policy">داۋاملاشتۇرۇش ئارقىلىق سىز بۇنىڭغا قوشۇلىسىز<u> مەخپىيەتلىك تۈزۈمى</u> </string>
+
+    <string name="header_recommended_to_lock">قۇلۇپلاشنى تەۋسىيە قىلىمىز</string>
+    <string name="header_all_apps">بارلىق قوللىنىشچان پروگراممىلار</string>
+
+    <string name="title_general_settings">General</string>
+
+    <string name="title_lock_all">ھەممىنى قۇلۇپلاڭ</string>
+    <string name="description_lock_all">بۇ سىزنىڭ بارلىق ئەپلىرىڭىزنى قۇلۇپلايدۇ</string>
+
+ 
+    <string name="title_unlock_all">ھەممىنى ئېچىڭ</string>
+
+    <string name="description_unlock_all">بۇ سىزنىڭ بارلىق ئەپلىرىڭىزنى ئاچىدۇ</string>
+    <string name="settings_change_pattern_title">ئەندىزىنى ئۆزگەرتىش</string>
+
+    <string name="settings_change_pattern_description">ھازىرقى ئەندىزىڭىزنى ئۆزگەرتىڭ</string>
+    <string name="message_pattern_changed">ئەندىزە مۇۋەپپەقىيەتلىك ئۆزگەردى</string>
+
+    <string name="setting_in_stealth_mode_title">رەسىمنى يوشۇرۇش</string>
+    <string name="setting_in_stealth_mode_description">رەسىم سىزىۋاتقاندا كۆرۈنمەيدىغان ئەندىزە</string>
+    <string name="setting_fingerprint_title">بارماق ئىزىنى قوزغىتىڭ</string>
+
+    <string name="setting_fingerprint_description">بارمىقىڭىز بىلەن ئەپنى قوزغىتىڭ.</string>
+    <string name="setting_fingerprint_not_supported_title">بارماق ئىزىنى قوللىمايدۇ</string>
+
+    <string name="setting_fingerprint_not_supported_description">ئۈسكۈنىڭىزدە سېنزور يوق</string>
+    <string name="setting_fingerprint_not_registered_title">بارماق ئىزىڭىزنى تىزىملىتىڭ</string>
+
+    <string name="setting_fingerprint_not_registered_description">بىخەتەرلىك تەڭشەكلىرىگە بېرىڭ</string>
+    <string name="next">كېيىنكى</string>
+
+    <string name="permission_usage_access_title">ئىشلىتىش ئىجازىتى</string>
+    <string name="permission_usage_access_description">ئەپ قۇلۇپىنى ئىشلىتىش ئۈچۈن ئىشلىتىش ھەققىنى قوزغىتىڭ.</string>
+
+    <string name="permission_overlay_title">ئېكران ئىجازىتىنى قۇلۇپلاش</string>
+
+    <string name="settings_card_intruders_title">تاجاۋۇزچىلارنى تۇتۇڭ</string>
+    <string name="settings_enable_intruders_title">تاجاۋۇزچىلارنى رەسىمگە تارتىڭ</string>
+    <string name="settings_enable_intruders_description">تاجاۋۇزچىلارنى تۇتقىلى بولىدۇ.</string>
+
+    <string name="settings_intruders_folder_title">بېسىپ كىرگەن سۈرەتلەر</string>
+    <string name="settings_intruders_folder_description">تېلېفوندا جاسۇسلارنى كۆرۈش ئۈچۈن چېكىڭ.</string>
+
+    <string name="settings_card_advance_protection_title">ئالدىن قوغداش</string>
+    <string name="settings_enable_advance_protection_title">ئالدىن قوغداشنى قوزغىتىڭ</string>
+    <string name="settings_enable_advance_protection_description">ئىلگىرىلەشنى قوغداشنى قوزغىتىش ئۈچۈن ، App Lock Pro نى «ئۈسكۈنە باشقۇرغۇچى» قىلىپ قوزغىتىڭ. ئۇ پەقەت تاجاۋۇزچىلارنىڭ ئۆچۈرۈلۈشىنىڭ ئالدىنى ئېلىش ۋە App Lock Pro نى زورلاپ توختىتىش ئۈچۈن ئىشلىتىلىدۇ. .</string>
+    <string name="device_admin_permission_description">ھازىر ئاكتىپلاڭ ، قوغداشنى ئىلگىرى سۈرۈڭ ۋە تېخىمۇ بىخەتەر! \n\nئالدىن قوغداشنى قوزغىتىش ئۈچۈن ، App Lock Pro نى «ئۈسكۈنە باشقۇرغۇچى» قىلىپ قوزغىتىڭ. ئۇ پەقەت تاجاۋۇزچىلارنىڭ ئۆچۈرۈلۈشىنىڭ ئالدىنى ئېلىش ۋە App Lock Pro نى توختىتىش ئۈچۈن ئىشلىتىلىدۇ. App Lock Pro نىڭ بۇ ئىجازەتنى ھەرگىز ئىشلەتمەسلىكىگە كاپالەتلىك قىلىڭ. مەخپىيەتلىك ئۇچۇرلىرىڭىزنى زىيارەت قىلىڭ.</string>
+
+
+    <string name="permission_overlay_description">قۇلۇپ ئېكرانىنى كۆرسىتىش ئۈچۈن قاپلاشنى قوزغىتىڭ.</string>
+    <string name="permission_toast_enable_permissions">ئەپ قۇلۇپىنى ئىشلىتىش ئىجازەتنامىسىنى قوزغىتىڭ</string>
+
+    <string name="draw_pattern_title">يېڭى ئەندىزە قۇر</string>
+    <string name="redraw_pattern_title">قايتا سىزىش</string>
+
+    <string name="recreate_pattern_error">ئەندىزە ماس كەلمەيدۇ. قايتا سىزىش.</string>
+
+    <string name="create_pattern_successful">مۇۋەپپەقىيەتلىك قۇرۇلدى.</string>
+    <string name="overlay_prompt_pattern_title">ئەپ ئېچىش ئۈچۈن ئەندىزە سىزىڭ</string>
+    <string name="overlay_prompt_pattern_title_wrong">خاتا ئەندىزە. قايتا سىزىڭ.</string>
+    <string name="overlay_prompt_pattern_title_correct">ئەندىزە توغرا.</string>
+
+    <string name="overlay_prompt_fingerprint_title">ئەپ ئېچىش ئۈچۈن ئەندىزە سىزىڭ</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ ماس كەلمىدى. + %1$s + قالدى.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">بارماق ئىزى ماسلاشتى!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">بارماق ئىزى خاتالىقى! قېلىپنى سىناپ بېقىڭ.</string>
+    <string name="dialog_title_rate_us">بىخەتەر رايوننى ياقتۇرامسىز؟</string>
+    <string name="dialog_description_rate_us">ئەگەر بىز بازاردا باھا بەرسىڭىز ، بىز بەك خۇشال بولىمىز.</string>
+    <string name="dialog_action_rate_us_rate">باھا</string>
+
+    <string name="dialog_action_rate_us_later">كېيىنچە</string>
+    <string name="dialog_title_usage_permission">Android 5.0 ئىجازەتنامىسى</string>
+    <string name="dialog_description_usage_permission">ئاندىرويىد 5.0 ياكى ئۇنىڭدىن يۇقىرى نەشرىدە ، ئىشلىتىشكە رۇخسەت قىلىشىڭىز كېرەك
+        AppLocker ، شۇنداق بولغاندا بىخەتەر رايون ئىقتىدارىنى ئىشلىتەلەيسىز</string>
+    <string name="dialog_action_usage_permission_permit">ئىجازەت</string>
+
+    <string name="dialog_action_usage_permission_cancel">بىكار قىلىش</string>
+    <string name="dialog_title_privacy_policy">مەخپىيەتلىك تۈزۈمى</string>
+    <string name="dialog_description_privacy_policy">مەخپىيەتلىك تۈزۈمىمىزنى يېڭىلىدۇق. داۋاملاشتۇرۇش ئارقىلىق سىز بۇنىڭغا قوشۇلىسىز<u> مەخپىيەتلىك تۈزۈمى</u> </string>
+    <string name="dialog_action_privacy_policy_accept">قوبۇل قىلىڭ</string>
+
+    <string name="hint_browser_search">URL نى ئىزدەڭ ياكى كىرگۈزۈڭ</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">بىخەتەر. بىخەتەر.</string>
+    <string name="subtitle_browser_empty">تورغا چىقىش. بىخەتەر.</string>
+    <string name="bookmarks">خەتكۈچلەر</string>
+    <string name="title_name_unknown_number">نامەلۇم نومۇر</string>
+
+
+
+    <string name="blacklist_empty_title">قارا تىزىملىك ​​قۇرۇق</string>
+    <string name="blacklist_empty_description">تېلېفون نومۇرىنى چەكلەش ئۈچۈن چېكىڭ</string>
+    <string name="call_log_empty_title">خاتىرە يوق</string>
+
+    <string name="call_log_empty_description">تېلېفون توسۇلغاندا خاتىرە بۇ يەردە كۆرۈنىدۇ</string>
+    <string name="dialog_add_to_blacklist_title">تېلېفون نومۇرىنى توسۇڭ</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">ئىسمى (ئىختىيارىي)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">تېلېفون نومۇرىنى كىرگۈزۈڭ</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">بىكار قىلىش</string>
+    <string name="dialog_black_list_delete_title">قارا تىزىملىكتىن ئۆچۈرۈڭ</string>
+    <string name="dialog_black_list_delete_description">چەكلەنگەن نومۇرنى قارا تىزىملىكتىن ئۆچۈرمەكچىمۇ؟</string>
+
+    <string name="dialog_black_list_delete_action_cancel">بىكار قىلىش</string>
+    <string name="dialog_title_add_to_vault">بىر تەرەپ قىلىش</string>
+    <string name="dialog_description_process">مېدىياڭىز رەسىم ئامبىرىدىن ئۆچۈرۈلۈپ ، ئامبىرىڭىزغا قوشىدۇ.</string>
+
+    <string name="dialog_title_removal_confirmation">ئۆچۈرۈش جەزملەشتۈرۈش</string>
+    <string name="dialog_description_removal">بۇ ھۆججەت ئامباردىن ئۆچۈرۈلۈپ رەسىم ئامبىرىغا كۆرسىتىلىدۇ.</string>
+    <string name="dialog_action_removal_confirmation_accept">قوبۇل قىلىڭ</string>
+
+    <string name="vault_photo_empty_page_title">رەسىم ئامبىرى قۇرۇق</string>
+    <string name="vault_photo_empty_page_description">رەسىملەرنى رەسىم ئامبىرىدىن يوشۇرۇش ئۈچۈن سىنبەلگە قوشۇڭ</string>
+    <string name="vault_video_empty_page_title">Video Vault قۇرۇق</string>
+
+    <string name="vault_video_empty_page_description">رەسىم ئامبىرىدىكى سىن رەسىملىرىگە سىنبەلگە قوشۇڭ</string>
+    <string-array name="tabs">
+        <item>بىخەتەرلىك</item>
+        <item>تەڭشەك</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>قارا تىزىملىك</item>
+        <item>چاقىرىش خاتىرىسى</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>سۈرەتلەر</item>
+        <item>سىنلار</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">تاجاۋۇزچىلار تۇتۇلمىدى</string>
+    <string name="empty_page_intruders_description">تېلېفونىڭىز بىخەتەر!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Blocker</string>
+    <string name="browser">توركۆرگۈ</string>
+    <string name="theme">باشتېمىلار</string>
+    <string name="rate_us">بىزگە باھا بېرىڭ</string>
+    <string name="removeads">ئەلا نۇسخىسى</string>
+    <string name="enter_pin">Pin نى كىرگۈزۈڭ</string>
+    <string name="pin_matched">Pin ماسلاشتى</string>
+    <string name="confirm_pin">Pin نى جەزملەشتۈرۈڭ</string>
+    <string name="pin_chahnged">پىن مۇۋەپپەقىيەتلىك ئۆزگەردى</string>
+    <string name="pin_not_matched">Pin ماس كەلمىدى</string>
+    <string name="incorrect_pin">خاتا پىن</string>
+    <string name="settings_set_pin">Pin نى ئورنىتىڭ</string>
+    <string name="change_pin">Pin نى ئۆزگەرتىش</string>
+    <string name="settings_set_pin_description">يېڭى pin ئورنىتىڭ</string>
+    <string name="create_new_pin">يېڭى پىن قۇر</string>
+    <string name="home">ئۆي</string>
+    <string name="settings_change_pin_description">مەۋجۇت پىننىڭىزنى ئۆزگەرتىڭ</string>
+    <string name="message_pin_changed">پىن مۇۋەپپەقىيەتلىك ئۆزگەرتىلدى</string>
+    <string name="non_protected">قوغدالمىغان</string>
+    <string name="status_protected">قوغدالدى</string>
+    <string name="starting_hour">باشلىنىش ۋاقتى</string>
+    <string name="ending_hour">ئاخىرلىشىش ۋاقتى</string>
+    <string name="auto_start_p">ئاپتوماتىك ھەيدەش ئىجازەتنامىسى</string>
+    <string name="permission_usage_access_description1">ئاپتوماتىك قوزغىتىش تاللانمىسىنى ئېچىڭ</string>
+
+
+    <string name="privat_browser">شەخسىي توركۆرگۈ</string>
+    <string name="prem_title">ئەلا سۈپەتلىك نۇسخىسى مەڭگۈ</string>
+    <string name="prem_no_ads">مەڭگۈ AD يوق</string>
+    <string name="prem_restore">سېتىۋېلىشنى ئەسلىگە كەلتۈرۈش</string>
+
+    <string name="please_give_us_five_stars">Google Play دا بىزگە بەش يۇلتۇز بېرىڭ! بىز بۇنىڭدىن تولىمۇ مىننەتدارمىز!</string>
+    <string name="great_tex">قالتىس!</string>
+    <string name="choose_the_icon">سىنبەلگىنى تاللاڭ ، ئەسلى سىنبەلگە ئۆزگەرتىلىدۇ. بۇ دېتالنى تاجاۋۇزچىلاردىن يوشۇرۇڭ</string>
+    <string name="app_name1">سائەت</string>
+    <string name="app_name2">خەرىتە</string>
+    <string name="app_name3">كالېندار</string>
+    <string name="app_name4">مۇزىكا</string>
+    <string name="app_name5">ھېسابلىغۇچ</string>
+
+    <string name="callblocker_black">قارا تىزىملىك</string>
+    <string name="callblocker_logs">چاقىرىش خاتىرىسى</string>
+    <string name="icon_change_title">سىنبەلگە</string>
+    <string name="intruders_title">تاجاۋۇزچى</string>
+    <string name="intruders_access_apps">ئىشلىتىش ئارقىلىق ئەپلەرنى زىيارەت قىلىڭ</string>
+    <string name="main_unlocked">قۇلۇپلاندى</string>
+    <string name="main_locked">قۇلۇپلاندى</string>
+    <string name="prem_not_sub">بۇ مۇشتەرى ئەمەس. پەقەت بىرلا قېتىم تۆلەيسىز!</string>
+    <string name="prem_fake_icon">ساختا سىنبەلگە</string>
+    <string name="prem_intruders">تاجاۋۇزچى ئۆزتارتىم رەسىمگە چۈشۈش</string>
+    <string name="prem_themes">تېخىمۇ كۆپ ئىجادىي تېما</string>
+    <string name="prem_one_time">بىر قېتىمدىلا پۇل تۆلەش</string>
+    <string name="splash_create">مەخپىيەتلىكىڭىزنى قوغداش ئۈچۈن قۇرۇلدى</string>
+    <string name="vault_photos">سۈرەتلەر</string>
+    <string name="vault_videos">سىنلار</string>
+    <string name="btn_ok">ماقۇل</string>
+    <string name="dialog_intruder_text">رەسىمنى ئۆچۈرمەكچىمۇ؟</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="fragment_security_text">Opps! \n سىز تېخى ئەپلەرنى قۇلۇپلىمىدىڭىز</string>
+    <string name="settings_security">بىخەتەرلىك</string>
+    <string name="settings_face_icon">ساختا سىنبەلگە</string>
+    <string name="settings_face_icon_text">بۇ ئەپنىڭ ئەسلى سىنبەلگىسى ئۆزگەرتىلىدۇ</string>
+    <string name="rate_us_enjoying">سىز AppLock دىن ھۇزۇرلىنامسىز؟</string>
+    <string name="rate_us_could_be">تېخىمۇ ياخشى بولاتتى</string>
+    <string name="menu_privacy">مەخپىيەتلىك تۈزۈمى</string>
+    <string name="menu_contact">بىز بىلەن ئالاقىلىشىڭ</string>
+    <string name="menu_face_icon">ساختا سىنبەلگە</string>
+    <string name="menu_intruder">تاجاۋۇزچى باشقۇرغۇچى</string>
+    <string name="menu_chat">پاراڭلىشىش ئۆيى</string>
+
+</resources>

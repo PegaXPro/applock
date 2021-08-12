@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Litlhophiso</string>
+
+  
+
+    <string name="share">Arolelana</string>
+
+    <string name="notification_protecting_title">Ho sireletsa li -app tsa hau</string>
+
+    <string name="notification_protecting_description">Notlela li -app tsa hau ho sireletsa lekunutu la hau.</string>
+
+    <string name="notification_permission_need_title">Etsa tumello ea ts\'ireletso</string>
+
+    <string name="notification_permission_need_description">Ka kopo lumella litumello tsa hau ho sebelisa senotlolo sa sesebelisoa.</string>
+    <string name="you_accept_privacy_policy">Ka ho tsoela pele u lumela<u> leano la Lekunutu</u> </string>
+
+    <string name="header_recommended_to_lock">E khothalletsoa ho notlela</string>
+    <string name="header_all_apps">Likopo tsohle</string>
+
+    <string name="title_general_settings">Kakaretso</string>
+
+    <string name="title_lock_all">Notlela tsohle</string>
+    <string name="description_lock_all">Sena se tla notlela lisebelisoa tsohle tsa hau</string>
+
+ 
+    <string name="title_unlock_all">Notlolla tsohle</string>
+
+    <string name="description_unlock_all">Sena se tla notlolla lisebelisoa tsohle tsa hau</string>
+    <string name="settings_change_pattern_title">Fetola mokhoa</string>
+
+    <string name="settings_change_pattern_description">Fetola mokhoa oa hau o teng</string>
+    <string name="message_pattern_changed">Mohlala o fetotsoe ka katleho</string>
+
+    <string name="setting_in_stealth_mode_title">Pata setšoantšo</string>
+    <string name="setting_in_stealth_mode_description">Mohlala o sa bonahaleng ha o ntse o taka</string>
+    <string name="setting_fingerprint_title">Numella menoana ea menoana</string>
+
+    <string name="setting_fingerprint_description">Qala sesebelisoa ka menoana ea hau.</string>
+    <string name="setting_fingerprint_not_supported_title">Khakanyo ea menoana ha e tšehetsoe</string>
+
+    <string name="setting_fingerprint_not_supported_description">Sesebelisoa sa hau ha se na sensor</string>
+    <string name="setting_fingerprint_not_registered_title">Ngolisa menoana ea hau</string>
+
+    <string name="setting_fingerprint_not_registered_description">Eya ho litlhophiso tsa ts\'ireletso</string>
+    <string name="next">E \'ngoe</string>
+
+    <string name="permission_usage_access_title">Sebelisa tumello ea ho fihlella</string>
+    <string name="permission_usage_access_description">Dumella li-acces tsa tšebeliso ho sebelisa senotlolo sa sesebelisoa.</string>
+
+    <string name="permission_overlay_title">Notlela skrine tumello</string>
+
+    <string name="settings_card_intruders_title">Batšoaruoa ba Tšoasang</string>
+    <string name="settings_enable_intruders_title">Nka litšoantšo tsa bahlaseli</string>
+    <string name="settings_enable_intruders_description">Lumella ho tšoasa bahlaseli.</string>
+
+    <string name="settings_intruders_folder_title">Linepe tse kenang tse kenang</string>
+    <string name="settings_intruders_folder_description">Tobetsa ho bona lihloela tse fonong ea hau.</string>
+
+    <string name="settings_card_advance_protection_title">Pele Tšireletso</string>
+    <string name="settings_enable_advance_protection_title">Lumella tšireletso esale pele</string>
+    <string name="settings_enable_advance_protection_description">Ho nolofalletsa Ts\'ireletso ea Advance, ka kopo kenya ts\'ebetsong App Lock Pro joalo ka "motsamaisi oa sesebelisoa". E sebelisoa feela ho thibela ba kenang ho kenya le ho qobella ho emisa App Lock Pro. .</string>
+    <string name="device_admin_permission_description">Kenya tšebetsong hona joale, ts\'ireletso pele le ho sireletseha haholoanyane! \n\nHo nolofalletsa Ts\'ireletso ea Advance, ka kopo kenya ts\'ebetsong App Lock Pro joalo ka "motsamaisi oa sesebelisoa". E sebelisoa feela ho thibela ba kenang ho kenya le ho qobella ho emisa App Lock Pro. Ka kopo netefatsa hore App Lock Pro e ke ke ea sebelisa tumello ena ho fihlella lintlha tsa hau tsa lekunutu.</string>
+
+
+    <string name="permission_overlay_description">Numella ho koaheloa ho bontša senotlolo sa senotlolo.</string>
+    <string name="permission_toast_enable_permissions">Lumella tumello ea ho sebelisa sesebelisoa sa lisebelisoa</string>
+
+    <string name="draw_pattern_title">Theha paterone e ncha</string>
+    <string name="redraw_pattern_title">Redraw ho qeta</string>
+
+    <string name="recreate_pattern_error">Mohlala ha o tšoane. Pheta hape.</string>
+
+    <string name="create_pattern_successful">E entsoe ka katleho.</string>
+    <string name="overlay_prompt_pattern_title">Thala mohlala ho bula sesebelisoa</string>
+    <string name="overlay_prompt_pattern_title_wrong">Mohlala o fosahetseng. Thala hape.</string>
+    <string name="overlay_prompt_pattern_title_correct">Mohlala o nepahetse.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Thala mohlala ho bula sesebelisoa</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Ha li lumellane. + %1$s + e setseng.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Menoana ea menoana e ts\'oana!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Phoso ea menoana! Leka paterone.</string>
+    <string name="dialog_title_rate_us">Na u ratile Sebaka se Sireletsehileng?</string>
+    <string name="dialog_description_rate_us">Re tla thaba haholo ha o re lekanya \'marakeng.</string>
+    <string name="dialog_action_rate_us_rate">Rate</string>
+
+    <string name="dialog_action_rate_us_later">Hamorao</string>
+    <string name="dialog_title_usage_permission">Tumello ea Android 5.0</string>
+    <string name="dialog_description_usage_permission">Ho Android 5.0 kapa kaholimo, o hloka ho lumella tšebeliso ea tšebeliso ea
+        AppLocker, hore o tle o sebelise Sebaka se Sireletsehileng sa Sebaka</string>
+    <string name="dialog_action_usage_permission_permit">Lumella</string>
+
+    <string name="dialog_action_usage_permission_cancel">Hlakola</string>
+    <string name="dialog_title_privacy_policy">leano la Lekunutu</string>
+    <string name="dialog_description_privacy_policy">Re ntlafalitse leano la rona la lekunutu. Ka ho tsoela pele u lumela<u> leano la Lekunutu</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Amohela</string>
+
+    <string name="hint_browser_search">Batla kapa kenya URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Tshireletso.Private.</string>
+    <string name="subtitle_browser_empty">Phenya marang-rang. Ka mokhoa o sireletsehileng.</string>
+    <string name="bookmarks">Likhopotso</string>
+    <string name="title_name_unknown_number">Nomoro e sa Tsejoeng</string>
+
+
+
+    <string name="blacklist_empty_title">Lenane le letšo ha le na letho</string>
+    <string name="blacklist_empty_description">Tobetsa ho thibela nomoro ea mohala</string>
+    <string name="call_log_empty_title">Ha ho lifate</string>
+
+    <string name="call_log_empty_description">Log e hlaha mona ha mohala o thibetsoe</string>
+    <string name="dialog_add_to_blacklist_title">Thibela nomoro ea mohala</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Lebitso (boikhethelo)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Kenya nomoro ea mohala</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Hlakola</string>
+    <string name="dialog_black_list_delete_title">Tlosa lenaneng</string>
+    <string name="dialog_black_list_delete_description">O batla ho tlosa nomoro e thibetsoeng lenaneng le letšo?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Hlakola</string>
+    <string name="dialog_title_add_to_vault">E ntse e sebetsana</string>
+    <string name="dialog_description_process">Mecha ea hau ea litaba e tlosa ho la gallery ebe e eketsa polokelong ea hau.</string>
+
+    <string name="dialog_title_removal_confirmation">Netefatso ea ho Tlosa</string>
+    <string name="dialog_description_removal">Faele ena e tla tlosoa mohahong ebe e hlaha ka har\'a gallery.</string>
+    <string name="dialog_action_removal_confirmation_accept">Amohela</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault ha e na letho</string>
+    <string name="vault_photo_empty_page_description">Kenya lets\'oao ho pata linepe ho tsoa gallery</string>
+    <string name="vault_video_empty_page_title">Video Vault ha e na letho</string>
+
+    <string name="vault_video_empty_page_description">Kenya letšoao ho linepe tsa video ho tsoa gallery</string>
+    <string-array name="tabs">
+        <item>Tshireletso</item>
+        <item>Litlhophiso</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Hlakola</item>
+        <item>Letsetsa Likutung</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Litšoantšo</item>
+        <item>Livideo</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Ha ho Batšosi ba Tšoaroang</string>
+    <string name="empty_page_intruders_description">Fono ea hau e sireletsehile!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Letsetsa Blocker</string>
+    <string name="browser">Sebatli</string>
+    <string name="theme">Meralo</string>
+    <string name="rate_us">Re rate</string>
+    <string name="removeads">Mofuta oa Premium</string>
+    <string name="enter_pin">Kenya pin</string>
+    <string name="pin_matched">Phini e tšoana</string>
+    <string name="confirm_pin">Netefatsa pin</string>
+    <string name="pin_chahnged">Phini e fetotsoe ka katleho</string>
+    <string name="pin_not_matched">Phini ha e tšoane</string>
+    <string name="incorrect_pin">Phini e fosahetseng</string>
+    <string name="settings_set_pin">Seta pin</string>
+    <string name="change_pin">Fetola pin</string>
+    <string name="settings_set_pin_description">Seta pini e ncha</string>
+    <string name="create_new_pin">Theha phini e ncha</string>
+    <string name="home">Lapeng</string>
+    <string name="settings_change_pin_description">Fetola pin ea hau e teng</string>
+    <string name="message_pin_changed">Phini e Fetohile ka Katleho</string>
+    <string name="non_protected">E sa Sireletsoa</string>
+    <string name="status_protected">E sirelelitsoe</string>
+    <string name="starting_hour">Ho qala Hora</string>
+    <string name="ending_hour">Ho qetela Hora</string>
+    <string name="auto_start_p">tumello ea likoloi</string>
+    <string name="permission_usage_access_description1">bula khetho ea auto-run</string>
+
+
+    <string name="privat_browser">Sebatli sa poraefete</string>
+    <string name="prem_title">Phetolelo ea Premium ka ho sa Feleng</string>
+    <string name="prem_no_ads">Ha ho li-AD ka ho sa feleng</string>
+    <string name="prem_restore">Khutlisetsa Theko</string>
+
+    <string name="please_give_us_five_stars">Ka kopo re fe linaleli tse hlano ho Google Play! Re ka e ananela haholo!</string>
+    <string name="great_tex">E ntle haholo!</string>
+    <string name="choose_the_icon">Khetha lets\'oao le lets\'oao la mantlha le tla fetoloa. Pata sesebelisoa sena ho batho ba kenang</string>
+    <string name="app_name1">Nako</string>
+    <string name="app_name2">Limmapa</string>
+    <string name="app_name3">Khalendara</string>
+    <string name="app_name4">\'Mino</string>
+    <string name="app_name5">Calculator</string>
+
+    <string name="callblocker_black">Lethathamo le letšo</string>
+    <string name="callblocker_logs">Pitso likutung</string>
+    <string name="icon_change_title">Litšoantšo</string>
+    <string name="intruders_title">Moitshunyanyi</string>
+    <string name="intruders_access_apps">Fumana lits\'ebetso ka ts\'ebeliso</string>
+    <string name="main_unlocked">E notlollotsoe</string>
+    <string name="main_locked">E notletsoe</string>
+    <string name="prem_not_sub">Hona ha se peeletso. U lefa hang feela!</string>
+    <string name="prem_fake_icon">Setšoantšo sa Bohata</string>
+    <string name="prem_intruders">Selfie ea kenang</string>
+    <string name="prem_themes">Meralo e meng ea boqapi</string>
+    <string name="prem_one_time">Tefo ea Nako e le \'Ngoe</string>
+    <string name="splash_create">E bōpiloe ho sireletsa boinotši ba hau</string>
+    <string name="vault_photos">Linepe</string>
+    <string name="vault_videos">Livideo</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">O ka rata ho hlakola senepe?</string>
+    <string name="btn_cancel">KANETSA</string>
+    <string name="fragment_security_text">Opps! \n Ha o na diapp tse notletsoeng</string>
+    <string name="settings_security">Tshireletso</string>
+    <string name="settings_face_icon">Setšoantšo sa Bohata</string>
+    <string name="settings_face_icon_text">Letšoao la mantlha la sesebelisoa sena le tla fetoloa</string>
+    <string name="rate_us_enjoying">Na u natefeloa ke AppLock?</string>
+    <string name="rate_us_could_be">ho ka ba betere</string>
+    <string name="menu_privacy">leano la Lekunutu</string>
+    <string name="menu_contact">Iteanye le rona</string>
+    <string name="menu_face_icon">Setšoantšo sa Bohata</string>
+    <string name="menu_intruder">Motsamaisi oa Intruder</string>
+    <string name="menu_chat">Kamore ea ho qoqa</string>
+
+</resources>

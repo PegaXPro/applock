@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Zikhazikiko</string>
+
+  
+
+    <string name="share">Gawani</string>
+
+    <string name="notification_protecting_title">Kuteteza mapulogalamu anu</string>
+
+    <string name="notification_protecting_description">Tsekani mapulogalamu anu kuti muteteze chinsinsi chanu.</string>
+
+    <string name="notification_permission_need_title">Thandizani chilolezo kuti muteteze</string>
+
+    <string name="notification_permission_need_description">Chonde lolani zilolezo zanu kuti mugwiritse ntchito pulogalamu yopanga.</string>
+    <string name="you_accept_privacy_policy">Mwa kupitiriza mukuvomereza<u> mfundo Zazinsinsi</u> </string>
+
+    <string name="header_recommended_to_lock">Akulimbikitsidwa kutseka</string>
+    <string name="header_all_apps">Mapulogalamu onse</string>
+
+    <string name="title_general_settings">Zonse</string>
+
+    <string name="title_lock_all">Tsekani zonse</string>
+    <string name="description_lock_all">Izi zitseka mapulogalamu anu onse</string>
+
+ 
+    <string name="title_unlock_all">Tsegulani zonse</string>
+
+    <string name="description_unlock_all">Izi zitsegula mapulogalamu anu onse</string>
+    <string name="settings_change_pattern_title">Sinthani dongosolo</string>
+
+    <string name="settings_change_pattern_description">Sinthani mtundu wanu womwe ulipo</string>
+    <string name="message_pattern_changed">Zitsanzo zidasintha bwino</string>
+
+    <string name="setting_in_stealth_mode_title">Bisani kujambula</string>
+    <string name="setting_in_stealth_mode_description">Dongosolo losaoneka mukamajambula</string>
+    <string name="setting_fingerprint_title">Yambitsani zala</string>
+
+    <string name="setting_fingerprint_description">Yambitsani pulogalamu ndi zala zanu.</string>
+    <string name="setting_fingerprint_not_supported_title">Zojambula zala sizigwirizana</string>
+
+    <string name="setting_fingerprint_not_supported_description">Chida chanu chilibe sensa</string>
+    <string name="setting_fingerprint_not_registered_title">Lembani zolemba zanu</string>
+
+    <string name="setting_fingerprint_not_registered_description">Pitani ku makonda achitetezo</string>
+    <string name="next">Ena</string>
+
+    <string name="permission_usage_access_title">Chilolezo chogwiritsa ntchito</string>
+    <string name="permission_usage_access_description">Thandizani ma acces ogwiritsira ntchito kuti mugwiritse ntchito pulogalamu yotsatsira.</string>
+
+    <string name="permission_overlay_title">Tsekani chophimba chilolezo</string>
+
+    <string name="settings_card_intruders_title">Ogwira Osokoneza</string>
+    <string name="settings_enable_intruders_title">Tengani chithunzi cha obwera</string>
+    <string name="settings_enable_intruders_description">Yambitsani kugwira obwera.</string>
+
+    <string name="settings_intruders_folder_title">Zithunzi zolanda</string>
+    <string name="settings_intruders_folder_description">Dinani kuti muwone azondi pafoni yanu.</string>
+
+    <string name="settings_card_advance_protection_title">Chitetezo Patsogolo</string>
+    <string name="settings_enable_advance_protection_title">Thandizani chitetezo chamtsogolo</string>
+    <string name="settings_enable_advance_protection_description">Kuti mutsegule Advance Protection, chonde yambitsani App Lock Pro ngati "woyang\'anira zida" .Ingogwiritsidwa ntchito popewa olanda kuti asachotsere ndikukakamiza kuyimitsa App Lock Pro. Chonde onetsetsani kuti App Lock Pro sangagwiritsenso ntchito chilolezo ichi kuti mupeze zinsinsi zanu .</string>
+    <string name="device_admin_permission_description">Gwiritsani ntchito tsopano, pitilizani chitetezo ndikutetezeka! \n\nKuti mutsegule Advance Protection, chonde yambitsani App Lock Pro ngati "woyang\'anira zida" .Ingogwiritsidwa ntchito popewa olanda kuti asachotse ndikukakamiza kuyimitsa App Lock Pro. pezani zinsinsi zanu.</string>
+
+
+    <string name="permission_overlay_description">Yambitsani pamwamba kuti muwonetse chophimba.</string>
+    <string name="permission_toast_enable_permissions">Yambitsani zilolezo zogwiritsa ntchito pulogalamu yosungira mapulogalamu</string>
+
+    <string name="draw_pattern_title">Pangani dongosolo latsopano</string>
+    <string name="redraw_pattern_title">Redraw kumaliza</string>
+
+    <string name="recreate_pattern_error">Zitsanzo sizikugwirizana. Dulani.</string>
+
+    <string name="create_pattern_successful">Adapangidwa bwino.</string>
+    <string name="overlay_prompt_pattern_title">Jambulani pulogalamu kuti mutsegule pulogalamu</string>
+    <string name="overlay_prompt_pattern_title_wrong">Zolakwika. Jambulanso.</string>
+    <string name="overlay_prompt_pattern_title_correct">Chitsanzo cholondola.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Jambulani pulogalamu kuti mutsegule pulogalamu</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Osafanana. + %1$s + atsala.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Zolemba zala zikufanana!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Cholakwika chala zala! Yesani kachitidwe.</string>
+    <string name="dialog_title_rate_us">Kodi mumakonda Malo Otetezeka?</string>
+    <string name="dialog_description_rate_us">Tidzakhala osangalala kwambiri Mukatiyeza pamsika.</string>
+    <string name="dialog_action_rate_us_rate">Voterani</string>
+
+    <string name="dialog_action_rate_us_later">Pambuyo pake</string>
+    <string name="dialog_title_usage_permission">Chilolezo cha Android 5.0</string>
+    <string name="dialog_description_usage_permission">Mu Android 5.0 kapena pamwambapa, muyenera kuloleza kugwiritsa ntchito kwa
+        AppLocker, kuti muthe kugwiritsa ntchito Feature Zone Feature</string>
+    <string name="dialog_action_usage_permission_permit">Chilolezo</string>
+
+    <string name="dialog_action_usage_permission_cancel">Kuletsa</string>
+    <string name="dialog_title_privacy_policy">mfundo Zazinsinsi</string>
+    <string name="dialog_description_privacy_policy">Tasintha ndondomeko yathu yachinsinsi. Mwa kupitiriza mukuvomereza<u> mfundo Zazinsinsi</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Landirani</string>
+
+    <string name="hint_browser_search">Sakani kapena lowetsani ulalo</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Zosintha</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Otetezeka Otetezeka.</string>
+    <string name="subtitle_browser_empty">Fufuzani pa intaneti. Bwinobwino.</string>
+    <string name="bookmarks">Zikhomo</string>
+    <string name="title_name_unknown_number">Nambala Yosadziwika</string>
+
+
+
+    <string name="blacklist_empty_title">Mndandanda wakuda kulibe kanthu</string>
+    <string name="blacklist_empty_description">Dinani kuti mulepheretse nambala yafoni</string>
+    <string name="call_log_empty_title">Palibe Zolemba</string>
+
+    <string name="call_log_empty_description">Logi imawonekera apa foni ikatsekedwa</string>
+    <string name="dialog_add_to_blacklist_title">Dulani nambala yafoni</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Dzina (ngati mukufuna)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Lowetsani nambala yafoni</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Kuletsa</string>
+    <string name="dialog_black_list_delete_title">Chotsani pamndandanda wakuda</string>
+    <string name="dialog_black_list_delete_description">Kodi mukufuna kuchotsa nambala yotsekedwa pamndandanda wakuda?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Kuletsa</string>
+    <string name="dialog_title_add_to_vault">Processing</string>
+    <string name="dialog_description_process">Makanema anu akuchotsa pazithunzi ndikuwonjezera m\'chipinda chanu.</string>
+
+    <string name="dialog_title_removal_confirmation">Chitsimikizo Chotsitsa</string>
+    <string name="dialog_description_removal">Fayiloyi idzachotsa m\'chipinda chowonekera ndikuwonetsa paziwonetsero.</string>
+    <string name="dialog_action_removal_confirmation_accept">Landirani</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault ilibe kanthu</string>
+    <string name="vault_photo_empty_page_description">Onjezani chithunzi kuti mubise zithunzi kuchokera pazithunzi</string>
+    <string name="vault_video_empty_page_title">Video Vault ilibe kanthu</string>
+
+    <string name="vault_video_empty_page_description">Onjezani chithunzi pazithunzi zamakanema pazithunzi</string>
+    <string-array name="tabs">
+        <item>Chitetezo</item>
+        <item>Zikhazikiko</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Mndandanda wakuda</item>
+        <item>Imbani zipika</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Zithunzi</item>
+        <item>Makanema</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Palibe Achifwamba Omwe Agwidwa</string>
+    <string name="empty_page_intruders_description">Foni yanu ndi yotetezeka!</string>
+    <string name="Vault">Chipinda</string>
+    <string name="Call_blocker">Imbani Blocker</string>
+    <string name="browser">Msakatuli</string>
+    <string name="theme">Mitu</string>
+    <string name="rate_us">Voterani ife</string>
+    <string name="removeads">Mtundu wa Premium</string>
+    <string name="enter_pin">Lowani pini</string>
+    <string name="pin_matched">Pin zikufanana</string>
+    <string name="confirm_pin">Tsimikizani pini</string>
+    <string name="pin_chahnged">Pin yasinthidwa bwino</string>
+    <string name="pin_not_matched">Pin sizikufanana</string>
+    <string name="incorrect_pin">Pini yolakwika</string>
+    <string name="settings_set_pin">Ikani pini</string>
+    <string name="change_pin">Sinthani pini</string>
+    <string name="settings_set_pin_description">Khazikitsani pini yatsopano</string>
+    <string name="create_new_pin">Pangani pini yatsopano</string>
+    <string name="home">Kunyumba</string>
+    <string name="settings_change_pin_description">Sinthani pini yanu yomwe ilipo</string>
+    <string name="message_pin_changed">Pin Yasinthidwa Bwino</string>
+    <string name="non_protected">Zosatetezedwa</string>
+    <string name="status_protected">Otetezedwa</string>
+    <string name="starting_hour">Kuyambira ola</string>
+    <string name="ending_hour">Kutha Ora</string>
+    <string name="auto_start_p">chilolezo chothamanga</string>
+    <string name="permission_usage_access_description1">tsegulani zosankha zokhazokha</string>
+
+
+    <string name="privat_browser">Msakatuli Wachinsinsi</string>
+    <string name="prem_title">Mtundu wa Premium Kwamuyaya</string>
+    <string name="prem_no_ads">Palibe ADs Kwamuyaya</string>
+    <string name="prem_restore">Bwezeretsani Zogula</string>
+
+    <string name="please_give_us_five_stars">Chonde tipatseni nyenyezi zisanu pa Google Play! Tikuyamikira kwambiri!</string>
+    <string name="great_tex">Zabwino!</string>
+    <string name="choose_the_icon">Sankhani chithunzi ndi chithunzi choyambirira chidzasinthidwa. Bisani pulogalamuyi kwa obisalira</string>
+    <string name="app_name1">Wotchi</string>
+    <string name="app_name2">Mamapu</string>
+    <string name="app_name3">Kalendala</string>
+    <string name="app_name4">Nyimbo</string>
+    <string name="app_name5">Chiwerengero</string>
+
+    <string name="callblocker_black">Mndandanda wakuda</string>
+    <string name="callblocker_logs">Imbani zipika</string>
+    <string name="icon_change_title">Zizindikiro</string>
+    <string name="intruders_title">Wosokoneza</string>
+    <string name="intruders_access_apps">Pezani mapulogalamu ndi kugwiritsa ntchito</string>
+    <string name="main_unlocked">Omasulidwa</string>
+    <string name="main_locked">Zokhoma</string>
+    <string name="prem_not_sub">Izi sizolembetsa. Mumalipira kamodzi kokha!</string>
+    <string name="prem_fake_icon">Chizindikiro Chabodza</string>
+    <string name="prem_intruders">Zosokoneza nokha</string>
+    <string name="prem_themes">Mitu yambiri yopanga</string>
+    <string name="prem_one_time">Malipiro Amodzi</string>
+    <string name="splash_create">Adapangidwa kuti ateteze chinsinsi chanu</string>
+    <string name="vault_photos">Zithunzi</string>
+    <string name="vault_videos">Makanema</string>
+    <string name="btn_ok">Chabwino</string>
+    <string name="dialog_intruder_text">Kodi mukufuna kuchotsa chithunzicho?</string>
+    <string name="btn_cancel">FUFUTANI</string>
+    <string name="fragment_security_text">Opps! \n Mulibe mapulogalamu otsekedwa panobe</string>
+    <string name="settings_security">Chitetezo</string>
+    <string name="settings_face_icon">Chizindikiro Chabodza</string>
+    <string name="settings_face_icon_text">Chithunzi choyambirira cha pulogalamuyi chidzasinthidwa</string>
+    <string name="rate_us_enjoying">Kodi mukusangalala ndi AppLock?</string>
+    <string name="rate_us_could_be">zingakhale bwino</string>
+    <string name="menu_privacy">mfundo Zazinsinsi</string>
+    <string name="menu_contact">Lumikizanani nafe</string>
+    <string name="menu_face_icon">Chizindikiro Chabodza</string>
+    <string name="menu_intruder">Woyang\'anira Wosokoneza</string>
+    <string name="menu_chat">Malo Ochezera</string>
+
+</resources>

@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Cilësimet</string>
+
+  
+
+    <string name="share">Ndani</string>
+
+    <string name="notification_protecting_title">Mbroni aplikacionet tuaja</string>
+
+    <string name="notification_protecting_description">Bllokoni aplikacionet tuaja për të mbrojtur privatësinë tuaj.</string>
+
+    <string name="notification_permission_need_title">Aktivizo lejen për mbrojtje</string>
+
+    <string name="notification_permission_need_description">Ju lutemi aktivizoni lejet tuaja për të përdorur dollapin e aplikacioneve.</string>
+    <string name="you_accept_privacy_policy">Duke vazhduar ju pranoni<u> Politika e privatësisë</u> </string>
+
+    <string name="header_recommended_to_lock">Rekomandohet të kyçet</string>
+    <string name="header_all_apps">Të gjitha aplikacionet</string>
+
+    <string name="title_general_settings">Gjeneral</string>
+
+    <string name="title_lock_all">Mbylle të gjitha</string>
+    <string name="description_lock_all">Kjo do të kyçë të gjitha aplikacionet e tua</string>
+
+ 
+    <string name="title_unlock_all">Shkyç të gjitha</string>
+
+    <string name="description_unlock_all">Kjo do të zhbllokojë të gjitha aplikacionet tuaja</string>
+    <string name="settings_change_pattern_title">Ndrysho modelin</string>
+
+    <string name="settings_change_pattern_description">Ndryshoni modelin tuaj ekzistues</string>
+    <string name="message_pattern_changed">Modeli ndryshoi me sukses</string>
+
+    <string name="setting_in_stealth_mode_title">Fshih vizatimin</string>
+    <string name="setting_in_stealth_mode_description">Modeli i padukshëm gjatë vizatimit</string>
+    <string name="setting_fingerprint_title">Aktivizo gjurmën e gishtit</string>
+
+    <string name="setting_fingerprint_description">Hap aplikacionin me gjurmën e gishtit.</string>
+    <string name="setting_fingerprint_not_supported_title">Gjurma e gishtit nuk mbështetet</string>
+
+    <string name="setting_fingerprint_not_supported_description">Pajisja juaj nuk ka sensor</string>
+    <string name="setting_fingerprint_not_registered_title">Regjistroni gjurmën tuaj të gishtit</string>
+
+    <string name="setting_fingerprint_not_registered_description">Shkoni te cilësimet e sigurisë</string>
+    <string name="next">Tjetra</string>
+
+    <string name="permission_usage_access_title">Leja e përdorimit të përdorimit</string>
+    <string name="permission_usage_access_description">Aktivizo akseset e përdorimit për të përdorur dollapin e aplikacioneve.</string>
+
+    <string name="permission_overlay_title">Leja e ekranit të kyçjes</string>
+
+    <string name="settings_card_intruders_title">Kapur ndërhyrës</string>
+    <string name="settings_enable_intruders_title">Bëni fotografi të ndërhyrës</string>
+    <string name="settings_enable_intruders_description">Aktivizo për të kapur ndërhyrës.</string>
+
+    <string name="settings_intruders_folder_title">Fotografi të kapur të ndërhyrës</string>
+    <string name="settings_intruders_folder_description">Klikoni për të parë spiunët në telefonin tuaj.</string>
+
+    <string name="settings_card_advance_protection_title">Mbrojtja paraprake</string>
+    <string name="settings_enable_advance_protection_title">Aktivizoni mbrojtjen paraprake</string>
+    <string name="settings_enable_advance_protection_description">Për të aktivizuar Advance Protection, ju lutemi aktivizoni App Lock Pro si "administrator i pajisjes". Usedshtë përdorur vetëm për parandalimin e çinstalimit të ndërhyrës dhe ndalimin me forcë të App Lock Pro. Ju lutemi sigurohuni që App Lock Pro nuk do ta përdorë kurrë këtë leje për të hyrë në të dhënat tuaja të privatësisë .</string>
+    <string name="device_admin_permission_description">Aktivizohuni tani, mbrojtjen paraprake dhe më të sigurt! \n\nPër të aktivizuar Advance Protection, ju lutemi aktivizoni App Lock Pro si "administrator i pajisjes". usedshtë përdorur vetëm për parandalimin e çinstalimit të ndërhyrës dhe ndalimin me forcë të App Lock Pro. Ju lutemi sigurohuni që App Lock Pro nuk do ta përdorë kurrë këtë leje për të hyni në të dhënat tuaja të privatësisë.</string>
+
+
+    <string name="permission_overlay_description">Aktivizo mbivendosjen për të treguar ekranin e kyçjes.</string>
+    <string name="permission_toast_enable_permissions">Aktivizo lejet për të përdorur dollapin e aplikacioneve</string>
+
+    <string name="draw_pattern_title">Krijoni një model të ri</string>
+    <string name="redraw_pattern_title">Ridraw për të përfunduar</string>
+
+    <string name="recreate_pattern_error">Modeli nuk përputhet. Ridraw</string>
+
+    <string name="create_pattern_successful">Krijuar me sukses.</string>
+    <string name="overlay_prompt_pattern_title">Vizato modelin për të hapur aplikacionin</string>
+    <string name="overlay_prompt_pattern_title_wrong">Modeli i gabuar. Vizatoni përsëri.</string>
+    <string name="overlay_prompt_pattern_title_correct">Modeli i saktë.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Vizato modelin për të hapur aplikacionin</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Nuk + përputhet. + %1$s + e mbetur.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Gjurma e gishtit përputhet!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Gabim në gjurmën e gishtit! Provo modelin.</string>
+    <string name="dialog_title_rate_us">A ju pëlqente Zona e Sigurt?</string>
+    <string name="dialog_description_rate_us">Ne do të jemi shumë të lumtur Nëse na vlerësoni në treg.</string>
+    <string name="dialog_action_rate_us_rate">Vlerësoni</string>
+
+    <string name="dialog_action_rate_us_later">Më vonë</string>
+    <string name="dialog_title_usage_permission">Leja e Android 5.0</string>
+    <string name="dialog_description_usage_permission">Në Android 5.0 ose më lart, duhet të lejoni hyrjen në përdorim për
+        AppLocker, në mënyrë që të mund të përdorni Feature Zone Secure</string>
+    <string name="dialog_action_usage_permission_permit">Leje</string>
+
+    <string name="dialog_action_usage_permission_cancel">Anulo</string>
+    <string name="dialog_title_privacy_policy">Politika e privatësisë</string>
+    <string name="dialog_description_privacy_policy">Ne kemi azhurnuar politikën tonë të privatësisë. Duke vazhduar ju pranoni<u> Politika e privatësisë</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Pranoj</string>
+
+    <string name="hint_browser_search">Kërkoni ose futni URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Cicëroj</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">I sigurt. Sigurt. Privat.</string>
+    <string name="subtitle_browser_empty">Surf në internet. Në mënyrë të sigurt</string>
+    <string name="bookmarks">Faqeshënuesit</string>
+    <string name="title_name_unknown_number">Numri i panjohur</string>
+
+
+
+    <string name="blacklist_empty_title">Lista e zezë është bosh</string>
+    <string name="blacklist_empty_description">Klikoni për të bllokuar numrin e telefonit</string>
+    <string name="call_log_empty_title">Pa regjistra</string>
+
+    <string name="call_log_empty_description">Regjistri shfaqet këtu kur telefonata bllokohet</string>
+    <string name="dialog_add_to_blacklist_title">Blloko numrin e telefonit</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Emri (Opsionale)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Vendosni numrin e telefonit</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Anulo</string>
+    <string name="dialog_black_list_delete_title">Fshi nga lista e zezë</string>
+    <string name="dialog_black_list_delete_description">Dëshironi të hiqni numrin e bllokuar nga lista e zezë?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Anulo</string>
+    <string name="dialog_title_add_to_vault">Përpunimi</string>
+    <string name="dialog_description_process">Media juaj po heq nga galeria dhe po i shtohet kasafortës tuaj.</string>
+
+    <string name="dialog_title_removal_confirmation">Konfirmimi i heqjes</string>
+    <string name="dialog_description_removal">Kjo skedar do të hiqet nga kasaforta dhe do të shfaqet në galeri.</string>
+    <string name="dialog_action_removal_confirmation_accept">Pranoj</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault është bosh</string>
+    <string name="vault_photo_empty_page_description">Shto ikonë për të fshehur fotot nga galeria</string>
+    <string name="vault_video_empty_page_title">Video Vault është bosh</string>
+
+    <string name="vault_video_empty_page_description">Shtoni ikonë në fotot e videos nga galeria</string>
+    <string-array name="tabs">
+        <item>Siguria</item>
+        <item>Cilësimet</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Listë e zezë</item>
+        <item>Regjistrat e thirrjeve</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Imazhe</item>
+        <item>Video</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Nuk kapen asnjë ndërhyrës</string>
+    <string name="empty_page_intruders_description">Telefoni juaj është i sigurt!</string>
+    <string name="Vault">Qemer</string>
+    <string name="Call_blocker">Bllokuesi i thirrjeve</string>
+    <string name="browser">Shfletuesi</string>
+    <string name="theme">Temat</string>
+    <string name="rate_us">Na vleresoni</string>
+    <string name="removeads">Version Premium</string>
+    <string name="enter_pin">Vendosni pin</string>
+    <string name="pin_matched">Pin përputhet</string>
+    <string name="confirm_pin">Konfirmo majën</string>
+    <string name="pin_chahnged">Pin-i ndryshoi me sukses</string>
+    <string name="pin_not_matched">Pin nuk përputhet</string>
+    <string name="incorrect_pin">Pin i pasaktë</string>
+    <string name="settings_set_pin">Vendosni kunj</string>
+    <string name="change_pin">Ndrysho kunjin</string>
+    <string name="settings_set_pin_description">Vendosni një kunj të ri</string>
+    <string name="create_new_pin">Krijoni një kunj të ri</string>
+    <string name="home">Shtëpi</string>
+    <string name="settings_change_pin_description">Ndryshoni kunjin tuaj ekzistues</string>
+    <string name="message_pin_changed">Pin-i u ndryshua me sukses</string>
+    <string name="non_protected">Jo e mbrojtur</string>
+    <string name="status_protected">Të mbrojtura</string>
+    <string name="starting_hour">Ora e Fillimit</string>
+    <string name="ending_hour">Ora e mbarimit</string>
+    <string name="auto_start_p">leje për ekzekutimin automatik</string>
+    <string name="permission_usage_access_description1">hap opsionin e ekzekutimit automatik</string>
+
+
+    <string name="privat_browser">Shfletuesi privat</string>
+    <string name="prem_title">Version Premium Përgjithmonë</string>
+    <string name="prem_no_ads">Asnjë ADS përgjithmonë</string>
+    <string name="prem_restore">Rivendos Blerjen</string>
+
+    <string name="please_give_us_five_stars">Ju lutemi na jepni pesë yje në Google Play! Do ta vlerësonim shumë!</string>
+    <string name="great_tex">Shkëlqyeshëm!</string>
+    <string name="choose_the_icon">Zgjidhni ikonën dhe ikona origjinale do të ndryshohet. Fshiheni këtë aplikacion nga ndërhyrës</string>
+    <string name="app_name1">Ora</string>
+    <string name="app_name2">Hartat</string>
+    <string name="app_name3">Kalendar</string>
+    <string name="app_name4">Muzika</string>
+    <string name="app_name5">Llogaritësi</string>
+
+    <string name="callblocker_black">Lista e zezë</string>
+    <string name="callblocker_logs">Regjistrat e thirrjeve</string>
+    <string name="icon_change_title">Ikona</string>
+    <string name="intruders_title">Ndërhyrës</string>
+    <string name="intruders_access_apps">Hyni tek aplikacionet me përdorim</string>
+    <string name="main_unlocked">I shkyçur</string>
+    <string name="main_locked">I bllokuar</string>
+    <string name="prem_not_sub">Kjo nuk është një pajtim. Ju paguani vetëm një herë!</string>
+    <string name="prem_fake_icon">Ikonë e rreme</string>
+    <string name="prem_intruders">Selfi me ndërhyrës</string>
+    <string name="prem_themes">Temat më krijuese</string>
+    <string name="prem_one_time">Pagesa një herë</string>
+    <string name="splash_create">Krijuar për të mbrojtur privatësinë tuaj</string>
+    <string name="vault_photos">Fotografitë</string>
+    <string name="vault_videos">Video</string>
+    <string name="btn_ok">Ne rregull</string>
+    <string name="dialog_intruder_text">Dëshironi të fshini foton?</string>
+    <string name="btn_cancel">ANULOJ</string>
+    <string name="fragment_security_text">Kundërshtimet! \n Nuk keni ende aplikacione të kyçura</string>
+    <string name="settings_security">Siguria</string>
+    <string name="settings_face_icon">Ikonë e rreme</string>
+    <string name="settings_face_icon_text">Ikona origjinale e këtij aplikacioni do të ndryshohet</string>
+    <string name="rate_us_enjoying">Po shijoni AppLock?</string>
+    <string name="rate_us_could_be">mund te jete me mire</string>
+    <string name="menu_privacy">Politika e privatësisë</string>
+    <string name="menu_contact">Na kontaktoni</string>
+    <string name="menu_face_icon">Ikonë e rreme</string>
+    <string name="menu_intruder">Menaxher ndërhyrës</string>
+    <string name="menu_chat">Salla e bisedave</string>
+
+</resources>

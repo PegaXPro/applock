@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Орнотуулар</string>
+
+  
+
+    <string name="share">Бөлүшүү</string>
+
+    <string name="notification_protecting_title">Колдонмолоруңузду коргоо</string>
+
+    <string name="notification_protecting_description">Купуялыгыңызды коргоо үчүн колдонмолоруңузду кулпулаңыз.</string>
+
+    <string name="notification_permission_need_title">Коргоого уруксатты иштетүү</string>
+
+    <string name="notification_permission_need_description">Колдонмо бекиткичти колдонуу үчүн уруксатыңызды иштетиңиз.</string>
+    <string name="you_accept_privacy_policy">Улантуу менен сиз макулсуз<u> Купуялык саясаты</u> </string>
+
+    <string name="header_recommended_to_lock">Кулпулоо сунушталды</string>
+    <string name="header_all_apps">Бардык тиркемелер</string>
+
+    <string name="title_general_settings">Жалпы</string>
+
+    <string name="title_lock_all">Баарын кулпулоо</string>
+    <string name="description_lock_all">Ушуну менен бардык колдонмолоруңуз кулпуланат</string>
+
+ 
+    <string name="title_unlock_all">Баарынын кулпусун ачуу</string>
+
+    <string name="description_unlock_all">Бул сиздин бардык колдонмолоруңуздун кулпусун ачат</string>
+    <string name="settings_change_pattern_title">Үлгүнү өзгөртүү</string>
+
+    <string name="settings_change_pattern_description">Учурдагы үлгүңүздү өзгөртүңүз</string>
+    <string name="message_pattern_changed">Үлгү ийгиликтүү өзгөрдү</string>
+
+    <string name="setting_in_stealth_mode_title">Сүрөттү жашыруу</string>
+    <string name="setting_in_stealth_mode_description">Сүрөт тартуу учурунда көрүнбөгөн оюм</string>
+    <string name="setting_fingerprint_title">Манжа изин иштетүү</string>
+
+    <string name="setting_fingerprint_description">Манжа изиңиз менен колдонмону ишке киргизиңиз.</string>
+    <string name="setting_fingerprint_not_supported_title">Манжа изи колдоого алынбайт</string>
+
+    <string name="setting_fingerprint_not_supported_description">Түзмөгүңүздө сенсор жок</string>
+    <string name="setting_fingerprint_not_registered_title">Манжа изиңизди каттаңыз</string>
+
+    <string name="setting_fingerprint_not_registered_description">Коопсуздук жөндөөлөрүнө өтүңүз</string>
+    <string name="next">Кийинки</string>
+
+    <string name="permission_usage_access_title">Колдонууга уруксат</string>
+    <string name="permission_usage_access_description">Колдонмонун шкафын колдонуу үчүн колдонуу аккаунттарын күйгүзүңүз.</string>
+
+    <string name="permission_overlay_title">Экранды кулпулоо</string>
+
+    <string name="settings_card_intruders_title">Catch Intruders</string>
+    <string name="settings_enable_intruders_title">Кирип келгендерди сүрөткө тартыңыз</string>
+    <string name="settings_enable_intruders_description">Келип түшкөндөрдү кармоого мүмкүнчүлүк бериңиз.</string>
+
+    <string name="settings_intruders_folder_title">Келип түшкөн сүрөттөрдү кармадык</string>
+    <string name="settings_intruders_folder_description">Телефонуңуздагы тыңчыларды көрүү үчүн чыкылдатыңыз.</string>
+
+    <string name="settings_card_advance_protection_title">Advance Protection</string>
+    <string name="settings_enable_advance_protection_title">Алдын-ала коргоону иштетүү</string>
+    <string name="settings_enable_advance_protection_description">Advance Protection функциясын күйгүзүү үчүн, App Lock Pro кызматын "түзмөктүн администратору" катары жандырыңыз. Бул бузуку колдонуучуларды орнотуудан чыгарууга жана App Lock Pro күчүн токтотууга гана колдонулат. .</string>
+    <string name="device_admin_permission_description">Азыр жандырыңыз, алдын-ала коргоону жана коопсузураак! \n\nAdvance Protection функциясын күйгүзүү үчүн, App Lock Pro\'ду "түзмөктүн администратору" катары жандырыңыз. Бул бузуку колдонуучуларды орнотуудан чыгарууга жана App Lock Pro күчүн токтотууга гана колдонулат. App Lock Pro бул уруксатты эч качан колдонбойт купуялуулук дайындарыңызга кирүү.</string>
+
+
+    <string name="permission_overlay_description">Экрандын кулпуланган жерин көрсөтүү үчүн үстүнөн жазууну иштетүү.</string>
+    <string name="permission_toast_enable_permissions">Колдонмонун шкафын колдонууга уруксат берүү</string>
+
+    <string name="draw_pattern_title">Жаңы үлгү түзүңүз</string>
+    <string name="redraw_pattern_title">Аяктоо үчүн кайра тартыңыз</string>
+
+    <string name="recreate_pattern_error">Үлгү дал келбейт. Redraw.</string>
+
+    <string name="create_pattern_successful">Ийгиликтүү түзүлдү.</string>
+    <string name="overlay_prompt_pattern_title">Колдонмону ачуу үчүн графикалык сүрөт тарт</string>
+    <string name="overlay_prompt_pattern_title_wrong">Туура эмес оймо. Дагы бир жолу сүрөт тартыңыз.</string>
+    <string name="overlay_prompt_pattern_title_correct">Үлгү туура.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Колдонмону ачуу үчүн графикалык сүрөт тарт</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Дал келген жок. + %1$s + калды.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Манжа изи дал келди!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Манжа изи катасы! Үлгүнү байкап көрүңүз.</string>
+    <string name="dialog_title_rate_us">Коопсуз аймак сизге жактыбы?</string>
+    <string name="dialog_description_rate_us">Бизди базардан бааласаңыз, биз бактылуу болобуз.</string>
+    <string name="dialog_action_rate_us_rate">Rate</string>
+
+    <string name="dialog_action_rate_us_later">Кийинчерээк</string>
+    <string name="dialog_title_usage_permission">Android 5.0 уруксаты</string>
+    <string name="dialog_description_usage_permission">Android 5.0 же андан жогору версиясында сиз үчүн колдонууга уруксат берүү керек
+        Коопсуз аймак өзгөчөлүгүн колдоно турган болсоңуз, AppLocker</string>
+    <string name="dialog_action_usage_permission_permit">Уруксат</string>
+
+    <string name="dialog_action_usage_permission_cancel">Жокко чыгаруу</string>
+    <string name="dialog_title_privacy_policy">Купуялык саясаты</string>
+    <string name="dialog_description_privacy_policy">Купуялык саясатыбызды жаңырттык. Улантуу менен сиз макулсуз<u> Купуялык саясаты</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Кабыл алуу</string>
+
+    <string name="hint_browser_search">URL издөө же киргизүү</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">снэпчат</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Интернетте серфинг. Коопсуз.</string>
+    <string name="bookmarks">Кыстармалар</string>
+    <string name="title_name_unknown_number">Белгисиз номер</string>
+
+
+
+    <string name="blacklist_empty_title">Кара тизме бош</string>
+    <string name="blacklist_empty_description">Телефон номерин бөгөттөө үчүн чыкылдатыңыз</string>
+    <string name="call_log_empty_title">Журналдар жок</string>
+
+    <string name="call_log_empty_description">Чалуу бөгөттөлгөндө журнал пайда болот</string>
+    <string name="dialog_add_to_blacklist_title">Телефон номерин бөгөттөө</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Аты (милдеттүү эмес)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Телефон номерин киргизиңиз</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Жокко чыгаруу</string>
+    <string name="dialog_black_list_delete_title">Кара тизмеден жок кылуу</string>
+    <string name="dialog_black_list_delete_description">Бөгөттөлгөн номерди кара тизмеден чыгаргыңыз келеби?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Жокко чыгаруу</string>
+    <string name="dialog_title_add_to_vault">Иштетүү</string>
+    <string name="dialog_description_process">Сиздин медиа галереядан алынып, сактагычыңызга кошулуп жатат.</string>
+
+    <string name="dialog_title_removal_confirmation">Алып салууну ырастоо</string>
+    <string name="dialog_description_removal">Бул файл сактоочу жайдан алынып, галереяга көрсөтүлөт.</string>
+    <string name="dialog_action_removal_confirmation_accept">Кабыл алуу</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault бош</string>
+    <string name="vault_photo_empty_page_description">Сүрөттөрдү галереядан жашыруу үчүн сөлөкөт кошуңуз</string>
+    <string name="vault_video_empty_page_title">Video Vault бош</string>
+
+    <string name="vault_video_empty_page_description">Галереядагы видео сүрөттөргө сөлөкөт кошуңуз</string>
+    <string-array name="tabs">
+        <item>Коопсуздук</item>
+        <item>Орнотуулар</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Кара тизме</item>
+        <item>Call Logs</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Сүрөттөр</item>
+        <item>Videos</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Бир дагы кол салуучу кармалган жок</string>
+    <string name="empty_page_intruders_description">Телефонуңуз коопсуз!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Call Blocker</string>
+    <string name="browser">Браузер</string>
+    <string name="theme">Темалар</string>
+    <string name="rate_us">Бизге баа бериңиз</string>
+    <string name="removeads">Премиум версия</string>
+    <string name="enter_pin">PIN кодун киргизиңиз</string>
+    <string name="pin_matched">Төөнөгүч дал келди</string>
+    <string name="confirm_pin">Төөнөгүчтү ырастаңыз</string>
+    <string name="pin_chahnged">Пин ийгиликтүү өзгөрүлдү</string>
+    <string name="pin_not_matched">Пин дал келген жок</string>
+    <string name="incorrect_pin">Туура эмес төөнөгүч</string>
+    <string name="settings_set_pin">Төөнөгүч орнотуу</string>
+    <string name="change_pin">Пинди өзгөртүү</string>
+    <string name="settings_set_pin_description">Жаңы төөнөгүчтү орнотуңуз</string>
+    <string name="create_new_pin">Жаңы төөнөгүч жаратыңыз</string>
+    <string name="home">Үй</string>
+    <string name="settings_change_pin_description">Учурдагы төөнөгүчтү өзгөртүңүз</string>
+    <string name="message_pin_changed">Пин ийгиликтүү өзгөртүлдү</string>
+    <string name="non_protected">Корголгон эмес</string>
+    <string name="status_protected">Корголгон</string>
+    <string name="starting_hour">Starting Hour</string>
+    <string name="ending_hour">Аяктаган саат</string>
+    <string name="auto_start_p">автоматтык иштетүү уруксаты</string>
+    <string name="permission_usage_access_description1">автоматтык иштетүү параметрин ачуу</string>
+
+
+    <string name="privat_browser">Жеке браузер</string>
+    <string name="prem_title">Premium Version Forever</string>
+    <string name="prem_no_ads">Түбөлүк AD жок</string>
+    <string name="prem_restore">Сатып алууну калыбына келтирүү</string>
+
+    <string name="please_give_us_five_stars">Сураныч, Google Playтен беш жылдызды бериңиз! Биз муну абдан баалайбыз!</string>
+    <string name="great_tex">Абдан жакшы!</string>
+    <string name="choose_the_icon">Сөлөкөттү тандаңыз жана баштапкы сүрөтчө өзгөртүлөт. Бул колдонмону бузуучулардан жашырыңыз</string>
+    <string name="app_name1">Саат</string>
+    <string name="app_name2">Карталар</string>
+    <string name="app_name3">Календарь</string>
+    <string name="app_name4">Музыка</string>
+    <string name="app_name5">Калькулятор</string>
+
+    <string name="callblocker_black">Кара тизме</string>
+    <string name="callblocker_logs">Call log</string>
+    <string name="icon_change_title">Белгилер</string>
+    <string name="intruders_title">Intruder</string>
+    <string name="intruders_access_apps">Колдонмолорду колдонуу менен кирүү</string>
+    <string name="main_unlocked">Кулпусу ачылды</string>
+    <string name="main_locked">Кулпуланды</string>
+    <string name="prem_not_sub">Бул жазылуу эмес. Сиз бир гана жолу төлөйсүз!</string>
+    <string name="prem_fake_icon">Fake Icon</string>
+    <string name="prem_intruders">Келип түшкөн селфи</string>
+    <string name="prem_themes">Дагы чыгармачыл темалар</string>
+    <string name="prem_one_time">Бир жолку төлөө</string>
+    <string name="splash_create">Купуялыгыңызды коргоо үчүн түзүлгөн</string>
+    <string name="vault_photos">Сүрөттөр</string>
+    <string name="vault_videos">Videos</string>
+    <string name="btn_ok">Макул</string>
+    <string name="dialog_intruder_text">Сүрөттү өчүргүңүз келеби?</string>
+    <string name="btn_cancel">ЖОК</string>
+    <string name="fragment_security_text">Opps! \n Азырынча кулпуланган колдонмолоруңуз жок</string>
+    <string name="settings_security">Коопсуздук</string>
+    <string name="settings_face_icon">Fake Icon</string>
+    <string name="settings_face_icon_text">Бул колдонмонун баштапкы сүрөтчөсү өзгөртүлөт</string>
+    <string name="rate_us_enjoying">Сизге AppLock жагып жатабы?</string>
+    <string name="rate_us_could_be">андан да жакшы болушу мүмкүн</string>
+    <string name="menu_privacy">Купуялык саясаты</string>
+    <string name="menu_contact">Биз менен байланыш</string>
+    <string name="menu_face_icon">Fake Icon</string>
+    <string name="menu_intruder">Кирүү менеджери</string>
+    <string name="menu_chat">Чат бөлмөсү</string>
+
+</resources>

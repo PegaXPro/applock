@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Setélan</string>
+
+  
+
+    <string name="share">Bagikeun</string>
+
+    <string name="notification_protecting_title">Ngajaga aplikasi anjeun</string>
+
+    <string name="notification_protecting_description">Konci aplikasi anjeun pikeun ngajagi privasi anjeun.</string>
+
+    <string name="notification_permission_need_title">Aktipkeun idin pikeun panangtayungan</string>
+
+    <string name="notification_permission_need_description">Punten aktipkeun idin anjeun nganggo loker aplikasi.</string>
+    <string name="you_accept_privacy_policy">Ku neraskeun anjeun satuju teh<u> kabijakan privasi</u> </string>
+
+    <string name="header_recommended_to_lock">Disarankeun pikeun ngonci</string>
+    <string name="header_all_apps">Sadaya aplikasi</string>
+
+    <string name="title_general_settings">Umum</string>
+
+    <string name="title_lock_all">Kuncén sadayana</string>
+    <string name="description_lock_all">Ieu bakal ngonci sadayana aplikasi anjeun</string>
+
+ 
+    <string name="title_unlock_all">Buka konci sadayana</string>
+
+    <string name="description_unlock_all">Ieu bakal muka konci sadaya aplikasi anjeun</string>
+    <string name="settings_change_pattern_title">Robah pola</string>
+
+    <string name="settings_change_pattern_description">Ngarobih pola anjeun anu aya</string>
+    <string name="message_pattern_changed">Pola dirobah suksés</string>
+
+    <string name="setting_in_stealth_mode_title">Sumputkeun gambar</string>
+    <string name="setting_in_stealth_mode_description">Pola halimunan bari ngagambar</string>
+    <string name="setting_fingerprint_title">Aktipkeun sidik</string>
+
+    <string name="setting_fingerprint_description">Ngajalankeun aplikasi nganggo sidik jari anjeun.</string>
+    <string name="setting_fingerprint_not_supported_title">Sidik jari henteu dirojong</string>
+
+    <string name="setting_fingerprint_not_supported_description">Alat anjeun henteu ngagaduhan sénsor</string>
+    <string name="setting_fingerprint_not_registered_title">Daptar sidik anjeun</string>
+
+    <string name="setting_fingerprint_not_registered_description">Buka setélan kaamanan</string>
+    <string name="next">Teras</string>
+
+    <string name="permission_usage_access_title">Izin aksés panggunaan</string>
+    <string name="permission_usage_access_description">Aktipkeun panggunaan acces pikeun ngagunakeun loker aplikasi.</string>
+
+    <string name="permission_overlay_title">Idin layar konci</string>
+
+    <string name="settings_card_intruders_title">Nyusup Penyusup</string>
+    <string name="settings_enable_intruders_title">Candak gambar anu ngaganggu</string>
+    <string name="settings_enable_intruders_description">Aktipkeun pikeun néwak panyusud.</string>
+
+    <string name="settings_intruders_folder_title">Poto panyusud ditéwak</string>
+    <string name="settings_intruders_folder_description">Pencet kanggo ningali mata-mata dina telepon anjeun.</string>
+
+    <string name="settings_card_advance_protection_title">Perlindungan sateuacanna</string>
+    <string name="settings_enable_advance_protection_title">Aktipkeun panyalindungan sateuacanna</string>
+    <string name="settings_enable_advance_protection_description">Pikeun ngaktipkeun Protéksi sateuacanna, mangga aktipkeun App Lock Pro salaku "pangatur alat". Éta ngan ukur dianggo pikeun nyegah panyusup uninstall sareng maksa ngeureunkeun App Lock Pro. Punten dipastikeun yén App Lock Pro moal nganggo ijin ieu pikeun ngakses data privasi anjeun .</string>
+    <string name="device_admin_permission_description">Aktipkeun ayeuna, perlindungan sateuacanna sareng langkung aman! \n\nPikeun ngaktipkeun Perlindungan sateuacanna, punten aktipkeun App Lock Pro salaku "administrator alat". Éta ngan ukur dipaké pikeun nyegah panyusup uninstall sareng maksa ngeureunkeun App Lock Pro. Punten dipastikeun yén App Lock Pro moal nganggo idin ieu aksés ka data privasi anjeun.</string>
+
+
+    <string name="permission_overlay_description">Aktipkeun overlay pikeun nembongkeun layar konci.</string>
+    <string name="permission_toast_enable_permissions">Aktipkeun idin pikeun nganggo loker aplikasi</string>
+
+    <string name="draw_pattern_title">Ngadamel pola anu énggal</string>
+    <string name="redraw_pattern_title">Ngadamel deui kanggo ngalengkepan</string>
+
+    <string name="recreate_pattern_error">Pola henteu cocog. Ngadamel deui.</string>
+
+    <string name="create_pattern_successful">Suksés didamel.</string>
+    <string name="overlay_prompt_pattern_title">Pola gambar pikeun muka aplikasi</string>
+    <string name="overlay_prompt_pattern_title_wrong">Pola anu salah. Ngagambar deui.</string>
+    <string name="overlay_prompt_pattern_title_correct">Pola leres.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Pola gambar pikeun muka aplikasi</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Henteu + cocog. + %1$s + deui.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Sidik jari cocog!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Kasalahan sidik! Pola coba.</string>
+    <string name="dialog_title_rate_us">Naha anjeun resep Zona Aman?</string>
+    <string name="dialog_description_rate_us">Kami bakal senang pisan Upami anjeun meunteun kami dina pasaran.</string>
+    <string name="dialog_action_rate_us_rate">Meunteun</string>
+
+    <string name="dialog_action_rate_us_later">Engke</string>
+    <string name="dialog_title_usage_permission">Android 5.0 Idin</string>
+    <string name="dialog_description_usage_permission">Dina Android 5.0 atanapi saluhureuna, anjeun kedah kéngingkeun aksés panggunaan pikeun
+        AppLocker, sahingga anjeun tiasa nganggo Fitur Zona Aman</string>
+    <string name="dialog_action_usage_permission_permit">Idin</string>
+
+    <string name="dialog_action_usage_permission_cancel">Ngabatalkeun</string>
+    <string name="dialog_title_privacy_policy">kabijakan privasi</string>
+    <string name="dialog_description_privacy_policy">Kami parantos ngamutahirkeun kabijakan privasi kami. Ku neraskeun anjeun satuju teh<u> kabijakan privasi</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Narima</string>
+
+    <string name="hint_browser_search">Milarian atanapi lebetkeun URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Aman. Aman. Privasi.</string>
+    <string name="subtitle_browser_empty">Luncat dina internét. Aman</string>
+    <string name="bookmarks">Tetengger</string>
+    <string name="title_name_unknown_number">Nomer henteu dikenal</string>
+
+
+
+    <string name="blacklist_empty_title">Daptar hideung kosong</string>
+    <string name="blacklist_empty_description">Pencét pikeun meungpeuk nomer telepon</string>
+    <string name="call_log_empty_title">Teu aya Log</string>
+
+    <string name="call_log_empty_description">Log nembongan didieu nalika nelepon diblokir</string>
+    <string name="dialog_add_to_blacklist_title">Blok nomer telepon</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Ngaran (Opsional)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Lebetkeun nomer telepon</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Ngabatalkeun</string>
+    <string name="dialog_black_list_delete_title">Hapus tina daptar hideung</string>
+    <string name="dialog_black_list_delete_description">Naha anjeun badé ngahapus nomer anu diblokir tina daptar hideung?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Ngabatalkeun</string>
+    <string name="dialog_title_add_to_vault">Ngolahna</string>
+    <string name="dialog_description_process">Média anjeun ngaleungitkeun galéri sareng nambihan kolong anjeun.</string>
+
+    <string name="dialog_title_removal_confirmation">Konpirmasi Ngaleungitkeun</string>
+    <string name="dialog_description_removal">File ieu bakal dihapus tina kolong sareng nunjukkeun kana galéri.</string>
+    <string name="dialog_action_removal_confirmation_accept">Narima</string>
+
+    <string name="vault_photo_empty_page_title">Photo Kolong kosong</string>
+    <string name="vault_photo_empty_page_description">Tambahkeun ikon pikeun nyumputkeun poto tina galéri</string>
+    <string name="vault_video_empty_page_title">Video Vault kosong</string>
+
+    <string name="vault_video_empty_page_description">Tambihkeun ikon kana poto pidéo tina galéri</string>
+    <string-array name="tabs">
+        <item>Kaamanan</item>
+        <item>Setélan</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Daptar Hideung</item>
+        <item>Log Telepon</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Gambar</item>
+        <item>Pidéo</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Teu Kaganggu Anu Ditangkep</string>
+    <string name="empty_page_intruders_description">Telepon anjeun aman!</string>
+    <string name="Vault">Kolong</string>
+    <string name="Call_blocker">Pamblokir Telepon</string>
+    <string name="browser">Pangotéktak</string>
+    <string name="theme">Téma</string>
+    <string name="rate_us">Peunteun kami</string>
+    <string name="removeads">Vérsi premium</string>
+    <string name="enter_pin">Lebetkeun pin</string>
+    <string name="pin_matched">Pin cocog</string>
+    <string name="confirm_pin">Konpirmasikeun pin</string>
+    <string name="pin_chahnged">Pin parantos dirobih</string>
+    <string name="pin_not_matched">Pin henteu cocog</string>
+    <string name="incorrect_pin">Pin salah</string>
+    <string name="settings_set_pin">Atur pin</string>
+    <string name="change_pin">Ngarobih pin</string>
+    <string name="settings_set_pin_description">Atur pin anyar</string>
+    <string name="create_new_pin">Ngadamel pin énggal</string>
+    <string name="home">Bumi</string>
+    <string name="settings_change_pin_description">Ngarobih pin anjeun anu aya</string>
+    <string name="message_pin_changed">Pin Dirobih Suksés</string>
+    <string name="non_protected">Henteu Dijagaan</string>
+    <string name="status_protected">Dijagaan</string>
+    <string name="starting_hour">Ngamimitian Jam</string>
+    <string name="ending_hour">Jam Akhir</string>
+    <string name="auto_start_p">idin otomatis ngajalankeun</string>
+    <string name="permission_usage_access_description1">buka pilihan ngaji-otomatis</string>
+
+
+    <string name="privat_browser">Browser wasta</string>
+    <string name="prem_title">Vérsi Premium Salamina</string>
+    <string name="prem_no_ads">Teu aya Iklan Salamina</string>
+    <string name="prem_restore">Mulangkeun Mésér</string>
+
+    <string name="please_give_us_five_stars">Punten pasihkeun kami lima bintang dina Google Play! Kami bakal ngahargaan pisan!</string>
+    <string name="great_tex">Hébat!</string>
+    <string name="choose_the_icon">Pilih ikon sareng ikon aslina bakal dirobih. Sumputkeun aplikasi ieu tina anu ngaganggu</string>
+    <string name="app_name1">Jam</string>
+    <string name="app_name2">Peta</string>
+    <string name="app_name3">Kalénder</string>
+    <string name="app_name4">Musik</string>
+    <string name="app_name5">Kalkulator</string>
+
+    <string name="callblocker_black">Daptar hideung</string>
+    <string name="callblocker_logs">Log telepon</string>
+    <string name="icon_change_title">Ikon</string>
+    <string name="intruders_title">Pamiarsa</string>
+    <string name="intruders_access_apps">Ngakses aplikasi nganggo pamakean</string>
+    <string name="main_unlocked">Henteu dikonci</string>
+    <string name="main_locked">Kakonci</string>
+    <string name="prem_not_sub">Ieu lain langganan. Anjeun mayar ngan sakali!</string>
+    <string name="prem_fake_icon">Ikon Palsu</string>
+    <string name="prem_intruders">Selebriti selfie</string>
+    <string name="prem_themes">Téma langkung kréatip</string>
+    <string name="prem_one_time">Pamayaran Hiji-waktos</string>
+    <string name="splash_create">Dijieun pikeun ngajagaan privasi anjeun</string>
+    <string name="vault_photos">Poto</string>
+    <string name="vault_videos">Pidéo</string>
+    <string name="btn_ok">Oké</string>
+    <string name="dialog_intruder_text">Dupi anjeun kersa ngahapus poto na?</string>
+    <string name="btn_cancel">BATAL</string>
+    <string name="fragment_security_text">Opps! \n Anjeun teu acan ngagaduhan aktip ngonci</string>
+    <string name="settings_security">Kaamanan</string>
+    <string name="settings_face_icon">Ikon Palsu</string>
+    <string name="settings_face_icon_text">Ikon aslina tina aplikasi ieu bakal dirobah</string>
+    <string name="rate_us_enjoying">Naha anjeun resep AppLock?</string>
+    <string name="rate_us_could_be">éta tiasa langkung saé</string>
+    <string name="menu_privacy">kabijakan privasi</string>
+    <string name="menu_contact">Taros Kami</string>
+    <string name="menu_face_icon">Ikon Palsu</string>
+    <string name="menu_intruder">Pangurus panyusud</string>
+    <string name="menu_chat">Ruang Obrolan</string>
+
+</resources>

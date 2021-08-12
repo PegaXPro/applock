@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">„AppLock“</string>
+
+    <string name="action_settings">Nustatymai</string>
+
+  
+
+    <string name="share">Dalintis</string>
+
+    <string name="notification_protecting_title">Programų apsauga</string>
+
+    <string name="notification_protecting_description">Užrakinkite programas, kad apsaugotumėte savo privatumą.</string>
+
+    <string name="notification_permission_need_title">Įgalinti apsaugą</string>
+
+    <string name="notification_permission_need_description">Įjunkite savo leidimus naudoti programų spintelę.</string>
+    <string name="you_accept_privacy_policy">Tęsdami sutinkate<u> Privatumo politika</u> </string>
+
+    <string name="header_recommended_to_lock">Rekomenduojama užrakinti</string>
+    <string name="header_all_apps">Visos programos</string>
+
+    <string name="title_general_settings">Generolas</string>
+
+    <string name="title_lock_all">Užrakinti visus</string>
+    <string name="description_lock_all">Tai užrakins visas jūsų programas</string>
+
+ 
+    <string name="title_unlock_all">Atrakinkite visus</string>
+
+    <string name="description_unlock_all">Tai atrakins visas jūsų programas</string>
+    <string name="settings_change_pattern_title">Keisti modelį</string>
+
+    <string name="settings_change_pattern_description">Pakeiskite esamą modelį</string>
+    <string name="message_pattern_changed">Modelis sėkmingai pakeistas</string>
+
+    <string name="setting_in_stealth_mode_title">Slėpti piešinį</string>
+    <string name="setting_in_stealth_mode_description">Nematomas raštas piešiant</string>
+    <string name="setting_fingerprint_title">Įgalinti piršto atspaudą</string>
+
+    <string name="setting_fingerprint_description">Paleiskite programą piršto atspaudu.</string>
+    <string name="setting_fingerprint_not_supported_title">Piršto atspaudas nepalaikomas</string>
+
+    <string name="setting_fingerprint_not_supported_description">Jūsų įrenginyje nėra jutiklio</string>
+    <string name="setting_fingerprint_not_registered_title">Užregistruokite savo piršto antspaudą</string>
+
+    <string name="setting_fingerprint_not_registered_description">Eikite į saugos nustatymus</string>
+    <string name="next">Kitas</string>
+
+    <string name="permission_usage_access_title">Naudoti prieigos leidimą</string>
+    <string name="permission_usage_access_description">Įgalinkite naudojimo prieigą, kad galėtumėte naudoti programų spintelę.</string>
+
+    <string name="permission_overlay_title">Užrakinti ekrano leidimą</string>
+
+    <string name="settings_card_intruders_title">Pagauk įsibrovėlius</string>
+    <string name="settings_enable_intruders_title">Padarykite įsibrovėlių nuotrauką</string>
+    <string name="settings_enable_intruders_description">Leisti sugauti įsibrovėlius.</string>
+
+    <string name="settings_intruders_folder_title">Pagautos įsibrovėlių nuotraukos</string>
+    <string name="settings_intruders_folder_description">Spustelėkite norėdami pamatyti šnipus savo telefone.</string>
+
+    <string name="settings_card_advance_protection_title">Išankstinė apsauga</string>
+    <string name="settings_enable_advance_protection_title">Įgalinti išankstinę apsaugą</string>
+    <string name="settings_enable_advance_protection_description">Norėdami įjungti išankstinę apsaugą, suaktyvinkite „App Lock Pro“ kaip „įrenginio administratorių“. Jis naudojamas tik siekiant užkirsti kelią įsibrovėjams pašalinti ir priversti sustabdyti „App Lock Pro“. Įsitikinkite, kad „App Lock Pro“ niekada nenaudos šio leidimo pasiekti jūsų privatumo duomenis .</string>
+    <string name="device_admin_permission_description">Suaktyvinkite dabar, iš anksto apsaugokite ir saugiau! \n\nNorėdami įjungti išankstinę apsaugą, suaktyvinkite „App Lock Pro“ kaip „įrenginio administratorių“. Jis naudojamas tik tam, kad įsibrovėliai negalėtų pašalinti ir priverstinai sustabdyti „App Lock Pro“. Įsitikinkite, kad „App Lock Pro“ niekada nenaudos šio leidimo pasiekti savo privatumo duomenis.</string>
+
+
+    <string name="permission_overlay_description">Įgalinkite perdangą, kad būtų rodomas užrakto ekranas.</string>
+    <string name="permission_toast_enable_permissions">Įgalinkite leidimus naudoti programų spintelę</string>
+
+    <string name="draw_pattern_title">Sukurkite naują modelį</string>
+    <string name="redraw_pattern_title">Perkraukite, kad užbaigtumėte</string>
+
+    <string name="recreate_pattern_error">Raštas neatitinka. Perbraižyti.</string>
+
+    <string name="create_pattern_successful">Sėkmingai sukurta.</string>
+    <string name="overlay_prompt_pattern_title">Lygiosios šabloną, kad atidarytumėte programą</string>
+    <string name="overlay_prompt_pattern_title_wrong">Neteisingas raštas. Dar kartą nupieškite.</string>
+    <string name="overlay_prompt_pattern_title_correct">Raštas teisingas.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Lygiosios šabloną, kad atidarytumėte programą</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Ne + atitiko. + %1$s + liko.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Piršto atspaudas sutapo!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Piršto atspaudo klaida! Išbandykite modelį.</string>
+    <string name="dialog_title_rate_us">Ar jums patiko „Secure Zone“?</string>
+    <string name="dialog_description_rate_us">Mes būsime labai laimingi, jei įvertinsite mus rinkoje.</string>
+    <string name="dialog_action_rate_us_rate">Įvertinti</string>
+
+    <string name="dialog_action_rate_us_later">Vėliau</string>
+    <string name="dialog_title_usage_permission">„Android 5.0“ leidimas</string>
+    <string name="dialog_description_usage_permission">Jei naudojate 5.0 ar naujesnės versijos „Android“, turite leisti pasiekti „“
+        „AppLocker“, kad galėtumėte naudoti saugios zonos funkciją</string>
+    <string name="dialog_action_usage_permission_permit">Leidimas</string>
+
+    <string name="dialog_action_usage_permission_cancel">Atšaukti</string>
+    <string name="dialog_title_privacy_policy">Privatumo politika</string>
+    <string name="dialog_description_privacy_policy">Atnaujinome savo privatumo politiką. Tęsdami sutinkate<u> Privatumo politika</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Priimti</string>
+
+    <string name="hint_browser_search">Ieškokite arba įveskite URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">„Twitter“</string>
+
+    <string name="snapchat">„Snapchatas“</string>
+
+
+    <string name="instagram">„Instagram“</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Saugus. Saugus. Privatus.</string>
+    <string name="subtitle_browser_empty">Naršykite internete. Saugiai.</string>
+    <string name="bookmarks">Žymės</string>
+    <string name="title_name_unknown_number">Nežinomas numeris</string>
+
+
+
+    <string name="blacklist_empty_title">Juodasis sąrašas tuščias</string>
+    <string name="blacklist_empty_description">Spustelėkite, kad užblokuotumėte telefono numerį</string>
+    <string name="call_log_empty_title">Nėra žurnalų</string>
+
+    <string name="call_log_empty_description">Žurnalas rodomas čia, kai užblokuojamas skambutis</string>
+    <string name="dialog_add_to_blacklist_title">Blokuoti telefono numerį</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Pavadinimas (neprivaloma)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Įveskite telefono numerį</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Atšaukti</string>
+    <string name="dialog_black_list_delete_title">Ištrinti iš juodojo sąrašo</string>
+    <string name="dialog_black_list_delete_description">Ar norite pašalinti užblokuotą numerį iš juodojo sąrašo?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Atšaukti</string>
+    <string name="dialog_title_add_to_vault">Apdorojimas</string>
+    <string name="dialog_description_process">Jūsų laikmena pašalinama iš galerijos ir pridedama prie jūsų saugyklos.</string>
+
+    <string name="dialog_title_removal_confirmation">Pašalinimo patvirtinimas</string>
+    <string name="dialog_description_removal">Šis failas bus pašalintas iš saugyklos ir rodomas galerijoje.</string>
+    <string name="dialog_action_removal_confirmation_accept">Priimti</string>
+
+    <string name="vault_photo_empty_page_title">Nuotraukų skliautas tuščias</string>
+    <string name="vault_photo_empty_page_description">Pridėti piktogramą, kad paslėptumėte nuotraukas iš galerijos</string>
+    <string name="vault_video_empty_page_title">Vaizdo saugykla tuščia</string>
+
+    <string name="vault_video_empty_page_description">Pridėti piktogramą prie vaizdo nuotraukų iš galerijos</string>
+    <string-array name="tabs">
+        <item>Saugumas</item>
+        <item>Nustatymai</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Juodasis sąrašas</item>
+        <item>Skambučių žurnalai</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Vaizdai</item>
+        <item>Vaizdo įrašai</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Jokių įsibrovėlių nepagavo</string>
+    <string name="empty_page_intruders_description">Jūsų telefonas yra saugus!</string>
+    <string name="Vault">Skliautas</string>
+    <string name="Call_blocker">Skambučių blokatorius</string>
+    <string name="browser">Naršyklė</string>
+    <string name="theme">Temos</string>
+    <string name="rate_us">Įvertinkite mus</string>
+    <string name="removeads">„Premium“ versija</string>
+    <string name="enter_pin">Įveskite PIN kodą</string>
+    <string name="pin_matched">Smeigtukas atitiko</string>
+    <string name="confirm_pin">Patvirtinkite smeigtuką</string>
+    <string name="pin_chahnged">Smeigtukas sėkmingai pakeistas</string>
+    <string name="pin_not_matched">Smeigtukas neatitiko</string>
+    <string name="incorrect_pin">Neteisingas kaištis</string>
+    <string name="settings_set_pin">Nustatykite kaištį</string>
+    <string name="change_pin">Keisti kaištį</string>
+    <string name="settings_set_pin_description">Nustatykite naują kaištį</string>
+    <string name="create_new_pin">Sukurkite naują PIN kodą</string>
+    <string name="home">Namai</string>
+    <string name="settings_change_pin_description">Pakeiskite esamą smeigtuką</string>
+    <string name="message_pin_changed">Smeigtukas sėkmingai pakeistas</string>
+    <string name="non_protected">Neapsaugota</string>
+    <string name="status_protected">Saugoma</string>
+    <string name="starting_hour">Pradžios valanda</string>
+    <string name="ending_hour">Pabaigos valanda</string>
+    <string name="auto_start_p">automatinio paleidimo leidimas</string>
+    <string name="permission_usage_access_description1">atidarykite automatinio paleidimo parinktį</string>
+
+
+    <string name="privat_browser">Asmeninė naršyklė</string>
+    <string name="prem_title">„Premium“ versija amžinai</string>
+    <string name="prem_no_ads">Nėra amžinai skelbimų</string>
+    <string name="prem_restore">Atkurkite pirkinį</string>
+
+    <string name="please_give_us_five_stars">Prašau padovanoti mums penkias žvaigždes „Google Play“! Mes tai labai vertintume!</string>
+    <string name="great_tex">Puiku!</string>
+    <string name="choose_the_icon">Pasirinkite piktogramą ir pradinė piktograma bus pakeista. Slėpti šią programą nuo įsibrovėlių</string>
+    <string name="app_name1">Laikrodis</string>
+    <string name="app_name2">Žemėlapiai</string>
+    <string name="app_name3">Kalendorius</string>
+    <string name="app_name4">Muzika</string>
+    <string name="app_name5">Skaičiuoklė</string>
+
+    <string name="callblocker_black">Juodasis sąrašas</string>
+    <string name="callblocker_logs">Skambučių žurnalai</string>
+    <string name="icon_change_title">Piktogramos</string>
+    <string name="intruders_title">Įsibrovėlis</string>
+    <string name="intruders_access_apps">Pasiekite programas naudodamiesi</string>
+    <string name="main_unlocked">Atrakinta</string>
+    <string name="main_locked">Užrakinta</string>
+    <string name="prem_not_sub">Tai nėra prenumerata. Jūs mokate tik vieną kartą!</string>
+    <string name="prem_fake_icon">Netikra piktograma</string>
+    <string name="prem_intruders">Įsibrovėlio asmenukė</string>
+    <string name="prem_themes">Kūrybiškesnės temos</string>
+    <string name="prem_one_time">Vienkartinis mokėjimas</string>
+    <string name="splash_create">Sukurta siekiant apsaugoti jūsų privatumą</string>
+    <string name="vault_photos">Nuotraukos</string>
+    <string name="vault_videos">Vaizdo įrašai</string>
+    <string name="btn_ok">Gerai</string>
+    <string name="dialog_intruder_text">Ar norėtumėte ištrinti nuotrauką?</string>
+    <string name="btn_cancel">ATŠAUKTI</string>
+    <string name="fragment_security_text">Opps! \n Jūs dar neturite užrakintų programų</string>
+    <string name="settings_security">Saugumas</string>
+    <string name="settings_face_icon">Netikra piktograma</string>
+    <string name="settings_face_icon_text">Originali šios programos piktograma bus pakeista</string>
+    <string name="rate_us_enjoying">Ar jums patinka „AppLock“?</string>
+    <string name="rate_us_could_be">gali būti geriau</string>
+    <string name="menu_privacy">Privatumo politika</string>
+    <string name="menu_contact">Susisiekite su mumis</string>
+    <string name="menu_face_icon">Netikra piktograma</string>
+    <string name="menu_intruder">Įsibrovėlių vadybininkas</string>
+    <string name="menu_chat">Pokalbių svetainė</string>
+
+</resources>

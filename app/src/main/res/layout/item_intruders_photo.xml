@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="viewState"
+            type="com.aviapp.app.security.applocker.ui.intruders.IntruderPhotoItemViewState" />
+    </data>
+
+
+
+    <androidx.cardview.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardElevation="3dp"
+        app:cardCornerRadius="25dp"
+        android:layout_margin="4dp"
+        >
+
+        <com.aviapp.app.security.applocker.ui.common.view.SquareLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/squareLayoutItem"
+            android:scaleY="1.1"
+            android:scaleX="1.1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/margin_4dp"
+                android:background="@color/colorTextGray"
+                android:scaleType="centerCrop"
+                app:file="@{viewState.getFilePath()}"
+                app:imageSize="@{viewState.imageSize}" />
+
+        </com.aviapp.app.security.applocker.ui.common.view.SquareLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</layout>

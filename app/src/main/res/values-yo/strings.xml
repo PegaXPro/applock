@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Ètò</string>
+
+  
+
+    <string name="share">Pin</string>
+
+    <string name="notification_protecting_title">Idaabobo awọn ohun elo rẹ</string>
+
+    <string name="notification_protecting_description">Tii awọn ohun elo rẹ lati daabobo asiri rẹ.</string>
+
+    <string name="notification_permission_need_title">Jeki igbanilaaye si aabo</string>
+
+    <string name="notification_permission_need_description">Jọwọ mu awọn igbanilaaye rẹ ṣiṣẹ lati lo atimole ohun elo.</string>
+    <string name="you_accept_privacy_policy">Nipa tẹsiwaju o gba awọn<u> Asiri Afihan</u> </string>
+
+    <string name="header_recommended_to_lock">Iṣeduro lati tii</string>
+    <string name="header_all_apps">Gbogbo awọn ohun elo</string>
+
+    <string name="title_general_settings">Gbogbogbo</string>
+
+    <string name="title_lock_all">Titii gbogbo rẹ</string>
+    <string name="description_lock_all">Eyi yoo tii gbogbo awọn ohun elo rẹ tii</string>
+
+ 
+    <string name="title_unlock_all">Ṣii gbogbo rẹ</string>
+
+    <string name="description_unlock_all">Eyi yoo ṣii gbogbo awọn ohun elo rẹ</string>
+    <string name="settings_change_pattern_title">Yi ilana pada</string>
+
+    <string name="settings_change_pattern_description">Yi ilana ti o wa tẹlẹ pada</string>
+    <string name="message_pattern_changed">Apẹrẹ yipada ni aṣeyọri</string>
+
+    <string name="setting_in_stealth_mode_title">Tọju iyaworan</string>
+    <string name="setting_in_stealth_mode_description">Àpẹẹrẹ alaihan lakoko yiya</string>
+    <string name="setting_fingerprint_title">Jeki itẹka</string>
+
+    <string name="setting_fingerprint_description">Ṣiṣe ohun elo pẹlu itẹka ọwọ rẹ.</string>
+    <string name="setting_fingerprint_not_supported_title">Ika ọwọ ko ni atilẹyin</string>
+
+    <string name="setting_fingerprint_not_supported_description">Ẹrọ rẹ ko ni sensọ</string>
+    <string name="setting_fingerprint_not_registered_title">Forukọsilẹ itẹka ọwọ rẹ</string>
+
+    <string name="setting_fingerprint_not_registered_description">Lọ si awọn eto aabo</string>
+    <string name="next">Itele</string>
+
+    <string name="permission_usage_access_title">Iyọọda wiwọle lilo</string>
+    <string name="permission_usage_access_description">Jeki awọn acces lilo lati lo atimole ohun elo.</string>
+
+    <string name="permission_overlay_title">Titiipa igbanilaaye iboju</string>
+
+    <string name="settings_card_intruders_title">Yẹ Intruders</string>
+    <string name="settings_enable_intruders_title">Ya intruders aworan</string>
+    <string name="settings_enable_intruders_description">Jeki lati yẹ awọn onitumọ.</string>
+
+    <string name="settings_intruders_folder_title">Ti mu awọn fọto onidọja mu</string>
+    <string name="settings_intruders_folder_description">Tẹ lati wo awọn amí lori foonu rẹ.</string>
+
+    <string name="settings_card_advance_protection_title">Idaabobo ilosiwaju</string>
+    <string name="settings_enable_advance_protection_title">Jeki aabo ilosiwaju</string>
+    <string name="settings_enable_advance_protection_description">Lati mu Idaabobo ilosiwaju ṣiṣẹ, jọwọ muu App Lock Pro ṣiṣẹ bi “oluṣakoso ẹrọ” .O lo nikan fun idilọwọ awọn imukuro kuro ati lati fi ipa mu idaduro App Lock Pro. Jọwọ ṣe idaniloju pe App Lock Pro kii yoo lo igbanilaaye yii lati wọle si data asiri rẹ .</string>
+    <string name="device_admin_permission_description">Muu ṣiṣẹ ni bayi, aabo siwaju ati aabo siwaju sii! \n\nLati jeki Idaabobo Ilọsiwaju, jọwọ mu App Lock Pro ṣiṣẹ bi "olutọju ẹrọ" .O lo nikan fun idilọwọ awọn alaibikita yiyọ ati ipa didaduro App Lock Pro. Jọwọ rii daju pe App Lock Pro kii yoo lo igbanilaaye yii wọle si data asiri rẹ.</string>
+
+
+    <string name="permission_overlay_description">Jeki apọju lati fi iboju titiipa han.</string>
+    <string name="permission_toast_enable_permissions">Jeki awọn igbanilaaye lati lo atimole ohun elo</string>
+
+    <string name="draw_pattern_title">Ṣẹda ilana tuntun kan</string>
+    <string name="redraw_pattern_title">Redraw lati pari</string>
+
+    <string name="recreate_pattern_error">Apẹrẹ ko baamu. Redraw.</string>
+
+    <string name="create_pattern_successful">Ti ṣẹda ni aṣeyọri.</string>
+    <string name="overlay_prompt_pattern_title">Fa apẹẹrẹ lati ṣii ohun elo</string>
+    <string name="overlay_prompt_pattern_title_wrong">Apẹẹrẹ ti ko tọ. Fa lẹẹkansi.</string>
+    <string name="overlay_prompt_pattern_title_correct">Ilana ti o tọ.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Fa apẹẹrẹ lati ṣii ohun elo</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Ko + baamu. + %1$s + osi.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Ika ika baamu!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Aṣiṣe ika ọwọ! Gbiyanju apẹrẹ.</string>
+    <string name="dialog_title_rate_us">Ṣe o fẹran Agbegbe Aabo?</string>
+    <string name="dialog_description_rate_us">A yoo ni ayọ sooo Ti o ba ṣe oṣuwọn wa lori ọja.</string>
+    <string name="dialog_action_rate_us_rate">Oṣuwọn</string>
+
+    <string name="dialog_action_rate_us_later">Nigbamii</string>
+    <string name="dialog_title_usage_permission">Android 5.0 Gbigbanilaaye</string>
+    <string name="dialog_description_usage_permission">Ni Android 5.0 tabi loke, o nilo lati gba aaye laaye lilo fun
+        AppLocker, ki o le lo Ẹya Ailewu Aabo</string>
+    <string name="dialog_action_usage_permission_permit">Gbigbanilaaye</string>
+
+    <string name="dialog_action_usage_permission_cancel">Fagilee</string>
+    <string name="dialog_title_privacy_policy">Asiri Afihan</string>
+    <string name="dialog_description_privacy_policy">A ti ṣe imudojuiwọn eto imulo ipamọ wa. Nipa tẹsiwaju o gba awọn<u> Asiri Afihan</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Gba</string>
+
+    <string name="hint_browser_search">Wa tabi tẹ URL sii</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Ailewu .Aabo.</string>
+    <string name="subtitle_browser_empty">Surf lori intanẹẹti. Ni aabo.</string>
+    <string name="bookmarks">Awọn bukumaaki</string>
+    <string name="title_name_unknown_number">Nọmba aimọ</string>
+
+
+
+    <string name="blacklist_empty_title">Blacklist ti ṣofo</string>
+    <string name="blacklist_empty_description">Tẹ lati dènà nọmba foonu</string>
+    <string name="call_log_empty_title">Ko si Awọn àkọọlẹ</string>
+
+    <string name="call_log_empty_description">Wọle yoo han nibi nigbati o ti dina mọ</string>
+    <string name="dialog_add_to_blacklist_title">Dina nọmba foonu</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Orukọ (Eyi je eyi ko je)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Tẹ nọmba foonu sii</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Fagilee</string>
+    <string name="dialog_black_list_delete_title">Paarẹ lati atokọ dudu</string>
+    <string name="dialog_black_list_delete_description">Ṣe o fẹ yọ nọmba ti a ti dina kuro ninu atokọ dudu?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Fagilee</string>
+    <string name="dialog_title_add_to_vault">Ṣiṣẹ</string>
+    <string name="dialog_description_process">Media rẹ n yọ kuro lati ibi-àwòrán ati ni fifi kun si ile ifinkan pamọ rẹ.</string>
+
+    <string name="dialog_title_removal_confirmation">Yiyọ Yiyọ</string>
+    <string name="dialog_description_removal">Faili yii yoo yọ kuro lati ibi ifinkan pamọ ki o han si ibi-iṣafihan.</string>
+    <string name="dialog_action_removal_confirmation_accept">Gba</string>
+
+    <string name="vault_photo_empty_page_title">Photo ifinkan ti ṣofo</string>
+    <string name="vault_photo_empty_page_description">Ṣafikun aami lati tọju awọn fọto lati ibi aworan</string>
+    <string name="vault_video_empty_page_title">Fidio ifinkan ti ṣofo</string>
+
+    <string name="vault_video_empty_page_description">Ṣafikun aami si awọn fọto fidio lati ibi-iṣafihan</string>
+    <string-array name="tabs">
+        <item>Aabo</item>
+        <item>Ètò</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Blacklist</item>
+        <item>Pe Awọn àkọọlẹ</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Awọn aworan</item>
+        <item>Awọn fidio</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Ko si Awọn onibajẹ Ti o Gba</string>
+    <string name="empty_page_intruders_description">Foonu rẹ wa ni aabo!</string>
+    <string name="Vault">Ile ifinkan pamo</string>
+    <string name="Call_blocker">Blocker ipe</string>
+    <string name="browser">Burausa</string>
+    <string name="theme">Awọn akori</string>
+    <string name="rate_us">Oṣuwọn wa</string>
+    <string name="removeads">Ere ti ikede</string>
+    <string name="enter_pin">Tẹ PIN sii</string>
+    <string name="pin_matched">Pin ti baamu</string>
+    <string name="confirm_pin">Jẹrisi PIN</string>
+    <string name="pin_chahnged">PIN ti yipada ni aṣeyọri</string>
+    <string name="pin_not_matched">PIN ko baamu</string>
+    <string name="incorrect_pin">PIN ti ko tọ</string>
+    <string name="settings_set_pin">Ṣeto pin</string>
+    <string name="change_pin">Yi pinni pada</string>
+    <string name="settings_set_pin_description">Ṣeto pin tuntun</string>
+    <string name="create_new_pin">Ṣẹda PIN tuntun kan</string>
+    <string name="home">Ile</string>
+    <string name="settings_change_pin_description">Yi PIN rẹ ti o wa tẹlẹ pada</string>
+    <string name="message_pin_changed">Pin Yi pada ni aṣeyọri</string>
+    <string name="non_protected">Aabo</string>
+    <string name="status_protected">Ni idaabobo</string>
+    <string name="starting_hour">Bibẹrẹ Wakati</string>
+    <string name="ending_hour">Opin Wakati</string>
+    <string name="auto_start_p">laifọwọyi-ṣiṣe igbanilaaye</string>
+    <string name="permission_usage_access_description1">ṣii aṣayan adaṣe adaṣe</string>
+
+
+    <string name="privat_browser">Ẹrọ aṣawakiri Aladani</string>
+    <string name="prem_title">Ere Version lailai</string>
+    <string name="prem_no_ads">Ko si Awọn AD lailai</string>
+    <string name="prem_restore">Pada rira</string>
+
+    <string name="please_give_us_five_stars">Jọwọ fun wa ni irawọ marun lori Google Play! A yoo ni riri pupọ!</string>
+    <string name="great_tex">Nla!</string>
+    <string name="choose_the_icon">Yan aami ati aami atilẹba yoo yipada. Tọju ohun elo yii lati ọdọ awọn onitumọ</string>
+    <string name="app_name1">Aago</string>
+    <string name="app_name2">Awọn maapu</string>
+    <string name="app_name3">Kalẹnda</string>
+    <string name="app_name4">Orin</string>
+    <string name="app_name5">Ẹrọ iṣiro</string>
+
+    <string name="callblocker_black">Black akojọ</string>
+    <string name="callblocker_logs">Pe awọn àkọọlẹ</string>
+    <string name="icon_change_title">Awọn aami</string>
+    <string name="intruders_title">Olukokoro</string>
+    <string name="intruders_access_apps">Wọle si awọn ohun elo pẹlu lilo</string>
+    <string name="main_unlocked">Ṣiṣi silẹ</string>
+    <string name="main_locked">Ti tiipa</string>
+    <string name="prem_not_sub">Eyi kii ṣe ṣiṣe alabapin. O sanwo ni ẹẹkan!</string>
+    <string name="prem_fake_icon">Iro Aami</string>
+    <string name="prem_intruders">Intruder selfie</string>
+    <string name="prem_themes">Awọn akori ẹda diẹ sii</string>
+    <string name="prem_one_time">Isanwo Igba Kan</string>
+    <string name="splash_create">Ti ṣẹda lati daabobo asiri rẹ</string>
+    <string name="vault_photos">Awọn fọto</string>
+    <string name="vault_videos">Awọn fidio</string>
+    <string name="btn_ok">O DARA</string>
+    <string name="dialog_intruder_text">Ṣe o fẹ paarẹ fọto naa?</string>
+    <string name="btn_cancel">FAGỌ́</string>
+    <string name="fragment_security_text">Opps! \n O ko ni awọn ohun elo titiipa sibẹsibẹ</string>
+    <string name="settings_security">Aabo</string>
+    <string name="settings_face_icon">Iro Aami</string>
+    <string name="settings_face_icon_text">Aami atilẹba ti ohun elo yii yoo yipada</string>
+    <string name="rate_us_enjoying">Ṣe o n gbadun AppLock?</string>
+    <string name="rate_us_could_be">o le dara julọ</string>
+    <string name="menu_privacy">Asiri Afihan</string>
+    <string name="menu_contact">Pe wa</string>
+    <string name="menu_face_icon">Iro Aami</string>
+    <string name="menu_intruder">Alakoso Intruder</string>
+    <string name="menu_chat">Iwiregbe yara</string>
+
+</resources>

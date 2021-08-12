@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Կարգավորումներ</string>
+
+  
+
+    <string name="share">Կիսվել</string>
+
+    <string name="notification_protecting_title">Պաշտպանեք ձեր ծրագրերը</string>
+
+    <string name="notification_protecting_description">Կողպեք ձեր ծրագրերը ՝ ձեր գաղտնիությունը պաշտպանելու համար:</string>
+
+    <string name="notification_permission_need_title">Միացնել պաշտպանության թույլտվությունը</string>
+
+    <string name="notification_permission_need_description">Խնդրում ենք միացնել հավելվածի դարակ օգտագործելու ձեր թույլտվությունները:</string>
+    <string name="you_accept_privacy_policy">Շարունակելով ՝ դուք համաձայն եք<u> Գաղտնիության քաղաքականություն</u> </string>
+
+    <string name="header_recommended_to_lock">Առաջարկվում է կողպել</string>
+    <string name="header_all_apps">Բոլոր դիմումները</string>
+
+    <string name="title_general_settings">Գեներալ</string>
+
+    <string name="title_lock_all">Բոլորը կողպեք</string>
+    <string name="description_lock_all">Սա կփակի ձեր բոլոր ծրագրերը</string>
+
+ 
+    <string name="title_unlock_all">Բացել բոլորը</string>
+
+    <string name="description_unlock_all">Սա կբացարկի ձեր բոլոր ծրագրերը</string>
+    <string name="settings_change_pattern_title">Փոխել օրինաչափությունը</string>
+
+    <string name="settings_change_pattern_description">Փոխեք ձեր առկա օրինաչափությունը</string>
+    <string name="message_pattern_changed">Ձևը հաջողությամբ փոխվեց</string>
+
+    <string name="setting_in_stealth_mode_title">Թաքցնել նկարը</string>
+    <string name="setting_in_stealth_mode_description">Նկարելիս անտեսանելի նմուշ է</string>
+    <string name="setting_fingerprint_title">Միացնել մատնահետքը</string>
+
+    <string name="setting_fingerprint_description">Գործարկել ծրագիրը ձեր մատնահետքերով:</string>
+    <string name="setting_fingerprint_not_supported_title">Մատնահետքը չի աջակցվում</string>
+
+    <string name="setting_fingerprint_not_supported_description">Ձեր սարքը չունի ցուցիչ</string>
+    <string name="setting_fingerprint_not_registered_title">Գրանցեք ձեր մատնահետքը</string>
+
+    <string name="setting_fingerprint_not_registered_description">Գնացեք անվտանգության պարամետրեր</string>
+    <string name="next">Հաջորդը</string>
+
+    <string name="permission_usage_access_title">Օգտագործման թույլտվություն</string>
+    <string name="permission_usage_access_description">Միացրեք օգտագործման հասանելիությունները ՝ հավելվածի դարակ օգտագործելու համար:</string>
+
+    <string name="permission_overlay_title">Կողպեք էկրանի թույլտվություն</string>
+
+    <string name="settings_card_intruders_title">Catch Intruders</string>
+    <string name="settings_enable_intruders_title">Նկարեք ներխուժողներին</string>
+    <string name="settings_enable_intruders_description">Միացնել ներխուժողներին:</string>
+
+    <string name="settings_intruders_folder_title">Ձեռք բերած ներխուժողի լուսանկարներ</string>
+    <string name="settings_intruders_folder_description">Կտտացրեք ՝ ձեր հեռախոսում լրտեսներ տեսնելու համար:</string>
+
+    <string name="settings_card_advance_protection_title">Նախնական պաշտպանություն</string>
+    <string name="settings_enable_advance_protection_title">Միացնել նախնական պաշտպանությունը</string>
+    <string name="settings_enable_advance_protection_description">Advance Protection- ը միացնելու համար խնդրում ենք ակտիվացնել App Lock Pro- ն որպես «սարքի ադմինիստրատոր»: Այն օգտագործվում է միայն App Lock Pro- ի ներխուժման ապատեղադրումը կանխելու և կանխելու համար: Խնդրում ենք համոզվել, որ App Lock Pro- ը երբեք չի օգտագործի ձեր թույլտվությունը ձեր գաղտնիության տվյալները: ,</string>
+    <string name="device_admin_permission_description">Ակտիվացրեք հիմա, պաշտպանեք ավելի և ավելի ապահով: \n\nAdvance Protection- ը միացնելու համար խնդրում ենք ակտիվացնել App Lock Pro- ն որպես «սարքի ադմինիստրատոր»: Այն օգտագործվում է միայն այն բանի համար, որ կանխվի ներխուժողների ապամոնտաժումը և ուժի դադարեցումը App Lock Pro- ին: Խնդրում ենք համոզվել, որ App Lock Pro- ը երբեք չի օգտագործի այս թույլտվությունը ՝ մուտք գործեք ձեր գաղտնիության տվյալներ:</string>
+
+
+    <string name="permission_overlay_description">Միացնել ծածկը ՝ կողպեքի էկրանը ցույց տալու համար:</string>
+    <string name="permission_toast_enable_permissions">Միացրեք հավելվածների դարակ օգտագործելու թույլտվությունները</string>
+
+    <string name="draw_pattern_title">Ստեղծեք նոր օրինաչափություն</string>
+    <string name="redraw_pattern_title">Վերագծեք ՝ ավարտելու համար</string>
+
+    <string name="recreate_pattern_error">Ձևը չի համընկնում: Վիճակագրություն</string>
+
+    <string name="create_pattern_successful">Հաջողությամբ ստեղծվեց:</string>
+    <string name="overlay_prompt_pattern_title">Նկարեք նախշը ՝ ծրագիրը բացելու համար</string>
+    <string name="overlay_prompt_pattern_title_wrong">Սխալ օրինաչափություն: Կրկին նկարեք:</string>
+    <string name="overlay_prompt_pattern_title_correct">Ձևանմուշը ճիշտ է:</string>
+
+    <string name="overlay_prompt_fingerprint_title">Նկարեք նախշը ՝ ծրագիրը բացելու համար</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Համապատասխանեցված չէ: Մնացել է + %1$s +:</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Մատնահետքը համընկավ:</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Մատնահետքի սխալ: Փորձեք օրինակ:</string>
+    <string name="dialog_title_rate_us">Ձեզ դուր եկավ Secure Zone- ը:</string>
+    <string name="dialog_description_rate_us">Մենք այնքան ուրախ կլինենք, եթե մեզ գնահատեք շուկայում:</string>
+    <string name="dialog_action_rate_us_rate">Գնահատել</string>
+
+    <string name="dialog_action_rate_us_later">Հետագայում</string>
+    <string name="dialog_title_usage_permission">Android 5.0 թույլտվություն</string>
+    <string name="dialog_description_usage_permission">Android 5.0-ում կամ ավելի բարձր համար անհրաժեշտ է թույլատրել օգտագործման թույլտվություն ՝
+        AppLocker, որպեսզի կարողանաք օգտագործել Secure Zone Feature- ը</string>
+    <string name="dialog_action_usage_permission_permit">Թույլտվություն</string>
+
+    <string name="dialog_action_usage_permission_cancel">Չեղարկել</string>
+    <string name="dialog_title_privacy_policy">Գաղտնիության քաղաքականություն</string>
+    <string name="dialog_description_privacy_policy">Մենք թարմացրել ենք մեր գաղտնիության քաղաքականությունը: Շարունակելով ՝ դուք համաձայն եք<u> Գաղտնիության քաղաքականություն</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Ընդունել</string>
+
+    <string name="hint_browser_search">Որոնեք կամ մուտքագրեք URL</string>
+    <string name="facebook">Ֆեյսբուք</string>
+
+    <string name="twitter">Twitter- ը</string>
+
+    <string name="snapchat">Snapchat- ը</string>
+
+
+    <string name="instagram">Ինստագրամ</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Ապահով: Ապահով: Մասնավոր:</string>
+    <string name="subtitle_browser_empty">Fամփորդել ինտերնետում: Ապահով</string>
+    <string name="bookmarks">Էջանիշեր</string>
+    <string name="title_name_unknown_number">Անհայտ համար</string>
+
+
+
+    <string name="blacklist_empty_title">Սև ցուցակը դատարկ է</string>
+    <string name="blacklist_empty_description">Սեղմեք հեռախոսահամարը արգելափակելու համար</string>
+    <string name="call_log_empty_title">Առանց տեղեկամատյանների</string>
+
+    <string name="call_log_empty_description">Տեղեկատվությունը հայտնվում է այստեղ, երբ զանգն արգելափակվում է</string>
+    <string name="dialog_add_to_blacklist_title">Արգելափակել հեռախոսահամարը</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Անուն (ըստ ցանկության)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Մուտքագրեք հեռախոսահամարը</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Չեղարկել</string>
+    <string name="dialog_black_list_delete_title">Deleteնջել սեւ ցուցակից</string>
+    <string name="dialog_black_list_delete_description">Doանկանու՞մ եք արգելված համարը հեռացնել սեւ ցուցակից:</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Չեղարկել</string>
+    <string name="dialog_title_add_to_vault">Վերամշակում</string>
+    <string name="dialog_description_process">Ձեր լրատվամիջոցները հեռանում են պատկերասրահից և ավելացնում ձեր պահոցը:</string>
+
+    <string name="dialog_title_removal_confirmation">Հեռացման հաստատում</string>
+    <string name="dialog_description_removal">Այս ֆայլը կհեռացվի պահոցից և կցուցադրվի պատկերասրահ:</string>
+    <string name="dialog_action_removal_confirmation_accept">Ընդունել</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault- ը դատարկ է</string>
+    <string name="vault_photo_empty_page_description">Ավելացրեք պատկերակ ՝ պատկերասրահից լուսանկարները թաքցնելու համար</string>
+    <string name="vault_video_empty_page_title">Видео պահոցը դատարկ է</string>
+
+    <string name="vault_video_empty_page_description">Պատկերասրահից տեսանյութերի լուսանկարներին ավելացրեք պատկերակ</string>
+    <string-array name="tabs">
+        <item>Անվտանգություն</item>
+        <item>Կարգավորումներ</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Սև ցուցակ</item>
+        <item>Callանգերի տեղեկամատյաններ</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Պատկերներ</item>
+        <item>Տեսանյութեր</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Ոչ մի ներխուժող չի բռնվել</string>
+    <string name="empty_page_intruders_description">Ձեր հեռախոսն ապահով է:</string>
+    <string name="Vault">Պահոց</string>
+    <string name="Call_blocker">Callանգահարեք արգելափակողին</string>
+    <string name="browser">Բրաուզերը</string>
+    <string name="theme">Թեմաներ</string>
+    <string name="rate_us">Գնահատեք մեզ</string>
+    <string name="removeads">Պրեմիում տարբերակ</string>
+    <string name="enter_pin">Մուտքագրեք քորոց</string>
+    <string name="pin_matched">Քորոցը համընկավ</string>
+    <string name="confirm_pin">Հաստատեք քորոցը</string>
+    <string name="pin_chahnged">Pin- ը հաջողությամբ փոխվեց</string>
+    <string name="pin_not_matched">Քորոցը չի համընկնում</string>
+    <string name="incorrect_pin">Սխալ քորոց</string>
+    <string name="settings_set_pin">Սահմանել քորոց</string>
+    <string name="change_pin">Փոխեք քորոցը</string>
+    <string name="settings_set_pin_description">Սահմանեք նոր քորոց</string>
+    <string name="create_new_pin">Ստեղծեք նոր քորոց</string>
+    <string name="home">տուն</string>
+    <string name="settings_change_pin_description">Փոխեք ձեր առկա քորոցը</string>
+    <string name="message_pin_changed">Քորոցը հաջողությամբ փոխվեց</string>
+    <string name="non_protected">Չպաշտպանված</string>
+    <string name="status_protected">Պաշտպանված</string>
+    <string name="starting_hour">Startամը սկսելը</string>
+    <string name="ending_hour">Ավարտվող ժամ</string>
+    <string name="auto_start_p">ավտոմատ աշխատելու թույլտվություն</string>
+    <string name="permission_usage_access_description1">բացեք ավտոմատ գործարկման տարբերակը</string>
+
+
+    <string name="privat_browser">Մասնավոր զննարկիչ</string>
+    <string name="prem_title">Պրեմիում տարբերակ ընդմիշտ</string>
+    <string name="prem_no_ads">Հավերժ ADS չկա</string>
+    <string name="prem_restore">Վերականգնել գնումը</string>
+
+    <string name="please_give_us_five_stars">Խնդրում ենք մեզ հինգ աստղ նվիրեք Google Play- ում: Մենք դա շատ կգնահատեինք:</string>
+    <string name="great_tex">Հոյակապ</string>
+    <string name="choose_the_icon">Ընտրեք պատկերակը և բնօրինակ պատկերակը կփոխվի: Թաքցրեք այս ծրագիրը ներխուժողներից</string>
+    <string name="app_name1">Ժամացույց</string>
+    <string name="app_name2">Քարտեզներ</string>
+    <string name="app_name3">Օրացույց</string>
+    <string name="app_name4">Երաժշտություն</string>
+    <string name="app_name5">Հաշվիչ</string>
+
+    <string name="callblocker_black">Սև ցուցակ</string>
+    <string name="callblocker_logs">Callանգերի տեղեկամատյանները</string>
+    <string name="icon_change_title">Սրբապատկերներ</string>
+    <string name="intruders_title">Ներխուժող</string>
+    <string name="intruders_access_apps">Օգտագործման միջոցով մուտք գործեք հավելվածներ</string>
+    <string name="main_unlocked">Ապակողպված</string>
+    <string name="main_locked">Կողպված է</string>
+    <string name="prem_not_sub">Սա բաժանորդագրություն չէ: Դուք վճարում եք միայն մեկ անգամ:</string>
+    <string name="prem_fake_icon">Կեղծ պատկերակ</string>
+    <string name="prem_intruders">Ներխուժած սելֆի</string>
+    <string name="prem_themes">Ավելի ստեղծագործական թեմաներ</string>
+    <string name="prem_one_time">Միանվագ վճարում</string>
+    <string name="splash_create">Ստեղծվել է ձեր գաղտնիությունը պաշտպանելու համար</string>
+    <string name="vault_photos">Նկարներ</string>
+    <string name="vault_videos">Տեսանյութեր</string>
+    <string name="btn_ok">լավ</string>
+    <string name="dialog_intruder_text">Youանկանու՞մ եք ջնջել լուսանկարը:</string>
+    <string name="btn_cancel">ՉԵՅԱԼ</string>
+    <string name="fragment_security_text">Հակադրություններ: \nԴուք դեռ կողպված ծրագրեր չունեք</string>
+    <string name="settings_security">Անվտանգություն</string>
+    <string name="settings_face_icon">Կեղծ պատկերակ</string>
+    <string name="settings_face_icon_text">Այս ծրագրի բնօրինակ պատկերակը կփոխվի</string>
+    <string name="rate_us_enjoying">Դուք վայելո՞ւմ եք AppLock- ը:</string>
+    <string name="rate_us_could_be">կարող էր ավելի լավ լինել</string>
+    <string name="menu_privacy">Գաղտնիության քաղաքականություն</string>
+    <string name="menu_contact">Կապվեք մեզ հետ</string>
+    <string name="menu_face_icon">Կեղծ պատկերակ</string>
+    <string name="menu_intruder">Ներխուժողի մենեջեր</string>
+    <string name="menu_chat">Զրուցարան</string>
+
+</resources>

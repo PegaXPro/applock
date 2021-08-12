@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">Uygulama kilidi</string>
+
+    <string name="action_settings">Ayarlar</string>
+
+  
+
+    <string name="share">Paylaş</string>
+
+    <string name="notification_protecting_title">Uygulamalarınızı koruma</string>
+
+    <string name="notification_protecting_description">Gizliliğinizi korumak için uygulamalarınızı kilitleyin.</string>
+
+    <string name="notification_permission_need_title">Koruma iznini etkinleştirin</string>
+
+    <string name="notification_permission_need_description">Lütfen uygulama dolabını kullanmak için izinlerinizi etkinleştirin.</string>
+    <string name="you_accept_privacy_policy">Devam ederek şunu kabul edersiniz:<u> Gizlilik Politikası</u> </string>
+
+    <string name="header_recommended_to_lock">Kilitlenmesi önerilir</string>
+    <string name="header_all_apps">Bütün uygulamalar</string>
+
+    <string name="title_general_settings">Genel</string>
+
+    <string name="title_lock_all">Tümünü kilitle</string>
+    <string name="description_lock_all">Bu, tüm uygulamalarınızı kilitleyecek</string>
+
+ 
+    <string name="title_unlock_all">Hepsinin kilidini aç</string>
+
+    <string name="description_unlock_all">Bu, tüm uygulamalarınızın kilidini açacaktır</string>
+    <string name="settings_change_pattern_title">Deseni değiştir</string>
+
+    <string name="settings_change_pattern_description">Mevcut kalıbınızı değiştirin</string>
+    <string name="message_pattern_changed">Desen başarıyla değiştirildi</string>
+
+    <string name="setting_in_stealth_mode_title">Çizimi gizle</string>
+    <string name="setting_in_stealth_mode_description">Çizim sırasında görünmez desen</string>
+    <string name="setting_fingerprint_title">Parmak izini etkinleştir</string>
+
+    <string name="setting_fingerprint_description">Uygulamayı parmak izinizle başlatın.</string>
+    <string name="setting_fingerprint_not_supported_title">Parmak izi desteklenmiyor</string>
+
+    <string name="setting_fingerprint_not_supported_description">Cihazınızda sensör yok</string>
+    <string name="setting_fingerprint_not_registered_title">Parmak izinizi kaydedin</string>
+
+    <string name="setting_fingerprint_not_registered_description">Güvenlik ayarlarına gidin</string>
+    <string name="next">Sonraki</string>
+
+    <string name="permission_usage_access_title">Kullanım erişim izni</string>
+    <string name="permission_usage_access_description">Uygulama dolabını kullanmak için kullanım erişimini etkinleştirin.</string>
+
+    <string name="permission_overlay_title">Kilit ekranı izni</string>
+
+    <string name="settings_card_intruders_title">Davetsiz misafirleri yakalayın</string>
+    <string name="settings_enable_intruders_title">Davetsiz misafirlerin fotoğrafını çekin</string>
+    <string name="settings_enable_intruders_description">Davetsiz misafirleri yakalamak için etkinleştirin.</string>
+
+    <string name="settings_intruders_folder_title">Yakalanan davetsiz misafir fotoğrafları</string>
+    <string name="settings_intruders_folder_description">Telefonunuzdaki casusları görmek için tıklayın.</string>
+
+    <string name="settings_card_advance_protection_title">Gelişmiş Koruma</string>
+    <string name="settings_enable_advance_protection_title">Gelişmiş korumayı etkinleştir</string>
+    <string name="settings_enable_advance_protection_description">Gelişmiş Korumayı etkinleştirmek için lütfen App Lock Pro\'yu "cihaz yöneticisi" olarak etkinleştirin. Yalnızca davetsiz misafirlerin App Lock Pro\'yu kaldırmasını ve durdurmaya zorlamasını önlemek için kullanılır. Lütfen App Lock Pro\'nun gizlilik verilerinize erişmek için bu izni asla kullanmayacağından emin olun .</string>
+    <string name="device_admin_permission_description">Şimdi etkinleştirin, korumayı geliştirin ve daha güvenli! \n\nGelişmiş Korumayı etkinleştirmek için lütfen App Lock Pro\'yu "cihaz yöneticisi" olarak etkinleştirin. Yalnızca davetsiz misafirlerin App Lock Pro\'yu kaldırmasını ve zorla durdurmasını önlemek için kullanılır. gizlilik verilerinize erişin.</string>
+
+
+    <string name="permission_overlay_description">Kilit ekranını göstermek için kaplamayı etkinleştirin.</string>
+    <string name="permission_toast_enable_permissions">Uygulama dolabını kullanmak için izinleri etkinleştirin</string>
+
+    <string name="draw_pattern_title">Yeni bir desen oluştur</string>
+    <string name="redraw_pattern_title">Tamamlamak için yeniden çizin</string>
+
+    <string name="recreate_pattern_error">Desen eşleşmiyor. Yeniden çizin.</string>
+
+    <string name="create_pattern_successful">Başarıyla oluşturuldu.</string>
+    <string name="overlay_prompt_pattern_title">Uygulamayı açmak için desen çizin</string>
+    <string name="overlay_prompt_pattern_title_wrong">Yanlış desen. Tekrar çizin.</string>
+    <string name="overlay_prompt_pattern_title_correct">Desen doğru.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Uygulamayı açmak için desen çizin</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ Eşleşmedi. + %1$s + kaldı.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Parmak izi eşleşti!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Parmak izi hatası! Deseni dene.</string>
+    <string name="dialog_title_rate_us">Secure Zone\'u beğendin mi?</string>
+    <string name="dialog_description_rate_us">Bizi piyasada değerlendirirseniz çok mutlu olacağız.</string>
+    <string name="dialog_action_rate_us_rate">Puanla</string>
+
+    <string name="dialog_action_rate_us_later">Sonra</string>
+    <string name="dialog_title_usage_permission">Android 5.0 İzni</string>
+    <string name="dialog_description_usage_permission">Android 5.0 veya sonraki sürümlerde, şunun için kullanım erişimine izin vermeniz gerekir:
+        Güvenli Bölge Özelliğini kullanabilmeniz için AppLocker</string>
+    <string name="dialog_action_usage_permission_permit">İzin</string>
+
+    <string name="dialog_action_usage_permission_cancel">İptal etmek</string>
+    <string name="dialog_title_privacy_policy">Gizlilik Politikası</string>
+    <string name="dialog_description_privacy_policy">Gizlilik politikamızı güncelledik. Devam ederek şunu kabul edersiniz:<u> Gizlilik Politikası</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Kabul etmek</string>
+
+    <string name="hint_browser_search">Arayın veya URL girin</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Güvenli, Güvenli, Özel.</string>
+    <string name="subtitle_browser_empty">İnternette sörf yapın. Güvenli.</string>
+    <string name="bookmarks">Yer imleri</string>
+    <string name="title_name_unknown_number">Bilinmeyen numara</string>
+
+
+
+    <string name="blacklist_empty_title">Kara liste boş</string>
+    <string name="blacklist_empty_description">Telefon numarasını engellemek için tıklayın</string>
+    <string name="call_log_empty_title">Günlük Yok</string>
+
+    <string name="call_log_empty_description">Çağrı engellendiğinde günlük burada görünür</string>
+    <string name="dialog_add_to_blacklist_title">Telefon numarasını engelle</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">İsim: (İsteğe bağlı)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Telefon numarasını girin</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">İptal etmek</string>
+    <string name="dialog_black_list_delete_title">Kara listeden sil</string>
+    <string name="dialog_black_list_delete_description">Kara listeden engellenen numarayı kaldırmak istiyor musunuz?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">İptal etmek</string>
+    <string name="dialog_title_add_to_vault">İşleme</string>
+    <string name="dialog_description_process">Medyanız galeriden kaldırılıyor ve kasanıza ekleniyor.</string>
+
+    <string name="dialog_title_removal_confirmation">Kaldırma Onayı</string>
+    <string name="dialog_description_removal">Bu dosya kasadan kaldırılacak ve galeride gösterilecektir.</string>
+    <string name="dialog_action_removal_confirmation_accept">Kabul etmek</string>
+
+    <string name="vault_photo_empty_page_title">Fotoğraf Kasası boş</string>
+    <string name="vault_photo_empty_page_description">Fotoğrafları galeriden gizlemek için simge ekleyin</string>
+    <string name="vault_video_empty_page_title">Video Kasası boş</string>
+
+    <string name="vault_video_empty_page_description">Galerideki video fotoğraflarına simge ekleyin</string>
+    <string-array name="tabs">
+        <item>Güvenlik</item>
+        <item>Ayarlar</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Kara liste</item>
+        <item>Arama kayıtları</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Görüntüler</item>
+        <item>VİDEOLAR</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Davetsiz Misafir Yakalanmadı</string>
+    <string name="empty_page_intruders_description">Telefonunuz güvende!</string>
+    <string name="Vault">Depo</string>
+    <string name="Call_blocker">Arama engelleyici</string>
+    <string name="browser">Tarayıcı</string>
+    <string name="theme">Temalar</string>
+    <string name="rate_us">Bizi değerlendirin</string>
+    <string name="removeads">Premium sürüm</string>
+    <string name="enter_pin">PIN girin</string>
+    <string name="pin_matched">Pin eşleşti</string>
+    <string name="confirm_pin">PIN\'i onaylayın</string>
+    <string name="pin_chahnged">Pin başarıyla değiştirildi</string>
+    <string name="pin_not_matched">Pin eşleşmedi</string>
+    <string name="incorrect_pin">Yanlış pin</string>
+    <string name="settings_set_pin">PIN ayarla</string>
+    <string name="change_pin">Pin\'i değiştir</string>
+    <string name="settings_set_pin_description">Yeni PIN ayarla</string>
+    <string name="create_new_pin">Yeni bir pin oluşturun</string>
+    <string name="home">Ev</string>
+    <string name="settings_change_pin_description">Mevcut PIN kodunuzu değiştirin</string>
+    <string name="message_pin_changed">Pin Başarıyla Değiştirildi</string>
+    <string name="non_protected">Korumasız</string>
+    <string name="status_protected">Korumalı</string>
+    <string name="starting_hour">Başlangıç ​​Saati</string>
+    <string name="ending_hour">Bitiş Saati</string>
+    <string name="auto_start_p">otomatik çalıştırma izni</string>
+    <string name="permission_usage_access_description1">otomatik çalıştır seçeneğini aç</string>
+
+
+    <string name="privat_browser">Özel Tarayıcı</string>
+    <string name="prem_title">Sonsuza Kadar Premium Sürüm</string>
+    <string name="prem_no_ads">Sonsuza Kadar Reklam Yok</string>
+    <string name="prem_restore">Satın Almayı Geri Yükle</string>
+
+    <string name="please_give_us_five_stars">Lütfen Google Play\'te bize beş yıldız verin! Çok memnun oluruz!</string>
+    <string name="great_tex">Harika!</string>
+    <string name="choose_the_icon">Simgeyi seçin ve orijinal simge değişecektir. Bu uygulamayı davetsiz misafirlerden gizle</string>
+    <string name="app_name1">Saat</string>
+    <string name="app_name2">Haritalar</string>
+    <string name="app_name3">Takvim</string>
+    <string name="app_name4">Müzik</string>
+    <string name="app_name5">Hesap makinesi</string>
+
+    <string name="callblocker_black">Kara liste</string>
+    <string name="callblocker_logs">Arama kayıtları</string>
+    <string name="icon_change_title">Simgeler</string>
+    <string name="intruders_title">Davetsiz misafir</string>
+    <string name="intruders_access_apps">Uygulamalara kullanımla erişin</string>
+    <string name="main_unlocked">Kilitli değil</string>
+    <string name="main_locked">Kilitli</string>
+    <string name="prem_not_sub">Bu bir abonelik değildir. Sadece bir kez ödersiniz!</string>
+    <string name="prem_fake_icon">Sahte Simge</string>
+    <string name="prem_intruders">Davetsiz misafir selfie</string>
+    <string name="prem_themes">Daha yaratıcı temalar</string>
+    <string name="prem_one_time">Tek seferlik ödeme</string>
+    <string name="splash_create">Gizliliğinizi korumak için oluşturuldu</string>
+    <string name="vault_photos">Fotoğraflar</string>
+    <string name="vault_videos">VİDEOLAR</string>
+    <string name="btn_ok">TAMAM MI</string>
+    <string name="dialog_intruder_text">Fotoğrafı silmek ister misiniz?</string>
+    <string name="btn_cancel">İPTAL ETMEK</string>
+    <string name="fragment_security_text">Hay aksi! \n Henüz kilitli uygulamalarınız yok</string>
+    <string name="settings_security">Güvenlik</string>
+    <string name="settings_face_icon">Sahte Simge</string>
+    <string name="settings_face_icon_text">Bu uygulamanın orijinal simgesi değiştirilecek</string>
+    <string name="rate_us_enjoying">AppLock\'tan hoşlanıyor musunuz?</string>
+    <string name="rate_us_could_be">daha iyi olabilir</string>
+    <string name="menu_privacy">Gizlilik Politikası</string>
+    <string name="menu_contact">Bizimle iletişime geçin</string>
+    <string name="menu_face_icon">Sahte Simge</string>
+    <string name="menu_intruder">Hırsız Yöneticisi</string>
+    <string name="menu_chat">Sohbet odası</string>
+
+</resources>

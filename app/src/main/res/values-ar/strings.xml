@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">قفل التطبيق</string>
+
+    <string name="action_settings">إعدادات</string>
+
+
+
+    <string name="share">يشارك</string>
+
+    <string name="notification_protecting_title">حماية تطبيقاتك</string>
+
+    <string name="notification_protecting_description">قفل تطبيقاتك لحماية خصوصيتك.</string>
+
+    <string name="notification_permission_need_title">تمكين إذن الحماية</string>
+
+    <string name="notification_permission_need_description">يرجى تمكين الأذونات الخاصة بك لاستخدام خزانة التطبيق.</string>
+    <string name="you_accept_privacy_policy">من خلال الاستمرار فإنك توافق على<u> سياسة الخصوصية</u> </string>
+
+    <string name="header_recommended_to_lock">يوصى بالقفل</string>
+    <string name="header_all_apps">كل التطبيقات</string>
+
+    <string name="title_general_settings">جنرال لواء</string>
+
+    <string name="title_lock_all">قفل الكل</string>
+    <string name="description_lock_all">سيؤدي هذا إلى قفل جميع تطبيقاتك</string>
+
+
+    <string name="title_unlock_all">فتح الكل</string>
+
+    <string name="description_unlock_all">سيؤدي هذا إلى فتح جميع تطبيقاتك</string>
+    <string name="settings_change_pattern_title">تغيير النمط</string>
+
+    <string name="settings_change_pattern_description">تغيير النمط الحالي الخاص بك</string>
+    <string name="message_pattern_changed">تم تغيير النمط بنجاح</string>
+
+    <string name="setting_in_stealth_mode_title">إخفاء الرسم</string>
+    <string name="setting_in_stealth_mode_description">نمط غير مرئي أثناء الرسم</string>
+    <string name="setting_fingerprint_title">تفعيل بصمة الإصبع</string>
+
+    <string name="setting_fingerprint_description">قم بتشغيل التطبيق ببصمة إصبعك.</string>
+    <string name="setting_fingerprint_not_supported_title">بصمة الإصبع غير مدعومة</string>
+
+    <string name="setting_fingerprint_not_supported_description">جهازك ليس به جهاز استشعار</string>
+    <string name="setting_fingerprint_not_registered_title">سجل بصمتك</string>
+
+    <string name="setting_fingerprint_not_registered_description">انتقل إلى إعدادات الأمان</string>
+    <string name="next">التالي</string>
+
+    <string name="permission_usage_access_title">إذن وصول الاستخدام</string>
+    <string name="permission_usage_access_description">تمكين الوصول إلى الاستخدام لاستخدام خزانة التطبيق.</string>
+
+    <string name="permission_overlay_title">إذن قفل الشاشة</string>
+
+    <string name="settings_card_intruders_title">اقبض على الدخلاء</string>
+    <string name="settings_enable_intruders_title">خذ صورة الدخلاء</string>
+    <string name="settings_enable_intruders_description">تمكن من القبض على المتسللين.</string>
+
+    <string name="settings_intruders_folder_title">تم التقاط صور الدخيل</string>
+    <string name="settings_intruders_folder_description">انقر لرؤية الجواسيس على هاتفك.</string>
+
+    <string name="settings_card_advance_protection_title">الحماية المسبقة</string>
+    <string name="settings_enable_advance_protection_title">تمكين الحماية المسبقة</string>
+    <string name="settings_enable_advance_protection_description">لتمكين الحماية المتقدمة ، يرجى تنشيط App Lock Pro باعتباره "مسؤول الجهاز". يتم استخدامه فقط لمنع المتطفلين من إلغاء التثبيت وفرض إيقاف App Lock Pro. يرجى التأكد من أن App Lock Pro لن يستخدم هذا الإذن مطلقًا للوصول إلى بيانات الخصوصية .</string>
+    <string name="device_admin_permission_description">قم بالتفعيل الآن ، وحماية متقدمة وأكثر أمانًا! \n\nلتمكين الحماية المتقدمة ، يرجى تنشيط App Lock Pro باعتباره "مسؤول الجهاز". يتم استخدامه فقط لمنع المتطفلين من إلغاء التثبيت وفرض إيقاف App Lock Pro. يرجى التأكد من أن App Lock Pro لن يستخدم هذا الإذن مطلقًا في الوصول إلى بيانات الخصوصية الخاصة بك.</string>
+
+
+    <string name="permission_overlay_description">قم بتمكين التراكب لإظهار شاشة القفل.</string>
+    <string name="permission_toast_enable_permissions">تمكين الأذونات لاستخدام خزانة التطبيق</string>
+
+    <string name="draw_pattern_title">قم بإنشاء نمط جديد</string>
+    <string name="redraw_pattern_title">أعد الرسم للإكمال</string>
+
+    <string name="recreate_pattern_error">النمط لا يتطابق. إعادة رسم.</string>
+
+    <string name="create_pattern_successful">تم إنشاؤه بنجاح.</string>
+    <string name="overlay_prompt_pattern_title">ارسم نمطًا لفتح التطبيق</string>
+    <string name="overlay_prompt_pattern_title_wrong">نمط خاطئ. اسحب مره اخرى.</string>
+    <string name="overlay_prompt_pattern_title_correct">النمط الصحيح.</string>
+
+    <string name="overlay_prompt_fingerprint_title">ارسم نمطًا لفتح التطبيق</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ غير مطابق. +٪ 1 $ s + متبقي.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">بصمة متطابقة!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">خطأ بصمة! جرب النمط.</string>
+    <string name="dialog_title_rate_us">هل أعجبك Secure Zone؟</string>
+    <string name="dialog_description_rate_us">سنكون سعداء للغاية إذا قمت بتقييمنا في السوق.</string>
+    <string name="dialog_action_rate_us_rate">معدل</string>
+
+    <string name="dialog_action_rate_us_later">لاحقا</string>
+    <string name="dialog_title_usage_permission">إذن Android 5.0</string>
+    <string name="dialog_description_usage_permission">في Android 5.0 أو أعلى ، تحتاج إلى السماح بالوصول للاستخدام لـ
+        AppLocker ، بحيث يمكنك استخدام ميزة المنطقة الآمنة</string>
+    <string name="dialog_action_usage_permission_permit">يسمح</string>
+
+    <string name="dialog_action_usage_permission_cancel">يلغي</string>
+    <string name="dialog_title_privacy_policy">سياسة الخصوصية</string>
+    <string name="dialog_description_privacy_policy">لقد قمنا بتحديث سياسة الخصوصية الخاصة بنا. من خلال الاستمرار فإنك توافق على<u> سياسة الخصوصية</u> </string>
+    <string name="dialog_action_privacy_policy_accept">قبول</string>
+
+    <string name="hint_browser_search">ابحث أو أدخل URL</string>
+    <string name="facebook">موقع التواصل الاجتماعي الفيسبوك</string>
+
+    <string name="twitter">تويتر</string>
+
+    <string name="snapchat">سناب شات</string>
+
+
+    <string name="instagram">انستغرام</string>
+    <string name="youtube">رديت</string>
+    <string name="title_browser_empty">آمن ، آمن ، خاص.</string>
+    <string name="subtitle_browser_empty">تصفح الانترنت. بأمان.</string>
+    <string name="bookmarks">إشارات مرجعية</string>
+    <string name="title_name_unknown_number">رقم مجهول</string>
+
+
+
+    <string name="blacklist_empty_title">القائمة السوداء فارغة</string>
+    <string name="blacklist_empty_description">انقر لحظر رقم الهاتف</string>
+    <string name="call_log_empty_title">لا سجلات</string>
+
+    <string name="call_log_empty_description">يظهر السجل هنا عندما يتم حظر المكالمة</string>
+    <string name="dialog_add_to_blacklist_title">حظر رقم الهاتف</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">الاسم: (اختياري)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">أدخل رقم الهاتف</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">يلغي</string>
+    <string name="dialog_black_list_delete_title">حذف من القائمة السوداء</string>
+    <string name="dialog_black_list_delete_description">هل تريد إزالة الرقم المحظور من القائمة السوداء؟</string>
+
+    <string name="dialog_black_list_delete_action_cancel">يلغي</string>
+    <string name="dialog_title_add_to_vault">معالجة</string>
+    <string name="dialog_description_process">يتم إزالة الوسائط الخاصة بك من المعرض وإضافة إلى المخزن الخاص بك.</string>
+
+    <string name="dialog_title_removal_confirmation">تأكيد الإزالة</string>
+    <string name="dialog_description_removal">ستتم إزالة هذا الملف من المخزن وسيظهر في المعرض.</string>
+    <string name="dialog_action_removal_confirmation_accept">قبول</string>
+
+    <string name="vault_photo_empty_page_title">مخزن الصور فارغ</string>
+    <string name="vault_photo_empty_page_description">إضافة أيقونة لإخفاء الصور من المعرض</string>
+    <string name="vault_video_empty_page_title">مخزن الفيديو فارغ</string>
+
+    <string name="vault_video_empty_page_description">أضف أيقونة إلى صور الفيديو من المعرض</string>
+    <string-array name="tabs">
+        <item>حماية</item>
+        <item>إعدادات</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>القائمة السوداء</item>
+        <item>سجلات المكالمات</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>الصور</item>
+        <item>أشرطة فيديو</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">لم يتم القبض على الدخلاء</string>
+    <string name="empty_page_intruders_description">هاتفك آمن!</string>
+    <string name="Vault">قبو</string>
+    <string name="Call_blocker">Call Blocker</string>
+    <string name="browser">المستعرض</string>
+    <string name="theme">ثيمات</string>
+    <string name="rate_us">قيمنا</string>
+    <string name="removeads">نسخة متميزة</string>
+    <string name="enter_pin">أدخل رقم التعريف الشخصي</string>
+    <string name="pin_matched">دبوس مطابق</string>
+    <string name="confirm_pin">تأكيد PIN</string>
+    <string name="pin_chahnged">تم تغيير الدبوس بنجاح</string>
+    <string name="pin_not_matched">رقم التعريف الشخصي غير متطابق</string>
+    <string name="incorrect_pin">دبوس غير صحيح</string>
+    <string name="settings_set_pin">تعيين دبوس</string>
+    <string name="change_pin">تغيير الدبوس</string>
+    <string name="settings_set_pin_description">تعيين دبوس جديد</string>
+    <string name="create_new_pin">قم بإنشاء دبوس جديد</string>
+    <string name="home">منزل، بيت</string>
+    <string name="settings_change_pin_description">قم بتغيير رقم التعريف الشخصي الموجود لديك</string>
+    <string name="message_pin_changed">تم تغيير الدبوس بنجاح</string>
+    <string name="non_protected">غير محمي</string>
+    <string name="status_protected">محمي</string>
+    <string name="starting_hour">ساعة البدء</string>
+    <string name="ending_hour">ساعة النهاية</string>
+    <string name="auto_start_p">إذن التشغيل التلقائي</string>
+    <string name="permission_usage_access_description1">افتح خيار التشغيل التلقائي</string>
+
+
+    <string name="privat_browser">متصفح خاص</string>
+    <string name="prem_title">نسخة مميزة إلى الأبد</string>
+    <string name="prem_no_ads">لا إعلانات إلى الأبد</string>
+    <string name="prem_restore">استعادة شراء</string>
+
+    <string name="please_give_us_five_stars">يرجى إعطائنا خمس نجوم على Google Play! سنقدر ذلك كثيرا!</string>
+    <string name="great_tex">رائعة!</string>
+    <string name="choose_the_icon">اختر الرمز وسيتم تغيير الرمز الأصلي. إخفاء هذا التطبيق من المتسللين</string>
+    <string name="app_name1">ساعة</string>
+    <string name="app_name2">خرائط</string>
+    <string name="app_name3">تقويم</string>
+    <string name="app_name4">موسيقى</string>
+    <string name="app_name5">آلة حاسبة</string>
+
+    <string name="callblocker_black">القائمة السوداء</string>
+    <string name="callblocker_logs">سجلات المكالمات</string>
+    <string name="icon_change_title">أيقونات</string>
+    <string name="intruders_title">دخيل</string>
+    <string name="intruders_access_apps">الوصول إلى التطبيقات مع الاستخدام</string>
+    <string name="main_unlocked">مفتوحة</string>
+    <string name="main_locked">مقفل</string>
+    <string name="prem_not_sub">هذه ليست الاشتراك. أنت تدفع مرة واحدة فقط!</string>
+    <string name="prem_fake_icon">أيقونة وهمية</string>
+    <string name="prem_intruders">دخيل صورة شخصية</string>
+    <string name="prem_themes">المزيد من الموضوعات الإبداعية</string>
+    <string name="prem_one_time">دفعة لمرة واحدة</string>
+    <string name="splash_create">تم إنشاؤها لحماية خصوصيتك</string>
+    <string name="vault_photos">الصور</string>
+    <string name="vault_videos">أشرطة فيديو</string>
+    <string name="btn_ok">نعم</string>
+    <string name="dialog_intruder_text">هل ترغب في حذف الصورة؟</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="fragment_security_text">معذرة! \nليس لديك تطبيقات مقفلة حتى الآن</string>
+    <string name="settings_security">حماية</string>
+    <string name="settings_face_icon">أيقونة وهمية</string>
+    <string name="settings_face_icon_text">سيتم تغيير الرمز الأصلي لهذا التطبيق</string>
+    <string name="rate_us_enjoying">هل تستمتع بقفل التطبيقات؟</string>
+    <string name="rate_us_could_be">يمكن أن يكون أفضل</string>
+    <string name="menu_privacy">سياسة الخصوصية</string>
+    <string name="menu_contact">اتصل بنا</string>
+    <string name="menu_face_icon">أيقونة وهمية</string>
+    <string name="menu_intruder">مدير الدخيل</string>
+    <string name="menu_chat">غرفة الدردشة</string>
+
+</resources>

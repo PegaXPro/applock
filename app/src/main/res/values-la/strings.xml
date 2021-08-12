@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Optiones</string>
+
+  
+
+    <string name="share">Share</string>
+
+    <string name="notification_protecting_title">Protegens tua apps</string>
+
+    <string name="notification_protecting_description">Clauditis tua apps secretum protegas.</string>
+
+    <string name="notification_permission_need_title">Admitte permission ut praesidium</string>
+
+    <string name="notification_permission_need_description">Quaeso ut enable permissiones vestri app JOCULAMENTUM.</string>
+    <string name="you_accept_privacy_policy">Per continuum autem in vobis<u> Privacy policy</u> </string>
+
+    <string name="header_recommended_to_lock">Commendatur ut cincinno</string>
+    <string name="header_all_apps">omnes applications</string>
+
+    <string name="title_general_settings">Generalis</string>
+
+    <string name="title_lock_all">omnes Obfirmo</string>
+    <string name="description_lock_all">Haec omnia tua apps includet</string>
+
+ 
+    <string name="title_unlock_all">Basem datorum omnia</string>
+
+    <string name="description_unlock_all">Hoc erit reserare omnia tua apps</string>
+    <string name="settings_change_pattern_title">mutare exemplaris</string>
+
+    <string name="settings_change_pattern_description">Tui quandoque forma existentium</string>
+    <string name="message_pattern_changed">Forma mutata est prospere</string>
+
+    <string name="setting_in_stealth_mode_title">celare drawing</string>
+    <string name="setting_in_stealth_mode_description">Invisibilia instar tractionem dum</string>
+    <string name="setting_fingerprint_title">Admitte fingerprints</string>
+
+    <string name="setting_fingerprint_description">Lorem tuam cum app fingerprint.</string>
+    <string name="setting_fingerprint_not_supported_title">Fingerprint non praebetur</string>
+
+    <string name="setting_fingerprint_not_supported_description">Tuom ni \'AIT intellectus sensorem</string>
+    <string name="setting_fingerprint_not_registered_title">Fingerprints vestri subcriptio</string>
+
+    <string name="setting_fingerprint_not_registered_description">Ad securitatem occasus</string>
+    <string name="next">deinde</string>
+
+    <string name="permission_usage_access_title">Usus obvius permission</string>
+    <string name="permission_usage_access_description">Admitte acces usus sunt usus JOCULAMENTUM app.</string>
+
+    <string name="permission_overlay_title">Cincinno screen permission</string>
+
+    <string name="settings_card_intruders_title">capere Intruders</string>
+    <string name="settings_enable_intruders_title">Et suscipe benedictionem pictura saevientes</string>
+    <string name="settings_enable_intruders_description">Admitte capere interpellatores.</string>
+
+    <string name="settings_intruders_folder_title">Intrusor rapit photos</string>
+    <string name="settings_intruders_folder_description">Click to see super vos speculatores phone.</string>
+
+    <string name="settings_card_advance_protection_title">Donec antecessum</string>
+    <string name="settings_enable_advance_protection_title">Progredi possint praesidia</string>
+    <string name="settings_enable_advance_protection_description">Promovetur ad enable cinium et sursum pro App eu velit, ut "administrator fabrica" ​​It \'s non minus usus advenae uninstalling vi atque usu prospiciatur, quod partim ex App Pro.Please et sursum et sursum pro app quod utitur non accedere tuo et secretum notitia permission .</string>
+    <string name="device_admin_permission_description">Illudque iam antea praesidio tutiores \n \nPromovetur ad enable cinium et sursum pro App eu velit, ut "administrator fabrica" ​​It \'s non minus usus advenae uninstalling quod vis si dederitis App et sursum et sursum pro App Pro.Please usu prospiciatur, quod non liceat hanc accedere te secretum notitia.</string>
+
+
+    <string name="permission_overlay_description">Admitte circumdabis ostendere cincinno screen.</string>
+    <string name="permission_toast_enable_permissions">Admitte permissiones app uti JOCULAMENTUM</string>
+
+    <string name="draw_pattern_title">Novum creare exemplar</string>
+    <string name="redraw_pattern_title">Perficere Redraw</string>
+
+    <string name="recreate_pattern_error">Modus non aequare. Redraw.</string>
+
+    <string name="create_pattern_successful">Feliciter creatum est.</string>
+    <string name="overlay_prompt_pattern_title">Trahunt ad informationem aperta app</string>
+    <string name="overlay_prompt_pattern_title_wrong">Nefas fecerunt. Trahere iterum.</string>
+    <string name="overlay_prompt_pattern_title_correct">Exemplum rectam.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Trahunt ad informationem aperta app</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Non + matched. S + + $% I sinistram.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Fingerprint matched!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Fingerprint error! Try forma, mutuatas.</string>
+    <string name="dialog_title_rate_us">Nonne tibi fretus Zonam?</string>
+    <string name="dialog_description_rate_us">Nos beati eritis si cantaminibus difficile ad rate nostrum forum.</string>
+    <string name="dialog_action_rate_us_rate">rate</string>
+
+    <string name="dialog_action_rate_us_later">later</string>
+    <string name="dialog_title_usage_permission">Licet Android 5.0</string>
+    <string name="dialog_description_usage_permission">In Android 5.0 aut supra, vos postulo accessum ad usus permittere
+        AppLocker, ut possis Zonam Feature securam uti</string>
+    <string name="dialog_action_usage_permission_permit">permit</string>
+
+    <string name="dialog_action_usage_permission_cancel">Cancel</string>
+    <string name="dialog_title_privacy_policy">Privacy policy</string>
+    <string name="dialog_description_privacy_policy">Nos have secretum consilium updated nostris. Per continuum autem in vobis<u> Privacy policy</u> </string>
+    <string name="dialog_action_privacy_policy_accept">suscipe</string>
+
+    <string name="hint_browser_search">URL quaerere aut intraveritis</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Salo in Penitus. Nullius impetum formidantes.</string>
+    <string name="bookmarks">Story</string>
+    <string name="title_name_unknown_number">Number ignotum</string>
+
+
+
+    <string name="blacklist_empty_title">Inanis est blacklist</string>
+    <string name="blacklist_empty_description">Click to angustos numerus telephonicus</string>
+    <string name="call_log_empty_title">non Acta publica omnia</string>
+
+    <string name="call_log_empty_description">Apparet hinc vocatio clausus impositorum</string>
+    <string name="dialog_add_to_blacklist_title">Phone numerus obstructionum</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nomine (Libitum)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Intra phone numerus</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Cancel</string>
+    <string name="dialog_black_list_delete_title">Delere ex notatione</string>
+    <string name="dialog_black_list_delete_description">Numerus clausus album nigro vis auferre?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Cancel</string>
+    <string name="dialog_title_add_to_vault">processus</string>
+    <string name="dialog_description_process">Torrent Zared: et media sit gallery tuum, et addendo ad firmamentum.</string>
+
+    <string name="dialog_title_removal_confirmation">remotionem Confirmationis</string>
+    <string name="dialog_description_removal">Gloria Patri, et remove ab firmamentum ostendam in musculum devolvunt.</string>
+    <string name="dialog_action_removal_confirmation_accept">suscipe</string>
+
+    <string name="vault_photo_empty_page_title">Buy vacua photo</string>
+    <string name="vault_photo_empty_page_description">Add photos celare icon ex gallery</string>
+    <string name="vault_video_empty_page_title">Buy vacua Video</string>
+
+    <string name="vault_video_empty_page_description">Add photos icon ut video ex gallery</string>
+    <string-array name="tabs">
+        <item>Security</item>
+        <item>Optiones</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>blacklist</item>
+        <item>vocationem Acta publica omnia</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Images</item>
+        <item>videos</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Nemo rapit Intruders</string>
+    <string name="empty_page_intruders_description">Telephonium tuum fortisan esse securam?</string>
+    <string name="Vault">firmamentum</string>
+    <string name="Call_blocker">vocationem Blocker</string>
+    <string name="browser">pasco</string>
+    <string name="theme">themata</string>
+    <string name="rate_us">rate nobis</string>
+    <string name="removeads">premium poema</string>
+    <string name="enter_pin">intra pin</string>
+    <string name="pin_matched">pin matched</string>
+    <string name="confirm_pin">Adfirmare pin</string>
+    <string name="pin_chahnged">Feliciter mutavit pin</string>
+    <string name="pin_not_matched">Pin non matched</string>
+    <string name="incorrect_pin">Non recta pin</string>
+    <string name="settings_set_pin">set pin</string>
+    <string name="change_pin">mutare pin</string>
+    <string name="settings_set_pin_description">Set novum pin</string>
+    <string name="create_new_pin">Novam pin</string>
+    <string name="home">domum</string>
+    <string name="settings_change_pin_description">Pin tui quandoque existentium</string>
+    <string name="message_pin_changed">Feliciter mutari pin</string>
+    <string name="non_protected">non Tutis</string>
+    <string name="status_protected">tutis</string>
+    <string name="starting_hour">satus Hour</string>
+    <string name="ending_hour">ending Hour</string>
+    <string name="auto_start_p">Auto-currunt permission</string>
+    <string name="permission_usage_access_description1">aperiam optio currere ad auto-</string>
+
+
+    <string name="privat_browser">Secretum Pasco</string>
+    <string name="prem_title">Semper premium Version</string>
+    <string name="prem_no_ads">Semper nulla ADs</string>
+    <string name="prem_restore">Purchase restituet</string>
+
+    <string name="please_give_us_five_stars">Tenta nos obsecro servos quinque stellae in Google Play! Nos appreciate is multus!</string>
+    <string name="great_tex">Magna!</string>
+    <string name="choose_the_icon">Icon icon originale eligere et voluntas mutata est. Hoc app abscondam a serpentibus adflentur</string>
+    <string name="app_name1">horologium</string>
+    <string name="app_name2">Maps</string>
+    <string name="app_name3">Calendar</string>
+    <string name="app_name4">musica</string>
+    <string name="app_name5">calculator</string>
+
+    <string name="callblocker_black">nigrum album</string>
+    <string name="callblocker_logs">vocationem omnia</string>
+    <string name="icon_change_title">Icones</string>
+    <string name="intruders_title">intrusus</string>
+    <string name="intruders_access_apps">Usus ad obvius apps</string>
+    <string name="main_unlocked">molliebat</string>
+    <string name="main_locked">clausa</string>
+    <string name="prem_not_sub">Hoc non statuerunt. Semel tantum te redde!</string>
+    <string name="prem_fake_icon">fake Icon</string>
+    <string name="prem_intruders">intrusor selfie</string>
+    <string name="prem_themes">Magis partum themata</string>
+    <string name="prem_one_time">Payment unum tempus,</string>
+    <string name="splash_create">Protegas secretum creata est</string>
+    <string name="vault_photos">photos</string>
+    <string name="vault_videos">videos</string>
+    <string name="btn_ok">Bene</string>
+    <string name="dialog_intruder_text">Ut in photo vis ut delete?</string>
+    <string name="btn_cancel">LIBERO</string>
+    <string name="fragment_security_text">Opps? \n et non habent clausum at apps</string>
+    <string name="settings_security">Security</string>
+    <string name="settings_face_icon">fake Icon</string>
+    <string name="settings_face_icon_text">Et originali icon potest non mutavit huius app</string>
+    <string name="rate_us_enjoying">Quin tu AppLock?</string>
+    <string name="rate_us_could_be">non potest esse melius</string>
+    <string name="menu_privacy">Privacy policy</string>
+    <string name="menu_contact">Nobis loquere</string>
+    <string name="menu_face_icon">fake Icon</string>
+    <string name="menu_intruder">intrusor Manager</string>
+    <string name="menu_chat">Chat cubiculum</string>
+
+</resources>

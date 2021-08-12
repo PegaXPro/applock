@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">การตั้งค่า</string>
+
+  
+
+    <string name="share">แบ่งปัน</string>
+
+    <string name="notification_protecting_title">การปกป้องแอปของคุณ</string>
+
+    <string name="notification_protecting_description">ล็อกแอปของคุณเพื่อปกป้องความเป็นส่วนตัวของคุณ</string>
+
+    <string name="notification_permission_need_title">เปิดใช้งานสิทธิ์ในการป้องกัน</string>
+
+    <string name="notification_permission_need_description">โปรดเปิดใช้งานการอนุญาตของคุณเพื่อใช้แอพล็อกเกอร์</string>
+    <string name="you_accept_privacy_policy">การดำเนินการต่อแสดงว่าคุณยอมรับ<u> นโยบายความเป็นส่วนตัว</u> </string>
+
+    <string name="header_recommended_to_lock">แนะนำให้ล็อค</string>
+    <string name="header_all_apps">แอปพลิเคชันทั้งหมด</string>
+
+    <string name="title_general_settings">ทั่วไป</string>
+
+    <string name="title_lock_all">ล็อคทั้งหมด</string>
+    <string name="description_lock_all">การดำเนินการนี้จะล็อกแอปทั้งหมดของคุณ</string>
+
+ 
+    <string name="title_unlock_all">ปลดล็อคทั้งหมด</string>
+
+    <string name="description_unlock_all">การดำเนินการนี้จะปลดล็อกแอปทั้งหมดของคุณ</string>
+    <string name="settings_change_pattern_title">เปลี่ยนรูปแบบ</string>
+
+    <string name="settings_change_pattern_description">เปลี่ยนรูปแบบที่คุณมีอยู่</string>
+    <string name="message_pattern_changed">เปลี่ยนรูปแบบสำเร็จแล้ว</string>
+
+    <string name="setting_in_stealth_mode_title">ซ่อนภาพวาด</string>
+    <string name="setting_in_stealth_mode_description">รูปแบบที่มองไม่เห็นขณะวาด</string>
+    <string name="setting_fingerprint_title">เปิดใช้งานลายนิ้วมือ</string>
+
+    <string name="setting_fingerprint_description">เปิดแอพด้วยลายนิ้วมือของคุณ</string>
+    <string name="setting_fingerprint_not_supported_title">ไม่รองรับลายนิ้วมือ</string>
+
+    <string name="setting_fingerprint_not_supported_description">อุปกรณ์ของคุณไม่มีเซ็นเซอร์</string>
+    <string name="setting_fingerprint_not_registered_title">ลงทะเบียนลายนิ้วมือของคุณ</string>
+
+    <string name="setting_fingerprint_not_registered_description">ไปที่การตั้งค่าความปลอดภัย</string>
+    <string name="next">ต่อไป</string>
+
+    <string name="permission_usage_access_title">สิทธิ์การเข้าถึงการใช้งาน</string>
+    <string name="permission_usage_access_description">เปิดใช้งานการใช้งานเพื่อใช้แอพล็อกเกอร์</string>
+
+    <string name="permission_overlay_title">การอนุญาตล็อกหน้าจอ</string>
+
+    <string name="settings_card_intruders_title">จับผู้บุกรุก</string>
+    <string name="settings_enable_intruders_title">ถ่ายภาพผู้บุกรุก</string>
+    <string name="settings_enable_intruders_description">เปิดใช้งานเพื่อจับผู้บุกรุก</string>
+
+    <string name="settings_intruders_folder_title">จับภาพผู้บุกรุก</string>
+    <string name="settings_intruders_folder_description">คลิกเพื่อดูสายลับในโทรศัพท์ของคุณ</string>
+
+    <string name="settings_card_advance_protection_title">การป้องกันล่วงหน้า</string>
+    <string name="settings_enable_advance_protection_title">เปิดใช้งานการป้องกันล่วงหน้า</string>
+    <string name="settings_enable_advance_protection_description">หากต้องการเปิดใช้งานการป้องกันขั้นสูงโปรดเปิดใช้งาน App Lock Pro ในฐานะ "ผู้ดูแลอุปกรณ์" ใช้เพื่อป้องกันผู้บุกรุกถอนการติดตั้งและบังคับให้หยุด App Lock Pro เท่านั้นโปรดตรวจสอบให้แน่ใจว่า App Lock Pro จะไม่ใช้สิทธิ์นี้เพื่อเข้าถึงข้อมูลความเป็นส่วนตัวของคุณ .</string>
+    <string name="device_admin_permission_description">เปิดใช้งานตอนนี้การป้องกันขั้นสูงและปลอดภัยยิ่งขึ้น! \n\nหากต้องการเปิดใช้งานการป้องกันขั้นสูงโปรดเปิดใช้งาน App Lock Pro ในฐานะ "ผู้ดูแลระบบอุปกรณ์" ใช้เพื่อป้องกันผู้บุกรุกถอนการติดตั้งและบังคับให้หยุด App Lock Pro เท่านั้นโปรดตรวจสอบให้แน่ใจว่า App Lock Pro จะไม่ใช้สิทธิ์นี้ในการ เข้าถึงข้อมูลความเป็นส่วนตัวของคุณ</string>
+
+
+    <string name="permission_overlay_description">เปิดใช้งานการวางซ้อนเพื่อแสดงหน้าจอล็อก</string>
+    <string name="permission_toast_enable_permissions">เปิดใช้งานสิทธิ์ในการใช้แอพล็อกเกอร์</string>
+
+    <string name="draw_pattern_title">สร้างรูปแบบใหม่</string>
+    <string name="redraw_pattern_title">วาดใหม่เพื่อให้เสร็จสมบูรณ์</string>
+
+    <string name="recreate_pattern_error">รูปแบบไม่ตรงกัน วาดใหม่</string>
+
+    <string name="create_pattern_successful">สร้างสำเร็จแล้ว</string>
+    <string name="overlay_prompt_pattern_title">วาดรูปแบบเพื่อเปิดแอป</string>
+    <string name="overlay_prompt_pattern_title_wrong">รูปแบบที่ไม่ถูกต้อง วาดอีกครั้ง.</string>
+    <string name="overlay_prompt_pattern_title_correct">รูปแบบถูกต้อง</string>
+
+    <string name="overlay_prompt_fingerprint_title">วาดรูปแบบเพื่อเปิดแอป</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">ไม่ตรงกัน + เหลืออีก %1$s</string>
+    <string name="overlay_prompt_fingerprint_title_correct">ลายนิ้วมือตรงกัน!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">ลายนิ้วมือผิดพลาด! ลองใช้รูปแบบ</string>
+    <string name="dialog_title_rate_us">คุณชอบ Secure Zone หรือไม่?</string>
+    <string name="dialog_description_rate_us">เราจะมีความสุขมากหากคุณให้คะแนนเราในตลาด</string>
+    <string name="dialog_action_rate_us_rate">ประเมินค่า</string>
+
+    <string name="dialog_action_rate_us_later">ภายหลัง</string>
+    <string name="dialog_title_usage_permission">สิทธิ์ Android 5.0</string>
+    <string name="dialog_description_usage_permission">ใน Android 5.0 ขึ้นไปคุณต้องอนุญาตการเข้าถึงการใช้งานสำหรับ
+        AppLocker เพื่อให้คุณสามารถใช้คุณลักษณะ Secure Zone</string>
+    <string name="dialog_action_usage_permission_permit">ใบอนุญาต</string>
+
+    <string name="dialog_action_usage_permission_cancel">ยกเลิก</string>
+    <string name="dialog_title_privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="dialog_description_privacy_policy">เราได้ปรับปรุงนโยบายความเป็นส่วนตัวของเรา การดำเนินการต่อแสดงว่าคุณยอมรับ<u> นโยบายความเป็นส่วนตัว</u> </string>
+    <string name="dialog_action_privacy_policy_accept">ยอมรับ</string>
+
+    <string name="hint_browser_search">ค้นหาหรือป้อน URL</string>
+    <string name="facebook">เฟสบุ๊ค</string>
+
+    <string name="twitter">ทวิตเตอร์</string>
+
+    <string name="snapchat">สแน็ปแชท</string>
+
+
+    <string name="instagram">อินสตาแกรม</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">ปลอดภัยปลอดภัยเป็นส่วนตัว</string>
+    <string name="subtitle_browser_empty">ท่องอินเทอร์เน็ต. อย่างปลอดภัย</string>
+    <string name="bookmarks">บุ๊กมาร์ก</string>
+    <string name="title_name_unknown_number">ไม่ทราบหมายเลข</string>
+
+
+
+    <string name="blacklist_empty_title">บัญชีดำว่างเปล่า</string>
+    <string name="blacklist_empty_description">คลิกเพื่อบล็อกหมายเลขโทรศัพท์</string>
+    <string name="call_log_empty_title">ไม่มีบันทึก</string>
+
+    <string name="call_log_empty_description">บันทึกจะปรากฏที่นี่เมื่อการโทรถูกบล็อก</string>
+    <string name="dialog_add_to_blacklist_title">บล็อกหมายเลขโทรศัพท์</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">ชื่อ (ไม่บังคับ)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">ป้อนหมายเลขโทรศัพท์</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">ยกเลิก</string>
+    <string name="dialog_black_list_delete_title">ลบจากบัญชีดำ</string>
+    <string name="dialog_black_list_delete_description">คุณต้องการลบหมายเลขที่ถูกบล็อกออกจากบัญชีดำหรือไม่?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">ยกเลิก</string>
+    <string name="dialog_title_add_to_vault">กำลังประมวลผล</string>
+    <string name="dialog_description_process">สื่อของคุณกำลังลบออกจากแกลเลอรีและเพิ่มลงในห้องนิรภัยของคุณ</string>
+
+    <string name="dialog_title_removal_confirmation">การยืนยันการลบ</string>
+    <string name="dialog_description_removal">ไฟล์นี้จะลบออกจากห้องนิรภัยและแสดงในแกลเลอรี</string>
+    <string name="dialog_action_removal_confirmation_accept">ยอมรับ</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault ว่างเปล่า</string>
+    <string name="vault_photo_empty_page_description">เพิ่มไอคอนเพื่อซ่อนรูปภาพจากแกลเลอรี</string>
+    <string name="vault_video_empty_page_title">Video Vault ว่างเปล่า</string>
+
+    <string name="vault_video_empty_page_description">เพิ่มไอคอนให้กับภาพถ่ายวิดีโอจากแกลเลอรี</string>
+    <string-array name="tabs">
+        <item>ความปลอดภัย</item>
+        <item>การตั้งค่า</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>บัญชีดำ</item>
+        <item>บันทึกการโทร</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>รูปภาพ</item>
+        <item>วิดีโอ</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">ไม่มีการจับผู้บุกรุก</string>
+    <string name="empty_page_intruders_description">โทรศัพท์ของคุณปลอดภัย!</string>
+    <string name="Vault">ห้องนิรภัย</string>
+    <string name="Call_blocker">ตัวบล็อกการโทร</string>
+    <string name="browser">เบราว์เซอร์</string>
+    <string name="theme">ธีม</string>
+    <string name="rate_us">ให้คะแนนเรา</string>
+    <string name="removeads">รุ่นพรีเมี่ยม</string>
+    <string name="enter_pin">ป้อนพิน</string>
+    <string name="pin_matched">จับคู่พินแล้ว</string>
+    <string name="confirm_pin">ยืนยันพิน</string>
+    <string name="pin_chahnged">เปลี่ยนพินเรียบร้อยแล้ว</string>
+    <string name="pin_not_matched">พินไม่ตรงกัน</string>
+    <string name="incorrect_pin">พินไม่ถูกต้อง</string>
+    <string name="settings_set_pin">ตั้งค่าพิน</string>
+    <string name="change_pin">เปลี่ยนพิน</string>
+    <string name="settings_set_pin_description">ตั้งพินใหม่</string>
+    <string name="create_new_pin">สร้างพินใหม่</string>
+    <string name="home">บ้าน</string>
+    <string name="settings_change_pin_description">เปลี่ยนพินที่มีอยู่</string>
+    <string name="message_pin_changed">เปลี่ยนพินเรียบร้อยแล้ว</string>
+    <string name="non_protected">ไม่ได้รับการป้องกัน</string>
+    <string name="status_protected">มีการป้องกัน</string>
+    <string name="starting_hour">ชั่วโมงเริ่มต้น</string>
+    <string name="ending_hour">สิ้นสุดชั่วโมง</string>
+    <string name="auto_start_p">สิทธิ์เรียกใช้อัตโนมัติ</string>
+    <string name="permission_usage_access_description1">เปิดตัวเลือกเรียกใช้อัตโนมัติ</string>
+
+
+    <string name="privat_browser">เบราว์เซอร์ส่วนตัว</string>
+    <string name="prem_title">รุ่นพรีเมี่ยมตลอดกาล</string>
+    <string name="prem_no_ads">ไม่มีโฆษณาตลอดไป</string>
+    <string name="prem_restore">กู้คืนการซื้อ</string>
+
+    <string name="please_give_us_five_stars">โปรดให้ห้าดาวแก่เราใน Google Play! เราจะขอบคุณมาก!</string>
+    <string name="great_tex">เยี่ยมมาก!</string>
+    <string name="choose_the_icon">เลือกไอคอนและไอคอนดั้งเดิมจะเปลี่ยนไป ซ่อนแอพนี้จากผู้บุกรุก</string>
+    <string name="app_name1">นาฬิกา</string>
+    <string name="app_name2">แผนที่</string>
+    <string name="app_name3">ปฏิทิน</string>
+    <string name="app_name4">เพลง</string>
+    <string name="app_name5">เครื่องคิดเลข</string>
+
+    <string name="callblocker_black">บัญชีดำ</string>
+    <string name="callblocker_logs">บันทึกการโทร</string>
+    <string name="icon_change_title">ไอคอน</string>
+    <string name="intruders_title">ผู้บุกรุก</string>
+    <string name="intruders_access_apps">เข้าถึงแอพที่มีการใช้งาน</string>
+    <string name="main_unlocked">ปลดล็อกแล้ว</string>
+    <string name="main_locked">ล็อค</string>
+    <string name="prem_not_sub">นี่ไม่ใช่การสมัครสมาชิก จ่ายเพียงครั้งเดียว!</string>
+    <string name="prem_fake_icon">ไอคอนปลอม</string>
+    <string name="prem_intruders">เซลฟี่ผู้บุกรุก</string>
+    <string name="prem_themes">ธีมที่สร้างสรรค์มากขึ้น</string>
+    <string name="prem_one_time">ชำระครั้งเดียว</string>
+    <string name="splash_create">สร้างขึ้นเพื่อปกป้องความเป็นส่วนตัวของคุณ</string>
+    <string name="vault_photos">รูปถ่าย</string>
+    <string name="vault_videos">วิดีโอ</string>
+    <string name="btn_ok">ตกลง</string>
+    <string name="dialog_intruder_text">คุณต้องการลบรูปภาพหรือไม่</string>
+    <string name="btn_cancel">ยกเลิก</string>
+    <string name="fragment_security_text">อ๊ะ! \nคุณยังไม่ได้ล็อกแอป</string>
+    <string name="settings_security">ความปลอดภัย</string>
+    <string name="settings_face_icon">ไอคอนปลอม</string>
+    <string name="settings_face_icon_text">ไอคอนดั้งเดิมของแอพนี้จะเปลี่ยนไป</string>
+    <string name="rate_us_enjoying">คุณสนุกกับ AppLock หรือไม่?</string>
+    <string name="rate_us_could_be">มันอาจจะดีกว่านี้</string>
+    <string name="menu_privacy">นโยบายความเป็นส่วนตัว</string>
+    <string name="menu_contact">ติดต่อเรา</string>
+    <string name="menu_face_icon">ไอคอนปลอม</string>
+    <string name="menu_intruder">ผู้จัดการผู้บุกรุก</string>
+    <string name="menu_chat">ห้องสนทนา</string>
+
+</resources>

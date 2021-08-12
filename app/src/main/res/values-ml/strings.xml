@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">ആപ്പ്ലോക്ക്</string>
+
+    <string name="action_settings">ക്രമീകരണങ്ങൾ</string>
+
+  
+
+    <string name="share">പങ്കിടുക</string>
+
+    <string name="notification_protecting_title">നിങ്ങളുടെ അപ്ലിക്കേഷനുകൾ പരിരക്ഷിക്കുന്നു</string>
+
+    <string name="notification_protecting_description">നിങ്ങളുടെ സ്വകാര്യത പരിരക്ഷിക്കുന്നതിന് അപ്ലിക്കേഷനുകൾ ലോക്കുചെയ്യുക.</string>
+
+    <string name="notification_permission_need_title">പരിരക്ഷിക്കാനുള്ള അനുമതി പ്രാപ്തമാക്കുക</string>
+
+    <string name="notification_permission_need_description">അപ്ലിക്കേഷൻ ലോക്കർ ഉപയോഗിക്കുന്നതിന് നിങ്ങളുടെ അനുമതികൾ പ്രാപ്തമാക്കുക.</string>
+    <string name="you_accept_privacy_policy">തുടരുന്നതിലൂടെ നിങ്ങൾ സമ്മതിക്കുന്നു<u> സ്വകാര്യതാനയം</u> </string>
+
+    <string name="header_recommended_to_lock">ലോക്കുചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു</string>
+    <string name="header_all_apps">എല്ലാ അപ്ലിക്കേഷനുകളും</string>
+
+    <string name="title_general_settings">ജനറൽ</string>
+
+    <string name="title_lock_all">എല്ലാം ലോക്കുചെയ്യുക</string>
+    <string name="description_lock_all">ഇത് നിങ്ങളുടെ എല്ലാ അപ്ലിക്കേഷനുകളും ലോക്ക് ചെയ്യും</string>
+
+ 
+    <string name="title_unlock_all">എല്ലാം അൺലോക്കുചെയ്യുക</string>
+
+    <string name="description_unlock_all">ഇത് നിങ്ങളുടെ എല്ലാ അപ്ലിക്കേഷനുകളും അൺലോക്കുചെയ്യും</string>
+    <string name="settings_change_pattern_title">പാറ്റേൺ മാറ്റുക</string>
+
+    <string name="settings_change_pattern_description">നിങ്ങളുടെ നിലവിലുള്ള പാറ്റേൺ മാറ്റുക</string>
+    <string name="message_pattern_changed">പാറ്റേൺ വിജയകരമായി മാറ്റി</string>
+
+    <string name="setting_in_stealth_mode_title">ഡ്രോയിംഗ് മറയ്‌ക്കുക</string>
+    <string name="setting_in_stealth_mode_description">വരയ്ക്കുമ്പോൾ അദൃശ്യമായ പാറ്റേൺ</string>
+    <string name="setting_fingerprint_title">വിരലടയാളം പ്രവർത്തനക്ഷമമാക്കുക</string>
+
+    <string name="setting_fingerprint_description">നിങ്ങളുടെ വിരലടയാളം ഉപയോഗിച്ച് അപ്ലിക്കേഷൻ സമാരംഭിക്കുക.</string>
+    <string name="setting_fingerprint_not_supported_title">ഫിംഗർപ്രിന്റ് പിന്തുണയ്‌ക്കുന്നില്ല</string>
+
+    <string name="setting_fingerprint_not_supported_description">നിങ്ങളുടെ ഉപകരണത്തിന് സെൻസർ ഇല്ല</string>
+    <string name="setting_fingerprint_not_registered_title">നിങ്ങളുടെ വിരലടയാളം രജിസ്റ്റർ ചെയ്യുക</string>
+
+    <string name="setting_fingerprint_not_registered_description">സുരക്ഷാ ക്രമീകരണങ്ങളിലേക്ക് പോകുക</string>
+    <string name="next">അടുത്തത്</string>
+
+    <string name="permission_usage_access_title">ഉപയോഗ ആക്സസ് അനുമതി</string>
+    <string name="permission_usage_access_description">അപ്ലിക്കേഷൻ ലോക്കർ ഉപയോഗിക്കുന്നതിന് ഉപയോഗ ആക്‌സസ്സുകൾ പ്രവർത്തനക്ഷമമാക്കുക.</string>
+
+    <string name="permission_overlay_title">സ്‌ക്രീൻ അനുമതി ലോക്ക് ചെയ്യുക</string>
+
+    <string name="settings_card_intruders_title">നുഴഞ്ഞുകയറ്റക്കാരെ പിടിക്കുക</string>
+    <string name="settings_enable_intruders_title">നുഴഞ്ഞുകയറ്റക്കാരുടെ ചിത്രം എടുക്കുക</string>
+    <string name="settings_enable_intruders_description">നുഴഞ്ഞുകയറ്റക്കാരെ പിടിക്കാൻ പ്രാപ്തമാക്കുക.</string>
+
+    <string name="settings_intruders_folder_title">നുഴഞ്ഞുകയറ്റ ഫോട്ടോകൾ പിടിച്ചു</string>
+    <string name="settings_intruders_folder_description">നിങ്ങളുടെ ഫോണിൽ ഒറ്റുകാരെ കാണാൻ ക്ലിക്കുചെയ്യുക.</string>
+
+    <string name="settings_card_advance_protection_title">അഡ്വാൻസ് പ്രൊട്ടക്ഷൻ</string>
+    <string name="settings_enable_advance_protection_title">മുൻകൂർ പരിരക്ഷണം പ്രാപ്തമാക്കുക</string>
+    <string name="settings_enable_advance_protection_description">അഡ്വാൻസ് പ്രൊട്ടക്ഷൻ പ്രാപ്തമാക്കുന്നതിന്, ദയവായി ആപ്പ് ലോക്ക് പ്രോയെ "ഡിവൈസ് അഡ്മിനിസ്ട്രേറ്റർ" ആയി സജീവമാക്കുക .ഇത് നുഴഞ്ഞുകയറ്റക്കാരെ അൺഇൻസ്റ്റാൾ ചെയ്യുന്നതിനെ തടയുന്നതിനും അപ്ലിക്കേഷൻ ലോക്ക് പ്രോ നിർത്തുന്നത് തടയുന്നതിനും മാത്രമാണ് ഉപയോഗിക്കുന്നത്. നിങ്ങളുടെ സ്വകാര്യത ഡാറ്റ ആക്‌സസ് ചെയ്യുന്നതിന് അപ്ലിക്കേഷൻ ലോക്ക് പ്രോ ഒരിക്കലും ഈ അനുമതി ഉപയോഗിക്കില്ലെന്ന് ഉറപ്പാക്കുക. .</string>
+    <string name="device_admin_permission_description">ഇപ്പോൾ സജീവമാക്കുക, മുൻകൂർ പരിരക്ഷയും കൂടുതൽ സുരക്ഷിതവും! Advan n \nഅഡ്വാൻസ് പരിരക്ഷണം പ്രാപ്തമാക്കുന്നതിന്, ദയവായി അപ്ലിക്കേഷൻ ലോക്ക് പ്രോയെ "ഉപകരണ അഡ്മിനിസ്ട്രേറ്റർ" ആയി സജീവമാക്കുക .ഇത് നുഴഞ്ഞുകയറ്റക്കാരെ അൺ‌ഇൻസ്റ്റാൾ ചെയ്യുന്നത് തടയുന്നതിനും അപ്ലിക്കേഷൻ ലോക്ക് പ്രോ നിർത്തുന്നത് തടയുന്നതിനും മാത്രമാണ് ഉപയോഗിക്കുന്നത്. അപ്ലിക്കേഷൻ ലോക്ക് പ്രോ ഒരിക്കലും ഈ അനുമതി ഉപയോഗിക്കില്ലെന്ന് ഉറപ്പാക്കുക. നിങ്ങളുടെ സ്വകാര്യത ഡാറ്റ ആക്സസ് ചെയ്യുക.</string>
+
+
+    <string name="permission_overlay_description">ലോക്ക് സ്‌ക്രീൻ കാണിക്കുന്നതിന് ഓവർലേ പ്രവർത്തനക്ഷമമാക്കുക.</string>
+    <string name="permission_toast_enable_permissions">അപ്ലിക്കേഷൻ ലോക്കർ ഉപയോഗിക്കുന്നതിന് അനുമതികൾ പ്രവർത്തനക്ഷമമാക്കുക</string>
+
+    <string name="draw_pattern_title">ഒരു പുതിയ പാറ്റേൺ സൃഷ്ടിക്കുക</string>
+    <string name="redraw_pattern_title">പൂർത്തിയാക്കാൻ വീണ്ടും വരയ്‌ക്കുക</string>
+
+    <string name="recreate_pattern_error">പാറ്റേൺ പൊരുത്തപ്പെടുന്നില്ല. വീണ്ടും വരയ്‌ക്കുക.</string>
+
+    <string name="create_pattern_successful">വിജയകരമായി സൃഷ്‌ടിച്ചു.</string>
+    <string name="overlay_prompt_pattern_title">അപ്ലിക്കേഷൻ തുറക്കുന്നതിന് പാറ്റേൺ വരയ്‌ക്കുക</string>
+    <string name="overlay_prompt_pattern_title_wrong">തെറ്റായ പാറ്റേൺ. വീണ്ടും വരയ്ക്കുക.</string>
+    <string name="overlay_prompt_pattern_title_correct">പാറ്റേൺ ശരിയാണ്.</string>
+
+    <string name="overlay_prompt_fingerprint_title">അപ്ലിക്കേഷൻ തുറക്കുന്നതിന് പാറ്റേൺ വരയ്‌ക്കുക</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ പൊരുത്തപ്പെടുന്നില്ല. + %1$s + ശേഷിക്കുന്നു.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">ഫിംഗർപ്രിന്റ് പൊരുത്തപ്പെട്ടു!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">ഫിംഗർപ്രിന്റ് പിശക്! പാറ്റേൺ പരീക്ഷിക്കുക.</string>
+    <string name="dialog_title_rate_us">നിങ്ങൾക്ക് സുരക്ഷിത മേഖല ഇഷ്ടമാണോ?</string>
+    <string name="dialog_description_rate_us">നിങ്ങൾ ഞങ്ങളെ വിപണിയിൽ റേറ്റുചെയ്യുകയാണെങ്കിൽ ഞങ്ങൾ വളരെ സന്തുഷ്ടരാകും.</string>
+    <string name="dialog_action_rate_us_rate">നിരക്ക്</string>
+
+    <string name="dialog_action_rate_us_later">പിന്നീട്</string>
+    <string name="dialog_title_usage_permission">Android 5.0 അനുമതി</string>
+    <string name="dialog_description_usage_permission">Android 5.0 അല്ലെങ്കിൽ അതിന് മുകളിലുള്ളതിൽ, നിങ്ങൾ ഉപയോഗ ആക്സസ് അനുവദിക്കേണ്ടതുണ്ട്
+        AppLocker, അതുവഴി നിങ്ങൾക്ക് സുരക്ഷിത സോൺ സവിശേഷത ഉപയോഗിക്കാം</string>
+    <string name="dialog_action_usage_permission_permit">അനുവദിക്കുക</string>
+
+    <string name="dialog_action_usage_permission_cancel">റദ്ദാക്കുക</string>
+    <string name="dialog_title_privacy_policy">സ്വകാര്യതാനയം</string>
+    <string name="dialog_description_privacy_policy">ഞങ്ങളുടെ സ്വകാര്യതാ നയം ഞങ്ങൾ അപ്‌ഡേറ്റുചെയ്‌തു. തുടരുന്നതിലൂടെ നിങ്ങൾ സമ്മതിക്കുന്നു<u> സ്വകാര്യതാനയം</u> </string>
+    <string name="dialog_action_privacy_policy_accept">അംഗീകരിക്കുക</string>
+
+    <string name="hint_browser_search">URL തിരയുക അല്ലെങ്കിൽ നൽകുക</string>
+    <string name="facebook">ഫേസ്ബുക്ക്</string>
+
+    <string name="twitter">ട്വിറ്റർ</string>
+
+    <string name="snapchat">സ്‌നാപ്ചാറ്റ്</string>
+
+
+    <string name="instagram">ഇൻസ്റ്റാഗ്രാം</string>
+    <string name="youtube">റെഡ്ഡിറ്റ്</string>
+    <string name="title_browser_empty">സുരക്ഷിത.സെക്യൂർ.പ്രൈവറ്റ്.</string>
+    <string name="subtitle_browser_empty">ഇന്റർനെറ്റിൽ സർഫ് ചെയ്യുക. സുരക്ഷിതമായി.</string>
+    <string name="bookmarks">ബുക്ക്മാർക്കുകൾ</string>
+    <string name="title_name_unknown_number">അജ്ഞാത നമ്പർ</string>
+
+
+
+    <string name="blacklist_empty_title">കരിമ്പട്ടിക ശൂന്യമാണ്</string>
+    <string name="blacklist_empty_description">ഫോൺ നമ്പർ തടയാൻ ക്ലിക്കുചെയ്യുക</string>
+    <string name="call_log_empty_title">ലോഗുകളൊന്നുമില്ല</string>
+
+    <string name="call_log_empty_description">കോൾ തടയുമ്പോൾ ലോഗ് ഇവിടെ ദൃശ്യമാകും</string>
+    <string name="dialog_add_to_blacklist_title">ഫോൺ നമ്പർ തടയുക</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">പേര് (ഓപ്ഷണൽ)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">ഫോൺ നമ്പർ നൽകുക</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">റദ്ദാക്കുക</string>
+    <string name="dialog_black_list_delete_title">കരിമ്പട്ടികയിൽ നിന്ന് ഇല്ലാതാക്കുക</string>
+    <string name="dialog_black_list_delete_description">ബ്ലാക്ക് ലിസ്റ്റിൽ നിന്ന് തടഞ്ഞ നമ്പർ നീക്കംചെയ്യാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">റദ്ദാക്കുക</string>
+    <string name="dialog_title_add_to_vault">പ്രോസസ്സിംഗ്</string>
+    <string name="dialog_description_process">നിങ്ങളുടെ മീഡിയ ഗാലറിയിൽ നിന്ന് നീക്കംചെയ്യുകയും നിങ്ങളുടെ നിലവറയിലേക്ക് ചേർക്കുകയും ചെയ്യുന്നു.</string>
+
+    <string name="dialog_title_removal_confirmation">നീക്കംചെയ്യൽ സ്ഥിരീകരണം</string>
+    <string name="dialog_description_removal">ഈ ഫയൽ നിലവറയിൽ നിന്ന് നീക്കംചെയ്യുകയും ഗാലറിയിലേക്ക് കാണിക്കുകയും ചെയ്യും.</string>
+    <string name="dialog_action_removal_confirmation_accept">അംഗീകരിക്കുക</string>
+
+    <string name="vault_photo_empty_page_title">ഫോട്ടോ വോൾട്ട് ശൂന്യമാണ്</string>
+    <string name="vault_photo_empty_page_description">ഗാലറിയിൽ നിന്ന് ഫോട്ടോകൾ മറയ്ക്കാൻ ഐക്കൺ ചേർക്കുക</string>
+    <string name="vault_video_empty_page_title">വീഡിയോ വോൾട്ട് ശൂന്യമാണ്</string>
+
+    <string name="vault_video_empty_page_description">ഗാലറിയിൽ നിന്നുള്ള വീഡിയോ ഫോട്ടോകളിലേക്ക് ഐക്കൺ ചേർക്കുക</string>
+    <string-array name="tabs">
+        <item>സുരക്ഷ</item>
+        <item>ക്രമീകരണങ്ങൾ</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>കരിമ്പട്ടിക</item>
+        <item>കോൾ ലോഗുകൾ</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>ചിത്രങ്ങൾ</item>
+        <item>വീഡിയോകൾ</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">നുഴഞ്ഞുകയറ്റക്കാരെ പിടിച്ചിട്ടില്ല</string>
+    <string name="empty_page_intruders_description">നിങ്ങളുടെ ഫോൺ സുരക്ഷിതമാണ്!</string>
+    <string name="Vault">നിലവറ</string>
+    <string name="Call_blocker">ബ്ലോക്കറെ വിളിക്കുക</string>
+    <string name="browser">ബ്രൗസർ</string>
+    <string name="theme">തീമുകൾ</string>
+    <string name="rate_us">ഞങ്ങളെ റേറ്റുചെയ്യുക</string>
+    <string name="removeads">പ്രീമിയം പതിപ്പ്</string>
+    <string name="enter_pin">പിൻ നൽകുക</string>
+    <string name="pin_matched">പിൻ പൊരുത്തപ്പെട്ടു</string>
+    <string name="confirm_pin">പിൻ സ്ഥിരീകരിക്കുക</string>
+    <string name="pin_chahnged">പിൻ വിജയകരമായി മാറ്റി</string>
+    <string name="pin_not_matched">പിൻ പൊരുത്തപ്പെടുന്നില്ല</string>
+    <string name="incorrect_pin">തെറ്റായ പിൻ</string>
+    <string name="settings_set_pin">പിൻ സജ്ജമാക്കുക</string>
+    <string name="change_pin">പിൻ മാറ്റുക</string>
+    <string name="settings_set_pin_description">പുതിയ പിൻ സജ്ജമാക്കുക</string>
+    <string name="create_new_pin">ഒരു പുതിയ പിൻ സൃഷ്ടിക്കുക</string>
+    <string name="home">വീട്</string>
+    <string name="settings_change_pin_description">നിങ്ങളുടെ നിലവിലുള്ള പിൻ മാറ്റുക</string>
+    <string name="message_pin_changed">പിൻ വിജയകരമായി മാറ്റി</string>
+    <string name="non_protected">പരിരക്ഷിതമല്ല</string>
+    <string name="status_protected">പരിരക്ഷിച്ചിരിക്കുന്നു</string>
+    <string name="starting_hour">ആരംഭിക്കുന്ന മണിക്കൂർ</string>
+    <string name="ending_hour">അവസാനിക്കുന്ന മണിക്കൂർ</string>
+    <string name="auto_start_p">യാന്ത്രികമായി പ്രവർത്തിപ്പിക്കാനുള്ള അനുമതി</string>
+    <string name="permission_usage_access_description1">യാന്ത്രിക-റൺ ഓപ്ഷൻ തുറക്കുക</string>
+
+
+    <string name="privat_browser">സ്വകാര്യ ബ്രൗസർ</string>
+    <string name="prem_title">പ്രീമിയം പതിപ്പ് എന്നേക്കും</string>
+    <string name="prem_no_ads">എന്നേക്കും AD- കൾ ഇല്ല</string>
+    <string name="prem_restore">വാങ്ങൽ പുന ore സ്ഥാപിക്കുക</string>
+
+    <string name="please_give_us_five_stars">പ്ലേമാർക്കറ്റിൽ ഞങ്ങൾക്ക് അഞ്ച് നക്ഷത്രങ്ങൾ നൽകുക! ഞങ്ങൾ ഇത് വളരെയധികം വിലമതിക്കും!</string>
+    <string name="great_tex">കൊള്ളാം!</string>
+    <string name="choose_the_icon">ഐക്കൺ തിരഞ്ഞെടുക്കുക, യഥാർത്ഥ ഐക്കൺ മാറ്റും. നുഴഞ്ഞുകയറ്റക്കാരിൽ നിന്ന് ഈ അപ്ലിക്കേഷൻ മറയ്‌ക്കുക</string>
+    <string name="app_name1">ക്ലോക്ക്</string>
+    <string name="app_name2">മാപ്‌സ്</string>
+    <string name="app_name3">കലണ്ടർ</string>
+    <string name="app_name4">സംഗീതം</string>
+    <string name="app_name5">കാൽക്കുലേറ്റർ</string>
+
+    <string name="callblocker_black">കറുത്ത പട്ടിക</string>
+    <string name="callblocker_logs">കോൾ ലോഗുകൾ</string>
+    <string name="icon_change_title">ഐക്കണുകൾ</string>
+    <string name="intruders_title">നുഴഞ്ഞുകയറ്റക്കാരൻ</string>
+    <string name="intruders_access_apps">ഉപയോഗത്തോടെ അപ്ലിക്കേഷനുകൾ ആക്‌സസ്സുചെയ്യുക</string>
+    <string name="main_unlocked">അൺലോക്കുചെയ്‌തു</string>
+    <string name="main_locked">ലോക്കുചെയ്‌തു</string>
+    <string name="prem_not_sub">ഇതൊരു സബ്‌സ്‌ക്രിപ്‌ഷൻ അല്ല. നിങ്ങൾ ഒരുതവണ മാത്രമേ നൽകൂ!</string>
+    <string name="prem_fake_icon">വ്യാജ ഐക്കൺ</string>
+    <string name="prem_intruders">നുഴഞ്ഞുകയറ്റ സെൽഫി</string>
+    <string name="prem_themes">കൂടുതൽ ക്രിയേറ്റീവ് തീമുകൾ</string>
+    <string name="prem_one_time">ഒറ്റത്തവണ പേയ്‌മെന്റ്</string>
+    <string name="splash_create">നിങ്ങളുടെ സ്വകാര്യത പരിരക്ഷിക്കുന്നതിനായി സൃഷ്‌ടിച്ചു</string>
+    <string name="vault_photos">ഫോട്ടോകൾ</string>
+    <string name="vault_videos">വീഡിയോകൾ</string>
+    <string name="btn_ok">ശരി</string>
+    <string name="dialog_intruder_text">ഫോട്ടോ ഇല്ലാതാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?</string>
+    <string name="btn_cancel">റദ്ദാക്കുക</string>
+    <string name="fragment_security_text">ഓപ്‌സ്! Lo n നിങ്ങൾക്ക് ഇതുവരെ ലോക്കുചെയ്‌ത അപ്ലിക്കേഷനുകൾ ഇല്ല</string>
+    <string name="settings_security">സുരക്ഷ</string>
+    <string name="settings_face_icon">വ്യാജ ഐക്കൺ</string>
+    <string name="settings_face_icon_text">ഈ അപ്ലിക്കേഷന്റെ യഥാർത്ഥ ഐക്കൺ മാറ്റും</string>
+    <string name="rate_us_enjoying">നിങ്ങൾ AppLock ആസ്വദിക്കുന്നുണ്ടോ?</string>
+    <string name="rate_us_could_be">അത് നന്നായിരിക്കും</string>
+    <string name="menu_privacy">സ്വകാര്യതാനയം</string>
+    <string name="menu_contact">ഞങ്ങളെ സമീപിക്കുക</string>
+    <string name="menu_face_icon">വ്യാജ ഐക്കൺ</string>
+    <string name="menu_intruder">നുഴഞ്ഞുകയറ്റ മാനേജർ</string>
+    <string name="menu_chat">ചാറ്റ് റൂം</string>
+
+</resources>

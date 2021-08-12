@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--    Test Ads-->
+    <string name="mobile_ad_id" translatable="false">ca-app-pub-4875591253190011~8691219489</string>
+    //----------------------------------------------------------------
+
+
+    <!--    Google Billing Api-->
+
+    <string name="share">Share</string>
+
+    <string name="notification_protecting_title">Protecting your apps</string>
+
+    <string name="notification_protecting_description">Lock your apps to protect your privacy.</string>
+
+    <string name="notification_permission_need_title">Enable permission to protection</string>
+
+    <string name="notification_permission_need_description">Please enable your permissions to use app locker.</string>
+    <string name="you_accept_privacy_policy">By continuing you agree the
+        <u>Privacy Policy</u>
+    </string>
+
+    <string name="header_recommended_to_lock">Recommended to lock</string>
+    <string name="header_all_apps">All applications</string>
+
+    <string name="title_general_settings">General</string>
+
+    <!-- Security -->
+    <string name="title_lock_all">Lock all</string>
+    <string name="description_lock_all">This will lock all of your apps</string>
+
+    <!-- Settings -->
+    <string name="title_unlock_all">Unlock all</string>
+
+    <string name="description_unlock_all">This will unlock all of your apps</string>
+    <string name="settings_change_pattern_title">Change pattern</string>
+
+    <string name="settings_change_pattern_description">Change your existing pattern</string>
+    <string name="message_pattern_changed">Pattern changed successfully</string>
+
+    <string name="setting_in_stealth_mode_title">Hide drawing</string>
+    <string name="setting_in_stealth_mode_description">Invisible pattern while drawing</string>
+    <string name="setting_fingerprint_title">Enable fingerprint</string>
+
+    <string name="setting_fingerprint_description">Launch app with your fingerprint.</string>
+    <string name="setting_fingerprint_not_supported_title">Fingerprint is not supported</string>
+
+    <string name="setting_fingerprint_not_supported_description">Your device doesn\'t have sensor</string>
+    <string name="setting_fingerprint_not_registered_title">Register your fingerprint</string>
+
+    <string name="setting_fingerprint_not_registered_description">Go to security settings</string>
+    <string name="next">Next</string>
+
+    <string name="permission_usage_access_title">Usage access permission</string>
+    <string name="permission_usage_access_description">Enable usage access to use app locker.</string>
+
+    <string name="permission_overlay_title">Lock screen permission</string>
+
+    <string name="settings_card_intruders_title">Catch Intruders</string>
+    <string name="settings_enable_intruders_title">Take intruders picture</string>
+    <string name="settings_enable_intruders_description">Enable to catch intruders.</string>
+
+    <string name="settings_intruders_folder_title">Catched intruder photos</string>
+    <string name="settings_intruders_folder_description">Click to see spies on you phone.</string>
+
+    <!--TODO: support other translations -->
+    <string name="settings_card_advance_protection_title">Advance Protection</string>
+    <string name="settings_enable_advance_protection_title">Enable advance protection</string>
+    <string name="settings_enable_advance_protection_description">To enable Advance Protection, please activate App Lock Pro as "device administrator".It\'s only used for preventing intruders uninstalling and force stopping App Lock Pro.Please be ensured that App Lock Pro will never use this permission to access your privacy data.</string>
+    <string name="device_admin_permission_description">Activate now, advance protection and more secure! \n \n To enable Advance Protection, please activate App Lock Pro as "device administrator".It\'s only used for preventing intruders uninstalling and force stopping App Lock Pro.Please be ensured that App Lock Pro will never use this permission to access your privacy data.</string>
+
+    <!-- Permissions activity -->
+
+    <string name="permission_overlay_description">Enable overlay to show lock screen.</string>
+    <string name="permission_toast_enable_permissions">Enable permissions to use app locker</string>
+
+    <string name="draw_pattern_title">Create a new pattern</string>
+    <string name="redraw_pattern_title">Redraw to complete</string>
+
+    <string name="recreate_pattern_error">Pattern does not match. Redraw.</string>
+
+    <string name="create_pattern_successful">Successfully created.</string>
+    <string name="overlay_prompt_pattern_title">Draw pattern to open app</string>
+    <string name="overlay_prompt_pattern_title_wrong">Wrong pattern. Draw again.</string>
+    <string name="overlay_prompt_pattern_title_correct">Pattern correct.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Draw pattern to open app</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Not matched. %1$s left.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Fingerprint matched!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Fingerprint error! Try pattern.</string>
+    <string name="dialog_title_rate_us">Did you like Secure Zone?</string>
+    <string name="dialog_description_rate_us">We will be sooo happy If you rate us on market.</string>
+    <string name="dialog_action_rate_us_rate">Rate</string>
+
+    <string name="dialog_action_rate_us_later">Later</string>
+    <string name="dialog_title_usage_permission">Android 5.0 Permission</string>
+    <string name="dialog_description_usage_permission">In Android 5.0 or above, you need to permit usage access for
+        AppLocker, so that you can use Secure Zone Feature
+    </string>
+    <string name="dialog_action_usage_permission_permit">Permit</string>
+
+    <string name="dialog_action_usage_permission_cancel">Cancel</string>
+    <string name="dialog_title_privacy_policy">Privacy Policy</string>
+    <string name="dialog_description_privacy_policy">We have updated our privacy policy. By continuing you agree the
+        <u>Privacy Policy</u>
+    </string>
+    <string name="dialog_action_privacy_policy_accept">Accept</string>
+
+    <string name="hint_browser_search">Search or enter URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+    <!-- Browser Activity texts -->
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Surf on the internet. Securely.</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="title_name_unknown_number">Unknown Number</string>
+
+
+    <!-- Call Blocker Activity texts -->
+    <string name="blacklist_empty_title">Blacklist is empty</string>
+    <string name="blacklist_empty_description">Click + to block phone number</string>
+    <string name="call_log_empty_title">No Logs</string>
+
+    <string name="call_log_empty_description">Log appears here when call is blocked</string>
+    <string name="dialog_add_to_blacklist_title">Block phone number</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Name (Optional)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Enter phone number</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Cancel</string>
+    <string name="dialog_black_list_delete_title">Delete from blacklist</string>
+    <string name="dialog_black_list_delete_description">Do you want to remove blocked number from black list?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Cancel</string>
+    <string name="dialog_title_add_to_vault">Processing</string>
+    <string name="dialog_description_process">Your media is removing from gallery and adding to your vault.</string>
+    <string name="dialog_action_process" translatable="false">%d%%</string>
+
+    <string name="dialog_title_removal_confirmation">Removal Confirmation</string>
+    <string name="dialog_description_removal">This file will remove from vault and show into gallery.</string>
+    <string name="dialog_action_removal_confirmation_accept">Accept</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault is empty</string>
+    <string name="vault_photo_empty_page_description">Add + icon to hide photos from gallery</string>
+    <string name="vault_video_empty_page_title">Video Vault is empty</string>
+
+    <string name="vault_video_empty_page_description">Add + icon to video photos from gallery</string>
+    <string-array name="tabs">
+        <item>Security</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Blacklist</item>
+        <item>Call Logs</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Images</item>
+        <item>Videos</item>
+    </string-array>
+
+    <!-- Intruders Photo Activity -->
+    <string name="empty_page_intruders_title">No Intruders Catched</string>
+    <string name="empty_page_intruders_description">Your phone is secure!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Call Blocker</string>
+    <string name="browser">Browser</string>
+    <string name="theme">Themes</string>
+    <string name="rate_us">Rate us</string>
+    <string name="removeads">Premium version</string>
+    <string name="enter_pin">Enter pin</string>
+    <string name="pin_matched">Pin matched</string>
+    <string name="confirm_pin">Confirm pin</string>
+    <string name="pin_chahnged">Pin changed successfully</string>
+    <string name="pin_not_matched">Pin not matched</string>
+    <string name="incorrect_pin">Incorrect pin</string>
+    <string name="settings_set_pin">Set pin</string>
+    <string name="change_pin">Change pin</string>
+    <string name="settings_set_pin_description">Set new pin</string>
+    <string name="create_new_pin">Create a new pin</string>
+    <string name="home">Home</string>
+    <string name="settings_change_pin_description">Change your existing pin</string>
+    <string name="message_pin_changed">Pin Changed Successfully</string>
+    <string name="non_protected">Non Protected</string>
+    <string name="status_protected">Protected</string>
+    <string name="starting_hour">Starting Hour</string>
+    <string name="ending_hour">Ending Hour</string>
+    <string name="auto_start_p">Auto-run permission</string>
+    <string name="permission_usage_access_description1">open the auto-run option</string>
+
+    <!-- some new strings -->
+    <string name="privat_browser">Private Browser</string>
+    <string name="prem_title">Premium Version Forever</string>
+    <string name="prem_no_ads">No ADs</string>
+    <string name="prem_restore">Restore Purchase</string>
+
+    <!-- another new strings -->
+    <string name="please_give_us_five_stars">Please give us five stars on Google Play! We would appreciate it a lot!</string>
+    <string name="great_tex">Great!</string>
+    <string name="choose_the_icon">Choose the icon and original icon will be changed. Hide this app from intruders</string>
+    <string name="app_name1">Clock</string>
+    <string name="app_name2">Maps</string>
+    <string name="app_name3">Calendar</string>
+    <string name="app_name4">Music</string>
+    <string name="app_name5">Calculator</string>
+
+    <string name="callblocker_black">Black list</string>
+    <string name="callblocker_logs">Call logs</string>
+    <string name="icon_change_title">Icons</string>
+    <string name="intruders_title">Intruder</string>
+    <string name="intruders_access_apps">Access apps with usage</string>
+    <string name="main_unlocked">Unlocked</string>
+    <string name="main_locked">Locked</string>
+    <string name="prem_not_sub">This is not a subscription. You pay only once!</string>
+    <string name="prem_fake_icon">Fake Icon</string>
+    <string name="prem_intruders">Intruder selfie</string>
+    <string name="prem_themes">More creative themes</string>
+    <string name="prem_one_time">One-Time Payment\nFor 125 UAH</string>
+    <string name="splash_create">Created to protect your privacy</string>
+    <string name="vault_photos">Photos</string>
+    <string name="vault_videos">Videos</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">Would you like to delete the photo?</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="fragment_security_text">Opps!\n You don’t have locked apps yet</string>
+    <string name="settings_security">Security</string>
+    <string name="settings_face_icon">Fake Icon</string>
+    <string name="settings_face_icon_text">The original icon of this app will be changed</string>
+    <string name="rate_us_enjoying">Are you enjoying AppLock?</string>
+    <string name="rate_us_could_be">it could be better</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="menu_contact">Contact Us</string>
+    <string name="menu_face_icon">Fake Icon</string>
+    <string name="menu_intruder">Intruder Manager</string>
+    <string name="menu_chat">Chat Room</string>
+
+    <!-- new strings -->
+    <string name="feedback">Feedback</string>
+    <string name="what_unhappy">What are you unhappy with?</string>
+    <string name="hint_1">Too much ads</string>
+    <string name="hint_2">Can’t lock my apps</string>
+    <string name="hint_3">App crashed</string>
+    <string name="hint_4">Difficult to use</string>
+    <string name="hint_5">App doesn’t work</string>
+    <string name="hint_6">Other</string>
+    <string name="your_feedback">Your feedback</string>
+    <string name="btn_send">Send</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission">Permission</string>
+    <string name="premium_access_to_all_features">Premium access to all features!</string>
+    <string name="prem_basic">Basic</string>
+    <string name="prem_premium">Premium</string>
+    <string name="prem_media_vault">Media Vault</string>
+    <string name="prem_lock_apps">Lock apps</string>
+    <string name="prem_call_blocker">Call blocker</string>
+    <string name="prem_private_browser">Private Browser</string>
+    <string name="prem_standard_themes">Standard themes</string>
+    <string name="dialog_all_apps_locked">We locked all your important apps.</string>
+    <string name="popup_gallery_upload">Don’t delete AppLock until you export all your media files from vault to your gallery.</string>
+    <string name="dont_show_it_next_time">Don\'t show it next time</string>
+    <string name="warning">Warning!!!</string>
+    <string name="function_else">Function else</string>
+    <string name="password_type">Password type</string>
+    <string-array name="icons">
+        <item>Calculator</item>
+        <item>Calendar</item>
+        <item>Maps</item>
+        <item>Clock</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Танзимот</string>
+
+  
+
+    <string name="share">Садо</string>
+
+    <string name="notification_protecting_title">Ҳифзи барномаҳои худ</string>
+
+    <string name="notification_protecting_description">Барномаҳои худро барои муҳофизати махфияти шумо маҳкам кунед.</string>
+
+    <string name="notification_permission_need_title">Ба муҳофизат иҷозат диҳед</string>
+
+    <string name="notification_permission_need_description">Лутфан иҷозатномаҳои худро барои истифодаи қулфбанди барнома фаъол созед.</string>
+    <string name="you_accept_privacy_policy">Бо идома додан шумо розӣ ҳастед<u> Сиёсати Корбурди Маълумоти Шахсӣ</u> </string>
+
+    <string name="header_recommended_to_lock">Барои қулф кардан тавсия дода мешавад</string>
+    <string name="header_all_apps">Ҳама барномаҳо</string>
+
+    <string name="title_general_settings">Умумӣ</string>
+
+    <string name="title_lock_all">Ҳама бастан</string>
+    <string name="description_lock_all">Ин ҳама барномаҳои шуморо қулф мекунад</string>
+
+ 
+    <string name="title_unlock_all">Ҳама кушоед</string>
+
+    <string name="description_unlock_all">Ин ҳама барномаҳои шуморо кушояд</string>
+    <string name="settings_change_pattern_title">Намунаро тағир диҳед</string>
+
+    <string name="settings_change_pattern_description">Намунаи мавҷудаи худро тағир диҳед</string>
+    <string name="message_pattern_changed">Намуна бо муваффақият тағйир ёфт</string>
+
+    <string name="setting_in_stealth_mode_title">Расмро пинҳон кунед</string>
+    <string name="setting_in_stealth_mode_description">Намунаи ноаён ҳангоми кашидан</string>
+    <string name="setting_fingerprint_title">Изи ангуштро фаъол созед</string>
+
+    <string name="setting_fingerprint_description">Барномаро бо изи ангуштон оғоз кунед.</string>
+    <string name="setting_fingerprint_not_supported_title">Изи ангушт дастгирӣ намешавад</string>
+
+    <string name="setting_fingerprint_not_supported_description">Дастгоҳи шумо сенсор надорад</string>
+    <string name="setting_fingerprint_not_registered_title">Изи ангушти худро ба қайд гиред</string>
+
+    <string name="setting_fingerprint_not_registered_description">Ба танзимоти амният гузаред</string>
+    <string name="next">Баъдӣ</string>
+
+    <string name="permission_usage_access_title">Иҷозати дастрасӣ ба истифода</string>
+    <string name="permission_usage_access_description">Аксҳои истифодашударо барои истифодаи қулфбанди барнома фаъол созед.</string>
+
+    <string name="permission_overlay_title">Иҷозати экрани қулф</string>
+
+    <string name="settings_card_intruders_title">Довталабонро сайд кунед</string>
+    <string name="settings_enable_intruders_title">Тасвири вайронкоронро гиред</string>
+    <string name="settings_enable_intruders_description">Ба дастгир кардани вайронкорон имкон диҳед.</string>
+
+    <string name="settings_intruders_folder_title">Аксҳои вайронкорро дастгир карданд</string>
+    <string name="settings_intruders_folder_description">Барои дидани ҷосусон дар телефони шумо клик кунед.</string>
+
+    <string name="settings_card_advance_protection_title">Муҳофизати пешакӣ</string>
+    <string name="settings_enable_advance_protection_title">Муҳофизати пешакиро фаъол созед</string>
+    <string name="settings_enable_advance_protection_description">Барои фаъол кардани Advance Protection, лутфан App Lock Pro-ро ҳамчун "маъмури дастгоҳ" фаъол созед. Ин танҳо барои пешгирии насб кардани вайронкорон ва қатъ кардани қатъ кардани App Lock Pro истифода мешавад. .</string>
+    <string name="device_admin_permission_description">Ҳоло фаъол шавед, муҳофизати пешакӣ ва бехатартар! \n\nБарои фаъол кардани муҳофизати пешрафта, лутфан App Lock Pro-ро ҳамчун "маъмури дастгоҳ" фаъол созед. Ин танҳо барои пешгирии насб кардани вайронкорон ва қатъ кардани боздошти App Lock Pro истифода мешавад. Лутфан итминон ҳосил кунед, ки App Lock Pro ҳеҷ гоҳ ин иҷозатро барои дастрасӣ ба маълумоти махфияти шумо.</string>
+
+
+    <string name="permission_overlay_description">Барои нишон додани экрани қулфпӯшкуниро фаъол созед.</string>
+    <string name="permission_toast_enable_permissions">Иҷозатҳои истифодаи қулфбанди барномаро фаъол созед</string>
+
+    <string name="draw_pattern_title">Намунаи нав эҷод кунед</string>
+    <string name="redraw_pattern_title">Аз нав ба анҷом расонед</string>
+
+    <string name="recreate_pattern_error">Намуна мувофиқат намекунад. Суратбахш.</string>
+
+    <string name="create_pattern_successful">Бомуваффақият сохта шудааст.</string>
+    <string name="overlay_prompt_pattern_title">Барои кушодани барнома намуна кашед</string>
+    <string name="overlay_prompt_pattern_title_wrong">Намунаи нодуруст. Боз кашед.</string>
+    <string name="overlay_prompt_pattern_title_correct">Намунаи дуруст.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Барои кушодани барнома намуна кашед</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ Мувофиқат намекунад. + %1$s + мондааст.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Изи ангушт мувофиқат кард!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Хатои изи ангушт! Намунаро санҷед.</string>
+    <string name="dialog_title_rate_us">Оё ба шумо Амнияти Минтақа писанд омад?</string>
+    <string name="dialog_description_rate_us">Агар шумо моро дар бозор арзёбӣ кунед, мо хеле хурсанд хоҳем шуд.</string>
+    <string name="dialog_action_rate_us_rate">Қурби</string>
+
+    <string name="dialog_action_rate_us_later">Баъдтар</string>
+    <string name="dialog_title_usage_permission">Иҷозати Android 5.0</string>
+    <string name="dialog_description_usage_permission">Дар Android 5.0 ё болотар аз он, ба шумо лозим аст, ки дастрасии истифода барои
+        AppLocker, то ки шумо метавонед Хусусияти Минтақаи Амнро истифода баред</string>
+    <string name="dialog_action_usage_permission_permit">Иҷозат</string>
+
+    <string name="dialog_action_usage_permission_cancel">Бекор кардан</string>
+    <string name="dialog_title_privacy_policy">Сиёсати Корбурди Маълумоти Шахсӣ</string>
+    <string name="dialog_description_privacy_policy">Мо сиёсати махфияти худро нав кардем. Бо идома додан шумо розӣ ҳастед<u> Сиёсати Корбурди Маълумоти Шахсӣ</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Қабул кунед</string>
+
+    <string name="hint_browser_search">URL-ро ҷустуҷӯ кунед ё ворид кунед</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Бехатар. Амн.Махфӣ.</string>
+    <string name="subtitle_browser_empty">Дар интернет сайр кунед. Амн.</string>
+    <string name="bookmarks">Замимаҳо</string>
+    <string name="title_name_unknown_number">Рақами номаълум</string>
+
+
+
+    <string name="blacklist_empty_title">Рӯйхати сиёҳ холӣ аст</string>
+    <string name="blacklist_empty_description">Барои бастани рақами телефон клик кунед</string>
+    <string name="call_log_empty_title">Гузоришҳо нест</string>
+
+    <string name="call_log_empty_description">Ҳангоми бастани занг дар ин ҷо гузориш пайдо мешавад</string>
+    <string name="dialog_add_to_blacklist_title">Рақами телефонро маҳкам кунед</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Ном (Ихтиёрӣ)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Рақами телефонро ворид кунед</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Бекор кардан</string>
+    <string name="dialog_black_list_delete_title">Аз рӯйхати сиёҳ нест кунед</string>
+    <string name="dialog_black_list_delete_description">Мехоҳед рақами басташударо аз рӯйхати сиёҳ хориҷ кунед?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Бекор кардан</string>
+    <string name="dialog_title_add_to_vault">Коркарди</string>
+    <string name="dialog_description_process">Васоити ахбори шумо аз галерея тоза карда шуда, ба анбори шумо илова карда мешавад.</string>
+
+    <string name="dialog_title_removal_confirmation">Тасдиқи бартарафкунӣ</string>
+    <string name="dialog_description_removal">Ин файл аз хазина хориҷ карда шуда, дар галерея нишон дода мешавад.</string>
+    <string name="dialog_action_removal_confirmation_accept">Қабул кунед</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault холист</string>
+    <string name="vault_photo_empty_page_description">Барои пинҳон кардани аксҳо аз галерея нишона илова кунед</string>
+    <string name="vault_video_empty_page_title">Видео анбор холӣ аст</string>
+
+    <string name="vault_video_empty_page_description">Ба аксҳои видеоӣ аз галерея нишона илова кунед</string>
+    <string-array name="tabs">
+        <item>Амният</item>
+        <item>Танзимот</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Рӯйхати сиёҳ</item>
+        <item>Сабти зангҳо</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Тасвирҳо</item>
+        <item>Видеоҳо</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Ягон вайронкор дастгир нашудааст</string>
+    <string name="empty_page_intruders_description">Телефони шумо бехатар аст!</string>
+    <string name="Vault">Сарой</string>
+    <string name="Call_blocker">Blocker занг занед</string>
+    <string name="browser">Браузер</string>
+    <string name="theme">Мавзӯъҳо</string>
+    <string name="rate_us">Моро баҳогузорӣ кунед</string>
+    <string name="removeads">Нусхаи Premium</string>
+    <string name="enter_pin">PIN ворид кунед</string>
+    <string name="pin_matched">PIN мувофиқат кард</string>
+    <string name="confirm_pin">PIN-ро тасдиқ кунед</string>
+    <string name="pin_chahnged">Пин бомуваффақият тағир ёфт</string>
+    <string name="pin_not_matched">Пин мувофиқат намекунад</string>
+    <string name="incorrect_pin">Пин нодуруст аст</string>
+    <string name="settings_set_pin">Пинро насб кунед</string>
+    <string name="change_pin">PIN иваз кунед</string>
+    <string name="settings_set_pin_description">PIN навро насб кунед</string>
+    <string name="create_new_pin">Пинои нав созед</string>
+    <string name="home">Хона</string>
+    <string name="settings_change_pin_description">PIN-и мавҷудаи худро иваз кунед</string>
+    <string name="message_pin_changed">Пин бомуваффақият тағир ёфт</string>
+    <string name="non_protected">Муҳофизат нашудааст</string>
+    <string name="status_protected">Муҳофизат карда шудааст</string>
+    <string name="starting_hour">Оғози соат</string>
+    <string name="ending_hour">Соати хотимавӣ</string>
+    <string name="auto_start_p">иҷозати худкор иҷро</string>
+    <string name="permission_usage_access_description1">имконоти худкор иҷро карданро кушоед</string>
+
+
+    <string name="privat_browser">Браузери хусусӣ</string>
+    <string name="prem_title">Premium Version Forever</string>
+    <string name="prem_no_ads">Ягон абад нест</string>
+    <string name="prem_restore">Хариди барқарор кунед</string>
+
+    <string name="please_give_us_five_stars">Лутфан ба мо панҷ ситора дар Google Play диҳед! Мо инро хеле қадр хоҳем кард!</string>
+    <string name="great_tex">Бузург!</string>
+    <string name="choose_the_icon">Нишонро интихоб кунед ва нишонаи аслӣ иваз карда мешавад. Ин барномаро аз вайронкорон пинҳон кунед</string>
+    <string name="app_name1">Соат</string>
+    <string name="app_name2">Харитаҳо</string>
+    <string name="app_name3">Тақвим</string>
+    <string name="app_name4">Мусиқӣ</string>
+    <string name="app_name5">Калкулятор</string>
+
+    <string name="callblocker_black">Рӯйхати сиёҳ</string>
+    <string name="callblocker_logs">Сабтҳои зангҳо</string>
+    <string name="icon_change_title">Нишонаҳо</string>
+    <string name="intruders_title">Вайронкор</string>
+    <string name="intruders_access_apps">Бо истифода аз барномаҳо дастрасӣ пайдо кунед</string>
+    <string name="main_unlocked">Кушода шуд</string>
+    <string name="main_locked">Қуфл</string>
+    <string name="prem_not_sub">Ин обуна нест. Шумо танҳо як маротиба пардохт мекунед!</string>
+    <string name="prem_fake_icon">Нишони қалбакӣ</string>
+    <string name="prem_intruders">Селфи вайронкор</string>
+    <string name="prem_themes">Мавзӯҳои бештар эҷодӣ</string>
+    <string name="prem_one_time">Пардохти яквақта</string>
+    <string name="splash_create">Барои ҳифзи махфияти шумо сохта шудааст</string>
+    <string name="vault_photos">Аксҳо</string>
+    <string name="vault_videos">Видеоҳо</string>
+    <string name="btn_ok">Хуб</string>
+    <string name="dialog_intruder_text">Мехоҳед аксро нест кунед?</string>
+    <string name="btn_cancel">БЕКОР</string>
+    <string name="fragment_security_text">Opps! \n Шумо то ҳол барномаҳоятонро қулф накардаед</string>
+    <string name="settings_security">Амният</string>
+    <string name="settings_face_icon">Нишони қалбакӣ</string>
+    <string name="settings_face_icon_text">Нишони аслии ин барнома иваз карда мешавад</string>
+    <string name="rate_us_enjoying">Шумо аз AppLock баҳра мебаред?</string>
+    <string name="rate_us_could_be">он метавонад беҳтар бошад</string>
+    <string name="menu_privacy">Сиёсати Корбурди Маълумоти Шахсӣ</string>
+    <string name="menu_contact">Бо мо тамос гиред</string>
+    <string name="menu_face_icon">Нишони қалбакӣ</string>
+    <string name="menu_intruder">Менеҷери вайронкор</string>
+    <string name="menu_chat">Ҳуҷраи чат</string>
+
+</resources>

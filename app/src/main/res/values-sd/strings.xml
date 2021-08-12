@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">ايپ لاڪ</string>
+
+    <string name="action_settings">جوڙ</string>
+
+  
+
+    <string name="share">حصيداري ڪريو</string>
+
+    <string name="notification_protecting_title">توهان جي ايپس جي حفاظت ڪندي</string>
+
+    <string name="notification_protecting_description">پنهنجي رازداري جي حفاظت لاءِ پنهنجون ايپس لاڪ ڪريو.</string>
+
+    <string name="notification_permission_need_title">حفاظت جي اجازت ڏيو</string>
+
+    <string name="notification_permission_need_description">مهرباني ڪري ائپ لاڪر استعمال ڪرڻ لاءِ پنهنجون اجازتون گهرايو.</string>
+    <string name="you_accept_privacy_policy">جاري رکڻ سان توھان راضي ٿي ويا<u> پرائيويسي پاليسي</u> </string>
+
+    <string name="header_recommended_to_lock">لاڪ ڪرڻ جي سفارش ڪئي وئي آهي</string>
+    <string name="header_all_apps">سڀ ايپليڪيشن</string>
+
+    <string name="title_general_settings">جنرل</string>
+
+    <string name="title_lock_all">سڀني کي لاڪ</string>
+    <string name="description_lock_all">اهو توهان جي سڀني ائپس کي لاڪ ڪندو</string>
+
+ 
+    <string name="title_unlock_all">سڀني کي کوليو</string>
+
+    <string name="description_unlock_all">اهو توهان جي سڀني ائپس کي لاڪ ڪندو</string>
+    <string name="settings_change_pattern_title">شڪل بدلائڻ</string>
+
+    <string name="settings_change_pattern_description">پنھنجي موجوده نموني کي تبديل ڪريو</string>
+    <string name="message_pattern_changed">پيٽ ڪاميابي سان تبديل ٿي ويو</string>
+
+    <string name="setting_in_stealth_mode_title">ڊرائنگ لڪايو</string>
+    <string name="setting_in_stealth_mode_description">ڏسڻ دوران پوشيده نموني</string>
+    <string name="setting_fingerprint_title">فنگر پرنٽنگ کي فعال ڪريو</string>
+
+    <string name="setting_fingerprint_description">پنهنجي آ fingerر جي نشان سان ايپ لانچ ڪريو.</string>
+    <string name="setting_fingerprint_not_supported_title">فنگر پرنٽنگ تعاون نه ڪئي وئي</string>
+
+    <string name="setting_fingerprint_not_supported_description">توھان جي اوزار جو سينسر ناھي</string>
+    <string name="setting_fingerprint_not_registered_title">پنهنجي آ fingerرين جي آ Registerر کي رجسٽر ڪريو</string>
+
+    <string name="setting_fingerprint_not_registered_description">سيڪيورٽي سيٽنگن ڏانهن وڃو</string>
+    <string name="next">اڳتي</string>
+
+    <string name="permission_usage_access_title">استعمال جي رسائي جي اجازت</string>
+    <string name="permission_usage_access_description">ايپ لاڪر استعمال ڪرڻ لاءِ استعمال جي اکي ٻايو.</string>
+
+    <string name="permission_overlay_title">لاڪ اسڪرين جي اجازت</string>
+
+    <string name="settings_card_intruders_title">پڪڙيندڙ ويڙهاڪ</string>
+    <string name="settings_enable_intruders_title">مداخلت ڪندڙن تصوير ڪو</string>
+    <string name="settings_enable_intruders_description">مداخلت ڪندڙن کي پڪڙڻ لاءِ قابل بڻايو.</string>
+
+    <string name="settings_intruders_folder_title">پڪڙيندڙ مداخلت وارا تصويرون</string>
+    <string name="settings_intruders_folder_description">توهان جي فون تي جاسوس ڏسڻ لاءِ ڪلڪ ڪريو.</string>
+
+    <string name="settings_card_advance_protection_title">ايڊوانس پروٽيڪشن</string>
+    <string name="settings_enable_advance_protection_title">اڳوڻي حفاظت کي فعال ڪريو</string>
+    <string name="settings_enable_advance_protection_description">ايڊوانس پروٽيڪشن کي چالو ڪرڻ لاءِ ، مهرباني ڪري ائپ لاڪ پرو کي ”ڊيوائس ايڊمنسٽريٽر“ جي طور تي چالو ڪريو. اهو صرف گھروڙن کي غير تنصيب کي روڪڻ ۽ ايپ لاک پرو کي روڪڻ لاءِ استعمال ڪيو ويو آهي. مهرباني ڪري پڪ ڪيو وڃي ته ايپ لاڪ پرو توهان جي رازداري جي ڊيٽا تائين رسائي جي اجازت ڪڏهن به استعمال نه ڪندو. .</string>
+    <string name="device_admin_permission_description">هاڻ فعال ڪريو ، حفاظت جي واڌ ۽ وڌيڪ محفوظ! \n\nايڊوانس پروٽيڪشن کي فعال ڪرڻ لاءِ ، مهرباني ڪري ائپ لاڪ پرو کي ”ڊيوائس ايڊمنسٽريٽر“ طور فعال ڪيو. اهو صرف مداخلت ڪندڙن کي غير فعال ڪرڻ کي روڪڻ لاءِ استعمال ڪيو ويو آهي ۽ ايپ لاڪ پرو کي روڪي ٿو. مهرباني ڪري پڪ ڪيو وڃي ته ايپ لاڪ پرو اهو اجازت ڪڏهن به استعمال نه ڪندو. پنهنجي رازداري ڊيٽا تائين رسائي حاصل ڪريو</string>
+
+
+    <string name="permission_overlay_description">لاڪ اسڪرين ڏيکارڻ لاءِ اوورلي کي فعال ڪريو.</string>
+    <string name="permission_toast_enable_permissions">ايپ لاڪر استعمال ڪرڻ لاءِ اجازتن کي فعال ڪريو</string>
+
+    <string name="draw_pattern_title">نئين نموني ٺاھيو</string>
+    <string name="redraw_pattern_title">ٻيهر مڪمل ڪرڻ لاءِ</string>
+
+    <string name="recreate_pattern_error">پيٽرن کي نٿو ملي. ٻيهر ڪرڻ.</string>
+
+    <string name="create_pattern_successful">ڪاميابي سان ٺهيل.</string>
+    <string name="overlay_prompt_pattern_title">ايپ کولڻ لاءِ نقشو ٺاھيو</string>
+    <string name="overlay_prompt_pattern_title_wrong">غلط نمونو. ٻيهر ترتيب ڏيو.</string>
+    <string name="overlay_prompt_pattern_title_correct">پیٹرن صحيح آھي.</string>
+
+    <string name="overlay_prompt_fingerprint_title">ايپ کولڻ لاءِ نقشو ٺاھيو</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">نه ملايل. +٪ 1 $ s + کاٻي.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">آرين تي نچايو ويو.</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">فنگر پرنٽ غلطي! ڪوشش جي نموني.</string>
+    <string name="dialog_title_rate_us">ڇا توهان محفوظ علائقو پسند ڪيو؟</string>
+    <string name="dialog_description_rate_us">اسان ايترو خوش ٿينداسين جيڪڏهن توهان اسان کي مارڪيٽن تي شرح ڏيو.</string>
+    <string name="dialog_action_rate_us_rate">اگھ</string>
+
+    <string name="dialog_action_rate_us_later">بعد ۾</string>
+    <string name="dialog_title_usage_permission">Android 5.0 اجازت</string>
+    <string name="dialog_description_usage_permission">Android 5.0 يا ان کان مٿي ۾ ، توهان کي استعمال جي رسائي جي اجازت ڏيڻ گهرجي
+        AppLocker ، انهي ڪري ته توهان Secure Zone فيچر استعمال ڪري سگهو ٿا</string>
+    <string name="dialog_action_usage_permission_permit">اجازت</string>
+
+    <string name="dialog_action_usage_permission_cancel">رد ڪرڻ</string>
+    <string name="dialog_title_privacy_policy">پرائيويسي پاليسي</string>
+    <string name="dialog_description_privacy_policy">اسان پنهنجي رازداري پاليسي کي اپڊيٽ ڪيو آهي. جاري رکڻ سان توھان راضي ٿي ويا<u> پرائيويسي پاليسي</u> </string>
+    <string name="dialog_action_privacy_policy_accept">قبول ڪريو</string>
+
+    <string name="hint_browser_search">ڳولھيو يا URL داخل ڪريو</string>
+    <string name="facebook">ڪريو</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">سنيپچٽ</string>
+
+
+    <string name="instagram">انٽامام</string>
+    <string name="youtube">ريڊٽي</string>
+    <string name="title_browser_empty">محفوظ. محفوظ. ذاتي.</string>
+    <string name="subtitle_browser_empty">انٽرنيٽ تي سرف ڪريو. محفوظ طريقي سان۔</string>
+    <string name="bookmarks">ڪتاب ڏيارائِيندومانْوَ</string>
+    <string name="title_name_unknown_number">اڻ Numberاڻ نمبر</string>
+
+
+
+    <string name="blacklist_empty_title">بليڪ لسٽ خالي آهي</string>
+    <string name="blacklist_empty_description">فون نمبر بلاڪ ڪرڻ لاءِ ڪلڪ ڪريو</string>
+    <string name="call_log_empty_title">ڪوبه لاگ ناهي</string>
+
+    <string name="call_log_empty_description">جڏهن ڪال بلاڪ ٿي وئي آهي لاگ ان هتي ظاهر ٿيو</string>
+    <string name="dialog_add_to_blacklist_title">فون نمبر بلاڪ ڪيو</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">نالو (اختياري)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">فون نمبر داخل ڪريو</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">رد ڪرڻ</string>
+    <string name="dialog_black_list_delete_title">بليڪ لسٽ مان ختم ڪريو</string>
+    <string name="dialog_black_list_delete_description">ڇا توهان بليڪ لسٽ مان بلاڪ ٿيل انگ ختم ڪرڻ چاهيو ٿا؟</string>
+
+    <string name="dialog_black_list_delete_action_cancel">رد ڪرڻ</string>
+    <string name="dialog_title_add_to_vault">ڪاروائي پ</string>
+    <string name="dialog_description_process">توهان جو ميڊيا گيلري کان هٽائي رهيو آهي ۽ توهان جي والٽ ۾ شامل ڪري رهيو آهي.</string>
+
+    <string name="dialog_title_removal_confirmation">هٽائڻ جي تصديق</string>
+    <string name="dialog_description_removal">اُها فائل والٽٽ تان هٽايو ۽ گيلري ۾ ڏيکاري ويندي.</string>
+    <string name="dialog_action_removal_confirmation_accept">قبول ڪريو</string>
+
+    <string name="vault_photo_empty_page_title">فوٽو والٽ خالي آهي</string>
+    <string name="vault_photo_empty_page_description">گيلري مان فوٽو لڪائڻ لاءِ آئڪن شامل ڪريو</string>
+    <string name="vault_video_empty_page_title">وڊيو والٽ خالي آهي</string>
+
+    <string name="vault_video_empty_page_description">گيلري کان وڊيو تصويرن ۾ آئڪن شامل ڪريو</string>
+    <string-array name="tabs">
+        <item>سيڪيورٽي</item>
+        <item>جوڙ</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>بليڪ لسٽ</item>
+        <item>ڪال لاگز</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>تصويرون</item>
+        <item>وڊيوز</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">ڪو به حملو ڪندڙ پڪڙيو نه ويو</string>
+    <string name="empty_page_intruders_description">توهان جو فون محفوظ آهي!</string>
+    <string name="Vault">والٽ ڪيو ويو</string>
+    <string name="Call_blocker">ڪال بلاڪ ڪندڙ</string>
+    <string name="browser">برائوزر</string>
+    <string name="theme">ٽيڪَ</string>
+    <string name="rate_us">اسان کي شرح ڏيو</string>
+    <string name="removeads">پريميئم ورزن</string>
+    <string name="enter_pin">پن داخل ڪريو</string>
+    <string name="pin_matched">پن ملائي</string>
+    <string name="confirm_pin">تصديق جي پن</string>
+    <string name="pin_chahnged">پن ڪاميابي سان تبديل ٿي ويا</string>
+    <string name="pin_not_matched">پن نه مليل</string>
+    <string name="incorrect_pin">غلط پن</string>
+    <string name="settings_set_pin">سيٽ پن</string>
+    <string name="change_pin">بدليو پن</string>
+    <string name="settings_set_pin_description">نئون پن قائم ڪريو</string>
+    <string name="create_new_pin">هڪ نئون پن ٺاهيو</string>
+    <string name="home">گهري</string>
+    <string name="settings_change_pin_description">پنهنجو موجوده پن تبديل ڪريو</string>
+    <string name="message_pin_changed">پن ڪاميابي سان تبديل ٿي ويا</string>
+    <string name="non_protected">غير محفوظ</string>
+    <string name="status_protected">پناهه</string>
+    <string name="starting_hour">شروع ٿيندڙ ڪلاڪ</string>
+    <string name="ending_hour">ختم ٿيڻ جو ڪلاڪ</string>
+    <string name="auto_start_p">پاڻمرادو هلڻ جي اجازت</string>
+    <string name="permission_usage_access_description1">اوپن هلائيندڙ آپشن کوليو</string>
+
+
+    <string name="privat_browser">نجي برائوزر</string>
+    <string name="prem_title">پريميئم ورزن سدائين لاءِ</string>
+    <string name="prem_no_ads">ڪوبه ADS هميشه لاءِ ناهي</string>
+    <string name="prem_restore">خريداري بحال ڪريو</string>
+
+    <string name="please_give_us_five_stars">مهرباني ڪري اسان کي پاريار مارڪيٽ تي پنج ستارا ڏيو! اسان انهي جي زيارت ڪنداسين!</string>
+    <string name="great_tex">زبردست!</string>
+    <string name="choose_the_icon">آئڪن چونڊيو ۽ اصل آئڪن بدلجي ويندو. مداخلت ڪندڙن کان هن ايپ کي لڪايو</string>
+    <string name="app_name1">گھڙي</string>
+    <string name="app_name2">نقشا</string>
+    <string name="app_name3">ڪئلينڊر</string>
+    <string name="app_name4">موسيقي</string>
+    <string name="app_name5">ڳڻپيندڙ</string>
+
+    <string name="callblocker_black">بليڪ لسٽ</string>
+    <string name="callblocker_logs">ڪال جي لاگ</string>
+    <string name="icon_change_title">تصويرون</string>
+    <string name="intruders_title">گهڙيندڙ</string>
+    <string name="intruders_access_apps">ايپس تائين استعمال سان رسائي ڪريو</string>
+    <string name="main_unlocked">کوليو</string>
+    <string name="main_locked">بند ٿيل</string>
+    <string name="prem_not_sub">اها رڪنيت ناهي. توهان صرف هڪ ڀيرو ادا ڪيو ٿا!</string>
+    <string name="prem_fake_icon">جعلي آئڪن</string>
+    <string name="prem_intruders">مداخلت ڪندڙ selfie</string>
+    <string name="prem_themes">وڌيڪ تخليقي موضوع</string>
+    <string name="prem_one_time">هڪ وقت جي ادائيگي</string>
+    <string name="splash_create">توهان جي رازداري جي حفاظت لاءِ ٺاهي وئي</string>
+    <string name="vault_photos">تصويرون</string>
+    <string name="vault_videos">وڊيوز</string>
+    <string name="btn_ok">ٺيڪ آهي</string>
+    <string name="dialog_intruder_text">ڇا توهان تصوير ختم ڪرڻ چاهيندا؟</string>
+    <string name="btn_cancel">ڪينسل</string>
+    <string name="fragment_security_text">اوپس! \nتوهان اڃا تائين ائپس لاڪ نه ڪيو آهي</string>
+    <string name="settings_security">سيڪيورٽي</string>
+    <string name="settings_face_icon">جعلي آئڪن</string>
+    <string name="settings_face_icon_text">هن ايپ جو اصل آئڪن بدلجي ويندو</string>
+    <string name="rate_us_enjoying">ڇا توهان ايپليڪس کان لطف اندوز ٿي رهيا آهيو؟</string>
+    <string name="rate_us_could_be">اھو بھتر ٿي سگھي پيو</string>
+    <string name="menu_privacy">پرائيويسي پاليسي</string>
+    <string name="menu_contact">اسان سان رابطو ڪريو</string>
+    <string name="menu_face_icon">جعلي آئڪن</string>
+    <string name="menu_intruder">مداخلت ڪندڙ مينيجر</string>
+    <string name="menu_chat">چيٽ روم</string>
+
+</resources>

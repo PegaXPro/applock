@@ -1,0 +1,38 @@
+apply from: "../common_android_module.gradle"
+
+android {
+
+    buildTypes {
+        def BANNER = "BANNER"
+        def NATIVE = "NATIVE"
+        def REWARDED = "REWARDED"
+        def INTERSTITIAL = "INTERSTITIAL"
+        def APP_OPEN_ADS = "APP_OPEN_ADS"
+
+        debug {
+            buildConfigField "String", BANNER, "\"ca-app-pub-3940256099942544/6300978111\""
+            buildConfigField "String", NATIVE, "\"ca-app-pub-3940256099942544/1044960115\""
+            buildConfigField "String", REWARDED, "\"ca-app-pub-3940256099942544/5224354917\""
+            buildConfigField "String", INTERSTITIAL, "\"ca-app-pub-3940256099942544/1033173712\""
+            buildConfigField "String", APP_OPEN_ADS, "\"ca-app-pub-3940256099942544/3419835294\""
+        }
+
+        release {
+            buildConfigField "String", BANNER, "\"ca-app-pub-4875591253190011/3438892807\""
+            buildConfigField "String", NATIVE, "\"ca-app-pub-4875591253190011/4560402780\""
+            buildConfigField "String", REWARDED, "\"ca-app-pub-4875591253190011/3626772672\""
+            buildConfigField "String", INTERSTITIAL, "\"ca-app-pub-4875591253190011/2125811135\""
+            buildConfigField "String", APP_OPEN_ADS, "\"ca-app-pub-4875591253190011/8308076101\""
+
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+
+    implementation project(":purchase")
+    api ads
+    api droidnet
+}

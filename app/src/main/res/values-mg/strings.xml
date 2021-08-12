@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Fikirana</string>
+
+  
+
+    <string name="share">anjara</string>
+
+    <string name="notification_protecting_title">Fiarovana ny fampiharana anao</string>
+
+    <string name="notification_protecting_description">Hidio ny fampiharana anao hiarovana ny fiainanao manokana.</string>
+
+    <string name="notification_permission_need_title">Alefaso alalana amin\'ny fiarovana</string>
+
+    <string name="notification_permission_need_description">Azafady azafady alàlana hampiasa fampiharana locker ianao.</string>
+    <string name="you_accept_privacy_policy">Amin\'ny fanohizana dia manaiky ianao<u> politika Fiarovana fiainan\'olona</u> </string>
+
+    <string name="header_recommended_to_lock">Nasaina nanidy</string>
+    <string name="header_all_apps">Fampiharana rehetra</string>
+
+    <string name="title_general_settings">General</string>
+
+    <string name="title_lock_all">Hidio daholo</string>
+    <string name="description_lock_all">Hanidy ny fampiharana anao rehetra io</string>
+
+ 
+    <string name="title_unlock_all">Vohay daholo</string>
+
+    <string name="description_unlock_all">Io dia hanokatra ny rindranasao rehetra</string>
+    <string name="settings_change_pattern_title">Hanova ny lamina</string>
+
+    <string name="settings_change_pattern_description">Ovao ny lamina misy anao</string>
+    <string name="message_pattern_changed">Niova tamim-pahombiazana ny lamina</string>
+
+    <string name="setting_in_stealth_mode_title">Afeno ny sary</string>
+    <string name="setting_in_stealth_mode_description">Lamina tsy hita maso rehefa manao sary</string>
+    <string name="setting_fingerprint_title">Alefaso ny dian-tànana</string>
+
+    <string name="setting_fingerprint_description">Mandrosoa fampiharana miaraka amin\'ny dian-tananao.</string>
+    <string name="setting_fingerprint_not_supported_title">Tsy ekena ny dian-tanana</string>
+
+    <string name="setting_fingerprint_not_supported_description">Tsy manana sensor ny fitaovanao</string>
+    <string name="setting_fingerprint_not_registered_title">Soraty ny dian-tananao</string>
+
+    <string name="setting_fingerprint_not_registered_description">Mandehana any amin\'ny sehatra fiarovana</string>
+    <string name="next">Manaraka</string>
+
+    <string name="permission_usage_access_title">Fahazoan-dàlana hidirana amin\'ny fampiasana</string>
+    <string name="permission_usage_access_description">Alefaso acces fampiasana hampiasa app locker.</string>
+
+    <string name="permission_overlay_title">Fahazoan-dàlana hidin-trano</string>
+
+    <string name="settings_card_intruders_title">Misambotra mpiditra an-tsokosoko</string>
+    <string name="settings_enable_intruders_title">Maka sary ireo mpiditra an-tsehatra</string>
+    <string name="settings_enable_intruders_description">Alefaso ny fisamborana olona miditra.</string>
+
+    <string name="settings_intruders_folder_title">Sary mpiditra an-keriny</string>
+    <string name="settings_intruders_folder_description">Tsindrio raha hijery mpitsikilo amin\'ny telefaoninao.</string>
+
+    <string name="settings_card_advance_protection_title">Fiarovana mialoha</string>
+    <string name="settings_enable_advance_protection_title">Alefaso ny fiarovana mialoha</string>
+    <string name="settings_enable_advance_protection_description">Raha te-hiasa amin\'ny Advance Protection ianao dia ampidino azafady ny App Lock Pro ho "administratera fitaovana" .Nampiasaina fotsiny izy io hanakanana ireo mpiditra tsy hanongotra sy hanakana ny fampiatoana ny App Lock Pro. .</string>
+    <string name="device_admin_permission_description">Arotsaho izao, miarova fiarovana ary milamina! \n\nMba ahafahana miaro ny Advance Protection dia ampidino azafady ny App Lock Pro ho "administratera fitaovana" .Nampiasaina fotsiny izy io mba hisorohana ny fidirana an-tsokosoko sy ny fanakanana ny App Lock Pro. midira amin\'ny angona momba ny fiainanao manokana.</string>
+
+
+    <string name="permission_overlay_description">Alefaso ny overlay hanehoana ny efijery hidin-trano.</string>
+    <string name="permission_toast_enable_permissions">Alefaso alalana hampiasa app locker</string>
+
+    <string name="draw_pattern_title">Mamorona lamina vaovao</string>
+    <string name="redraw_pattern_title">Manorata fanontana mba hamenoana</string>
+
+    <string name="recreate_pattern_error">Tsy mifanaraka ny lamina. Mamerina manoratra.</string>
+
+    <string name="create_pattern_successful">Namboarina tamim-pahombiazana.</string>
+    <string name="overlay_prompt_pattern_title">Manaova sarina lamina hanokafana fampiharana</string>
+    <string name="overlay_prompt_pattern_title_wrong">Diso lamina. Manaova sary indray.</string>
+    <string name="overlay_prompt_pattern_title_correct">Mahitsy ny lamina.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Manaova sarina lamina hanokafana fampiharana</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Tsy + nifanaraka. + %1$s + sisa.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Ny dian-tànana mifanentana!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Hadisoana amin\'ny tanan-tànana! Andramo ny modely.</string>
+    <string name="dialog_title_rate_us">Tianao ve ny faritra azo antoka?</string>
+    <string name="dialog_description_rate_us">Tena ho faly izahay raha manisa anay eny an-tsena.</string>
+    <string name="dialog_action_rate_us_rate">taha</string>
+
+    <string name="dialog_action_rate_us_later">taty aoriana</string>
+    <string name="dialog_title_usage_permission">Fahazoan-dàlana Android 5.0</string>
+    <string name="dialog_description_usage_permission">Ao amin\'ny Android 5.0 na ambony dia mila mamela ny fidirana fampiasana ianao
+        AppLocker, hahafahanao mampiasa Secure Zone Feature</string>
+    <string name="dialog_action_usage_permission_permit">fahazoan-dalana</string>
+
+    <string name="dialog_action_usage_permission_cancel">hanafoana</string>
+    <string name="dialog_title_privacy_policy">politika Fiarovana fiainan\'olona</string>
+    <string name="dialog_description_privacy_policy">Nanavao ny politikantsika manokana izahay. Amin\'ny fanohizana dia manaiky ianao<u> politika Fiarovana fiainan\'olona</u> </string>
+    <string name="dialog_action_privacy_policy_accept">MANAIKY</string>
+
+    <string name="hint_browser_search">Mikaroha na ampidiro URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">reddit Google</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Surf amin\'ny Internet. Milamina.</string>
+    <string name="bookmarks">maripejy</string>
+    <string name="title_name_unknown_number">Isa tsy fantatra</string>
+
+
+
+    <string name="blacklist_empty_title">Foana ny lisitra mainty</string>
+    <string name="blacklist_empty_description">Tsindrio raha hanakana ny nomeraon-telefaona</string>
+    <string name="call_log_empty_title">Tsy misy hazo</string>
+
+    <string name="call_log_empty_description">Miseho eto ny log rehefa voasakana ny antso</string>
+    <string name="dialog_add_to_blacklist_title">Sakano ny nomeraon-telefaona</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Anarana (tsy voatery)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Ampidiro ny nomeraon-telefaona</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">hanafoana</string>
+    <string name="dialog_black_list_delete_title">Fafao ny lisitra mainty</string>
+    <string name="dialog_black_list_delete_description">Te-hanala ny laharana voasakana amin\'ny lisitra mainty ve ianao?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">hanafoana</string>
+    <string name="dialog_title_add_to_vault">fanodinana</string>
+    <string name="dialog_description_process">Ny haino aman-jeryo dia manala ao amin\'ny galeriana ary manampy amin\'ny vault anao.</string>
+
+    <string name="dialog_title_removal_confirmation">Fanamafisana ny fanesorana</string>
+    <string name="dialog_description_removal">Ity rakitra ity dia hesorina amin\'ny vault ary aseho amin\'ny galerie.</string>
+    <string name="dialog_action_removal_confirmation_accept">MANAIKY</string>
+
+    <string name="vault_photo_empty_page_title">Foana ny sary Vault</string>
+    <string name="vault_photo_empty_page_description">Manampia kisary hanafina sary amin\'ny galeriana</string>
+    <string name="vault_video_empty_page_title">Foana ny Video Vault</string>
+
+    <string name="vault_video_empty_page_description">Manampia kisary amin\'ny sary video avy amin\'ny galeriana</string>
+    <string-array name="tabs">
+        <item>ARO</item>
+        <item>Fikirana</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Blacklist</item>
+        <item>Call Logs</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Sary</item>
+        <item>Videos</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Tsy misy mpiditra tsy tratra</string>
+    <string name="empty_page_intruders_description">Milamina ny findainao!</string>
+    <string name="Vault">andohalambony eny</string>
+    <string name="Call_blocker">Call Blocker</string>
+    <string name="browser">mpitety</string>
+    <string name="theme">lohahevitra</string>
+    <string name="rate_us">Manome isa anay</string>
+    <string name="removeads">Premium Version</string>
+    <string name="enter_pin">Ampidiro pin</string>
+    <string name="pin_matched">Nifanaraka ny pin</string>
+    <string name="confirm_pin">Hamafiso ny tsimatra</string>
+    <string name="pin_chahnged">Nahomby ny fanovana Pin</string>
+    <string name="pin_not_matched">Tsy mifanaraka ny pin</string>
+    <string name="incorrect_pin">Pin tsy mety</string>
+    <string name="settings_set_pin">Mametaka pin</string>
+    <string name="change_pin">Manova pin</string>
+    <string name="settings_set_pin_description">Mametraha pin vaovao</string>
+    <string name="create_new_pin">Mamorona pin vaovao</string>
+    <string name="home">an-trano</string>
+    <string name="settings_change_pin_description">Ovao ny pinanao efa misy</string>
+    <string name="message_pin_changed">Niova soa aman-tsara ny pin</string>
+    <string name="non_protected">Tsy voaaro</string>
+    <string name="status_protected">arovana</string>
+    <string name="starting_hour">Ora fanombohana</string>
+    <string name="ending_hour">Ora famaranana</string>
+    <string name="auto_start_p">fahazoan-dàlana mandeha ho azy</string>
+    <string name="permission_usage_access_description1">sokafy ny safidy mandeha ho azy</string>
+
+
+    <string name="privat_browser">Browser tsy miankina</string>
+    <string name="prem_title">Premium Version Mandrakizay</string>
+    <string name="prem_no_ads">Tsy misy doka mandrakizay</string>
+    <string name="prem_restore">Ampodio ny fividianana</string>
+
+    <string name="please_give_us_five_stars">Mba omeo kintana dimy izahay ao amin\'ny Google Play! Tianay be dia be izany!</string>
+    <string name="great_tex">Tsara!</string>
+    <string name="choose_the_icon">Safidio ny sary masina ary hovaina ny kisary voalohany. Afeno amin\'ny rindrambaiko tsy tafiditra ity app ity</string>
+    <string name="app_name1">Famantaranandro</string>
+    <string name="app_name2">Maps</string>
+    <string name="app_name3">Calendar</string>
+    <string name="app_name4">MOZIKA</string>
+    <string name="app_name5">Calculator</string>
+
+    <string name="callblocker_black">Lisitra mainty</string>
+    <string name="callblocker_logs">Antsoy hazo</string>
+    <string name="icon_change_title">sary Masina</string>
+    <string name="intruders_title">Mpiditra an-tsokosoko</string>
+    <string name="intruders_access_apps">Midira fampiharana miaraka amin\'ny fampiasana</string>
+    <string name="main_unlocked">nanokatra</string>
+    <string name="main_locked">Mihidy</string>
+    <string name="prem_not_sub">Tsy famandrihana ity. Indray mandeha ihany ianao no mandoa!</string>
+    <string name="prem_fake_icon">Ikona sandoka</string>
+    <string name="prem_intruders">Selfie mpanelingelina</string>
+    <string name="prem_themes">Lohahevitra mamorona bebe kokoa</string>
+    <string name="prem_one_time">Karama indray mandeha</string>
+    <string name="splash_create">Noforonina mba hiarovana ny fiainanao manokana</string>
+    <string name="vault_photos">Sary</string>
+    <string name="vault_videos">Videos</string>
+    <string name="btn_ok">ok</string>
+    <string name="dialog_intruder_text">Te hamafa ny sary ve ianao?</string>
+    <string name="btn_cancel">hanafoana</string>
+    <string name="fragment_security_text">Opps! \n Tsy mbola mihidy apps ianao</string>
+    <string name="settings_security">ARO</string>
+    <string name="settings_face_icon">Ikona sandoka</string>
+    <string name="settings_face_icon_text">Ny sary am-boalohany fampiharana ity dia hovaina</string>
+    <string name="rate_us_enjoying">Ankafizinao ve ny AppLock?</string>
+    <string name="rate_us_could_be">mety ho tsara kokoa</string>
+    <string name="menu_privacy">politika Fiarovana fiainan\'olona</string>
+    <string name="menu_contact">Mifandraisa aminay</string>
+    <string name="menu_face_icon">Ikona sandoka</string>
+    <string name="menu_intruder">Mpitantana mpiditra an-tsokosoko</string>
+    <string name="menu_chat">Chat Room</string>
+
+</resources>

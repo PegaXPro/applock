@@ -1,0 +1,4 @@
+include ':purchase'
+include ':ads'
+include ':nativetemplates'
+include ':app'

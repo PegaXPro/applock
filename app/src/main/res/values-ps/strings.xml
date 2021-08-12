@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">امستنې</string>
+
+  
+
+    <string name="share">شریک کړئ</string>
+
+    <string name="notification_protecting_title">ستاسو د ایپس خوندي کول</string>
+
+    <string name="notification_protecting_description">د خپل محرمیت ساتلو لپاره خپل اطلاقات لاک کړئ.</string>
+
+    <string name="notification_permission_need_title">د ساتنې لپاره اجازه فعال کړئ</string>
+
+    <string name="notification_permission_need_description">مهرباني وکړئ د اپل لاکر کارولو لپاره اجازه لیکونه وړ کړئ</string>
+    <string name="you_accept_privacy_policy">په دوام ورکولو سره تاسو موافق یاست<u> د پټتیا تګلاره</u> </string>
+
+    <string name="header_recommended_to_lock">د لاک کولو لپاره وړاندیز شوی</string>
+    <string name="header_all_apps">ټولې غوښتنلیکونه</string>
+
+    <string name="title_general_settings">عمومي</string>
+
+    <string name="title_lock_all">ټول بند کړئ</string>
+    <string name="description_lock_all">دا به ستاسو ټولې غوښتنې لاک کړي</string>
+
+ 
+    <string name="title_unlock_all">ټول خلاص کړئ</string>
+
+    <string name="description_unlock_all">دا به ستاسو ټولې غوښتنې خلاصې کړي</string>
+    <string name="settings_change_pattern_title">ب Changeه بدل کړئ</string>
+
+    <string name="settings_change_pattern_description">خپل موجود ب patternه بدل کړئ</string>
+    <string name="message_pattern_changed">بternه په بریالیتوب بدله شوه</string>
+
+    <string name="setting_in_stealth_mode_title">انځورول پټ کړئ</string>
+    <string name="setting_in_stealth_mode_description">د نقشې پر مهال د نه لیدلو وړ ب patternه</string>
+    <string name="setting_fingerprint_title">د ګوتو نښې فعال کړئ</string>
+
+    <string name="setting_fingerprint_description">د خپلې ګوتې نښه سره ایپ لانچ کړئ.</string>
+    <string name="setting_fingerprint_not_supported_title">د ګوتې نښه ملاتړ نده</string>
+
+    <string name="setting_fingerprint_not_supported_description">ستاسو وسیله سینسر نلري</string>
+    <string name="setting_fingerprint_not_registered_title">خپل د ګوتې نښه راجستر کړئ</string>
+
+    <string name="setting_fingerprint_not_registered_description">امنیتی امستنو ته لاړشئ</string>
+    <string name="next">بل</string>
+
+    <string name="permission_usage_access_title">د کاروونې لاسرسي اجازه</string>
+    <string name="permission_usage_access_description">د ایپ لاکر کارولو لپاره د کاروونې اکسس فعال کړئ.</string>
+
+    <string name="permission_overlay_title">د پردې اجازې بندول</string>
+
+    <string name="settings_card_intruders_title">ننوتلونکي ونیسئ</string>
+    <string name="settings_enable_intruders_title">د بریدګرو عکس واخلئ</string>
+    <string name="settings_enable_intruders_description">د ننوتونکو نیول کیدو وړتیا.</string>
+
+    <string name="settings_intruders_folder_title">نیول شوي ننوتلونکي عکسونه</string>
+    <string name="settings_intruders_folder_description">په تلیفون کې د جاسوسانو لیدو لپاره کلیک وکړئ.</string>
+
+    <string name="settings_card_advance_protection_title">پرمختللی محافظت</string>
+    <string name="settings_enable_advance_protection_title">مخکینی محافظت فعال کړئ</string>
+    <string name="settings_enable_advance_protection_description">د پرمختللي محافظت وړولو لپاره ، مهرباني وکړئ د اپیک لاک پرو د "وسیلې مدیر" په توګه فعال کړئ. دا یوازې د ننوتلو مخه نیولو او د ایپل لاک پرو مخه نیولو لپاره کارول کیږي. مهرباني وکړئ ډاډ ترلاسه کړئ چې د اپل لاک پرو هیڅکله به ستاسو د محرمیت ډیټا ته لاسرسي لپاره دا اجازه ونه کاروي. .</string>
+    <string name="device_admin_permission_description">اوس فعال ، پرمختللي محافظت او نور خوندي! Advance n \nد پرمختللي محافظت وړولو لپاره ، مهرباني وکړئ د اپل لاک پرو د "وسیلې مدیر" په توګه فعال کړئ. دا یوازې د ننوتلو مخه نیولو او د ایپل لاک پرو د زورولو مخه نیولو لپاره کارول کیږي. مهرباني وکړئ ډاډ ترلاسه کړئ چې د اپل لاک پرو هیڅکله هم دا اجازه نه کاروي خپل محرمیت ډیټا ته لاسرسی.</string>
+
+
+    <string name="permission_overlay_description">د لاک سکرین ښودلو لپاره اتلی فعال کړئ.</string>
+    <string name="permission_toast_enable_permissions">د اپل لاکر کارولو لپاره اجازه فعال کړئ</string>
+
+    <string name="draw_pattern_title">نوی ب patternه جوړه کړئ</string>
+    <string name="redraw_pattern_title">د بشپړولو لپاره ریډراو</string>
+
+    <string name="recreate_pattern_error">بternه سمون نه خوري ریډراو.</string>
+
+    <string name="create_pattern_successful">په بریالیتوب سره جوړ شو.</string>
+    <string name="overlay_prompt_pattern_title">د اپلیکېشن خلاصولو لپاره ب patternه رسم کړئ</string>
+    <string name="overlay_prompt_pattern_title_wrong">غلط ب patternه. بيا رسم کړئ.</string>
+    <string name="overlay_prompt_pattern_title_correct">نمونه سمه ده.</string>
+
+    <string name="overlay_prompt_fingerprint_title">د اپلیکېشن خلاصولو لپاره ب patternه رسم کړئ</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">سمون نه خوری. +٪ 1 $ s + پاتې دی.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">د ګوتې نښه چاپ شوه!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">د ګوتې نښه غلطي! نمونه هڅه وکړئ.</string>
+    <string name="dialog_title_rate_us">ایا تاسو خوندي زون خوښوئ؟</string>
+    <string name="dialog_description_rate_us">موږ به ډیر خوشحاله یو که تاسو موږ ته په بازار کې درجه ورکړئ.</string>
+    <string name="dialog_action_rate_us_rate">کچه</string>
+
+    <string name="dialog_action_rate_us_later">وروسته</string>
+    <string name="dialog_title_usage_permission">د Android 5.0 اجازه</string>
+    <string name="dialog_description_usage_permission">په Android 5.0 یا پورته کې ، تاسو اړتیا لرئ د دې لپاره د کاروونې لاسرسي ته اجازه ورکړئ
+        AppLocker ، نو تاسو کولی شئ د خوندي زون فیچر وکاروئ</string>
+    <string name="dialog_action_usage_permission_permit">اجازه</string>
+
+    <string name="dialog_action_usage_permission_cancel">لغوه کول</string>
+    <string name="dialog_title_privacy_policy">د پټتیا تګلاره</string>
+    <string name="dialog_description_privacy_policy">موږ زموږ د محرمیت تګلاره تازه کړې. په دوام ورکولو سره تاسو موافق یاست<u> د پټتیا تګلاره</u> </string>
+    <string name="dialog_action_privacy_policy_accept">ومنه</string>
+
+    <string name="hint_browser_search">URL لټول یا ننوتل</string>
+    <string name="facebook">فېسبوک</string>
+
+    <string name="twitter">ټویټر</string>
+
+    <string name="snapchat">سنیپ چیټ</string>
+
+
+    <string name="instagram">انسټاګرم</string>
+    <string name="youtube">ریډیټ</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">په انټرنیټ کې سرف. په خوندي ډول.</string>
+    <string name="bookmarks">یادنښې</string>
+    <string name="title_name_unknown_number">نامعلوم شمیر</string>
+
+
+
+    <string name="blacklist_empty_title">تور لیست خالي دی</string>
+    <string name="blacklist_empty_description">د تلیفون شمیره بلاک کولو لپاره کلیک وکړئ</string>
+    <string name="call_log_empty_title">ننوتل نشته</string>
+
+    <string name="call_log_empty_description">ننوتل دلته څرګندیږي کله چې زنګ بلاک دی</string>
+    <string name="dialog_add_to_blacklist_title">د تلیفون شمیره بلاک کړئ</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">نوم (اختیاري)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">د تلیفون شمیره دننه کړئ</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">لغوه کول</string>
+    <string name="dialog_black_list_delete_title">له تور لیست څخه حذف کړئ</string>
+    <string name="dialog_black_list_delete_description">ایا تاسو غواړئ د تور لیست څخه بند شوی شمیره لرې کړئ؟</string>
+
+    <string name="dialog_black_list_delete_action_cancel">لغوه کول</string>
+    <string name="dialog_title_add_to_vault">پروسه</string>
+    <string name="dialog_description_process">ستاسو رسنۍ د ګالري څخه لرې کوي او ستاسو والټ ته اضافه کوي.</string>
+
+    <string name="dialog_title_removal_confirmation">د لرې کولو تصدیق</string>
+    <string name="dialog_description_removal">دا فایل به له والټ څخه لرې او په ګالري کې به وښیې.</string>
+    <string name="dialog_action_removal_confirmation_accept">ومنه</string>
+
+    <string name="vault_photo_empty_page_title">د عکس والټ خالي دی</string>
+    <string name="vault_photo_empty_page_description">د ګالري څخه د عکسونو پټولو لپاره عکس اضافه کړئ</string>
+    <string name="vault_video_empty_page_title">د ویډیو والټ خالي دی</string>
+
+    <string name="vault_video_empty_page_description">له ګالري څخه ویډیو عکسونو کې عکس اضافه کړئ</string>
+    <string-array name="tabs">
+        <item>امنیت</item>
+        <item>امستنې</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>تور لیست</item>
+        <item>زنګ وهل</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>انځورونه</item>
+        <item>ویډیوګانې</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">هیڅ مداخله کونکی ندی نیول شوی</string>
+    <string name="empty_page_intruders_description">ستاسو تلیفون خوندي دی!</string>
+    <string name="Vault">والټ</string>
+    <string name="Call_blocker">زنګ وهونکی</string>
+    <string name="browser">براوزر</string>
+    <string name="theme">موضوعات</string>
+    <string name="rate_us">موږ ته درجه ورکړئ</string>
+    <string name="removeads">پریمیم نسخه</string>
+    <string name="enter_pin">پن دننه کړئ</string>
+    <string name="pin_matched">پنونه برابر شوي</string>
+    <string name="confirm_pin">د پن تصدیق کول</string>
+    <string name="pin_chahnged">پن په بریالیتوب بدل شو</string>
+    <string name="pin_not_matched">پن سم ندي</string>
+    <string name="incorrect_pin">غلط پن</string>
+    <string name="settings_set_pin">پن یې تنظیم کړئ</string>
+    <string name="change_pin">پن بدل کړئ</string>
+    <string name="settings_set_pin_description">نوی پن جوړ کړئ</string>
+    <string name="create_new_pin">نوی پن جوړ کړئ</string>
+    <string name="home">کور</string>
+    <string name="settings_change_pin_description">خپل شته پن بدل کړئ</string>
+    <string name="message_pin_changed">پن په بریالیتوب بدل شو</string>
+    <string name="non_protected">غیر خوندي شوی</string>
+    <string name="status_protected">محافظت شوی</string>
+    <string name="starting_hour">ساعت پیل کول</string>
+    <string name="ending_hour">ساعت پای</string>
+    <string name="auto_start_p">د اتوماتیک چلولو اجازه</string>
+    <string name="permission_usage_access_description1">د اتومات چلولو اختیار خلاص کړئ</string>
+
+
+    <string name="privat_browser">شخصي لټونګر</string>
+    <string name="prem_title">د تل لپاره</string>
+    <string name="prem_no_ads">هیڅکله AD نه</string>
+    <string name="prem_restore">د پیرودلو بیا رغونه</string>
+
+    <string name="please_give_us_five_stars">مهرباني وکړئ موږ ته په Google Play پنځه ستوري راکړئ! موږ به یې ډیره ستاینه وکړو!</string>
+    <string name="great_tex">غوره!</string>
+    <string name="choose_the_icon">نښه وټاکئ او اصلي عکس به یې بدل شي. دا ایپ د مداخله کونکو څخه پټ کړئ</string>
+    <string name="app_name1">ساعت</string>
+    <string name="app_name2">نقشه</string>
+    <string name="app_name3">کليز</string>
+    <string name="app_name4">میوزیک</string>
+    <string name="app_name5">کیلکولیټر</string>
+
+    <string name="callblocker_black">تور لیست</string>
+    <string name="callblocker_logs">زنګ وهل</string>
+    <string name="icon_change_title">انځورنونه</string>
+    <string name="intruders_title">ننوتل</string>
+    <string name="intruders_access_apps">د استعمال سره ایپس ته لاسرسی ومومئ</string>
+    <string name="main_unlocked">خلاص شوی</string>
+    <string name="main_locked">تړل شوی</string>
+    <string name="prem_not_sub">دا ګډون ندی. تاسو یوازې یو ځل تادیه وکړئ!</string>
+    <string name="prem_fake_icon">جعلي علامت</string>
+    <string name="prem_intruders">د ننوتلو سیلفي</string>
+    <string name="prem_themes">نور نوښتګر موضوعات</string>
+    <string name="prem_one_time">د یو وخت تادیه</string>
+    <string name="splash_create">ستاسو د محرمیت ساتلو لپاره رامینځته شوی</string>
+    <string name="vault_photos">عکسونه</string>
+    <string name="vault_videos">ویډیوګانې</string>
+    <string name="btn_ok">سمه ده</string>
+    <string name="dialog_intruder_text">ایا تاسو غواړئ عکس ړنګ کړئ؟</string>
+    <string name="btn_cancel">کینسل</string>
+    <string name="fragment_security_text">مقابل لوری! You n تاسو لازیات شوي اطلاقات نلرئ</string>
+    <string name="settings_security">امنیت</string>
+    <string name="settings_face_icon">جعلي علامت</string>
+    <string name="settings_face_icon_text">د دې ایپ اصلي نښه به بدله شي</string>
+    <string name="rate_us_enjoying">ایا تاسو د AppLock څخه خوند اخلئ؟</string>
+    <string name="rate_us_could_be">دا به غوره وی</string>
+    <string name="menu_privacy">د پټتیا تګلاره</string>
+    <string name="menu_contact">موږ سره اړیکه ونیسئ</string>
+    <string name="menu_face_icon">جعلي علامت</string>
+    <string name="menu_intruder">د ننوتونکي مدیر</string>
+    <string name="menu_chat">د چیټ خونه</string>
+
+</resources>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">ቅንብሮች</string>
+
+
+
+    <string name="share">.ር ያድርጉ</string>
+
+    <string name="notification_protecting_title">የእርስዎን መተግበሪያዎች መጠበቅ</string>
+
+    <string name="notification_protecting_description">ግላዊነትዎን ለመጠበቅ መተግበሪያዎችዎን ይቆልፉ።</string>
+
+    <string name="notification_permission_need_title">ለመጠበቅ ፈቃድን ያንቁ</string>
+
+    <string name="notification_permission_need_description">እባክዎ የመተግበሪያ ቁልፍን ለመጠቀም የእርስዎን ፈቃዶች ያንቁ።</string>
+    <string name="you_accept_privacy_policy">በመቀጠል እርስዎ ይስማማሉ<u> የ ግል የሆነ</u> </string>
+
+    <string name="header_recommended_to_lock">ለመቆለፍ የሚመከር</string>
+    <string name="header_all_apps">ሁሉም መተግበሪያዎች</string>
+
+    <string name="title_general_settings">ጄኔራል</string>
+
+    <string name="title_lock_all">ሁሉንም ይቆልፉ</string>
+    <string name="description_lock_all">ይህ ሁሉንም መተግበሪያዎችዎን ይቆልፋል</string>
+
+
+    <string name="title_unlock_all">ሁሉንም ይክፈቱ</string>
+
+    <string name="description_unlock_all">ይህ ሁሉንም መተግበሪያዎችዎን ይከፍታል</string>
+    <string name="settings_change_pattern_title">ንድፍ ለውጥ</string>
+
+    <string name="settings_change_pattern_description">ነባር ንድፍዎን ይቀይሩ</string>
+    <string name="message_pattern_changed">ስርዓተ-ጥለት በተሳካ ሁኔታ ተለውጧል</string>
+
+    <string name="setting_in_stealth_mode_title">ስዕልን ደብቅ</string>
+    <string name="setting_in_stealth_mode_description">በሚስልበት ጊዜ የማይታይ ንድፍ</string>
+    <string name="setting_fingerprint_title">የጣት አሻራ አንቃ</string>
+
+    <string name="setting_fingerprint_description">መተግበሪያን በጣት አሻራዎ ያስጀምሩ።</string>
+    <string name="setting_fingerprint_not_supported_title">የጣት አሻራ አይደገፍም</string>
+
+    <string name="setting_fingerprint_not_supported_description">መሣሪያዎ ዳሳሽ የለውም</string>
+    <string name="setting_fingerprint_not_registered_title">የጣት አሻራዎን ይመዝግቡ</string>
+
+    <string name="setting_fingerprint_not_registered_description">ወደ የደህንነት ቅንብሮች ይሂዱ</string>
+    <string name="next">ቀጣይ</string>
+
+    <string name="permission_usage_access_title">የአጠቃቀም መዳረሻ ፈቃድ</string>
+    <string name="permission_usage_access_description">የመተግበሪያ ቁልፍን ለመጠቀም የአጠቃቀም ማከሚያዎችን ያንቁ።</string>
+
+    <string name="permission_overlay_title">የማያ ገጽ ቁልፍን ይቆልፉ</string>
+
+    <string name="settings_card_intruders_title">አጥቂዎችን ይያዙ</string>
+    <string name="settings_enable_intruders_title">ወራሪዎችን ስዕል ያንሱ</string>
+    <string name="settings_enable_intruders_description">ሰርጎ ገቦችን ለመያዝ ያንቁ።</string>
+
+    <string name="settings_intruders_folder_title">የተያዙ ወራሪ ፎቶዎች</string>
+    <string name="settings_intruders_folder_description">በአንተ ስልክ ላይ ሰላዮችን ለማየት ጠቅ ያድርጉ ፡፡</string>
+
+    <string name="settings_card_advance_protection_title">የቅድሚያ ጥበቃ</string>
+    <string name="settings_enable_advance_protection_title">የቅድሚያ ጥበቃን ያንቁ</string>
+    <string name="settings_enable_advance_protection_description">የቅድመ መከላከል ጥበቃን ለማንቃት እባክዎ የመተግበሪያ ቁልፍ ቁልፍን እንደ “የመሣሪያ አስተዳዳሪ” ያግብሩት። የመተግበሪያ መቆለፊያ ማራገፎችን እና ማስቆም ለማስቆም ብቻ የሚያገለግል ነው። App Lock Pro የግላዊነት ውሂብዎን ለመድረስ ይህን ፈቃድ በጭራሽ እንደማይጠቀም ያረጋግጡ። .</string>
+    <string name="device_admin_permission_description">አሁን ያግብሩ ፣ ጥበቃን ያጠናክሩ እና የበለጠ ደህንነታቸውን ይጠብቁ! \n\nየቅድመ መከላከል ጥበቃን ለማንቃት እባክዎ App Lock Pro ን እንደ “መሣሪያ አስተዳዳሪ” ያግብሩት። ወራሪዎችን ማራገፍን ለመከላከል እና የ App Lock Pro ን ለማስቆም በኃይል ብቻ ጥቅም ላይ ይውላል። እባክዎን App Lock Pro ይህንን ፈቃድ እንደማይጠቀም ያረጋግጡ የእርስዎን ግላዊነት ውሂብ ይድረሱበት።</string>
+
+
+    <string name="permission_overlay_description">የማያ ገጽ ቁልፍን ለማሳየት ተደራቢን ያንቁ።</string>
+    <string name="permission_toast_enable_permissions">የመተግበሪያ ቁልፍን ለመጠቀም ፈቃዶችን ያንቁ</string>
+
+    <string name="draw_pattern_title">አዲስ ንድፍ ይፍጠሩ</string>
+    <string name="redraw_pattern_title">እንደገና ማጠናቀቅ</string>
+
+    <string name="recreate_pattern_error">ስርዓተ-ጥለት አይዛመድም ሬድራው.</string>
+
+    <string name="create_pattern_successful">በተሳካ ሁኔታ ተፈጥሯል</string>
+    <string name="overlay_prompt_pattern_title">መተግበሪያን ለመክፈት ንድፍ ይሳሉ</string>
+    <string name="overlay_prompt_pattern_title_wrong">የተሳሳተ ንድፍ. እንደገና ይሳሉ.</string>
+    <string name="overlay_prompt_pattern_title_correct">ስርዓተ-ጥለት ትክክለኛ</string>
+
+    <string name="overlay_prompt_fingerprint_title">መተግበሪያን ለመክፈት ንድፍ ይሳሉ</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">አልተዛመደም። + %1$s + ይቀራል።</string>
+    <string name="overlay_prompt_fingerprint_title_correct">የጣት አሻራ ተዛመደ!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">የጣት አሻራ ስህተት! ንድፍ ይሞክሩ.</string>
+    <string name="dialog_title_rate_us">ደህንነቱ የተጠበቀ ዞን ወደውታል?</string>
+    <string name="dialog_description_rate_us">በገበያ ላይ ደረጃ ከሰጡን እኛ በጣም ደስተኞች እንሆናለን ፡፡</string>
+    <string name="dialog_action_rate_us_rate">ተመን</string>
+
+    <string name="dialog_action_rate_us_later">በኋላ</string>
+    <string name="dialog_title_usage_permission">የ Android 5.0 ፈቃድ</string>
+    <string name="dialog_description_usage_permission">በ Android 5.0 ወይም ከዚያ በላይ ውስጥ ፣ ለአጠቃቀም መዳረሻ መፍቀድ ያስፈልግዎታል
+        ደህንነቱ የተጠበቀ የዞን ባህሪን መጠቀም እንዲችሉ AppLocker</string>
+    <string name="dialog_action_usage_permission_permit">ፈቃድ</string>
+
+    <string name="dialog_action_usage_permission_cancel">ሰርዝ</string>
+    <string name="dialog_title_privacy_policy">የ ግል የሆነ</string>
+    <string name="dialog_description_privacy_policy">የግላዊነት መመሪያችንን አዘምነናል ፡፡ በመቀጠል እርስዎ ይስማማሉ<u> የ ግል የሆነ</u> </string>
+    <string name="dialog_action_privacy_policy_accept">ተቀበል</string>
+
+    <string name="hint_browser_search">ይፈልጉ ወይም ዩ.አር.ኤል ያስገቡ</string>
+    <string name="facebook">ፌስቡክ</string>
+
+    <string name="twitter">ትዊተር</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">ኢንስታግራም</string>
+    <string name="youtube">ሬድዲት</string>
+    <string name="title_browser_empty">ደህንነቱ የተጠበቀ። የግል።</string>
+    <string name="subtitle_browser_empty">በይነመረብ ላይ ሰርፍ ደህንነቱ በተጠበቀ ፡፡</string>
+    <string name="bookmarks">ዕልባቶች</string>
+    <string name="title_name_unknown_number">ያልታወቀ ቁጥር</string>
+
+
+
+    <string name="blacklist_empty_title">የጥቁር መዝገብ ዝርዝር ባዶ ነው</string>
+    <string name="blacklist_empty_description">የስልክ ቁጥርን ለማገድ ጠቅ ያድርጉ</string>
+    <string name="call_log_empty_title">ምዝግብ ማስታወሻዎች የሉም</string>
+
+    <string name="call_log_empty_description">ጥሪ ሲታገድ ምዝግብ ማስታወሻ እዚህ ይታያል</string>
+    <string name="dialog_add_to_blacklist_title">የስልክ ቁጥርን አግድ</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">ስም (አስገዳጅ ያልሆነ)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">ስልክ ቁጥር ያስገቡ</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">ሰርዝ</string>
+    <string name="dialog_black_list_delete_title">ከጥቁር መዝገብ ውስጥ ሰርዝ</string>
+    <string name="dialog_black_list_delete_description">የታገደውን ቁጥር ከጥቁር ዝርዝር ውስጥ ማስወገድ ይፈልጋሉ?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">ሰርዝ</string>
+    <string name="dialog_title_add_to_vault">በማስኬድ ላይ</string>
+    <string name="dialog_description_process">የእርስዎ ሚዲያ ከማዕከለ-ስዕላት (ጋለሪ) በማውጣት እና ወደ ቮልትዎ እየጨመረ ነው።</string>
+
+    <string name="dialog_title_removal_confirmation">የማስወገጃ ማረጋገጫ</string>
+    <string name="dialog_description_removal">ይህ ፋይል ከቮልት ውስጥ ወጥቶ ወደ ማዕከለ-ስዕላት ያሳያል።</string>
+    <string name="dialog_action_removal_confirmation_accept">ተቀበል</string>
+
+    <string name="vault_photo_empty_page_title">የፎቶ ቮልት ባዶ ነው</string>
+    <string name="vault_photo_empty_page_description">ፎቶዎችን ከማዕከለ-ስዕላት ለመደበቅ አዶን ያክሉ</string>
+    <string name="vault_video_empty_page_title">የቪዲዮ ቮልት ባዶ ነው</string>
+
+    <string name="vault_video_empty_page_description">ከማዕከለ-ስዕላት ወደ ቪዲዮ ፎቶዎች አዶ አክል</string>
+    <string-array name="tabs">
+        <item>ደህንነት</item>
+        <item>ቅንብሮች</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>የጥቁር መዝገብ ዝርዝር</item>
+        <item>የጥሪ ምዝግብ ማስታወሻዎች</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>ምስሎች</item>
+        <item>ቪዲዮዎች</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">ምንም አጥቂዎች አልተያዙም</string>
+    <string name="empty_page_intruders_description">ስልክዎ ደህንነቱ የተጠበቀ ነው!</string>
+    <string name="Vault">ቮልት</string>
+    <string name="Call_blocker">አግድ ይደውሉ</string>
+    <string name="browser">አሳሽ</string>
+    <string name="theme">ገጽታዎች</string>
+    <string name="rate_us">ደረጃ ይስጡን</string>
+    <string name="removeads">ፕሪሚየም ስሪት</string>
+    <string name="enter_pin">ፒን ያስገቡ</string>
+    <string name="pin_matched">ፒን ተዛመደ</string>
+    <string name="confirm_pin">ፒን ያረጋግጡ</string>
+    <string name="pin_chahnged">ፒን በተሳካ ሁኔታ ተለውጧል</string>
+    <string name="pin_not_matched">ፒን አልተዛመደም</string>
+    <string name="incorrect_pin">የተሳሳተ ፒን</string>
+    <string name="settings_set_pin">ፒን ያዘጋጁ</string>
+    <string name="change_pin">ፒን ይቀይሩ</string>
+    <string name="settings_set_pin_description">አዲስ ፒን ያዘጋጁ</string>
+    <string name="create_new_pin">አዲስ ፒን ይፍጠሩ</string>
+    <string name="home">ቤት</string>
+    <string name="settings_change_pin_description">ነባር ፒንዎን ይቀይሩ</string>
+    <string name="message_pin_changed">ፒን በተሳካ ሁኔታ ተለውጧል</string>
+    <string name="non_protected">ያልተጠበቀ</string>
+    <string name="status_protected">የተጠበቀ</string>
+    <string name="starting_hour">ሰዓት መጀመር</string>
+    <string name="ending_hour">ማለቂያ ሰዓት</string>
+    <string name="auto_start_p">ራስ-አሂድ ፈቃድ</string>
+    <string name="permission_usage_access_description1">የራስ-አሂድ አማራጭን ይክፈቱ</string>
+
+
+    <string name="privat_browser">የግል አሳሽ</string>
+    <string name="prem_title">ፕሪሚየም ስሪት ለዘላለም</string>
+    <string name="prem_no_ads">ለዘላለም ምንም ማስታወቂያዎች የሉም</string>
+    <string name="prem_restore">ግዢን ወደነበረበት ይመልሱ</string>
+
+    <string name="please_give_us_five_stars">እባክዎን በ Google Play ላይ አምስት ኮከቦችን ይስጡን! እኛ በጣም እናደንቃለን!</string>
+    <string name="great_tex">በጣም ጥሩ!</string>
+    <string name="choose_the_icon">አዶውን ይምረጡ እና የመጀመሪያ አዶው ይለወጣል። ይህን መተግበሪያ ከወራሪዎች ደብቅ</string>
+    <string name="app_name1">ሰዓት</string>
+    <string name="app_name2">ካርታዎች</string>
+    <string name="app_name3">የቀን መቁጠሪያ</string>
+    <string name="app_name4">ሙዚቃ</string>
+    <string name="app_name5">ካልኩሌተር</string>
+
+    <string name="callblocker_black">ጥቁር ዝርዝር</string>
+    <string name="callblocker_logs">የምዝግብ ማስታወሻዎችን ይደውሉ</string>
+    <string name="icon_change_title">አዶዎች</string>
+    <string name="intruders_title">አጥቂ</string>
+    <string name="intruders_access_apps">መተግበሪያዎችን ከአጠቃቀም ጋር ይድረሱባቸው</string>
+    <string name="main_unlocked">ተከፍቷል</string>
+    <string name="main_locked">ተቆል .ል</string>
+    <string name="prem_not_sub">ይህ የደንበኝነት ምዝገባ አይደለም። እርስዎ የሚከፍሉት አንዴ ብቻ ነው!</string>
+    <string name="prem_fake_icon">የውሸት አዶ</string>
+    <string name="prem_intruders">አጥቂ የራስ ፎቶ</string>
+    <string name="prem_themes">ተጨማሪ የፈጠራ ገጽታዎች</string>
+    <string name="prem_one_time">የአንድ ጊዜ ክፍያ</string>
+    <string name="splash_create">የእርስዎን ግላዊነት ለመጠበቅ የተፈጠረ</string>
+    <string name="vault_photos">ፎቶዎች</string>
+    <string name="vault_videos">ቪዲዮዎች</string>
+    <string name="btn_ok">እሺ</string>
+    <string name="dialog_intruder_text">ፎቶውን መሰረዝ ይፈልጋሉ?</string>
+    <string name="btn_cancel">መሰረዝ</string>
+    <string name="fragment_security_text">ኦፕስ! \n ገና የተቆለፉ መተግበሪያዎች የሉዎትም</string>
+    <string name="settings_security">ደህንነት</string>
+    <string name="settings_face_icon">የውሸት አዶ</string>
+    <string name="settings_face_icon_text">የዚህ መተግበሪያ የመጀመሪያ አዶ ይቀየራል</string>
+    <string name="rate_us_enjoying">በ AppLock እየተደሰቱ ነው?</string>
+    <string name="rate_us_could_be">የተሻለ ሊሆን ይችላል</string>
+    <string name="menu_privacy">የ ግል የሆነ</string>
+    <string name="menu_contact">አግኙን</string>
+    <string name="menu_face_icon">የውሸት አዶ</string>
+    <string name="menu_intruder">የወራጅ ሥራ አስኪያጅ</string>
+    <string name="menu_chat">የመወያያ ክፍል</string>
+</resources>

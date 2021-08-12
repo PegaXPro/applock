@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">Ynstellings</string>
+
+
+
+    <string name="share">Diele</string>
+
+    <string name="notification_protecting_title">Jo apps beskermje</string>
+
+    <string name="notification_protecting_description">Beskoattelje jo apps om jo privacy te beskermjen.</string>
+
+    <string name="notification_permission_need_title">Tastean tastimming ta beskerming</string>
+
+    <string name="notification_permission_need_description">Skakel jo tagongsrjochten yn om app-locker te brûken.</string>
+    <string name="you_accept_privacy_policy">Troch trochgean jo akkoard mei de<u> Privacy Belied</u> </string>
+
+    <string name="header_recommended_to_lock">Oanrikkemandearre om te sluten</string>
+    <string name="header_all_apps">Alle applikaasjes</string>
+
+    <string name="title_general_settings">Algemien</string>
+
+    <string name="title_lock_all">Alle beskoattelje</string>
+    <string name="description_lock_all">Dit sil al jo apps beskoattelje</string>
+
+
+    <string name="title_unlock_all">Alles ûntsluten</string>
+
+    <string name="description_unlock_all">Dit sil al jo apps ûntsluten</string>
+    <string name="settings_change_pattern_title">Patroan feroarje</string>
+
+    <string name="settings_change_pattern_description">Feroarje jo besteande patroan</string>
+    <string name="message_pattern_changed">Patroan is suksesfol feroare</string>
+
+    <string name="setting_in_stealth_mode_title">Tekening ferbergje</string>
+    <string name="setting_in_stealth_mode_description">Visnsichtber patroan by tekenjen</string>
+    <string name="setting_fingerprint_title">Fingerprint ynskeakelje</string>
+
+    <string name="setting_fingerprint_description">Start app mei jo fingerprint.</string>
+    <string name="setting_fingerprint_not_supported_title">Fingerprint wurdt net stipe</string>
+
+    <string name="setting_fingerprint_not_supported_description">Jo apparaat hat gjin sensor</string>
+    <string name="setting_fingerprint_not_registered_title">Registrearje jo fingerprint</string>
+
+    <string name="setting_fingerprint_not_registered_description">Gean nei befeiligingsynstellings</string>
+    <string name="next">Folgjende</string>
+
+    <string name="permission_usage_access_title">Tastimming foar gebrûk foar tagong</string>
+    <string name="permission_usage_access_description">Brûk tagong tagong ta om app-locker te brûken.</string>
+
+    <string name="permission_overlay_title">Fergunning foar beskoattelje skerm</string>
+
+    <string name="settings_card_intruders_title">Fang ynbrekkers</string>
+    <string name="settings_enable_intruders_title">Nim ynbrekkers foto</string>
+    <string name="settings_enable_intruders_description">Ynskeakelje ynbrekkers te fangen.</string>
+
+    <string name="settings_intruders_folder_title">Fongen ynbrekkersfoto\'s</string>
+    <string name="settings_intruders_folder_description">Klikje om spionnen op jo tillefoan te sjen.</string>
+
+    <string name="settings_card_advance_protection_title">Foarôf beskerming</string>
+    <string name="settings_enable_advance_protection_title">Aktivearje foarôf beskerming</string>
+    <string name="settings_enable_advance_protection_description">Om Advance Protection yn te skeakeljen, aktivearje asjebleaft App Lock Pro as "apparaatbehearder". It wurdt allinich brûkt om te foarkommen dat ynbrekkers App Lock Pro ferwiderje en stopje stopje. Soargje derfoar dat App Lock Pro dizze tastimming noait sil brûke om tagong te krijen ta jo privacy-gegevens ,</string>
+    <string name="device_admin_permission_description">Aktivearje no, foarôf beskerming en feiliger! \n\nOm Advance Protection yn te skeakeljen, aktivearje asjebleaft App Lock Pro as "apparaatbehearder". It wurdt allinich brûkt foar foarkommen fan ynbrekkers dy\'t de app Lock Pro ferwiderje en twinge stopje. Soargje derfoar dat App Lock Pro dizze tastimming noait sil brûke tagong ta jo privacy gegevens.</string>
+
+
+    <string name="permission_overlay_description">Ynskeakelje overlay om it slotskerm te sjen.</string>
+    <string name="permission_toast_enable_permissions">Stel tagongsrjochten yn om app-locker te brûken</string>
+
+    <string name="draw_pattern_title">Meitsje in nij patroan</string>
+    <string name="redraw_pattern_title">Opnij tekenje om te foltôgjen</string>
+
+    <string name="recreate_pattern_error">Patroan komt net oerien. Opnij tekenje.</string>
+
+    <string name="create_pattern_successful">Mei sukses oanmakke.</string>
+    <string name="overlay_prompt_pattern_title">Tekenje patroan om app te iepenjen</string>
+    <string name="overlay_prompt_pattern_title_wrong">Ferkeard patroan. Tekenje nochris.</string>
+    <string name="overlay_prompt_pattern_title_correct">Patroan korrekt.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Tekenje patroan om app te iepenjen</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Net + oanpast. + %1$s + oer.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Fingerprint oanpast!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Fingerprint flater! Besykje patroan.</string>
+    <string name="dialog_title_rate_us">Hawwe jo Secure Zone leuk?</string>
+    <string name="dialog_description_rate_us">Wy sille sa bliid wêze as jo ús op \'e merk wurdearje.</string>
+    <string name="dialog_action_rate_us_rate">Taryf</string>
+
+    <string name="dialog_action_rate_us_later">Letter</string>
+    <string name="dialog_title_usage_permission">Android 5.0 Tastimming</string>
+    <string name="dialog_description_usage_permission">Yn Android 5.0 of heger moatte jo tagongsrjochten foar gebrûk tastean foar
+        AppLocker, sadat jo Secure Zone Feature kinne brûke</string>
+    <string name="dialog_action_usage_permission_permit">Fergunning</string>
+
+    <string name="dialog_action_usage_permission_cancel">Ofbrekke</string>
+    <string name="dialog_title_privacy_policy">Privacy Belied</string>
+    <string name="dialog_description_privacy_policy">Wy hawwe ús privacybelied bywurke. Troch trochgean jo akkoard mei de<u> Privacy Belied</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Oannimme</string>
+
+    <string name="hint_browser_search">URL sykje of ynfiere</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Surfje op it ynternet. Feilich.</string>
+    <string name="bookmarks">Blêdwizers</string>
+    <string name="title_name_unknown_number">Unbekend nûmer</string>
+
+
+
+    <string name="blacklist_empty_title">Blacklist is leech</string>
+    <string name="blacklist_empty_description">Klikje om telefoannûmer te blokkearjen</string>
+    <string name="call_log_empty_title">Gjin logs</string>
+
+    <string name="call_log_empty_description">Log ferskynt hjir as oprop is blokkearre</string>
+    <string name="dialog_add_to_blacklist_title">Telefoannûmer blokkearje</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Namme (Opsjoneel)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Telefoannûmer ynfiere</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Ofbrekke</string>
+    <string name="dialog_black_list_delete_title">Wiskje fan swarte list</string>
+    <string name="dialog_black_list_delete_description">Wolle jo blokkearre nûmer fuortsmite fan \'e swarte list?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Ofbrekke</string>
+    <string name="dialog_title_add_to_vault">Bewurking</string>
+    <string name="dialog_description_process">Jo media wurdt fuortsmiten út galery en tafoeget oan jo ferwulft.</string>
+
+    <string name="dialog_title_removal_confirmation">Befêstiging foar ferwidering</string>
+    <string name="dialog_description_removal">Dit bestân sil fuortsmite fan ferwulft en sjen litte yn galery.</string>
+    <string name="dialog_action_removal_confirmation_accept">Oannimme</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault is leech</string>
+    <string name="vault_photo_empty_page_description">Ikoan tafoegje om foto\'s út \'e galery te ferbergjen</string>
+    <string name="vault_video_empty_page_title">Video Vault is leech</string>
+
+    <string name="vault_video_empty_page_description">Foegje ikoan ta oan fideofoto\'s út \'e galery</string>
+    <string-array name="tabs">
+        <item>Feiligens</item>
+        <item>Ynstellings</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Blacklist</item>
+        <item>Oprop logs</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Ofbyldings</item>
+        <item>Videos</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">Gjin ynbrekkers fongen</string>
+    <string name="empty_page_intruders_description">Jo tillefoan is feilich!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Call Blocker</string>
+    <string name="browser">Browser</string>
+    <string name="theme">Tema\'s</string>
+    <string name="rate_us">Beoardielje ús</string>
+    <string name="removeads">Premium ferzje</string>
+    <string name="enter_pin">Fier pin yn</string>
+    <string name="pin_matched">Pin oanpast</string>
+    <string name="confirm_pin">Befestigje pin</string>
+    <string name="pin_chahnged">Pin suksesfol feroare</string>
+    <string name="pin_not_matched">Pin net oerien</string>
+    <string name="incorrect_pin">Ferkearde pin</string>
+    <string name="settings_set_pin">Pin ynstelle</string>
+    <string name="change_pin">Pin feroarje</string>
+    <string name="settings_set_pin_description">Stel nije pin yn</string>
+    <string name="create_new_pin">Meitsje in nije pin</string>
+    <string name="home">Thús</string>
+    <string name="settings_change_pin_description">Feroarje jo besteande pin</string>
+    <string name="message_pin_changed">Pin suksesfol wizige</string>
+    <string name="non_protected">Net beskerme</string>
+    <string name="status_protected">Beskermd</string>
+    <string name="starting_hour">Startoere</string>
+    <string name="ending_hour">Ein oere</string>
+    <string name="auto_start_p">tastimming foar automatyske run</string>
+    <string name="permission_usage_access_description1">iepenje de auto-run-opsje</string>
+
+
+    <string name="privat_browser">Private Browser</string>
+    <string name="prem_title">Premium Ferzje foar altyd</string>
+    <string name="prem_no_ads">Gjin AD\'s foar altyd</string>
+    <string name="prem_restore">Oankeap weromstjoere</string>
+
+    <string name="please_give_us_five_stars">Jou ús asjebleaft fiif stjerren op Google Play! Wy soene it in soad wurdearje!</string>
+    <string name="great_tex">Grut!</string>
+    <string name="choose_the_icon">Kies it byldkaike en it orizjinele ikoan sil feroare wurde. Ferbergje dizze app foar ynbrekkers</string>
+    <string name="app_name1">Klok</string>
+    <string name="app_name2">Kaarten</string>
+    <string name="app_name3">Kalinder</string>
+    <string name="app_name4">Muzyk</string>
+    <string name="app_name5">Rekkenmasine</string>
+
+    <string name="callblocker_black">Swarte list</string>
+    <string name="callblocker_logs">Oprop logs</string>
+    <string name="icon_change_title">Ikoanen</string>
+    <string name="intruders_title">Ynkringer</string>
+    <string name="intruders_access_apps">Tagong ta apps mei gebrûk</string>
+    <string name="main_unlocked">Untskoattele</string>
+    <string name="main_locked">Fergrendele</string>
+    <string name="prem_not_sub">Dit is gjin abonnemint. Jo betelje mar ien kear!</string>
+    <string name="prem_fake_icon">Falske byldkaike</string>
+    <string name="prem_intruders">Ynbrekker selfie</string>
+    <string name="prem_themes">Mear kreative tema\'s</string>
+    <string name="prem_one_time">Ienmalige betelling</string>
+    <string name="splash_create">Makke om jo privacy te beskermjen</string>
+    <string name="vault_photos">Foto\'s</string>
+    <string name="vault_videos">Videos</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">Wolle jo de foto wiskje?</string>
+    <string name="btn_cancel">ANNULEREER</string>
+    <string name="fragment_security_text">Opps! \n Jo hawwe noch gjin apps beskoattele</string>
+    <string name="settings_security">Feiligens</string>
+    <string name="settings_face_icon">Falske byldkaike</string>
+    <string name="settings_face_icon_text">It orizjinele ikoan fan dizze app sil feroare wurde</string>
+    <string name="rate_us_enjoying">Genietsje jo fan AppLock?</string>
+    <string name="rate_us_could_be">it koe better</string>
+    <string name="menu_privacy">Privacy Belied</string>
+    <string name="menu_contact">Kontakt mei ús opnimme</string>
+    <string name="menu_face_icon">Falske byldkaike</string>
+    <string name="menu_intruder">Ynbrekker behearder</string>
+    <string name="menu_chat">Petearkeamer</string>
+</resources>

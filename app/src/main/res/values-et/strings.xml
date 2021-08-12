@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">Seaded</string>
+
+
+
+    <string name="share">Jaga</string>
+
+    <string name="notification_protecting_title">Rakenduste kaitsmine</string>
+
+    <string name="notification_protecting_description">Privaatsuse kaitsmiseks lukustage rakendused.</string>
+
+    <string name="notification_permission_need_title">Luba kaitseks luba</string>
+
+    <string name="notification_permission_need_description">Rakenduse kapi kasutamiseks lubage oma õigused.</string>
+    <string name="you_accept_privacy_policy">Jätkates nõustute järgmisega:<u> Privaatsuspoliitika</u> </string>
+
+    <string name="header_recommended_to_lock">Soovitatav lukustada</string>
+    <string name="header_all_apps">Kõik rakendused</string>
+
+    <string name="title_general_settings">Kindral</string>
+
+    <string name="title_lock_all">Lukusta kõik</string>
+    <string name="description_lock_all">See lukustab kõik teie rakendused</string>
+
+
+    <string name="title_unlock_all">Ava kõik</string>
+
+    <string name="description_unlock_all">See avab kõik teie rakendused</string>
+    <string name="settings_change_pattern_title">Muuda mustrit</string>
+
+    <string name="settings_change_pattern_description">Muutke oma olemasolevat mustrit</string>
+    <string name="message_pattern_changed">Muster on edukalt muudetud</string>
+
+    <string name="setting_in_stealth_mode_title">Peida joonistus</string>
+    <string name="setting_in_stealth_mode_description">Joonistamise ajal nähtamatu muster</string>
+    <string name="setting_fingerprint_title">Luba sõrmejälg</string>
+
+    <string name="setting_fingerprint_description">Käivitage rakendus sõrmejäljega.</string>
+    <string name="setting_fingerprint_not_supported_title">Sõrmejälge ei toetata</string>
+
+    <string name="setting_fingerprint_not_supported_description">Teie seadmel pole andurit</string>
+    <string name="setting_fingerprint_not_registered_title">Registreerige oma sõrmejälg</string>
+
+    <string name="setting_fingerprint_not_registered_description">Avage turvaseaded</string>
+    <string name="next">Järgmine</string>
+
+    <string name="permission_usage_access_title">Kasutage juurdepääsu luba</string>
+    <string name="permission_usage_access_description">Rakenduse kapi kasutamiseks lubage kasutamise juurdepääs.</string>
+
+    <string name="permission_overlay_title">Lukusta ekraani luba</string>
+
+    <string name="settings_card_intruders_title">Püüa sissetungijaid</string>
+    <string name="settings_enable_intruders_title">Tehke sissetungijate pilt</string>
+    <string name="settings_enable_intruders_description">Luba sissetungijate püüdmiseks.</string>
+
+    <string name="settings_intruders_folder_title">Püütud sissetungija fotod</string>
+    <string name="settings_intruders_folder_description">Klõpsake oma telefoni luurajate nägemiseks.</string>
+
+    <string name="settings_card_advance_protection_title">Eelkaitse</string>
+    <string name="settings_enable_advance_protection_title">Luba eelkaitse</string>
+    <string name="settings_enable_advance_protection_description">Eelkaitse lubamiseks palun aktiveerige App Lock Pro seadme haldajana. Seda kasutatakse ainult sissetungijate ennetamiseks ja rakenduse App Lock Pro sunniviisiliseks peatamiseks. Veenduge, et App Lock Pro ei kasutaks seda luba teie privaatsusandmetele juurdepääsemiseks .</string>
+    <string name="device_admin_permission_description">Aktiveerige kohe, lisage kaitse ja turvalisem! \n\nEelkaitse lubamiseks aktiveerige palun App Lock Pro seadme administraatorina. Seda kasutatakse ainult sissetungijate ennetamiseks ja rakenduse App Lock Pro sundpidurdamiseks. Veenduge, et App Lock Pro ei kasutaks seda luba pääsete juurde oma privaatsusandmetele.</string>
+
+
+    <string name="permission_overlay_description">Lukustuskuva kuvamiseks lubage ülekate.</string>
+    <string name="permission_toast_enable_permissions">Rakenduse kapi kasutamiseks lubage load</string>
+
+    <string name="draw_pattern_title">Looge uus muster</string>
+    <string name="redraw_pattern_title">Lõpetamiseks joonistage ümber</string>
+
+    <string name="recreate_pattern_error">Muster ei sobi. Joonista ümber.</string>
+
+    <string name="create_pattern_successful">Edukalt loodud.</string>
+    <string name="overlay_prompt_pattern_title">Joonistage rakenduse avamiseks muster</string>
+    <string name="overlay_prompt_pattern_title_wrong">Vale muster. Joonista uuesti.</string>
+    <string name="overlay_prompt_pattern_title_correct">Muster õige.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Joonistage rakenduse avamiseks muster</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Ei + sobinud. + %1$s + jäänud.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Sõrmejälg sobis!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Sõrmejälje viga! Proovige mustrit.</string>
+    <string name="dialog_title_rate_us">Kas teile meeldis turvaline tsoon?</string>
+    <string name="dialog_description_rate_us">Meil on niiiii hea meel, kui hindate meid turul.</string>
+    <string name="dialog_action_rate_us_rate">Hinda</string>
+
+    <string name="dialog_action_rate_us_later">Hiljem</string>
+    <string name="dialog_title_usage_permission">Android 5.0 luba</string>
+    <string name="dialog_description_usage_permission">Android 5.0 või uuemas versioonis peate lubama kasutajale juurdepääsu
+        AppLocker, et saaksite kasutada turvalise tsooni funktsiooni</string>
+    <string name="dialog_action_usage_permission_permit">Luba</string>
+
+    <string name="dialog_action_usage_permission_cancel">Tühista</string>
+    <string name="dialog_title_privacy_policy">Privaatsuspoliitika</string>
+    <string name="dialog_description_privacy_policy">Oleme värskendanud oma privaatsuseeskirju. Jätkates nõustute järgmisega:<u> Privaatsuspoliitika</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Nõus</string>
+
+    <string name="hint_browser_search">Otsige või sisestage URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchati</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Ohutu. Turvaline. Privaatne.</string>
+    <string name="subtitle_browser_empty">Internetis surfamine. Turvaliselt.</string>
+    <string name="bookmarks">Järjehoidjad</string>
+    <string name="title_name_unknown_number">Tundmatu number</string>
+
+
+
+    <string name="blacklist_empty_title">Must nimekiri on tühi</string>
+    <string name="blacklist_empty_description">Klõpsake telefoninumbri blokeerimiseks</string>
+    <string name="call_log_empty_title">Logisid pole</string>
+
+    <string name="call_log_empty_description">Logi kuvatakse siin, kui kõne on blokeeritud</string>
+    <string name="dialog_add_to_blacklist_title">Blokeeri telefoninumber</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nimi (valikuline)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Sisestage telefoninumber</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Tühista</string>
+    <string name="dialog_black_list_delete_title">Kustuta mustast nimekirjast</string>
+    <string name="dialog_black_list_delete_description">Kas soovite blokeeritud numbri mustast nimekirjast eemaldada?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Tühista</string>
+    <string name="dialog_title_add_to_vault">Töötlemine</string>
+    <string name="dialog_description_process">Teie meedia eemaldatakse galeriist ja lisatakse teie varahoidlasse.</string>
+
+    <string name="dialog_title_removal_confirmation">Eemaldamise kinnitus</string>
+    <string name="dialog_description_removal">See fail eemaldatakse hoidlast ja kuvatakse galeriis.</string>
+    <string name="dialog_action_removal_confirmation_accept">Nõus</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault on tühi</string>
+    <string name="vault_photo_empty_page_description">Fotode galeriist peitmiseks lisage ikoon</string>
+    <string name="vault_video_empty_page_title">Video Vault on tühi</string>
+
+    <string name="vault_video_empty_page_description">Lisage ikoon galerii videofotodele</string>
+    <string-array name="tabs">
+        <item>Turvalisus</item>
+        <item>Seaded</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Must nimekiri</item>
+        <item>Kõnelogid</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Kujutised</item>
+        <item>Videod</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">Sissetungijaid pole tabatud</string>
+    <string name="empty_page_intruders_description">Teie telefon on turvaline!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Kõne blokeerija</string>
+    <string name="browser">Brauser</string>
+    <string name="theme">Teemad</string>
+    <string name="rate_us">Hinnake meid</string>
+    <string name="removeads">Premium versioon</string>
+    <string name="enter_pin">Sisestage PIN-kood</string>
+    <string name="pin_matched">Pin sobis</string>
+    <string name="confirm_pin">Kinnitage PIN-kood</string>
+    <string name="pin_chahnged">PIN-kood on edukalt muudetud</string>
+    <string name="pin_not_matched">PIN-kood ei sobinud</string>
+    <string name="incorrect_pin">Vale tihvt</string>
+    <string name="settings_set_pin">Määra tihvt</string>
+    <string name="change_pin">Muuda tihvti</string>
+    <string name="settings_set_pin_description">Määra uus tihvt</string>
+    <string name="create_new_pin">Looge uus tihvt</string>
+    <string name="home">Kodu</string>
+    <string name="settings_change_pin_description">Muutke oma olemasolevat tihvti</string>
+    <string name="message_pin_changed">Tihvt on edukalt muudetud</string>
+    <string name="non_protected">Kaitsmata</string>
+    <string name="status_protected">Kaitstud</string>
+    <string name="starting_hour">Algusaeg</string>
+    <string name="ending_hour">Lõpptund</string>
+    <string name="auto_start_p">automaatkäivitamise luba</string>
+    <string name="permission_usage_access_description1">avage suvand automaatkäivitus</string>
+
+
+    <string name="privat_browser">Privaatne brauser</string>
+    <string name="prem_title">Premium versioon igavesti</string>
+    <string name="prem_no_ads">Igavesti reklaame pole</string>
+    <string name="prem_restore">Taasta ost</string>
+
+    <string name="please_give_us_five_stars">Palun andke meile Google Playis viis tärni! Me hindaksime seda väga!</string>
+    <string name="great_tex">Suurepärane!</string>
+    <string name="choose_the_icon">Valige ikoon ja algset ikooni muudetakse. Peida see rakendus sissetungijate eest</string>
+    <string name="app_name1">Kell</string>
+    <string name="app_name2">Kaardid</string>
+    <string name="app_name3">Kalender</string>
+    <string name="app_name4">Muusika</string>
+    <string name="app_name5">Kalkulaator</string>
+
+    <string name="callblocker_black">Must nimekiri</string>
+    <string name="callblocker_logs">Kõnelogid</string>
+    <string name="icon_change_title">Ikoonid</string>
+    <string name="intruders_title">Sissetungija</string>
+    <string name="intruders_access_apps">Juurdepääs rakendustele kasutamisega</string>
+    <string name="main_unlocked">Lukustamata</string>
+    <string name="main_locked">Lukustatud</string>
+    <string name="prem_not_sub">See pole tellimus. Maksate ainult üks kord!</string>
+    <string name="prem_fake_icon">Võltsikoon</string>
+    <string name="prem_intruders">Sissetungija selfie</string>
+    <string name="prem_themes">Loovamad teemad</string>
+    <string name="prem_one_time">Ühekordne makse</string>
+    <string name="splash_create">Loodud teie privaatsuse kaitsmiseks</string>
+    <string name="vault_photos">Fotod</string>
+    <string name="vault_videos">Videod</string>
+    <string name="btn_ok">Okei</string>
+    <string name="dialog_intruder_text">Kas soovite foto kustutada?</string>
+    <string name="btn_cancel">TÜHISTA</string>
+    <string name="fragment_security_text">Vabandust! \n Teil pole veel lukustatud rakendusi</string>
+    <string name="settings_security">Turvalisus</string>
+    <string name="settings_face_icon">Võltsikoon</string>
+    <string name="settings_face_icon_text">Selle rakenduse algset ikooni muudetakse</string>
+    <string name="rate_us_enjoying">Kas teile meeldib AppLock?</string>
+    <string name="rate_us_could_be">see võiks olla parem</string>
+    <string name="menu_privacy">Privaatsuspoliitika</string>
+    <string name="menu_contact">Võta meiega ühendust</string>
+    <string name="menu_face_icon">Võltsikoon</string>
+    <string name="menu_intruder">Sissetungijate juht</string>
+    <string name="menu_chat">Jututuba</string>
+</resources>

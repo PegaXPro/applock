@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Zvirongwa</string>
+
+  
+
+    <string name="share">Goverana</string>
+
+    <string name="notification_protecting_title">Kudzivirira maapplication ako</string>
+
+    <string name="notification_protecting_description">Kiya maapplication ako kuti uchengetedze zvakavanzika zvako.</string>
+
+    <string name="notification_permission_need_title">Gonesa mvumo yekudzivirira</string>
+
+    <string name="notification_permission_need_description">Ndokumbirawo ugone kubvumidza ako mvumo yekushandisa app kukiya</string>
+    <string name="you_accept_privacy_policy">Nokuramba uchibvumirana<u> Yakavanzika Mutemo</u> </string>
+
+    <string name="header_recommended_to_lock">Yakurudzirwa kukiya</string>
+    <string name="header_all_apps">Zvese zvinoshandiswa</string>
+
+    <string name="title_general_settings">General</string>
+
+    <string name="title_lock_all">Kiya zvese</string>
+    <string name="description_lock_all">Izvi zvichavhara zvese zvako zveapp</string>
+
+ 
+    <string name="title_unlock_all">Svinura zvese</string>
+
+    <string name="description_unlock_all">Izvi zvichavhura zvese zvako maapp</string>
+    <string name="settings_change_pattern_title">Chinja maitiro</string>
+
+    <string name="settings_change_pattern_description">Chinja maitiro ako aripo</string>
+    <string name="message_pattern_changed">Muenzaniso wakachinja zvinobudirira</string>
+
+    <string name="setting_in_stealth_mode_title">Viga kudhirowa</string>
+    <string name="setting_in_stealth_mode_description">Pasina kuoneka patani</string>
+    <string name="setting_fingerprint_title">Bvumira zvigunwe zveminwe</string>
+
+    <string name="setting_fingerprint_description">Vhura purogiramu neminwe yako yeminwe.</string>
+    <string name="setting_fingerprint_not_supported_title">Fingerprint haina kutsigirwa</string>
+
+    <string name="setting_fingerprint_not_supported_description">Chishandiso chako hachina sensor</string>
+    <string name="setting_fingerprint_not_registered_title">Nyoresa chigunwe chako</string>
+
+    <string name="setting_fingerprint_not_registered_description">Enda kunzvimbo dzekuchengetedza</string>
+    <string name="next">Inotevera</string>
+
+    <string name="permission_usage_access_title">Kushandisa mvumo yekuwana</string>
+    <string name="permission_usage_access_description">Bvumira maekisesaizi ekushandisa kushandisa app locker.</string>
+
+    <string name="permission_overlay_title">Kiya chidzitiro mvumo</string>
+
+    <string name="settings_card_intruders_title">Kubata Vanovhiringidza</string>
+    <string name="settings_enable_intruders_title">Tora vafambi mufananidzo</string>
+    <string name="settings_enable_intruders_description">Bvumira kubata vapambi.</string>
+
+    <string name="settings_intruders_folder_title">Mifananidzo yakabatwa</string>
+    <string name="settings_intruders_folder_description">Dzvanya kuti uone vasori pafoni yako.</string>
+
+    <string name="settings_card_advance_protection_title">Mberi Kudzivirirwa</string>
+    <string name="settings_enable_advance_protection_title">Ita kuti kuchengetedzwa kwepamberi</string>
+    <string name="settings_enable_advance_protection_description">Kugonesa Advance Kudzivirirwa, ndapota shandisa App Lock Pro se "mudziyo wedhairekitori" .Iyo inoshandiswa chete kudzivirira vapambi kusabvisa uye kumanikidza kumisa App Lock Pro.Ndokumbira kuti uve nechokwadi chekuti App Lock Pro haizomboshandisa mvumo iyi kuwana yako yakavanzika data .</string>
+    <string name="device_admin_permission_description">Activate izvozvi, kumberi kudzivirirwa uye chengeteka! \n\nKugonesa Advance Kudzivirirwa, ndapota ita App Lock Pro se "mudziyo maneja" .Iyo inoshandiswa chete kudzivirira vapambi kusabvisa uye kumanikidza kumisa App Lock Pro. Ndokumbira uve nechokwadi chekuti App Lock Pro haizomboshandisa iyi mvumo tsvaga yako yakavanzika data.</string>
+
+
+    <string name="permission_overlay_description">Bvumira kufukidza kuratidza kukiya skrini.</string>
+    <string name="permission_toast_enable_permissions">Bvumira mvumo yekushandisa app kukiya</string>
+
+    <string name="draw_pattern_title">Gadzira iyo nyowani pateni</string>
+    <string name="redraw_pattern_title">Dhirowa kuti upedze</string>
+
+    <string name="recreate_pattern_error">Pattern haina kuenderana. Dzorera zvakare.</string>
+
+    <string name="create_pattern_successful">Yakabudirira kugadzirwa.</string>
+    <string name="overlay_prompt_pattern_title">Dhirowa pateni kuvhura app</string>
+    <string name="overlay_prompt_pattern_title_wrong">Patani isiriyo. Dhirowa zvakare.</string>
+    <string name="overlay_prompt_pattern_title_correct">Muenzaniso wakarurama.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Dhirowa pateni kuvhura app</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Kwete + kuenderana. + %1$s + yasara.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Fingerprint yakafanana!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Fingerprint kukanganisa! Edza pateni.</string>
+    <string name="dialog_title_rate_us">Wakafarira Nzvimbo Yakachengeteka?</string>
+    <string name="dialog_description_rate_us">Tichava vanofara sooo Kana iwe ukatiyera isu pamusika.</string>
+    <string name="dialog_action_rate_us_rate">Rate</string>
+
+    <string name="dialog_action_rate_us_later">Gare gare</string>
+    <string name="dialog_title_usage_permission">Android 5.0 Mvumo</string>
+    <string name="dialog_description_usage_permission">Mu = Android 5.0 kana pamusoro, iwe unofanirwa kubvumidza kushandiswa kwekushandisa kwe
+        AppLocker, kuitira kuti iwe ugone kushandisa Yakachengeteka Zone Feature</string>
+    <string name="dialog_action_usage_permission_permit">Mvumo</string>
+
+    <string name="dialog_action_usage_permission_cancel">Kanzura</string>
+    <string name="dialog_title_privacy_policy">Yakavanzika Mutemo</string>
+    <string name="dialog_description_privacy_policy">Isu takavandudza yedu yekuvanzika. Nokuramba uchibvumirana<u> Yakavanzika Mutemo</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Gamuchira</string>
+
+    <string name="hint_browser_search">Tsvaga kana pinda URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Yakachengeteka.Security.</string>
+    <string name="subtitle_browser_empty">Ongorora paInternet. Zvakachengeteka.</string>
+    <string name="bookmarks">Mabhukumaki</string>
+    <string name="title_name_unknown_number">Nhamba Isingazivikanwe</string>
+
+
+
+    <string name="blacklist_empty_title">Blacklist haina chinhu</string>
+    <string name="blacklist_empty_description">Dzvanya kuvhara nhamba yefoni</string>
+    <string name="call_log_empty_title">Hapana Matanda</string>
+
+    <string name="call_log_empty_description">Rogi inoonekwa pano kana kufona kwakavharwa</string>
+    <string name="dialog_add_to_blacklist_title">Bvisa nhamba yefoni</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Zita (Zvingakudetsera)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Pinda nhamba yefoni</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Kanzura</string>
+    <string name="dialog_black_list_delete_title">Delete kubva ku blacklist</string>
+    <string name="dialog_black_list_delete_description">Iwe unoda kubvisa yakavharirwa nhamba kubva kune nhema runyorwa?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Kanzura</string>
+    <string name="dialog_title_add_to_vault">Kugadzira</string>
+    <string name="dialog_description_process">Midhiya yako iri kubvisa kubva kugalari uye ichiwedzera kune yako vault.</string>
+
+    <string name="dialog_title_removal_confirmation">Kubvisa Kusimbiswa</string>
+    <string name="dialog_description_removal">Iyi faira ichabvisa kubva mudura uye kuratidza mune gallery.</string>
+    <string name="dialog_action_removal_confirmation_accept">Gamuchira</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault haina chinhu</string>
+    <string name="vault_photo_empty_page_description">Wedzera icon kuviga mapikicha kubva kugalari</string>
+    <string name="vault_video_empty_page_title">Vhidhiyo Vault haina chinhu</string>
+
+    <string name="vault_video_empty_page_description">Wedzera icon kumavhidhiyo mafoto kubva kugalari</string>
+    <string-array name="tabs">
+        <item>Kuchengeteka</item>
+        <item>Zvirongwa</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Vakasarudzika</item>
+        <item>Fona matanda</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Mifananidzo</item>
+        <item>Mavhidhiyo</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Hapana Vapambi Vakabatwa</string>
+    <string name="empty_page_intruders_description">Foni yako yakachengeteka!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Fonera Blocker</string>
+    <string name="browser">Bhurawuza</string>
+    <string name="theme">Themes</string>
+    <string name="rate_us">Kuyera isu</string>
+    <string name="removeads">Premium vhezheni</string>
+    <string name="enter_pin">Pinda pini</string>
+    <string name="pin_matched">Pin zvakaenzana</string>
+    <string name="confirm_pin">Simbisa pini</string>
+    <string name="pin_chahnged">Pini yakachinja zvinobudirira</string>
+    <string name="pin_not_matched">Pini haina kuenzana</string>
+    <string name="incorrect_pin">Pini isiriyo</string>
+    <string name="settings_set_pin">Gadza pini</string>
+    <string name="change_pin">Chinja pini</string>
+    <string name="settings_set_pin_description">Gadza pini nyowani</string>
+    <string name="create_new_pin">Gadzira pini nyowani</string>
+    <string name="home">Kumba</string>
+    <string name="settings_change_pin_description">Chinja pini yako iripo</string>
+    <string name="message_pin_changed">Pini Yakachinjwa Kubudirira</string>
+    <string name="non_protected">Kwete Kudzivirirwa</string>
+    <string name="status_protected">Kudzivirirwa</string>
+    <string name="starting_hour">Kutanga Hora</string>
+    <string name="ending_hour">Kupedza Hora</string>
+    <string name="auto_start_p">auto-mhanya mvumo</string>
+    <string name="permission_usage_access_description1">vhura iyo auto-run sarudzo</string>
+
+
+    <string name="privat_browser">Yakavanzika Bhurawuza</string>
+    <string name="prem_title">Premium Shanduro Nokusingaperi</string>
+    <string name="prem_no_ads">Kwete maADs Nokusingaperi</string>
+    <string name="prem_restore">Dzosera Kutenga</string>
+
+    <string name="please_give_us_five_stars">Ndokumbira utipewo nyeredzi shanu paGoogle Play! Tinogona kuikoshesa zvakanyanya!</string>
+    <string name="great_tex">Hukuru!</string>
+    <string name="choose_the_icon">Sarudza iyo icon uye neyekutanga icon inoshandurwa. Viga Anwendung ichi kubva vapambi</string>
+    <string name="app_name1">Clock</string>
+    <string name="app_name2">Mepu</string>
+    <string name="app_name3">Karenda</string>
+    <string name="app_name4">Mumhanzi</string>
+    <string name="app_name5">Calculator</string>
+
+    <string name="callblocker_black">Dema runyorwa</string>
+    <string name="callblocker_logs">Fona matanda</string>
+    <string name="icon_change_title">Mifananidzo</string>
+    <string name="intruders_title">Anopinza</string>
+    <string name="intruders_access_apps">Tsvaga maapplication nekushandisa</string>
+    <string name="main_unlocked">Yakavhurwa</string>
+    <string name="main_locked">Yakakiiwa</string>
+    <string name="prem_not_sub">Uku hakusi kunyoresa. Iwe unobhadhara kamwe chete!</string>
+    <string name="prem_fake_icon">Fake Icon</string>
+    <string name="prem_intruders">Intruder selfie</string>
+    <string name="prem_themes">Mamwe madingindira ekusika</string>
+    <string name="prem_one_time">Imwe-Nguva Kubhadhara</string>
+    <string name="splash_create">Yakagadzirwa kuchengetedza kuvanzika kwako</string>
+    <string name="vault_photos">Mifananidzo</string>
+    <string name="vault_videos">Mavhidhiyo</string>
+    <string name="btn_ok">Zvakanaka</string>
+    <string name="dialog_intruder_text">Ungada here kudzima pikicha?</string>
+    <string name="btn_cancel">KANZURA</string>
+    <string name="fragment_security_text">Opps! \n Hausati wavhara maapps izvozvi</string>
+    <string name="settings_security">Kuchengeteka</string>
+    <string name="settings_face_icon">Fake Icon</string>
+    <string name="settings_face_icon_text">Ikoni yekutanga yepurogiramu iyi ichashandurwa</string>
+    <string name="rate_us_enjoying">Uri kunakidzwa neAppLock?</string>
+    <string name="rate_us_could_be">zvingave zvirinani</string>
+    <string name="menu_privacy">Yakavanzika Mutemo</string>
+    <string name="menu_contact">Taura nesu</string>
+    <string name="menu_face_icon">Fake Icon</string>
+    <string name="menu_intruder">Anopinza Mutariri</string>
+    <string name="menu_chat">Chat Chat</string>
+
+</resources>

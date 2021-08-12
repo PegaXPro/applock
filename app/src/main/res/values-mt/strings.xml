@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Settings</string>
+
+  
+
+    <string name="share">Aqsam</string>
+
+    <string name="notification_protecting_title">Tħares l-apps tiegħek</string>
+
+    <string name="notification_protecting_description">Imblokka l-applikazzjonijiet tiegħek biex tipproteġi l-privatezza tiegħek.</string>
+
+    <string name="notification_permission_need_title">Jippermetti permess għall-protezzjoni</string>
+
+    <string name="notification_permission_need_description">Jekk jogħġbok ħalli l-permessi tiegħek biex tuża l-app locker.</string>
+    <string name="you_accept_privacy_policy">Billi tkompli taqbel mal-<u> Regoli tal-privatezza</u> </string>
+
+    <string name="header_recommended_to_lock">Irrakkomandat li tissakkar</string>
+    <string name="header_all_apps">L-applikazzjonijiet kollha</string>
+
+    <string name="title_general_settings">Ġenerali</string>
+
+    <string name="title_lock_all">Illokkja kollox</string>
+    <string name="description_lock_all">Dan jissakkar l-applikazzjonijiet kollha tiegħek</string>
+
+ 
+    <string name="title_unlock_all">Nisfruttaw kollha</string>
+
+    <string name="description_unlock_all">Dan se jiftaħ l-applikazzjonijiet kollha tiegħek</string>
+    <string name="settings_change_pattern_title">Bidla fil-mudell</string>
+
+    <string name="settings_change_pattern_description">Ibdel il-mudell eżistenti tiegħek</string>
+    <string name="message_pattern_changed">Il-mudell inbidel b\'suċċess</string>
+
+    <string name="setting_in_stealth_mode_title">Aħbi tpinġija</string>
+    <string name="setting_in_stealth_mode_description">Mudell inviżibbli waqt it-tpinġija</string>
+    <string name="setting_fingerprint_title">Ippermetti l-marki tas-swaba \'</string>
+
+    <string name="setting_fingerprint_description">Tnedija tal-app bil-marki tas-swaba \'tiegħek.</string>
+    <string name="setting_fingerprint_not_supported_title">Il-marki tas-swaba \'mhumiex appoġġjati</string>
+
+    <string name="setting_fingerprint_not_supported_description">It-tagħmir tiegħek m\'għandux senser</string>
+    <string name="setting_fingerprint_not_registered_title">Irreġistra l-marki tas-swaba \'tiegħek</string>
+
+    <string name="setting_fingerprint_not_registered_description">Mur fil-settings tas-sigurtà</string>
+    <string name="next">Li jmiss</string>
+
+    <string name="permission_usage_access_title">Permess għall-aċċess għall-użu</string>
+    <string name="permission_usage_access_description">Ippermetti l-aċċess għall-użu biex tuża app locker.</string>
+
+    <string name="permission_overlay_title">Permess tal-iskrin tal-imblukkar</string>
+
+    <string name="settings_card_intruders_title">Qabda Intrużi</string>
+    <string name="settings_enable_intruders_title">Ħu stampa ta \'l-intrużi</string>
+    <string name="settings_enable_intruders_description">Ippermetti li taqbad intrużi.</string>
+
+    <string name="settings_intruders_folder_title">Ritratti ta \'intruż maqbuda</string>
+    <string name="settings_intruders_folder_description">Ikklikkja biex tara spies fuq it-telefon tiegħek.</string>
+
+    <string name="settings_card_advance_protection_title">Protezzjoni bil-Quddiem</string>
+    <string name="settings_enable_advance_protection_title">Jippermetti protezzjoni bil-quddiem</string>
+    <string name="settings_enable_advance_protection_description">Biex tippermetti Protezzjoni bil-Quddiem, jekk jogħġbok attiva App Lock Pro bħala "amministratur tat-tagħmir". Jintuża biss biex jipprevjeni li l-intrużi jinstallaw u jwaqqfu l-App Lock Pro. Jekk jogħġbok kun żgur li App Lock Pro qatt ma juża dan il-permess biex ikollu aċċess għad-dejta tal-privatezza tiegħek .</string>
+    <string name="device_admin_permission_description">Attiva issa, tavvanza l-protezzjoni u iktar sigur! \n\nBiex tippermetti l-Protezzjoni bil-Quddiem, jekk jogħġbok attivat App Lock Pro bħala "amministratur tat-tagħmir". Jintuża biss biex jipprevjeni l-intrużjoni li tinstalla u twaqqaf il-forza App Lock Pro. Jekk jogħġbok kun żgur li App Lock Pro qatt ma juża dan il-permess biex aċċess għad-dejta tal-privatezza tiegħek.</string>
+
+
+    <string name="permission_overlay_description">Ippermetti overlay biex turi l-iskrin tal-illokkjar.</string>
+    <string name="permission_toast_enable_permissions">Ippermetti l-permessi biex tuża app locker</string>
+
+    <string name="draw_pattern_title">Oħloq mudell ġdid</string>
+    <string name="redraw_pattern_title">Iġbed mill-ġdid biex tlesti</string>
+
+    <string name="recreate_pattern_error">Il-mudell ma jaqbilx. Iġbed mill-ġdid.</string>
+
+    <string name="create_pattern_successful">Maħluq b\'suċċess.</string>
+    <string name="overlay_prompt_pattern_title">Iġbed il-mudell biex tiftaħ l-app</string>
+    <string name="overlay_prompt_pattern_title_wrong">Mudell ħażin. Iġbed mill-ġdid.</string>
+    <string name="overlay_prompt_pattern_title_correct">Disinn korrett.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Iġbed il-mudell biex tiftaħ l-app</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Mhux + imqabbla. + %1$s + xellug.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Marka tas-swaba \'mqabbla!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Żball tal-marki tas-swaba \'! Ipprova mudell.</string>
+    <string name="dialog_title_rate_us">Għoġbok Secure Zone?</string>
+    <string name="dialog_description_rate_us">Inkunu daqshekk kuntenti Jekk tivvalutawna fis-suq.</string>
+    <string name="dialog_action_rate_us_rate">Rata</string>
+
+    <string name="dialog_action_rate_us_later">Aktar tard</string>
+    <string name="dialog_title_usage_permission">Permess Android 5.0</string>
+    <string name="dialog_description_usage_permission">Fl-Android 5.0 jew aktar, għandek tippermetti aċċess għall-użu għal
+        AppLocker, sabiex tkun tista \'tuża Karatteristika ta\' Żona Sikura</string>
+    <string name="dialog_action_usage_permission_permit">Permess</string>
+
+    <string name="dialog_action_usage_permission_cancel">Ikkanċella</string>
+    <string name="dialog_title_privacy_policy">Regoli tal-privatezza</string>
+    <string name="dialog_description_privacy_policy">Aġġornajna l-politika tal-privatezza tagħna. Billi tkompli taqbel mal-<u> Regoli tal-privatezza</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Aċċetta</string>
+
+    <string name="hint_browser_search">Fittex jew daħħal URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Sikur.Sikur.Privat.</string>
+    <string name="subtitle_browser_empty">Surf fuq l-internet. Sikur.</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="title_name_unknown_number">Numru Mhux Magħruf</string>
+
+
+
+    <string name="blacklist_empty_title">Il-lista s-sewda hija vojta</string>
+    <string name="blacklist_empty_description">Ikklikkja biex timblokka n-numru tat-telefon</string>
+    <string name="call_log_empty_title">Ebda Zkuk</string>
+
+    <string name="call_log_empty_description">Ir-reġistru jidher hawn meta s-sejħa tkun imblukkata</string>
+    <string name="dialog_add_to_blacklist_title">Imblokka n-numru tat-telefon</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Isem (Mhux obbligatorju)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Daħħal in-numru tat-telefon</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Ikkanċella</string>
+    <string name="dialog_black_list_delete_title">Ħassar mil-lista s-sewda</string>
+    <string name="dialog_black_list_delete_description">Trid tneħħi n-numru imblukkat mil-lista s-sewda?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Ikkanċella</string>
+    <string name="dialog_title_add_to_vault">Ipproċessar</string>
+    <string name="dialog_description_process">Il-midja tiegħek qed tneħħi mill-gallerija u żżid mal-kaxxa-forti tiegħek.</string>
+
+    <string name="dialog_title_removal_confirmation">Konferma tat-Tneħħija</string>
+    <string name="dialog_description_removal">Dan il-fajl jitneħħa mill-kaxxa-forti u jintwera fil-gallerija.</string>
+    <string name="dialog_action_removal_confirmation_accept">Aċċetta</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault huwa vojt</string>
+    <string name="vault_photo_empty_page_description">Żid ikona biex taħbi r-ritratti mill-gallerija</string>
+    <string name="vault_video_empty_page_title">Video Vault huwa vojt</string>
+
+    <string name="vault_video_empty_page_description">Żid l-ikona mar-ritratti tal-vidjow mill-gallerija</string>
+    <string-array name="tabs">
+        <item>Sigurtà</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Lista sewda</item>
+        <item>Zkuk tas-Sejħiet</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Stampi</item>
+        <item>Vidjows</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Ebda Intruż Maqbud</string>
+    <string name="empty_page_intruders_description">It-telefon tiegħek huwa sigur!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Imblokkatur tas-Sejħiet</string>
+    <string name="browser">Browser</string>
+    <string name="theme">Temi</string>
+    <string name="rate_us">Irratina</string>
+    <string name="removeads">Verżjoni premium</string>
+    <string name="enter_pin">Daħħal il-pin</string>
+    <string name="pin_matched">Pin imqabbel</string>
+    <string name="confirm_pin">Ikkonferma pin</string>
+    <string name="pin_chahnged">Pin inbidel b\'suċċess</string>
+    <string name="pin_not_matched">Pin mhux imqabbel</string>
+    <string name="incorrect_pin">Pin żbaljat</string>
+    <string name="settings_set_pin">Issettja l-pin</string>
+    <string name="change_pin">Ibdel il-pin</string>
+    <string name="settings_set_pin_description">Issettja pin ġdid</string>
+    <string name="create_new_pin">Oħloq pin ġdid</string>
+    <string name="home">Id-dar</string>
+    <string name="settings_change_pin_description">Ibdel il-pin eżistenti tiegħek</string>
+    <string name="message_pin_changed">Pin Inbidel b\'suċċess</string>
+    <string name="non_protected">Mhux Protett</string>
+    <string name="status_protected">Protetti</string>
+    <string name="starting_hour">Siegħa tal-Bidu</string>
+    <string name="ending_hour">Siegħa li Tispiċċa</string>
+    <string name="auto_start_p">permess awtomatiku</string>
+    <string name="permission_usage_access_description1">tiftaħ l-għażla tat-tħaddim awtomatiku</string>
+
+
+    <string name="privat_browser">Browser Privat</string>
+    <string name="prem_title">Verżjoni Premium Għal Dejjem</string>
+    <string name="prem_no_ads">Ebda ADs Għal Dejjem</string>
+    <string name="prem_restore">Irrestawra X-Xiri</string>
+
+    <string name="please_give_us_five_stars">Jekk jogħġbok agħtina ħames stilel fuq Google Play! Napprezzawha ħafna!</string>
+    <string name="great_tex">Kbira!</string>
+    <string name="choose_the_icon">Agħżel l-ikona u l-ikona oriġinali tinbidel. Aħbi din l-app mill-intrużi</string>
+    <string name="app_name1">Arloġġ</string>
+    <string name="app_name2">Mapep</string>
+    <string name="app_name3">Kalendarju</string>
+    <string name="app_name4">Mużika</string>
+    <string name="app_name5">Kalkulatur</string>
+
+    <string name="callblocker_black">Lista sewda</string>
+    <string name="callblocker_logs">Zkuk tas-sejħiet</string>
+    <string name="icon_change_title">Ikoni</string>
+    <string name="intruders_title">Intruż</string>
+    <string name="intruders_access_apps">Aċċess għall-applikazzjonijiet bl-użu</string>
+    <string name="main_unlocked">Jinfetaħ</string>
+    <string name="main_locked">Maqful</string>
+    <string name="prem_not_sub">Din mhix abbonament. Tħallas darba biss!</string>
+    <string name="prem_fake_icon">Ikona Foloz</string>
+    <string name="prem_intruders">Selfie intruż</string>
+    <string name="prem_themes">Temi aktar kreattivi</string>
+    <string name="prem_one_time">Ħlas ta \'Darba</string>
+    <string name="splash_create">Maħluq biex jipproteġi l-privatezza tiegħek</string>
+    <string name="vault_photos">Ritratti</string>
+    <string name="vault_videos">Vidjows</string>
+    <string name="btn_ok">kollox sew</string>
+    <string name="dialog_intruder_text">Tixtieq tħassar ir-ritratt?</string>
+    <string name="btn_cancel">IĊĊANNJA</string>
+    <string name="fragment_security_text">Opps! \n Għad m\'għandekx applikazzjonijiet imsakkra</string>
+    <string name="settings_security">Sigurtà</string>
+    <string name="settings_face_icon">Ikona Foloz</string>
+    <string name="settings_face_icon_text">L-ikona oriġinali ta \'din l-app se tinbidel</string>
+    <string name="rate_us_enjoying">Qed tgawdi AppLock?</string>
+    <string name="rate_us_could_be">jista \'jkun aħjar</string>
+    <string name="menu_privacy">Regoli tal-privatezza</string>
+    <string name="menu_contact">Ikkuntatjana</string>
+    <string name="menu_face_icon">Ikona Foloz</string>
+    <string name="menu_intruder">Maniġer tal-Intruż</string>
+    <string name="menu_chat">Chat Room</string>
+
+</resources>

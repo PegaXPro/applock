@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/coordinatorLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F1F1F1">
+
+
+        <View
+            android:id="@+id/view24"
+            android:layout_width="1dp"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.25"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <View
+            android:id="@+id/view25"
+            android:layout_width="1dp"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.75"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="96dp"
+            android:elevation="10dp"
+            android:text="@string/feedback"
+            android:textColor="@color/colorWhite"
+            android:textSize="32sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.095"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <View
+            android:id="@+id/view26"
+            android:layout_width="0dp"
+            android:layout_height="160dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <View
+            android:id="@+id/view11"
+            android:layout_width="0dp"
+            android:layout_height="90dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_main_back" />
+
+        <View
+            android:id="@+id/view27"
+            android:layout_width="0dp"
+            android:layout_height="500dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/view28" />
+
+        <View
+            android:id="@+id/view28"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/goBack"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/view24"
+            app:layout_constraintTop_toTopOf="@+id/view27"
+            app:srcCompat="@drawable/ic_left_arrow" />
+
+        <RelativeLayout
+            android:id="@+id/hints_block"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_margin="15dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/view26" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:id="@+id/what_unhappy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorTextGray"
+            android:textSize="16sp"
+            android:padding="6dp"
+            android:text="@string/what_unhappy"
+            app:layout_constraintTop_toTopOf="@+id/hints_block"
+            app:layout_constraintStart_toStartOf="@+id/hints_block" />
+
+        <TextView
+                android:id="@+id/hint_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorTextGray"
+                android:textSize="16sp"
+                android:padding="8dp"
+                android:text="@string/hint_1"
+                android:background="@drawable/hints_back"
+                app:layout_constraintTop_toBottomOf="@+id/what_unhappy"
+                app:layout_constraintStart_toStartOf="@+id/hints_block"
+                app:layout_constraintBottom_toTopOf="@id/hint_3"/>
+
+        <TextView
+                android:id="@+id/hint_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorTextGray"
+                android:textSize="16sp"
+                android:padding="8dp"
+                android:text="@string/hint_2"
+                android:background="@drawable/hints_back"
+                app:layout_constraintHorizontal_bias="0.2"
+                app:layout_constraintTop_toBottomOf="@+id/what_unhappy"
+                app:layout_constraintEnd_toEndOf="@+id/hints_block"
+                app:layout_constraintStart_toEndOf="@id/hint_1"
+                app:layout_constraintBottom_toTopOf="@id/hint_4"/>
+
+        <TextView
+                android:id="@+id/hint_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorTextGray"
+                android:textSize="16sp"
+                android:padding="8dp"
+                android:text="@string/hint_3"
+                android:background="@drawable/hints_back"
+                app:layout_constraintTop_toBottomOf="@+id/hint_1"
+                app:layout_constraintStart_toStartOf="@+id/hints_block"
+                app:layout_constraintBottom_toTopOf="@id/hint_5"/>
+
+        <TextView
+                android:id="@+id/hint_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorTextGray"
+                android:textSize="16sp"
+                android:padding="8dp"
+                android:text="@string/hint_4"
+                android:background="@drawable/hints_back"
+                app:layout_constraintHorizontal_bias="0.2"
+                app:layout_constraintTop_toBottomOf="@+id/hint_2"
+                app:layout_constraintStart_toEndOf="@+id/hint_3"
+                app:layout_constraintEnd_toEndOf="@+id/hints_block"
+                app:layout_constraintBottom_toTopOf="@id/hint_6"/>
+
+        <TextView
+                android:id="@+id/hint_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/hints_back"
+                android:padding="8dp"
+                android:text="@string/hint_5"
+                android:textColor="@color/colorTextGray"
+                android:textSize="16sp"
+                app:layout_constraintBottom_toBottomOf="@+id/hints_block"
+                app:layout_constraintStart_toStartOf="@+id/hints_block"
+                app:layout_constraintTop_toBottomOf="@+id/hint_3"/>
+
+        <TextView
+                android:id="@+id/hint_6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorTextGray"
+                android:textSize="16sp"
+                android:padding="8dp"
+                android:text="@string/hint_6"
+                android:background="@drawable/hints_back"
+                app:layout_constraintHorizontal_bias="0.3"
+                app:layout_constraintTop_toBottomOf="@+id/hint_4"
+                app:layout_constraintStart_toEndOf="@+id/hint_5"
+                app:layout_constraintEnd_toEndOf="@+id/hint_4"
+                app:layout_constraintBottom_toBottomOf="@+id/hints_block"/>
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/hints_back"
+            android:inputType="textMultiLine"
+            android:hint="@string/your_feedback"
+            android:textColor="#5740247C"
+            android:gravity="start"
+            android:layout_margin="15dp"
+            android:padding="10dp"
+            android:lines="10"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/hints_block" />
+
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:layout_margin="15dp"
+                android:background="@drawable/new_button_back"
+                android:text="@string/btn_send"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:textAllCaps="true"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent" android:id="@+id/send"/>
+
+
+
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

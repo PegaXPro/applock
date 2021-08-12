@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Stillingar</string>
+
+  
+
+    <string name="share">Deildu</string>
+
+    <string name="notification_protecting_title">Verndaðu forritin þín</string>
+
+    <string name="notification_protecting_description">Læstu forritunum þínum til að vernda friðhelgi þína.</string>
+
+    <string name="notification_permission_need_title">Virkja leyfi til verndar</string>
+
+    <string name="notification_permission_need_description">Vinsamlegast virkjaðu heimildir þínar til að nota forritaskáp.</string>
+    <string name="you_accept_privacy_policy">Með því að halda áfram samþykkir þú<u> Friðhelgisstefna</u> </string>
+
+    <string name="header_recommended_to_lock">Mælt með að læsa</string>
+    <string name="header_all_apps">Allar umsóknir</string>
+
+    <string name="title_general_settings">Almennt</string>
+
+    <string name="title_lock_all">Læstu alla</string>
+    <string name="description_lock_all">Þetta mun læsa öllum forritunum þínum</string>
+
+ 
+    <string name="title_unlock_all">Opnaðu allt</string>
+
+    <string name="description_unlock_all">Þetta opnar öll forritin þín</string>
+    <string name="settings_change_pattern_title">Breyttu mynstri</string>
+
+    <string name="settings_change_pattern_description">Breyttu núverandi mynstri</string>
+    <string name="message_pattern_changed">Mynstri breytt með góðum árangri</string>
+
+    <string name="setting_in_stealth_mode_title">Fela teikningu</string>
+    <string name="setting_in_stealth_mode_description">Ósýnilegt mynstur við teikningu</string>
+    <string name="setting_fingerprint_title">Virkja fingrafar</string>
+
+    <string name="setting_fingerprint_description">Ræstu forritið með fingrafarinu þínu.</string>
+    <string name="setting_fingerprint_not_supported_title">Fingrafar er ekki stutt</string>
+
+    <string name="setting_fingerprint_not_supported_description">Tækið þitt er ekki með skynjara</string>
+    <string name="setting_fingerprint_not_registered_title">Skráðu fingrafarið þitt</string>
+
+    <string name="setting_fingerprint_not_registered_description">Farðu í öryggisstillingar</string>
+    <string name="next">Næst</string>
+
+    <string name="permission_usage_access_title">Notkunaraðgangsleyfi</string>
+    <string name="permission_usage_access_description">Virkja notkunaraðgang til að nota forritaskáp.</string>
+
+    <string name="permission_overlay_title">Leyfi læsiskjás</string>
+
+    <string name="settings_card_intruders_title">Afli boðflenna</string>
+    <string name="settings_enable_intruders_title">Taktu boðflenna mynd</string>
+    <string name="settings_enable_intruders_description">Virkja að ná boðflenna.</string>
+
+    <string name="settings_intruders_folder_title">Aflaði ágengar myndir</string>
+    <string name="settings_intruders_folder_description">Smelltu til að sjá njósnara í símanum þínum.</string>
+
+    <string name="settings_card_advance_protection_title">Fyrirfram vernd</string>
+    <string name="settings_enable_advance_protection_title">Virkja fyrirfram vernd</string>
+    <string name="settings_enable_advance_protection_description">Til að virkja Advance Protection skaltu virkja App Lock Pro sem „tækjastjórnandi“. Það er aðeins notað til að koma í veg fyrir að boðflenna fjarlægi og neyðir stöðvun App Lock Pro. Vinsamlegast vertu viss um að App Lock Pro muni aldrei nota þessa heimild til að fá aðgang að persónuverndargögnum þínum .</string>
+    <string name="device_admin_permission_description">Virkaðu núna, fyrirfram vernd og öruggari! \n\nTil að virkja fyrirframvernd skaltu virkja App Lock Pro sem "tækjastjórnanda". Það er aðeins notað til að koma í veg fyrir að boðflenna fjarlægi og neyðir stöðvun App Lock Pro. Vinsamlegast vertu viss um að App Lock Pro muni aldrei nota þessa heimild til nálgast persónuverndargögn þín.</string>
+
+
+    <string name="permission_overlay_description">Virkja yfirlag til að sýna læsiskjá.</string>
+    <string name="permission_toast_enable_permissions">Virkjaðu heimildir til að nota forritaskáp</string>
+
+    <string name="draw_pattern_title">Búðu til nýtt mynstur</string>
+    <string name="redraw_pattern_title">Endurteikna til að ljúka</string>
+
+    <string name="recreate_pattern_error">Mynstur passar ekki saman. Teikna aftur.</string>
+
+    <string name="create_pattern_successful">Vel búið til.</string>
+    <string name="overlay_prompt_pattern_title">Teiknið mynstur til að opna forritið</string>
+    <string name="overlay_prompt_pattern_title_wrong">Rangt mynstur. Teiknaðu aftur.</string>
+    <string name="overlay_prompt_pattern_title_correct">Mynstur rétt.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Teiknið mynstur til að opna forritið</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Ekki + samsvörun. + %1$s + eftir.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Fingrafar passa!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Fingrafaravilla! Prófaðu mynstur.</string>
+    <string name="dialog_title_rate_us">Fannst þér Secure Zone?</string>
+    <string name="dialog_description_rate_us">Við verðum svoooo ánægð ef þú metur okkur á markað.</string>
+    <string name="dialog_action_rate_us_rate">Gengi</string>
+
+    <string name="dialog_action_rate_us_later">Seinna</string>
+    <string name="dialog_title_usage_permission">Android 5.0 leyfi</string>
+    <string name="dialog_description_usage_permission">Í Android 5.0 eða nýrri útgáfu þarftu að leyfa aðgang að notkun fyrir
+        AppLocker, svo að þú getir notað Secure Zone Feature</string>
+    <string name="dialog_action_usage_permission_permit">Leyfi</string>
+
+    <string name="dialog_action_usage_permission_cancel">Hætta við</string>
+    <string name="dialog_title_privacy_policy">Friðhelgisstefna</string>
+    <string name="dialog_description_privacy_policy">Við höfum uppfært persónuverndarstefnu okkar. Með því að halda áfram samþykkir þú<u> Friðhelgisstefna</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Samþykkja</string>
+
+    <string name="hint_browser_search">Leitaðu eða sláðu inn slóð</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Öruggur. Öruggur. Sérstakur.</string>
+    <string name="subtitle_browser_empty">Vafraðu á internetinu. Örugglega.</string>
+    <string name="bookmarks">Bókamerki</string>
+    <string name="title_name_unknown_number">Óþekkt númer</string>
+
+
+
+    <string name="blacklist_empty_title">Svarti listinn er tómur</string>
+    <string name="blacklist_empty_description">Smelltu til að loka fyrir símanúmer</string>
+    <string name="call_log_empty_title">Engin logs</string>
+
+    <string name="call_log_empty_description">Log birtist hér þegar símtali er lokað</string>
+    <string name="dialog_add_to_blacklist_title">Loka á símanúmer</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nafn (valfrjálst)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Sláðu inn símanúmer</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Hætta við</string>
+    <string name="dialog_black_list_delete_title">Eyða af svörtum lista</string>
+    <string name="dialog_black_list_delete_description">Viltu fjarlægja læst númer af svörtum lista?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Hætta við</string>
+    <string name="dialog_title_add_to_vault">Vinnsla</string>
+    <string name="dialog_description_process">Miðillinn þinn er að fjarlægja úr myndasafni og bætir við gröfina þína.</string>
+
+    <string name="dialog_title_removal_confirmation">Staðfesting flutnings</string>
+    <string name="dialog_description_removal">Þessi skrá mun fjarlægjast úr gröfinni og birtast í myndasafni.</string>
+    <string name="dialog_action_removal_confirmation_accept">Samþykkja</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault er autt</string>
+    <string name="vault_photo_empty_page_description">Bættu við táknmynd til að fela myndir úr myndasafni</string>
+    <string name="vault_video_empty_page_title">Vídeóhvelfing er tóm</string>
+
+    <string name="vault_video_empty_page_description">Bættu táknmynd við myndbandsmyndir úr myndasafni</string>
+    <string-array name="tabs">
+        <item>Öryggi</item>
+        <item>Stillingar</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Svartur listi</item>
+        <item>Símtalaskrár</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Myndir</item>
+        <item>Myndbönd</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Enginn boðflenna náð</string>
+    <string name="empty_page_intruders_description">Síminn þinn er öruggur!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Símtalavörn</string>
+    <string name="browser">Vafri</string>
+    <string name="theme">Þemu</string>
+    <string name="rate_us">Gefðu okkur einkunn</string>
+    <string name="removeads">Premium útgáfa</string>
+    <string name="enter_pin">Sláðu inn pinna</string>
+    <string name="pin_matched">Pinna samsvörun</string>
+    <string name="confirm_pin">Staðfestu pinna</string>
+    <string name="pin_chahnged">Pinna breytt með góðum árangri</string>
+    <string name="pin_not_matched">Pinna passar ekki</string>
+    <string name="incorrect_pin">Rangt pinna</string>
+    <string name="settings_set_pin">Stilltu pinna</string>
+    <string name="change_pin">Skiptu um pinna</string>
+    <string name="settings_set_pin_description">Stilltu nýjan pinna</string>
+    <string name="create_new_pin">Búðu til nýjan pinna</string>
+    <string name="home">Heim</string>
+    <string name="settings_change_pin_description">Skiptu um núverandi pinna</string>
+    <string name="message_pin_changed">Pinna breytt</string>
+    <string name="non_protected">Óvarinn</string>
+    <string name="status_protected">Verndað</string>
+    <string name="starting_hour">Upphafstími</string>
+    <string name="ending_hour">Lokatími</string>
+    <string name="auto_start_p">sjálfvirkt keyrsluheimild</string>
+    <string name="permission_usage_access_description1">opnaðu sjálfkeyrsluvalkostinn</string>
+
+
+    <string name="privat_browser">Einkavafri</string>
+    <string name="prem_title">Premium útgáfa að eilífu</string>
+    <string name="prem_no_ads">Engar auglýsingar að eilífu</string>
+    <string name="prem_restore">Endurheimta Kaup</string>
+
+    <string name="please_give_us_five_stars">Vinsamlegast gefðu okkur fimm stjörnur á Google Play! Við myndum meta það mikið!</string>
+    <string name="great_tex">Frábært!</string>
+    <string name="choose_the_icon">Veldu táknið og upphaflegu tákninu verður breytt. Fela þetta forrit fyrir boðflenna</string>
+    <string name="app_name1">Klukka</string>
+    <string name="app_name2">Kort</string>
+    <string name="app_name3">Dagatal</string>
+    <string name="app_name4">Tónlist</string>
+    <string name="app_name5">Reiknivél</string>
+
+    <string name="callblocker_black">Svartur listi</string>
+    <string name="callblocker_logs">Símtalaskrár</string>
+    <string name="icon_change_title">Tákn</string>
+    <string name="intruders_title">Innrásarher</string>
+    <string name="intruders_access_apps">Fáðu aðgang að forritum með notkun</string>
+    <string name="main_unlocked">Opið</string>
+    <string name="main_locked">Læst</string>
+    <string name="prem_not_sub">Þetta er ekki áskrift. Þú borgar aðeins einu sinni!</string>
+    <string name="prem_fake_icon">Fölsuð táknmynd</string>
+    <string name="prem_intruders">Innrásar selfie</string>
+    <string name="prem_themes">Fleiri skapandi þemu</string>
+    <string name="prem_one_time">Eingreiðsla</string>
+    <string name="splash_create">Búið til til að vernda friðhelgi þína</string>
+    <string name="vault_photos">Myndir</string>
+    <string name="vault_videos">Myndbönd</string>
+    <string name="btn_ok">Allt í lagi</string>
+    <string name="dialog_intruder_text">Viltu eyða myndinni?</string>
+    <string name="btn_cancel">HÆTTA</string>
+    <string name="fragment_security_text">Opps! \n Þú ert ekki með læst forrit ennþá</string>
+    <string name="settings_security">Öryggi</string>
+    <string name="settings_face_icon">Fölsuð táknmynd</string>
+    <string name="settings_face_icon_text">Upprunalega táknmynd þessa forrits verður breytt</string>
+    <string name="rate_us_enjoying">Ert þú að njóta AppLock?</string>
+    <string name="rate_us_could_be">það gæti verið betra</string>
+    <string name="menu_privacy">Friðhelgisstefna</string>
+    <string name="menu_contact">Hafðu samband við okkur</string>
+    <string name="menu_face_icon">Fölsuð táknmynd</string>
+    <string name="menu_intruder">Innrásarstjóri</string>
+    <string name="menu_chat">Spjallsvæði</string>
+
+</resources>

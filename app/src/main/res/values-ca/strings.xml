@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">Configuració</string>
+
+
+
+    <string name="share">Compartir</string>
+
+    <string name="notification_protecting_title">Protecció de les vostres aplicacions</string>
+
+    <string name="notification_protecting_description">Bloqueja les teves aplicacions per protegir la teva privadesa.</string>
+
+    <string name="notification_permission_need_title">Activa el permís de protecció</string>
+
+    <string name="notification_permission_need_description">Si us plau, habiliteu els vostres permisos per utilitzar el bloqueig d\'aplicacions.</string>
+    <string name="you_accept_privacy_policy">En continuar, accepteu el<u> Política de privacitat</u> </string>
+
+    <string name="header_recommended_to_lock">Es recomana bloquejar</string>
+    <string name="header_all_apps">Totes les aplicacions</string>
+
+    <string name="title_general_settings">General</string>
+
+    <string name="title_lock_all">Bloqueja-ho tot</string>
+    <string name="description_lock_all">Això bloquejarà totes les vostres aplicacions</string>
+
+
+    <string name="title_unlock_all">Desbloqueja-ho tot</string>
+
+    <string name="description_unlock_all">Això desbloquejarà totes les vostres aplicacions</string>
+    <string name="settings_change_pattern_title">Canvia el patró</string>
+
+    <string name="settings_change_pattern_description">Canvieu el vostre patró existent</string>
+    <string name="message_pattern_changed">El patró ha canviat correctament</string>
+
+    <string name="setting_in_stealth_mode_title">Amaga el dibuix</string>
+    <string name="setting_in_stealth_mode_description">Patró invisible mentre es dibuixa</string>
+    <string name="setting_fingerprint_title">Activa l\'empremta digital</string>
+
+    <string name="setting_fingerprint_description">Inicieu l\'aplicació amb la vostra empremta digital.</string>
+    <string name="setting_fingerprint_not_supported_title">No s’admet l’empremta digital</string>
+
+    <string name="setting_fingerprint_not_supported_description">El dispositiu no té sensor</string>
+    <string name="setting_fingerprint_not_registered_title">Registra la teva empremta digital</string>
+
+    <string name="setting_fingerprint_not_registered_description">Aneu a la configuració de seguretat</string>
+    <string name="next">Pròxim</string>
+
+    <string name="permission_usage_access_title">Permís d’accés d’ús</string>
+    <string name="permission_usage_access_description">Activa l\'accés d\'ús per utilitzar el bloqueig d\'aplicacions.</string>
+
+    <string name="permission_overlay_title">Permís de pantalla de bloqueig</string>
+
+    <string name="settings_card_intruders_title">Captura els intrusos</string>
+    <string name="settings_enable_intruders_title">Feu una foto d’intrusos</string>
+    <string name="settings_enable_intruders_description">Activa la captura d’intrusos.</string>
+
+    <string name="settings_intruders_folder_title">Fotos capturades d’intrusos</string>
+    <string name="settings_intruders_folder_description">Feu clic per veure espies al vostre telèfon.</string>
+
+    <string name="settings_card_advance_protection_title">Protecció anticipada</string>
+    <string name="settings_enable_advance_protection_title">Activa la protecció anticipada</string>
+    <string name="settings_enable_advance_protection_description">Per habilitar la protecció anticipada, activeu App Lock Pro com a "administrador de dispositius". Només s\'utilitza per evitar la desinstal·lació dels intrusos i aturar forçosament App Lock Pro. Assegureu-vos que App Lock Pro no farà servir mai aquest permís per accedir a les vostres dades de privadesa .</string>
+    <string name="device_admin_permission_description">Activeu-lo ara, avanceu la protecció i sigueu més segur. \n\nPer habilitar la protecció anticipada, activeu App Lock Pro com a "administrador del dispositiu". Només s\'utilitza per evitar la desinstal·lació dels intrusos i forçar la detenció d\'App Lock Pro. Assegureu-vos que App Lock Pro mai utilitzarà aquest permís per accediu a les vostres dades de privadesa.</string>
+
+
+    <string name="permission_overlay_description">Activa la superposició per mostrar la pantalla de bloqueig.</string>
+    <string name="permission_toast_enable_permissions">Activeu els permisos per utilitzar el bloqueig d\'aplicacions</string>
+
+    <string name="draw_pattern_title">Creeu un patró nou</string>
+    <string name="redraw_pattern_title">Redibuixa per completar</string>
+
+    <string name="recreate_pattern_error">El patró no coincideix. Redibuixa.</string>
+
+    <string name="create_pattern_successful">S\'ha creat correctament.</string>
+    <string name="overlay_prompt_pattern_title">Dibuixa el patró per obrir l\'aplicació</string>
+    <string name="overlay_prompt_pattern_title_wrong">Patró incorrecte. Dibuixa de nou.</string>
+    <string name="overlay_prompt_pattern_title_correct">Patró correcte.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Dibuixa el patró per obrir l\'aplicació</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">No coincideix. Queden + %1$s +.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Empremta digital coincident.</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Error d’empremta digital. Prova el patró.</string>
+    <string name="dialog_title_rate_us">Us va agradar Secure Zone?</string>
+    <string name="dialog_description_rate_us">Estarem molt contents si ens valoreu al mercat.</string>
+    <string name="dialog_action_rate_us_rate">Taxa</string>
+
+    <string name="dialog_action_rate_us_later">Més tard</string>
+    <string name="dialog_title_usage_permission">Permís d\'Android 5.0</string>
+    <string name="dialog_description_usage_permission">A Android 5.0 o versions posteriors, heu de permetre l\'accés a l\'ús
+        AppLocker, de manera que pugueu utilitzar la funció de zona segura</string>
+    <string name="dialog_action_usage_permission_permit">Permís</string>
+
+    <string name="dialog_action_usage_permission_cancel">Cancel · lar</string>
+    <string name="dialog_title_privacy_policy">Política de privacitat</string>
+    <string name="dialog_description_privacy_policy">Hem actualitzat la nostra política de privadesa. En continuar, accepteu el<u> Política de privacitat</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Accepta</string>
+
+    <string name="hint_browser_search">Cerqueu o introduïu URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Segur. Segur. Privat.</string>
+    <string name="subtitle_browser_empty">Navega per Internet. De forma segura.</string>
+    <string name="bookmarks">Marcadors</string>
+    <string name="title_name_unknown_number">Número desconegut</string>
+
+
+
+    <string name="blacklist_empty_title">La llista negra està buida</string>
+    <string name="blacklist_empty_description">Feu clic per bloquejar el número de telèfon</string>
+    <string name="call_log_empty_title">Sense registres</string>
+
+    <string name="call_log_empty_description">El registre apareix aquí quan es bloqueja la trucada</string>
+    <string name="dialog_add_to_blacklist_title">Bloqueja el número de telèfon</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nom (opcional)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Introduïu el número de telèfon</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Cancel · lar</string>
+    <string name="dialog_black_list_delete_title">Suprimeix de la llista negra</string>
+    <string name="dialog_black_list_delete_description">Voleu eliminar el número bloquejat de la llista negra?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Cancel · lar</string>
+    <string name="dialog_title_add_to_vault">Processament</string>
+    <string name="dialog_description_process">El contingut multimèdia s’elimina de la galeria i s’afegeix al magatzem.</string>
+
+    <string name="dialog_title_removal_confirmation">Confirmació de l\'eliminació</string>
+    <string name="dialog_description_removal">Aquest fitxer s\'eliminarà del magatzem i es mostrarà a la galeria.</string>
+    <string name="dialog_action_removal_confirmation_accept">Accepta</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault està buit</string>
+    <string name="vault_photo_empty_page_description">Afegeix una icona per amagar les fotos de la galeria</string>
+    <string name="vault_video_empty_page_title">Video Vault és buit</string>
+
+    <string name="vault_video_empty_page_description">Afegeix una icona a les fotos de vídeo de la galeria</string>
+    <string-array name="tabs">
+        <item>Seguretat</item>
+        <item>Configuració</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Llista negra</item>
+        <item>Registres de trucades</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Imatges</item>
+        <item>Vídeos</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">No hi ha cap intrús atrapat</string>
+    <string name="empty_page_intruders_description">El vostre telèfon és segur.</string>
+    <string name="Vault">Volta</string>
+    <string name="Call_blocker">Bloquejador de trucades</string>
+    <string name="browser">Navegador</string>
+    <string name="theme">Temes</string>
+    <string name="rate_us">Puntua\'ns</string>
+    <string name="removeads">Versió Premium</string>
+    <string name="enter_pin">Introduïu el pin</string>
+    <string name="pin_matched">Pin coincident</string>
+    <string name="confirm_pin">Confirmeu el PIN</string>
+    <string name="pin_chahnged">El pin ha canviat correctament</string>
+    <string name="pin_not_matched">El pin no coincideix</string>
+    <string name="incorrect_pin">Pin incorrecte</string>
+    <string name="settings_set_pin">Estableix el pin</string>
+    <string name="change_pin">Canvia el pin</string>
+    <string name="settings_set_pin_description">Estableix un pin nou</string>
+    <string name="create_new_pin">Creeu un nou pin</string>
+    <string name="home">Inici</string>
+    <string name="settings_change_pin_description">Canvieu el vostre pin existent</string>
+    <string name="message_pin_changed">El pin s\'ha canviat correctament</string>
+    <string name="non_protected">No protegit</string>
+    <string name="status_protected">Protegit</string>
+    <string name="starting_hour">Hora d\'inici</string>
+    <string name="ending_hour">Hora final</string>
+    <string name="auto_start_p">permís d\'execució automàtica</string>
+    <string name="permission_usage_access_description1">obriu l\'opció d\'execució automàtica</string>
+
+
+    <string name="privat_browser">Navegador privat</string>
+    <string name="prem_title">Versió Premium Forever</string>
+    <string name="prem_no_ads">Sense anuncis per sempre</string>
+    <string name="prem_restore">Restaurar la compra</string>
+
+    <string name="please_give_us_five_stars">Doneu-nos cinc estrelles a Google Play. Us ho agrairíem molt!</string>
+    <string name="great_tex">Genial!</string>
+    <string name="choose_the_icon">Trieu la icona i la icona original es canviarà. Amaga aquesta aplicació als intrusos</string>
+    <string name="app_name1">Rellotge</string>
+    <string name="app_name2">Mapes</string>
+    <string name="app_name3">Calendari</string>
+    <string name="app_name4">Música</string>
+    <string name="app_name5">Calculadora</string>
+
+    <string name="callblocker_black">Llista negra</string>
+    <string name="callblocker_logs">Registres de trucades</string>
+    <string name="icon_change_title">Icones</string>
+    <string name="intruders_title">Intrús</string>
+    <string name="intruders_access_apps">Accediu a aplicacions amb ús</string>
+    <string name="main_unlocked">Desbloquejat</string>
+    <string name="main_locked">Bloquejat</string>
+    <string name="prem_not_sub">No es tracta d’una subscripció. Vostè només paga una vegada!</string>
+    <string name="prem_fake_icon">Icona falsa</string>
+    <string name="prem_intruders">Selfie intrús</string>
+    <string name="prem_themes">Temes més creatius</string>
+    <string name="prem_one_time">Pagament únic</string>
+    <string name="splash_create">Creat per protegir la vostra privadesa</string>
+    <string name="vault_photos">Fotografies</string>
+    <string name="vault_videos">Vídeos</string>
+    <string name="btn_ok">D\'acord</string>
+    <string name="dialog_intruder_text">Voleu suprimir la foto?</string>
+    <string name="btn_cancel">CANCEL · LAR</string>
+    <string name="fragment_security_text">Opps! \n Encara no teniu aplicacions bloquejades</string>
+    <string name="settings_security">Seguretat</string>
+    <string name="settings_face_icon">Icona falsa</string>
+    <string name="settings_face_icon_text">Es canviarà la icona original d\'aquesta aplicació</string>
+    <string name="rate_us_enjoying">Us agrada AppLock?</string>
+    <string name="rate_us_could_be">podria ser millor</string>
+    <string name="menu_privacy">Política de privacitat</string>
+    <string name="menu_contact">Poseu-vos en contacte amb nosaltres</string>
+    <string name="menu_face_icon">Icona falsa</string>
+    <string name="menu_intruder">Gestor d’intrusos</string>
+    <string name="menu_chat">Habitació de chat</string>
+</resources>

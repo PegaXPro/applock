@@ -1,0 +1,230 @@
+<resources>
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">設定</string>
+
+  
+
+    <string name="share">シェア</string>
+
+    <string name="notification_protecting_title">アプリを保護する</string>
+
+    <string name="notification_protecting_description">プライバシーを保護するためにアプリをロックします。</string>
+
+    <string name="notification_permission_need_title">保護の許可を有効にする</string>
+
+    <string name="notification_permission_need_description">アプリロッカーを使用するための権限を有効にしてください。</string>
+    <string name="you_accept_privacy_policy">続行することにより、あなたは同意します<u> 個人情報保護方針</u> </string>
+
+    <string name="header_recommended_to_lock">ロックすることをお勧めします</string>
+    <string name="header_all_apps">すべてのアプリケーション</string>
+
+    <string name="title_general_settings">一般</string>
+
+    <string name="title_lock_all">すべてのロック</string>
+    <string name="description_lock_all">これにより、すべてのアプリがロックされます</string>
+
+ 
+    <string name="title_unlock_all">すべてのロックを解除</string>
+
+    <string name="description_unlock_all">これにより、すべてのアプリのロックが解除されます</string>
+    <string name="settings_change_pattern_title">パターンを変更する</string>
+
+    <string name="settings_change_pattern_description">既存のパターンを変更する</string>
+    <string name="message_pattern_changed">パターンが正常に変更されました</string>
+
+    <string name="setting_in_stealth_mode_title">図面を非表示</string>
+    <string name="setting_in_stealth_mode_description">描画中の見えないパターン</string>
+    <string name="setting_fingerprint_title">指紋を有効にする</string>
+
+    <string name="setting_fingerprint_description">指紋でアプリを起動します。</string>
+    <string name="setting_fingerprint_not_supported_title">指紋はサポートされていません</string>
+
+    <string name="setting_fingerprint_not_supported_description">お使いのデバイスにはセンサーがありません</string>
+    <string name="setting_fingerprint_not_registered_title">指紋を登録する</string>
+
+    <string name="setting_fingerprint_not_registered_description">セキュリティ設定に移動します</string>
+    <string name="next">次</string>
+
+    <string name="permission_usage_access_title">使用アクセス許可</string>
+    <string name="permission_usage_access_description">使用アクセスを有効にして、アプリロッカーを使用します。</string>
+
+    <string name="permission_overlay_title">画面の許可をロックする</string>
+
+    <string name="settings_card_intruders_title">侵入者を捕まえる</string>
+    <string name="settings_enable_intruders_title">侵入者の写真を撮る</string>
+    <string name="settings_enable_intruders_description">侵入者を捕まえることができます。</string>
+
+    <string name="settings_intruders_folder_title">侵入者の写真をキャッチ</string>
+    <string name="settings_intruders_folder_description">あなたの電話でスパイを見るためにクリックしてください。</string>
+
+    <string name="settings_card_advance_protection_title">事前保護</string>
+    <string name="settings_enable_advance_protection_title">事前保護を有効にする</string>
+    <string name="settings_enable_advance_protection_description">Advance Protectionを有効にするには、App LockProを「デバイス管理者」としてアクティブ化してください。これは侵入者のアンインストールを防止してAppLockProを強制的に停止するためにのみ使用されます。AppLockProがこの権限を使用してプライバシーデータにアクセスしないようにしてください。</string>
+    <string name="device_admin_permission_description">今すぐアクティブ化して、保護を強化し、より安全に！ \n\nAdvance Protectionを有効にするには、App LockProを「デバイス管理者」としてアクティブにしてください。これは侵入者のアンインストールを防止してAppLockProを強制的に停止するためにのみ使用されます。AppLockProがこの権限をプライバシーデータにアクセスします。</string>
+
+
+    <string name="permission_overlay_description">オーバーレイを有効にして、ロック画面を表示します。</string>
+    <string name="permission_toast_enable_permissions">アプリロッカーを使用する権限を有効にする</string>
+
+    <string name="draw_pattern_title">新しいパターンを作成する</string>
+    <string name="redraw_pattern_title">再描画して完了</string>
+
+    <string name="recreate_pattern_error">パターンが一致しません。再描画します。</string>
+
+    <string name="create_pattern_successful">正常に作成されました。</string>
+    <string name="overlay_prompt_pattern_title">アプリを開くためのパターンを描く</string>
+    <string name="overlay_prompt_pattern_title_wrong">間違ったパターン。もう一度描きます。</string>
+    <string name="overlay_prompt_pattern_title_correct">正しいパターン。</string>
+
+    <string name="overlay_prompt_fingerprint_title">アプリを開くためのパターンを描く</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">一致しません。+％1 $ s + left。</string>
+    <string name="overlay_prompt_fingerprint_title_correct">指紋が一致しました！</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">指紋エラー！パターンを試してください。</string>
+    <string name="dialog_title_rate_us">セキュアゾーンが気に入りましたか？</string>
+    <string name="dialog_description_rate_us">あなたが市場で私たちを評価すれば、私たちはとても幸せになります。</string>
+    <string name="dialog_action_rate_us_rate">割合</string>
+
+    <string name="dialog_action_rate_us_later">後で</string>
+    <string name="dialog_title_usage_permission">Android5.0の許可</string>
+    <string name="dialog_description_usage_permission">Android 5.0以降では、次の使用アクセスを許可する必要があります
+        AppLocker、セキュアゾーン機能を使用できるようにする</string>
+    <string name="dialog_action_usage_permission_permit">許可</string>
+
+    <string name="dialog_action_usage_permission_cancel">キャンセル</string>
+    <string name="dialog_title_privacy_policy">個人情報保護方針</string>
+    <string name="dialog_description_privacy_policy">プライバシーポリシーを更新しました。続行することにより、あなたは同意します<u> 個人情報保護方針</u> </string>
+    <string name="dialog_action_privacy_policy_accept">受け入れる</string>
+
+    <string name="hint_browser_search">URLを検索または入力します</string>
+    <string name="facebook">フェイスブック</string>
+
+    <string name="twitter">ツイッター</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">インスタグラム</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private。</string>
+    <string name="subtitle_browser_empty">インターネットでネットサーフィン。安全に。</string>
+    <string name="bookmarks">ブックマーク</string>
+    <string name="title_name_unknown_number">未知数</string>
+
+
+
+    <string name="blacklist_empty_title">ブラックリストが空です</string>
+    <string name="blacklist_empty_description">クリックして電話番号をブロック</string>
+    <string name="call_log_empty_title">ログなし</string>
+
+    <string name="call_log_empty_description">通話がブロックされると、ここにログが表示されます</string>
+    <string name="dialog_add_to_blacklist_title">電話番号をブロックする</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">名前（オプション）</string>
+    <string name="dialog_add_to_blacklist_phone_hint">電話番号を入力してください</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">キャンセル</string>
+    <string name="dialog_black_list_delete_title">ブラックリストから削除する</string>
+    <string name="dialog_black_list_delete_description">ブロックされた番号をブラックリストから削除しますか？</string>
+
+    <string name="dialog_black_list_delete_action_cancel">キャンセル</string>
+    <string name="dialog_title_add_to_vault">処理</string>
+    <string name="dialog_description_process">メディアがギャラリーから削除され、ボールトに追加されています。</string>
+
+    <string name="dialog_title_removal_confirmation">取り外し確認</string>
+    <string name="dialog_description_removal">このファイルはボールトから削除され、ギャラリーに表示されます。</string>
+    <string name="dialog_action_removal_confirmation_accept">受け入れる</string>
+
+    <string name="vault_photo_empty_page_title">PhotoVaultが空です</string>
+    <string name="vault_photo_empty_page_description">ギャラリーから写真を非表示にするアイコンを追加</string>
+    <string name="vault_video_empty_page_title">ビデオボールトは空です</string>
+
+    <string name="vault_video_empty_page_description">ギャラリーのビデオ写真にアイコンを追加する</string>
+    <string-array name="tabs">
+        <item>セキュリティ</item>
+        <item>設定</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>ブラックリスト</item>
+        <item>コールログ</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>画像</item>
+        <item>ビデオ</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">侵入者を捕まえない</string>
+    <string name="empty_page_intruders_description">お使いの携帯電話は安全です！</string>
+    <string name="Vault">ボールト</string>
+    <string name="Call_blocker">コールブロッカー</string>
+    <string name="browser">ブラウザ</string>
+    <string name="theme">テーマ</string>
+    <string name="rate_us">私たちを評価してください</string>
+    <string name="removeads">プレミアムバージョン</string>
+    <string name="enter_pin">ピンを入力してください</string>
+    <string name="pin_matched">ピンが一致しました</string>
+    <string name="confirm_pin">ピンを確認します</string>
+    <string name="pin_chahnged">ピンが正常に変更されました</string>
+    <string name="pin_not_matched">ピンが一致しません</string>
+    <string name="incorrect_pin">ピンが正しくありません</string>
+    <string name="settings_set_pin">セットピン</string>
+    <string name="change_pin">ピンを変更します</string>
+    <string name="settings_set_pin_description">新しいピンを設定します</string>
+    <string name="create_new_pin">新しいピンを作成する</string>
+    <string name="home">ホームホーム</string>
+    <string name="settings_change_pin_description">既存のピンを変更します</string>
+    <string name="message_pin_changed">ピンが正常に変更されました</string>
+    <string name="non_protected">非保護</string>
+    <string name="status_protected">保護されています</string>
+    <string name="starting_hour">開始時間</string>
+    <string name="ending_hour">エンディングアワー</string>
+    <string name="auto_start_p">自動実行許可</string>
+    <string name="permission_usage_access_description1">自動実行オプションを開きます</string>
+
+
+    <string name="privat_browser">プライベートブラウザ</string>
+    <string name="prem_title">プレミアムバージョンフォーエバー</string>
+    <string name="prem_no_ads">永遠にADはありません</string>
+    <string name="prem_restore">購入商品を復元する</string>
+
+    <string name="please_give_us_five_stars">Google Playで5つ星を付けてください！よろしくお願いします！</string>
+    <string name="great_tex">すごい！</string>
+    <string name="choose_the_icon">アイコンを選択すると、元のアイコンが変更されます。このアプリを侵入者から隠す</string>
+    <string name="app_name1">時計</string>
+    <string name="app_name2">マップ</string>
+    <string name="app_name3">カレンダー</string>
+    <string name="app_name4">音楽</string>
+    <string name="app_name5">電卓</string>
+
+    <string name="callblocker_black">ブラックリスト</string>
+    <string name="callblocker_logs">コールログ</string>
+    <string name="icon_change_title">アイコン</string>
+    <string name="intruders_title">侵入者</string>
+    <string name="intruders_access_apps">使用法でアプリにアクセスする</string>
+    <string name="main_unlocked">ロック解除</string>
+    <string name="main_locked">ロック済み</string>
+    <string name="prem_not_sub">これはサブスクリプションではありません。あなたは一度だけ支払う！</string>
+    <string name="prem_fake_icon">偽のアイコン</string>
+    <string name="prem_intruders">侵入者セルフ</string>
+    <string name="prem_themes">より創造的なテーマ</string>
+    <string name="prem_one_time">1回払い</string>
+    <string name="splash_create">あなたのプライバシーを保護するために作成されました</string>
+    <string name="vault_photos">写真</string>
+    <string name="vault_videos">ビデオ</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">写真を削除しますか？</string>
+    <string name="btn_cancel">キャンセル</string>
+    <string name="fragment_security_text">Opps！\nまだアプリをロックしていません</string>
+    <string name="settings_security">セキュリティ</string>
+    <string name="settings_face_icon">偽のアイコン</string>
+    <string name="settings_face_icon_text">このアプリの元のアイコンが変更されます</string>
+    <string name="rate_us_enjoying">AppLockを楽しんでいますか？</string>
+    <string name="rate_us_could_be">それはより良いかもしれません</string>
+    <string name="menu_privacy">個人情報保護方針</string>
+    <string name="menu_contact">お問い合わせ</string>
+    <string name="menu_face_icon">偽のアイコン</string>
+    <string name="menu_intruder">侵入者マネージャー</string>
+    <string name="menu_chat">チャットルーム</string>
+</resources>

@@ -1,0 +1,230 @@
+<resources>
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">הגדרות</string>
+
+  
+
+    <string name="share">לַחֲלוֹק</string>
+
+    <string name="notification_protecting_title">מגן על האפליקציות שלך</string>
+
+    <string name="notification_protecting_description">נעל את האפליקציות שלך כדי להגן על פרטיותך.</string>
+
+    <string name="notification_permission_need_title">אפשר הרשאה להגנה</string>
+
+    <string name="notification_permission_need_description">אנא הפעל את ההרשאות שלך לשימוש בארון האפליקציות.</string>
+    <string name="you_accept_privacy_policy">על ידי המשך אתה מסכים ל<u> מדיניות פרטיות</u> </string>
+
+    <string name="header_recommended_to_lock">מומלץ לנעול</string>
+    <string name="header_all_apps">כל היישומים</string>
+
+    <string name="title_general_settings">כללי</string>
+
+    <string name="title_lock_all">תנעל הכל</string>
+    <string name="description_lock_all">פעולה זו תנעל את כל האפליקציות שלך</string>
+
+ 
+    <string name="title_unlock_all">בטל את נעילת הכל</string>
+
+    <string name="description_unlock_all">פעולה זו תבטל את נעילת כל היישומים שלך</string>
+    <string name="settings_change_pattern_title">שנה דפוס</string>
+
+    <string name="settings_change_pattern_description">שנה את הדפוס הקיים שלך</string>
+    <string name="message_pattern_changed">הדפוס השתנה בהצלחה</string>
+
+    <string name="setting_in_stealth_mode_title">הסתר ציור</string>
+    <string name="setting_in_stealth_mode_description">דפוס בלתי נראה בזמן ציור</string>
+    <string name="setting_fingerprint_title">אפשר טביעת אצבע</string>
+
+    <string name="setting_fingerprint_description">הפעל אפליקציה עם טביעת האצבע שלך.</string>
+    <string name="setting_fingerprint_not_supported_title">אין תמיכה בטביעת אצבע</string>
+
+    <string name="setting_fingerprint_not_supported_description">למכשיר שלך אין חיישן</string>
+    <string name="setting_fingerprint_not_registered_title">רשום את טביעת האצבע שלך</string>
+
+    <string name="setting_fingerprint_not_registered_description">עבור אל הגדרות האבטחה</string>
+    <string name="next">הַבָּא</string>
+
+    <string name="permission_usage_access_title">הרשאת גישה לשימוש</string>
+    <string name="permission_usage_access_description">אפשר גישה לשימושים באמצעות ארון אפליקציות.</string>
+
+    <string name="permission_overlay_title">הרשאת מסך נעילה</string>
+
+    <string name="settings_card_intruders_title">לתפוס פולשים</string>
+    <string name="settings_enable_intruders_title">צלם פולשים</string>
+    <string name="settings_enable_intruders_description">אפשר לתפוס פולשים.</string>
+
+    <string name="settings_intruders_folder_title">צילומי פולשים שנתפסו</string>
+    <string name="settings_intruders_folder_description">לחץ כדי לראות מרגלים בטלפון שלך.</string>
+
+    <string name="settings_card_advance_protection_title">הגנה מראש</string>
+    <string name="settings_enable_advance_protection_title">אפשר הגנה מראש</string>
+    <string name="settings_enable_advance_protection_description">כדי לאפשר הגנה מוקדמת, אנא הפעל את App Lock Pro כ"מנהל התקן ". הוא משמש רק למניעת התקנת פולשים וכוח עצירה של App Lock Pro. ודא כי App Lock Pro לעולם לא ישתמש בהרשאה זו כדי לגשת לנתוני הפרטיות שלך. .</string>
+    <string name="device_admin_permission_description">הפעל עכשיו, הגנה מראש ובטוח יותר! \n\nכדי להפעיל הגנה מוקדמת, אנא הפעל את App Lock Pro כ"מנהל התקן ". הוא משמש רק למניעת פולשים להסיר את ההתקנה ולהכריח את App Lock Pro. אנא וודא כי App Lock Pro לעולם לא ישתמש בהרשאה זו כדי לגשת לנתוני הפרטיות שלך.</string>
+
+
+    <string name="permission_overlay_description">אפשר שכבת-על כדי להציג את מסך הנעילה.</string>
+    <string name="permission_toast_enable_permissions">אפשר הרשאות לשימוש בארון האפליקציות</string>
+
+    <string name="draw_pattern_title">צור דפוס חדש</string>
+    <string name="redraw_pattern_title">צייר מחדש כדי להשלים</string>
+
+    <string name="recreate_pattern_error">התבנית אינה תואמת. צייר מחדש.</string>
+
+    <string name="create_pattern_successful">נוצר בהצלחה.</string>
+    <string name="overlay_prompt_pattern_title">צייר תבנית לפתיחת האפליקציה</string>
+    <string name="overlay_prompt_pattern_title_wrong">דפוס שגוי. צייר שוב.</string>
+    <string name="overlay_prompt_pattern_title_correct">תבנית נכונה.</string>
+
+    <string name="overlay_prompt_fingerprint_title">צייר תבנית לפתיחת האפליקציה</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">לא + תואם. + %1$s + נותרו.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">התאמת טביעת אצבע!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">שגיאת טביעת אצבע! נסה דפוס.</string>
+    <string name="dialog_title_rate_us">אהבתם את Secure Zone?</string>
+    <string name="dialog_description_rate_us">נשמח כל כך אם תדרג אותנו בשוק.</string>
+    <string name="dialog_action_rate_us_rate">ציון</string>
+
+    <string name="dialog_action_rate_us_later">יותר מאוחר</string>
+    <string name="dialog_title_usage_permission">הרשאת Android 5.0</string>
+    <string name="dialog_description_usage_permission">ב- Android 5.0 ומעלה, אתה צריך לאפשר גישה לשימוש עבור
+        AppLocker, כך שתוכלו להשתמש בתכונה Secure Zone</string>
+    <string name="dialog_action_usage_permission_permit">לְהַתִיר</string>
+
+    <string name="dialog_action_usage_permission_cancel">לְבַטֵל</string>
+    <string name="dialog_title_privacy_policy">מדיניות פרטיות</string>
+    <string name="dialog_description_privacy_policy">עדכנו את מדיניות הפרטיות שלנו. על ידי המשך אתה מסכים ל<u> מדיניות פרטיות</u> </string>
+    <string name="dialog_action_privacy_policy_accept">לְקַבֵּל</string>
+
+    <string name="hint_browser_search">חפש או הזן כתובת אתר</string>
+    <string name="facebook">פייסבוק</string>
+
+    <string name="twitter">טוויטר</string>
+
+    <string name="snapchat">סנאפצ\'אט</string>
+
+
+    <string name="instagram">אינסטגרם</string>
+    <string name="youtube">רדיט</string>
+    <string name="title_browser_empty">בטוח. מאובטח. פרטי.</string>
+    <string name="subtitle_browser_empty">גולש באינטרנט. בבטחה.</string>
+    <string name="bookmarks">סימניות</string>
+    <string name="title_name_unknown_number">מספר לא ידוע</string>
+
+
+
+    <string name="blacklist_empty_title">הרשימה השחורה ריקה</string>
+    <string name="blacklist_empty_description">לחץ כדי לחסום את מספר הטלפון</string>
+    <string name="call_log_empty_title">ללא יומנים</string>
+
+    <string name="call_log_empty_description">יומן מופיע כאן כשהשיחה חסומה</string>
+    <string name="dialog_add_to_blacklist_title">חסום מספר טלפון</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">שם: (לא חובה)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">הכנס מספר טלפון</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">לְבַטֵל</string>
+    <string name="dialog_black_list_delete_title">מחק מהרשימה השחורה</string>
+    <string name="dialog_black_list_delete_description">האם ברצונך להסיר את המספר החסום מהרשימה השחורה?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">לְבַטֵל</string>
+    <string name="dialog_title_add_to_vault">מעבד</string>
+    <string name="dialog_description_process">המדיה שלך מוסרת מהגלריה ומוסיפה לכספת שלך.</string>
+
+    <string name="dialog_title_removal_confirmation">אישור הסרה</string>
+    <string name="dialog_description_removal">קובץ זה יוסר מכספת ויוצג לגלריה.</string>
+    <string name="dialog_action_removal_confirmation_accept">לְקַבֵּל</string>
+
+    <string name="vault_photo_empty_page_title">צילום הכספת ריק</string>
+    <string name="vault_photo_empty_page_description">הוסף סמל כדי להסתיר תמונות מהגלריה</string>
+    <string name="vault_video_empty_page_title">קמרון הווידיאו ריק</string>
+
+    <string name="vault_video_empty_page_description">הוסף סמל לתמונות וידאו מהגלריה</string>
+    <string-array name="tabs">
+        <item>בִּטָחוֹן</item>
+        <item>הגדרות</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>רשימה שחורה</item>
+        <item>יומן שיחות</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>תמונות</item>
+        <item>סרטונים</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">אין פולשים שנתפסו</string>
+    <string name="empty_page_intruders_description">הטלפון שלך מאובטח!</string>
+    <string name="Vault">כספת</string>
+    <string name="Call_blocker">חוסם שיחות</string>
+    <string name="browser">דפדפן</string>
+    <string name="theme">ערכות נושא</string>
+    <string name="rate_us">דרג אותנו</string>
+    <string name="removeads">גרסת פרימיום</string>
+    <string name="enter_pin">תכניס קוד</string>
+    <string name="pin_matched">סיכה תואמת</string>
+    <string name="confirm_pin">אשר סיכה</string>
+    <string name="pin_chahnged">הסיכה שונתה בהצלחה</string>
+    <string name="pin_not_matched">הצמד לא תואם</string>
+    <string name="incorrect_pin">סיכה שגויה</string>
+    <string name="settings_set_pin">הגדר סיכה</string>
+    <string name="change_pin">החלף סיכה</string>
+    <string name="settings_set_pin_description">הגדר סיכה חדשה</string>
+    <string name="create_new_pin">צור סיכה חדשה</string>
+    <string name="home">בית</string>
+    <string name="settings_change_pin_description">שנה את הסיכה הקיימת שלך</string>
+    <string name="message_pin_changed">הצמד השתנה בהצלחה</string>
+    <string name="non_protected">לא מוגן</string>
+    <string name="status_protected">מוּגָן</string>
+    <string name="starting_hour">שעת התחלה</string>
+    <string name="ending_hour">שעת סיום</string>
+    <string name="auto_start_p">הרשאת הפעלה אוטומטית</string>
+    <string name="permission_usage_access_description1">פתח את אפשרות ההפעלה האוטומטית</string>
+
+
+    <string name="privat_browser">דפדפן פרטי</string>
+    <string name="prem_title">גרסת פרימיום לנצח</string>
+    <string name="prem_no_ads">ללא פרסומות לנצח</string>
+    <string name="prem_restore">שחזר רכישה</string>
+
+    <string name="please_give_us_five_stars">אנא תן לנו חמישה כוכבים ב- Google Play! היינו מעריכים את זה מאוד!</string>
+    <string name="great_tex">גדול!</string>
+    <string name="choose_the_icon">בחר בסמל והסמל המקורי ישתנה. הסתר את האפליקציה הזו מפני פולשים</string>
+    <string name="app_name1">שָׁעוֹן</string>
+    <string name="app_name2">מפות</string>
+    <string name="app_name3">לוּחַ שָׁנָה</string>
+    <string name="app_name4">מוּסִיקָה</string>
+    <string name="app_name5">מַחשְׁבוֹן</string>
+
+    <string name="callblocker_black">רשימה שחורה</string>
+    <string name="callblocker_logs">יומן שיחות</string>
+    <string name="icon_change_title">סמלים</string>
+    <string name="intruders_title">פּוֹלֵשׁ</string>
+    <string name="intruders_access_apps">גישה לאפליקציות עם שימוש</string>
+    <string name="main_unlocked">לא נעול</string>
+    <string name="main_locked">נָעוּל</string>
+    <string name="prem_not_sub">זה לא מנוי. אתה משלם רק פעם אחת!</string>
+    <string name="prem_fake_icon">אייקון מזויף</string>
+    <string name="prem_intruders">סלפי פולש</string>
+    <string name="prem_themes">נושאים יצירתיים יותר</string>
+    <string name="prem_one_time">תשלום חד פעמי</string>
+    <string name="splash_create">נוצר כדי להגן על פרטיותך</string>
+    <string name="vault_photos">תמונות</string>
+    <string name="vault_videos">סרטונים</string>
+    <string name="btn_ok">בסדר</string>
+    <string name="dialog_intruder_text">האם ברצונך למחוק את התמונה?</string>
+    <string name="btn_cancel">לְבַטֵל</string>
+    <string name="fragment_security_text">Opps! \n עדיין אין לך אפליקציות נעולות</string>
+    <string name="settings_security">בִּטָחוֹן</string>
+    <string name="settings_face_icon">אייקון מזויף</string>
+    <string name="settings_face_icon_text">הסמל המקורי של יישום זה ישתנה</string>
+    <string name="rate_us_enjoying">האם אתה נהנה מ- AppLock?</string>
+    <string name="rate_us_could_be">יכול להיות יותר טוב</string>
+    <string name="menu_privacy">מדיניות פרטיות</string>
+    <string name="menu_contact">צור קשר</string>
+    <string name="menu_face_icon">אייקון מזויף</string>
+    <string name="menu_intruder">מנהל הפורץ</string>
+    <string name="menu_chat">חדר צ\'אט</string>
+</resources>

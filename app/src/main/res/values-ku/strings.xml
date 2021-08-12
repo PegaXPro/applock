@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Mîhengên</string>
+
+  
+
+    <string name="share">Par</string>
+
+    <string name="notification_protecting_title">Sepanên xwe diparêzin</string>
+
+    <string name="notification_protecting_description">Ji bo parastina nepeniya xwe sepanên xwe kilît bikin.</string>
+
+    <string name="notification_permission_need_title">Destûra parastinê çalak bikin</string>
+
+    <string name="notification_permission_need_description">Ji kerema xwe destûrên xwe bikar bînin da ku hûn dolaba sepanê bikar bînin.</string>
+    <string name="you_accept_privacy_policy">Bi berdewamiyê hûn razî ne<u> Siyaseta taybetîtiyê</u> </string>
+
+    <string name="header_recommended_to_lock">Pêşniyar kirin ku were qefilandin</string>
+    <string name="header_all_apps">Hemî serlêdan</string>
+
+    <string name="title_general_settings">Giştî</string>
+
+    <string name="title_lock_all">Hemî kilît bikin</string>
+    <string name="description_lock_all">Ev ê hemî bernameyên we kilît bike</string>
+
+ 
+    <string name="title_unlock_all">Hemî veke</string>
+
+    <string name="description_unlock_all">Ev ê hemî bernameyên we vebike</string>
+    <string name="settings_change_pattern_title">Nimûne biguhezînin</string>
+
+    <string name="settings_change_pattern_description">Nimûneya xweya heyî biguherînin</string>
+    <string name="message_pattern_changed">Pattern bi serfirazî guherî</string>
+
+    <string name="setting_in_stealth_mode_title">Nîşan veşêrin</string>
+    <string name="setting_in_stealth_mode_description">Di dema xêzkirinê de şêweya nedîtbar</string>
+    <string name="setting_fingerprint_title">Nîşana tiliyê çalak bikin</string>
+
+    <string name="setting_fingerprint_description">Bi şopa tiliya xwe dest bi sepanê bikin.</string>
+    <string name="setting_fingerprint_not_supported_title">Propa tiliyê nayê piştgirî kirin</string>
+
+    <string name="setting_fingerprint_not_supported_description">Sensorê weya amûrê tune</string>
+    <string name="setting_fingerprint_not_registered_title">Propa tiliya xwe tomar bikin</string>
+
+    <string name="setting_fingerprint_not_registered_description">Herin mîhengên ewlehiyê</string>
+    <string name="next">Piştî</string>
+
+    <string name="permission_usage_access_title">Destûra gihîştina karanînê</string>
+    <string name="permission_usage_access_description">Qedexeyên karanînê bikar bînin da ku dolaba sepanê bikar bînin.</string>
+
+    <string name="permission_overlay_title">Destûra dîmendera kilîtkirinê</string>
+
+    <string name="settings_card_intruders_title">Destdirêjkaran Dakêşin</string>
+    <string name="settings_enable_intruders_title">Wêneya navbênkaran bikişînin</string>
+    <string name="settings_enable_intruders_description">Bikaranîna destwerdanan çalak bike.</string>
+
+    <string name="settings_intruders_folder_title">Wêneyên destdirêjkar girtin</string>
+    <string name="settings_intruders_folder_description">Bikirtînin da ku casûsên li ser têlefona xwe bibînin.</string>
+
+    <string name="settings_card_advance_protection_title">Parastina Pêşde</string>
+    <string name="settings_enable_advance_protection_title">Parastina pêşde çalak bikin</string>
+    <string name="settings_enable_advance_protection_description">Ji bo Parastina Pêşkeftinê çalak bikin, ji kerema xwe App Lock Pro wekî "rêveberê cîhazê" çalak bikin. Ew tenê ji bo pêşîgirtina li rakirina sazkeran û rawestandina zexmkirina App Lock Pro-yê tê bikar anîn. Ji kerema xwe piştrast bin ku App Lock Pro dê carî vê destûrê bikar neyne da ku xwe bigihîne daneyên nepeniya we .</string>
+    <string name="device_admin_permission_description">Naha çalak bikin, parastina pêşdetir û ewletir bikin! \n\nJi bo Parastina Pêşkeftinê çalak bikin, ji kerema xwe App Lock Pro wekî "rêveberê cîhazê" çalak bikin. Ew tenê ji bo pêşîgirtina li rakirina sazkeran û rawestandina zexmkirina App Lock Pro-ê tê bikar anîn. Ji kerema xwe piştrast bin ku App Lock Pro dê vê destûrê bikar neyne ku xwe bigihînin daneyên nepeniya xwe.</string>
+
+
+    <string name="permission_overlay_description">Ji bo xuyangkirina ekrana kilîtkirî serhêl çalak bikin.</string>
+    <string name="permission_toast_enable_permissions">Destûrên bikar bînin da ku hûn dolaba sepanê bikar bînin</string>
+
+    <string name="draw_pattern_title">Nimûneyek nû çêbikin</string>
+    <string name="redraw_pattern_title">Ji nû ve xêz bikin da ku temam bikin</string>
+
+    <string name="recreate_pattern_error">Pattern li hev nayê. Rêzkirin.</string>
+
+    <string name="create_pattern_successful">Bi serfirazî hate afirandin.</string>
+    <string name="overlay_prompt_pattern_title">Ji bo vekirina sepanê nimûneyê bikişînin</string>
+    <string name="overlay_prompt_pattern_title_wrong">Nimûne çewt. Dîsa xêz bikin.</string>
+    <string name="overlay_prompt_pattern_title_correct">Pattern rast.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Ji bo vekirina sepanê nimûneyê bikişînin</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Lihevhatî ne. + %1$s + maye.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Propa tiliyê li hev hat!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Çewtiya tiliya tilî! Nimûne biceribînin.</string>
+    <string name="dialog_title_rate_us">We ji Zona Ewlehî hez kir?</string>
+    <string name="dialog_description_rate_us">Em ê pir kêfxweş bibin Ger hûn li ser sûkê me binirxînin.</string>
+    <string name="dialog_action_rate_us_rate">Qûrs</string>
+
+    <string name="dialog_action_rate_us_later">Paşan</string>
+    <string name="dialog_title_usage_permission">Destûra Android 5.0</string>
+    <string name="dialog_description_usage_permission">Di Android 5.0 an jor de, hûn hewce ne ku destûra karanîna karanîna ji bo
+        AppLocker, da ku hûn bikaribin Taybetmendiya Zona Ewle bikar bînin</string>
+    <string name="dialog_action_usage_permission_permit">Îcaze</string>
+
+    <string name="dialog_action_usage_permission_cancel">Bişûndekirin</string>
+    <string name="dialog_title_privacy_policy">Siyaseta taybetîtiyê</string>
+    <string name="dialog_description_privacy_policy">Me siyaseta xweya nepeniyê nû kir. Bi berdewamiyê hûn razî ne<u> Siyaseta taybetîtiyê</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Baweranîn</string>
+
+    <string name="hint_browser_search">URL-yê bigerin an têkevin</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Ewlehî.Emîn.Private.</string>
+    <string name="subtitle_browser_empty">Li ser înternetê bigerin. Bi ewlehî.</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="title_name_unknown_number">Hejmara Nediyar</string>
+
+
+
+    <string name="blacklist_empty_title">Lîsteya reş vala ye</string>
+    <string name="blacklist_empty_description">Ji bo astengkirina jimara têlefonê bikirtînin</string>
+    <string name="call_log_empty_title">Qeyd tune</string>
+
+    <string name="call_log_empty_description">Dema ku bang tê asteng kirin têketin li vir xuya dibe</string>
+    <string name="dialog_add_to_blacklist_title">Numreya têlefonê bloke bikin</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nav (Bijarî)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Hejmara têlefonê têkevinê</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Bişûndekirin</string>
+    <string name="dialog_black_list_delete_title">Ji lîsteya reş were jêbirin</string>
+    <string name="dialog_black_list_delete_description">Ma hûn dixwazin jimara astengkirî ji navnîşa reş derxînin?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Bişûndekirin</string>
+    <string name="dialog_title_add_to_vault">Xebitandinî</string>
+    <string name="dialog_description_process">Çapemeniya we ji galeriyê vedigire û qeweta we zêde dike.</string>
+
+    <string name="dialog_title_removal_confirmation">Rakirina Rakirina</string>
+    <string name="dialog_description_removal">Dê ev pel ji vaultê derkeve û di galeriyê de nîşan bide.</string>
+    <string name="dialog_action_removal_confirmation_accept">Baweranîn</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault vala ye</string>
+    <string name="vault_photo_empty_page_description">Îkonê zêde bikin da ku wêneyan ji galeriyê veşêrin</string>
+    <string name="vault_video_empty_page_title">Vault Video vala ye</string>
+
+    <string name="vault_video_empty_page_description">Ji galeriyê îkonê li wêneyên vîdyoyê zêde bikin</string>
+    <string-array name="tabs">
+        <item>Ewlekarî</item>
+        <item>Mîhengên</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Lîsteya reş</item>
+        <item>Qeydên Bangê</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Wêne</item>
+        <item>Videos</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Tu Intrişvan Ne Girtin</string>
+    <string name="empty_page_intruders_description">Têlefona we ewledar e!</string>
+    <string name="Vault">Jûra qasê</string>
+    <string name="Call_blocker">Banga Blocker bikin</string>
+    <string name="browser">Gerok</string>
+    <string name="theme">Mijar</string>
+    <string name="rate_us">Me binirxînin</string>
+    <string name="removeads">Guhertoya Premium</string>
+    <string name="enter_pin">Têkevin pînê</string>
+    <string name="pin_matched">Pin hev kirin</string>
+    <string name="confirm_pin">Pînê piştrast bike</string>
+    <string name="pin_chahnged">Pin bi serfirazî guherî</string>
+    <string name="pin_not_matched">Pin ne lihevhatî ye</string>
+    <string name="incorrect_pin">Pin çewt</string>
+    <string name="settings_set_pin">Pînê saz bikin</string>
+    <string name="change_pin">Pin guhertin</string>
+    <string name="settings_set_pin_description">Pînek nû saz bikin</string>
+    <string name="create_new_pin">Pînek nû çêbikin</string>
+    <string name="home">Xane</string>
+    <string name="settings_change_pin_description">Pîna xweya heyî biguherînin</string>
+    <string name="message_pin_changed">Pin Bi Serkeftin Guherî</string>
+    <string name="non_protected">Ne Parastin</string>
+    <string name="status_protected">Parastin</string>
+    <string name="starting_hour">Saeta Destpêkê</string>
+    <string name="ending_hour">Saeta Dawî</string>
+    <string name="auto_start_p">destûra xweya-run</string>
+    <string name="permission_usage_access_description1">vebijarka otomatîk vekirinê vekin</string>
+
+
+    <string name="privat_browser">Geroka Taybet</string>
+    <string name="prem_title">Premium Version Forever</string>
+    <string name="prem_no_ads">ADS Forever</string>
+    <string name="prem_restore">Kirînê Vegerînin</string>
+
+    <string name="please_give_us_five_stars">Ji kerema xwe pênc stêrkan li ser Google Play bidin me! Em ê wê pir teqdîr bikin!</string>
+    <string name="great_tex">Ecêb!</string>
+    <string name="choose_the_icon">Sembol hilbijêrin û îkona orîjînal dê were guhertin. Vê sepanê ji destdirêjkaran veşêrin</string>
+    <string name="app_name1">Seet</string>
+    <string name="app_name2">Nexşe</string>
+    <string name="app_name3">Salname</string>
+    <string name="app_name4">Mûzîk</string>
+    <string name="app_name5">Hesabker</string>
+
+    <string name="callblocker_black">Lîsteya reş</string>
+    <string name="callblocker_logs">Têketin bang bikin</string>
+    <string name="icon_change_title">Ikon</string>
+    <string name="intruders_title">Binavket</string>
+    <string name="intruders_access_apps">Bi karanînê bigihîjin sepanan</string>
+    <string name="main_unlocked">Unlocked</string>
+    <string name="main_locked">Girtî ye</string>
+    <string name="prem_not_sub">Ev ne abone ye. Hûn tenê carek drav didin!</string>
+    <string name="prem_fake_icon">Fkona sexte</string>
+    <string name="prem_intruders">Selifiya destdirêjkar</string>
+    <string name="prem_themes">Mijarên bêtir afirîner</string>
+    <string name="prem_one_time">Tezmînata Yek-Dem</string>
+    <string name="splash_create">Ji bo parastina nepeniya we hate afirandin</string>
+    <string name="vault_photos">Photos</string>
+    <string name="vault_videos">Videos</string>
+    <string name="btn_ok">Baş e</string>
+    <string name="dialog_intruder_text">Ma hûn dixwazin wêneyê jêbirin?</string>
+    <string name="btn_cancel">BIŞÛNDEKIRIN</string>
+    <string name="fragment_security_text">Opps! \n Hê jî sepanên weyên qefilandî tune</string>
+    <string name="settings_security">Ewlekarî</string>
+    <string name="settings_face_icon">Fkona sexte</string>
+    <string name="settings_face_icon_text">Dê îkona orîjînal a vê sepanê were guhertin</string>
+    <string name="rate_us_enjoying">Ma hûn kêfa AppLock dikin?</string>
+    <string name="rate_us_could_be">dikare çêtir be</string>
+    <string name="menu_privacy">Siyaseta taybetîtiyê</string>
+    <string name="menu_contact">Paqij bûn</string>
+    <string name="menu_face_icon">Fkona sexte</string>
+    <string name="menu_intruder">Gerînendeyê Navbirî</string>
+    <string name="menu_chat">Chat room</string>
+
+</resources>

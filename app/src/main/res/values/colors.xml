@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#59B74A</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#2196F3</color>
+
+    <color name="colorBlack">#222222</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhiteAlpha">#80ffffff</color>
+
+    <color name="colorTextGrayLight">#818181</color>
+    <color name="colorTextGray">#4D4D4D</color>
+    <color name="colorTextGrayDark">#414141</color>
+    <color name="ligthGray50">#80C6C6C6</color>
+    <color name="color_673AC8">#673AC8</color>
+    <color name="color_FEB924">#FEB924</color>
+
+    <color name="colorDialogIndicator">#dddddd</color>
+    <color name="colorDialogTitle">#212121</color>
+
+    <color name="color_vault">#4631B3</color>
+    <color name="color_blocker">#4631B3</color> <!--#59B74A-->
+    <color name="colorRippleEffect">#50ffffff</color>
+    <color name="prem_title">#4631B3</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="settings_title">#3F1EAF</color>
+    <color name="circle_indicator">#1CBEF5</color>
+
+</resources>

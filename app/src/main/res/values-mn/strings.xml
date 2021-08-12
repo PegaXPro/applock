@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Тохиргоо</string>
+
+  
+
+    <string name="share">Хуваалцах</string>
+
+    <string name="notification_protecting_title">Таны програмуудыг хамгаалах</string>
+
+    <string name="notification_protecting_description">Нууцлалыг хамгаалахын тулд програмуудаа түгж.</string>
+
+    <string name="notification_permission_need_title">Хамгаалах зөвшөөрлийг идэвхжүүлэх</string>
+
+    <string name="notification_permission_need_description">Апп түгжигч ашиглах зөвшөөрлийг идэвхжүүлнэ үү.</string>
+    <string name="you_accept_privacy_policy">Үргэлжлүүлснээр та зөвшөөрч байна<u> Нууцлалын бодлого</u> </string>
+
+    <string name="header_recommended_to_lock">Түгжихийг зөвлөж байна</string>
+    <string name="header_all_apps">Бүх програмууд</string>
+
+    <string name="title_general_settings">Ерөнхий</string>
+
+    <string name="title_lock_all">Бүгдийг түгж</string>
+    <string name="description_lock_all">Энэ нь таны бүх програмыг түгжих болно</string>
+
+ 
+    <string name="title_unlock_all">Бүгдийн түгжээг тайлах</string>
+
+    <string name="description_unlock_all">Энэ нь таны бүх програмын түгжээг тайлах болно</string>
+    <string name="settings_change_pattern_title">Загварыг өөрчлөх</string>
+
+    <string name="settings_change_pattern_description">Одоо байгаа загвараа өөрчил</string>
+    <string name="message_pattern_changed">Хээ амжилттай өөрчлөгдсөн</string>
+
+    <string name="setting_in_stealth_mode_title">Зургийг нуух</string>
+    <string name="setting_in_stealth_mode_description">Зурах явцад үл үзэгдэх хэв маяг</string>
+    <string name="setting_fingerprint_title">Хурууны хээг идэвхжүүлэх</string>
+
+    <string name="setting_fingerprint_description">Хурууны хээгээр програм ажиллуулна уу.</string>
+    <string name="setting_fingerprint_not_supported_title">Хурууны хээг дэмжихгүй</string>
+
+    <string name="setting_fingerprint_not_supported_description">Таны төхөөрөмжид мэдрэгч байхгүй байна</string>
+    <string name="setting_fingerprint_not_registered_title">Хурууны хээгээ бүртгүүлэх</string>
+
+    <string name="setting_fingerprint_not_registered_description">Аюулгүй байдлын тохиргоо руу очно уу</string>
+    <string name="next">Дараачийн</string>
+
+    <string name="permission_usage_access_title">Ашиглах хандалтын зөвшөөрөл</string>
+    <string name="permission_usage_access_description">Апп түгжигч ашиглахын тулд хэрэглээний аксуудыг идэвхжүүлнэ үү.</string>
+
+    <string name="permission_overlay_title">Түгжих дэлгэцийн зөвшөөрөл</string>
+
+    <string name="settings_card_intruders_title">Халдлагагүй хүмүүсийг барь</string>
+    <string name="settings_enable_intruders_title">Халдагчдын зургийг ав</string>
+    <string name="settings_enable_intruders_description">Халдлагагүй хүмүүсийг барьж авахыг идэвхжүүлэх.</string>
+
+    <string name="settings_intruders_folder_title">Халдлагагүй хүмүүсийн зургийг барьсан</string>
+    <string name="settings_intruders_folder_description">Таны утасны тагнуулуудыг харахын тулд товшино уу.</string>
+
+    <string name="settings_card_advance_protection_title">Урьдчилан хамгаалах</string>
+    <string name="settings_enable_advance_protection_title">Урьдчилан хамгаалалтыг идэвхжүүл</string>
+    <string name="settings_enable_advance_protection_description">Урьдчилан хамгаалалтыг идэвхжүүлэхийн тулд App Lock Pro-г "төхөөрөмжийн администратор" болгон идэвхжүүлнэ үү. Энэ нь зөвхөн халдагчдыг устгахаас урьдчилан сэргийлэх, App Lock Pro-г хүчээр зогсоох зорилгоор ашиглагдана. App Lock Pro таны нууцлалын мэдээлэлд нэвтрэхийн тулд энэ зөвшөөрлийг хэзээ ч ашиглахгүй байхыг баталгаажуулна уу. .</string>
+    <string name="device_admin_permission_description">Одоо идэвхжүүлж, урьдчилан хамгаалалт, аюулгүй байдлыг дээшлүүлээрэй! \n\nAdvance Protection-ийг идэвхжүүлэхийн тулд App Lock Pro-г "төхөөрөмжийн администратор" болгон идэвхжүүлнэ үү. Энэ нь зөвхөн халдагчдыг устгахаас урьдчилан сэргийлэх, App Lock Pro-г хүчээр зогсоох зорилгоор ашиглагдана. App Lock Pro энэ зөвшөөрлийг хэзээ ч ашиглахгүй гэдгийг баталгаажуулна уу. нууцлалын мэдээлэлд нэвтрэх.</string>
+
+
+    <string name="permission_overlay_description">Түгжих дэлгэцийг харуулахын тулд давхарлахыг идэвхжүүлнэ үү.</string>
+    <string name="permission_toast_enable_permissions">Апп түгжигч ашиглах зөвшөөрлийг идэвхжүүлнэ үү</string>
+
+    <string name="draw_pattern_title">Шинэ хэв маяг үүсгэх</string>
+    <string name="redraw_pattern_title">Дуусгахын тулд дахин зурна уу</string>
+
+    <string name="recreate_pattern_error">Хээ таарахгүй байна. Дахин зурах.</string>
+
+    <string name="create_pattern_successful">Амжилттай үүсгэсэн.</string>
+    <string name="overlay_prompt_pattern_title">Аппыг нээхийн тулд хээ зур</string>
+    <string name="overlay_prompt_pattern_title_wrong">Буруу хэв маяг. Дахин зур.</string>
+    <string name="overlay_prompt_pattern_title_correct">Загвар зөв.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Аппыг нээхийн тулд хээ зур</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Тохирохгүй байна. + %1$s + үлдсэн.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Хурууны хээ таарч байна!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Хурууны хээний алдаа! Загварыг туршиж үзээрэй.</string>
+    <string name="dialog_title_rate_us">Secure Zone таалагдсан уу?</string>
+    <string name="dialog_description_rate_us">Хэрэв та биднийг зах зээл дээр үнэлбэл бид баяртай байх болно.</string>
+    <string name="dialog_action_rate_us_rate">Үнэлгээ</string>
+
+    <string name="dialog_action_rate_us_later">Дараа нь</string>
+    <string name="dialog_title_usage_permission">Android 5.0 зөвшөөрөл</string>
+    <string name="dialog_description_usage_permission">Android 5.0 эсвэл түүнээс дээш хувилбаруудад та ашиглах хандалтыг зөвшөөрөх шаардлагатай
+        AppLocker, ингэснээр та Secure Zone Feature-г ашиглах боломжтой болно</string>
+    <string name="dialog_action_usage_permission_permit">Зөвшөөрөл</string>
+
+    <string name="dialog_action_usage_permission_cancel">Цуцлах</string>
+    <string name="dialog_title_privacy_policy">Нууцлалын бодлого</string>
+    <string name="dialog_description_privacy_policy">Бид нууцлалын бодлогоо шинэчиллээ. Үргэлжлүүлснээр та зөвшөөрч байна<u> Нууцлалын бодлого</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Хүлээн зөвшөөр</string>
+
+    <string name="hint_browser_search">URL хайх эсвэл оруулна уу</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Аюулгүй, аюулгүй. Хувийн.</string>
+    <string name="subtitle_browser_empty">Интернетэд аялах. Аюулгүй.</string>
+    <string name="bookmarks">Хавчуурга</string>
+    <string name="title_name_unknown_number">Үл мэдэгдэх дугаар</string>
+
+
+
+    <string name="blacklist_empty_title">Хар жагсаалт хоосон байна</string>
+    <string name="blacklist_empty_description">Утасны дугаарыг хаахын тулд товшино уу</string>
+    <string name="call_log_empty_title">Бүртгэл байхгүй</string>
+
+    <string name="call_log_empty_description">Дуудлага хаагдсан үед бүртгэл гарч ирнэ</string>
+    <string name="dialog_add_to_blacklist_title">Утасны дугаарыг блоклох</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Нэр (Нэмэлт)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Утасны дугаараа оруулна уу</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Цуцлах</string>
+    <string name="dialog_black_list_delete_title">Хар жагсаалтаас устгах</string>
+    <string name="dialog_black_list_delete_description">Та хориглосон дугаарыг хар жагсаалтаас хасмаар байна уу?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Цуцлах</string>
+    <string name="dialog_title_add_to_vault">Боловсруулалт</string>
+    <string name="dialog_description_process">Таны медиа галерейгаас хасагдаж, танай санд нэмж байна.</string>
+
+    <string name="dialog_title_removal_confirmation">Устгах баталгаа</string>
+    <string name="dialog_description_removal">Энэ файлыг агуулахаас аваад галерейд харуулах болно.</string>
+    <string name="dialog_action_removal_confirmation_accept">Хүлээн зөвшөөр</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault хоосон байна</string>
+    <string name="vault_photo_empty_page_description">Зургийг галерейгаас нуухын тулд дүрс нэмэх</string>
+    <string name="vault_video_empty_page_title">Видео Vault хоосон байна</string>
+
+    <string name="vault_video_empty_page_description">Галерейгаас видео зураг дээр дүрс нэмэх</string>
+    <string-array name="tabs">
+        <item>Аюулгүй байдал</item>
+        <item>Тохиргоо</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Хар жагсаалт</item>
+        <item>Дуудлагын бүртгэл</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Зураг</item>
+        <item>Видео бичлэгүүд</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Халдлага үйлдэгчид баригдсангүй</string>
+    <string name="empty_page_intruders_description">Таны утас аюулгүй байна!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Блоклогч руу залгах</string>
+    <string name="browser">Хөтөч</string>
+    <string name="theme">Сэдэв</string>
+    <string name="rate_us">Биднийг дүгнэнэ үү</string>
+    <string name="removeads">Дээд зэрэглэлийн хувилбар</string>
+    <string name="enter_pin">Зүү оруулна уу</string>
+    <string name="pin_matched">Зүү таарч байна</string>
+    <string name="confirm_pin">Зүүг баталгаажуулна уу</string>
+    <string name="pin_chahnged">Пин амжилттай өөрчлөгдсөн</string>
+    <string name="pin_not_matched">Зүү таарахгүй байна</string>
+    <string name="incorrect_pin">Буруу зүү</string>
+    <string name="settings_set_pin">Зүүг тохируулна уу</string>
+    <string name="change_pin">Зүүг солих</string>
+    <string name="settings_set_pin_description">Шинэ зүү тохируулна уу</string>
+    <string name="create_new_pin">Шинэ зүү үүсгэх</string>
+    <string name="home">Нүүр хуудас</string>
+    <string name="settings_change_pin_description">Одоо байгаа зүүгээ өөрчил</string>
+    <string name="message_pin_changed">Пин амжилттай өөрчлөгдсөн</string>
+    <string name="non_protected">Хамгаалалтгүй</string>
+    <string name="status_protected">Хамгаалагдсан</string>
+    <string name="starting_hour">Эхлэх цаг</string>
+    <string name="ending_hour">Цаг дуусч байна</string>
+    <string name="auto_start_p">автоматаар ажиллуулах зөвшөөрөл</string>
+    <string name="permission_usage_access_description1">автоматаар ажиллуулах сонголтыг нээнэ үү</string>
+
+
+    <string name="privat_browser">Хувийн хөтөч</string>
+    <string name="prem_title">Дээд зэрэглэлийн хувилбар үүрд</string>
+    <string name="prem_no_ads">Үүрд ​​зар сурталчилгаа байхгүй</string>
+    <string name="prem_restore">Худалдан авалтыг сэргээх</string>
+
+    <string name="please_give_us_five_stars">Бидэнд Google Play дээр таван од өгөөч! Бид үүнийг маш их үнэлэх болно!</string>
+    <string name="great_tex">Агуу их!</string>
+    <string name="choose_the_icon">Дүрсийг сонгоод анхны дүрсийг өөрчлөх болно. Энэ програмыг халдагчаас нуу</string>
+    <string name="app_name1">Цаг</string>
+    <string name="app_name2">Газрын зураг</string>
+    <string name="app_name3">Хуанли</string>
+    <string name="app_name4">Хөгжим</string>
+    <string name="app_name5">Тооцоологч</string>
+
+    <string name="callblocker_black">Хар жагсаалт</string>
+    <string name="callblocker_logs">Дуудлагын бүртгэл</string>
+    <string name="icon_change_title">Дүрс</string>
+    <string name="intruders_title">Халдагч</string>
+    <string name="intruders_access_apps">Хэрэглээний програмуудад нэвтрэх</string>
+    <string name="main_unlocked">Түгжээг нь тайллаа</string>
+    <string name="main_locked">Түгжигдсэн</string>
+    <string name="prem_not_sub">Энэ бол захиалга биш юм. Та зөвхөн нэг удаа л мөнгө төлдөг!</string>
+    <string name="prem_fake_icon">Хуурамч дүрс</string>
+    <string name="prem_intruders">Халдагчийн селфи</string>
+    <string name="prem_themes">Илүү бүтээлч сэдэв</string>
+    <string name="prem_one_time">Нэг удаагийн төлбөр</string>
+    <string name="splash_create">Таны хувийн нууцыг хамгаалах зорилгоор бүтээгдсэн</string>
+    <string name="vault_photos">Зураг</string>
+    <string name="vault_videos">Видео бичлэгүүд</string>
+    <string name="btn_ok">БОЛЖ БАЙНА УУ</string>
+    <string name="dialog_intruder_text">Та зургийг устгахыг хүсч байна уу?</string>
+    <string name="btn_cancel">Цуцлах</string>
+    <string name="fragment_security_text">Opps! \n Танд хараахан түгжээтэй апп байхгүй байна</string>
+    <string name="settings_security">Аюулгүй байдал</string>
+    <string name="settings_face_icon">Хуурамч дүрс</string>
+    <string name="settings_face_icon_text">Энэ програмын анхны дүрсийг өөрчлөх болно</string>
+    <string name="rate_us_enjoying">AppLock танд таалагдаж байна уу?</string>
+    <string name="rate_us_could_be">илүү дээр байж болох юм</string>
+    <string name="menu_privacy">Нууцлалын бодлого</string>
+    <string name="menu_contact">Бидэнтэй холбоо бариарай</string>
+    <string name="menu_face_icon">Хуурамч дүрс</string>
+    <string name="menu_intruder">Халдагчийн менежер</string>
+    <string name="menu_chat">Чат өрөө</string>
+
+</resources>

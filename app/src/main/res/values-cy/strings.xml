@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">Gosodiadau</string>
+
+
+
+    <string name="share">Rhannu</string>
+
+    <string name="notification_protecting_title">Amddiffyn eich apiau</string>
+
+    <string name="notification_protecting_description">Clowch eich apiau i amddiffyn eich preifatrwydd.</string>
+
+    <string name="notification_permission_need_title">Galluogi caniatâd i amddiffyn</string>
+
+    <string name="notification_permission_need_description">Os gwelwch yn dda galluogi eich caniatâd i ddefnyddio locer app.</string>
+    <string name="you_accept_privacy_policy">Trwy barhau rydych chi\'n cytuno i\'r<u> Polisi Preifatrwydd</u> </string>
+
+    <string name="header_recommended_to_lock">Argymhellir cloi</string>
+    <string name="header_all_apps">Pob cais</string>
+
+    <string name="title_general_settings">Cyffredinol</string>
+
+    <string name="title_lock_all">Clowch y cyfan</string>
+    <string name="description_lock_all">Bydd hyn yn cloi pob un o\'ch apiau</string>
+
+
+    <string name="title_unlock_all">Datgloi popeth</string>
+
+    <string name="description_unlock_all">Bydd hyn yn datgloi pob un o\'ch apiau</string>
+    <string name="settings_change_pattern_title">Newid patrwm</string>
+
+    <string name="settings_change_pattern_description">Newidiwch eich patrwm presennol</string>
+    <string name="message_pattern_changed">Newidiodd y patrwm yn llwyddiannus</string>
+
+    <string name="setting_in_stealth_mode_title">Cuddio lluniadu</string>
+    <string name="setting_in_stealth_mode_description">Patrwm anweledig wrth dynnu llun</string>
+    <string name="setting_fingerprint_title">Galluogi olion bysedd</string>
+
+    <string name="setting_fingerprint_description">Lansio ap gyda\'ch olion bysedd.</string>
+    <string name="setting_fingerprint_not_supported_title">Ni chefnogir olion bysedd</string>
+
+    <string name="setting_fingerprint_not_supported_description">Nid oes synhwyrydd ar eich dyfais</string>
+    <string name="setting_fingerprint_not_registered_title">Cofrestrwch eich olion bysedd</string>
+
+    <string name="setting_fingerprint_not_registered_description">Ewch i leoliadau diogelwch</string>
+    <string name="next">Nesaf</string>
+
+    <string name="permission_usage_access_title">Caniatâd mynediad defnydd</string>
+    <string name="permission_usage_access_description">Galluogi acces defnydd i ddefnyddio locer app.</string>
+
+    <string name="permission_overlay_title">Cloi caniatâd sgrin</string>
+
+    <string name="settings_card_intruders_title">Dal Tresmaswyr</string>
+    <string name="settings_enable_intruders_title">Tynnwch lun tresmaswyr</string>
+    <string name="settings_enable_intruders_description">Gallu dal tresmaswyr.</string>
+
+    <string name="settings_intruders_folder_title">Lluniau tresmaswyr wedi\'u dal</string>
+    <string name="settings_intruders_folder_description">Cliciwch i weld ysbïwyr ar eich ffôn.</string>
+
+    <string name="settings_card_advance_protection_title">Diogelu ymlaen llaw</string>
+    <string name="settings_enable_advance_protection_title">Galluogi amddiffyniad ymlaen llaw</string>
+    <string name="settings_enable_advance_protection_description">Er mwyn galluogi Diogelu Ymlaen Llaw, gweithredwch App Lock Pro fel "gweinyddwr dyfeisiau". Dim ond ar gyfer atal tresmaswyr rhag dadosod a gorfodi i atal App Lock Pro.Please y caiff ei ddefnyddio na fydd App Lock Pro byth yn defnyddio\'r caniatâd hwn i gael mynediad i\'ch data preifatrwydd. .</string>
+    <string name="device_admin_permission_description">Gweithredwch nawr, amddiffyn ymlaen llaw ac yn fwy diogel! \n\nEr mwyn galluogi Diogelu Ymlaen Llaw, gweithredwch App Lock Pro fel "gweinyddwr dyfeisiau". Dim ond ar gyfer atal tresmaswyr rhag dadosod a gorfodi i atal App Lock Pro.Please y caiff ei ddefnyddio na fydd App Lock Pro byth yn defnyddio\'r caniatâd hwn i cyrchu eich data preifatrwydd.</string>
+
+
+    <string name="permission_overlay_description">Galluogi troshaen i ddangos sgrin clo.</string>
+    <string name="permission_toast_enable_permissions">Galluogi caniatâd i ddefnyddio locer ap</string>
+
+    <string name="draw_pattern_title">Creu patrwm newydd</string>
+    <string name="redraw_pattern_title">Ail-lunio i\'w gwblhau</string>
+
+    <string name="recreate_pattern_error">Nid yw\'r patrwm yn cyfateb. Ail-lunio.</string>
+
+    <string name="create_pattern_successful">Wedi\'i greu\'n llwyddiannus.</string>
+    <string name="overlay_prompt_pattern_title">Tynnu patrwm i\'r app agored</string>
+    <string name="overlay_prompt_pattern_title_wrong">Patrwm anghywir. Tynnwch lun eto.</string>
+    <string name="overlay_prompt_pattern_title_correct">Patrwm yn gywir.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Tynnu patrwm i\'r app agored</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Ddim yn cyfateb. + %1$s + chwith.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Olion bysedd yn cyfateb!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Gwall olion bysedd! Rhowch gynnig ar batrwm.</string>
+    <string name="dialog_title_rate_us">Oeddech chi\'n hoffi Parth Diogel?</string>
+    <string name="dialog_description_rate_us">Byddwn yn hapus iawn Os byddwch chi\'n ein graddio ar y farchnad.</string>
+    <string name="dialog_action_rate_us_rate">Cyfradd</string>
+
+    <string name="dialog_action_rate_us_later">Yn ddiweddarach</string>
+    <string name="dialog_title_usage_permission">Caniatâd Android 5.0</string>
+    <string name="dialog_description_usage_permission">Yn Android 5.0 neu\'n uwch, mae angen i chi ganiatáu mynediad defnydd ar gyfer
+        AppLocker, fel y gallwch ddefnyddio Nodwedd Parth Diogel</string>
+    <string name="dialog_action_usage_permission_permit">Trwydded</string>
+
+    <string name="dialog_action_usage_permission_cancel">Canslo</string>
+    <string name="dialog_title_privacy_policy">Polisi Preifatrwydd</string>
+    <string name="dialog_description_privacy_policy">Rydym wedi diweddaru ein polisi preifatrwydd. Trwy barhau rydych chi\'n cytuno i\'r<u> Polisi Preifatrwydd</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Derbyn</string>
+
+    <string name="hint_browser_search">Chwilio neu nodi URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Syrffio ar y rhyngrwyd. Yn ddiogel.</string>
+    <string name="bookmarks">Llyfrnodau</string>
+    <string name="title_name_unknown_number">Rhif Anhysbys</string>
+
+
+
+    <string name="blacklist_empty_title">Rhestr ddu yn wag</string>
+    <string name="blacklist_empty_description">Cliciwch i rwystro rhif ffôn</string>
+    <string name="call_log_empty_title">Dim Logiau</string>
+
+    <string name="call_log_empty_description">Mae log yn ymddangos yma pan fydd galwad wedi\'i rhwystro</string>
+    <string name="dialog_add_to_blacklist_title">Rhif ffôn bloc</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Enw (Dewisol)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Rhowch rif ffôn</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Canslo</string>
+    <string name="dialog_black_list_delete_title">Dileu o\'r rhestr ddu</string>
+    <string name="dialog_black_list_delete_description">Ydych chi am dynnu rhif sydd wedi\'i rwystro o\'r rhestr ddu?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Canslo</string>
+    <string name="dialog_title_add_to_vault">Prosesu</string>
+    <string name="dialog_description_process">Mae eich cyfryngau yn tynnu o\'r oriel ac yn ychwanegu at eich daeargell.</string>
+
+    <string name="dialog_title_removal_confirmation">Cadarnhad Tynnu</string>
+    <string name="dialog_description_removal">Bydd y ffeil hon yn tynnu o\'r gladdgell ac yn ei dangos i\'r oriel.</string>
+    <string name="dialog_action_removal_confirmation_accept">Derbyn</string>
+
+    <string name="vault_photo_empty_page_title">Mae Photo Vault yn wag</string>
+    <string name="vault_photo_empty_page_description">Ychwanegu eicon i guddio lluniau o\'r oriel</string>
+    <string name="vault_video_empty_page_title">Mae Vault Fideo yn wag</string>
+
+    <string name="vault_video_empty_page_description">Ychwanegu eicon i luniau fideo o\'r oriel</string>
+    <string-array name="tabs">
+        <item>Diogelwch</item>
+        <item>Gosodiadau</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Rhestr Ddu</item>
+        <item>Ffoniwch Logiau</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Delweddau</item>
+        <item>Fideos</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">Ni ddaliwyd tresmaswyr</string>
+    <string name="empty_page_intruders_description">Mae\'ch ffôn yn ddiogel!</string>
+    <string name="Vault">Lladdgell</string>
+    <string name="Call_blocker">Ffoniwch Blocker</string>
+    <string name="browser">Porwr</string>
+    <string name="theme">Themâu</string>
+    <string name="rate_us">Rhowch sgôr i ni</string>
+    <string name="removeads">Fersiwn premiwm</string>
+    <string name="enter_pin">Rhowch pin</string>
+    <string name="pin_matched">Pin yn cyfateb</string>
+    <string name="confirm_pin">Cadarnhau pin</string>
+    <string name="pin_chahnged">Newidiodd pin yn llwyddiannus</string>
+    <string name="pin_not_matched">Pin heb ei gyfateb</string>
+    <string name="incorrect_pin">Pin anghywir</string>
+    <string name="settings_set_pin">Pin gosod</string>
+    <string name="change_pin">Newid pin</string>
+    <string name="settings_set_pin_description">Gosod pin newydd</string>
+    <string name="create_new_pin">Creu pin newydd</string>
+    <string name="home">Hafan</string>
+    <string name="settings_change_pin_description">Newidiwch eich pin presennol</string>
+    <string name="message_pin_changed">Newidiodd Pin yn Llwyddiannus</string>
+    <string name="non_protected">Heb ei Ddiogelu</string>
+    <string name="status_protected">Wedi\'i warchod</string>
+    <string name="starting_hour">Awr Dechrau</string>
+    <string name="ending_hour">Diwedd Awr</string>
+    <string name="auto_start_p">caniatâd awto-redeg</string>
+    <string name="permission_usage_access_description1">agor yr opsiwn auto-run</string>
+
+
+    <string name="privat_browser">Porwr Preifat</string>
+    <string name="prem_title">Fersiwn Premiwm Am Byth</string>
+    <string name="prem_no_ads">Dim AD am byth</string>
+    <string name="prem_restore">Adfer Prynu</string>
+
+    <string name="please_give_us_five_stars">Rhowch bum seren i ni ar Google Play! Byddem yn ei werthfawrogi\'n fawr!</string>
+    <string name="great_tex">Gwych!</string>
+    <string name="choose_the_icon">Dewiswch yr eicon a bydd yr eicon gwreiddiol yn cael ei newid. Cuddiwch yr app hon rhag tresmaswyr</string>
+    <string name="app_name1">Cloc</string>
+    <string name="app_name2">Mapiau</string>
+    <string name="app_name3">Calendr</string>
+    <string name="app_name4">Cerddoriaeth</string>
+    <string name="app_name5">Cyfrifiannell</string>
+
+    <string name="callblocker_black">Rhestr ddu</string>
+    <string name="callblocker_logs">Logiau galwadau</string>
+    <string name="icon_change_title">Eiconau</string>
+    <string name="intruders_title">Tresmaswr</string>
+    <string name="intruders_access_apps">Cyrchu apiau gyda defnydd</string>
+    <string name="main_unlocked">Datgloi</string>
+    <string name="main_locked">Wedi\'i gloi</string>
+    <string name="prem_not_sub">Nid tanysgrifiad yw hwn. Dim ond unwaith rydych chi\'n talu!</string>
+    <string name="prem_fake_icon">Eicon Ffug</string>
+    <string name="prem_intruders">Hunlun tresmaswyr</string>
+    <string name="prem_themes">Themâu mwy creadigol</string>
+    <string name="prem_one_time">Taliad Un-Amser</string>
+    <string name="splash_create">Wedi\'i greu i amddiffyn eich preifatrwydd</string>
+    <string name="vault_photos">Lluniau</string>
+    <string name="vault_videos">Fideos</string>
+    <string name="btn_ok">iawn</string>
+    <string name="dialog_intruder_text">Hoffech chi ddileu\'r llun?</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="fragment_security_text">Opps! \n Nid oes gennych apiau wedi\'u cloi eto</string>
+    <string name="settings_security">Diogelwch</string>
+    <string name="settings_face_icon">Eicon Ffug</string>
+    <string name="settings_face_icon_text">Bydd eicon gwreiddiol yr app hon yn cael ei newid</string>
+    <string name="rate_us_enjoying">Ydych chi\'n mwynhau AppLock?</string>
+    <string name="rate_us_could_be">gallai fod yn well</string>
+    <string name="menu_privacy">Polisi Preifatrwydd</string>
+    <string name="menu_contact">Cysylltwch â Ni</string>
+    <string name="menu_face_icon">Eicon Ffug</string>
+    <string name="menu_intruder">Rheolwr Tresmaswyr</string>
+    <string name="menu_chat">Ystafell Sgwrsio</string>
+</resources>

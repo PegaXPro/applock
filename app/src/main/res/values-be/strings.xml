@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">Налады</string>
+
+
+
+    <string name="share">Падзяліцеся</string>
+
+    <string name="notification_protecting_title">Абарона вашых праграм</string>
+
+    <string name="notification_protecting_description">Заблакуйце свае праграмы, каб абараніць вашу прыватную жыццё.</string>
+
+    <string name="notification_permission_need_title">Уключыць дазвол на абарону</string>
+
+    <string name="notification_permission_need_description">Уключыце дазволы на выкарыстанне шафкі прыкладанняў.</string>
+    <string name="you_accept_privacy_policy">Працягваючы, вы згаджаецеся з<u> Палітыка прыватнасці</u> </string>
+
+    <string name="header_recommended_to_lock">Рэкамендуецца заблакаваць</string>
+    <string name="header_all_apps">Усе дадаткі</string>
+
+    <string name="title_general_settings">Агульны</string>
+
+    <string name="title_lock_all">Заблакаваць усё</string>
+    <string name="description_lock_all">Гэта заблакуе ўсе вашы праграмы</string>
+
+
+    <string name="title_unlock_all">Разблакіруйце ўсе</string>
+
+    <string name="description_unlock_all">Гэта разблакуе ўсе вашы праграмы</string>
+    <string name="settings_change_pattern_title">Змяніць шаблон</string>
+
+    <string name="settings_change_pattern_description">Зменіце існуючы ўзор</string>
+    <string name="message_pattern_changed">Шаблон паспяхова зменены</string>
+
+    <string name="setting_in_stealth_mode_title">Схаваць малюнак</string>
+    <string name="setting_in_stealth_mode_description">Нябачны ўзор падчас малявання</string>
+    <string name="setting_fingerprint_title">Уключыць адбіткі пальцаў</string>
+
+    <string name="setting_fingerprint_description">Запусціце прыкладанне з адбіткам пальца.</string>
+    <string name="setting_fingerprint_not_supported_title">Адбіткі пальцаў не падтрымліваюцца</string>
+
+    <string name="setting_fingerprint_not_supported_description">У вашай прыладзе няма датчыка</string>
+    <string name="setting_fingerprint_not_registered_title">Зарэгіструйце адбіткі пальцаў</string>
+
+    <string name="setting_fingerprint_not_registered_description">Перайдзіце ў налады бяспекі</string>
+    <string name="next">Далей</string>
+
+    <string name="permission_usage_access_title">Дазвол на выкарыстанне</string>
+    <string name="permission_usage_access_description">Уключыце доступ да выкарыстання, каб выкарыстоўваць шафку прыкладанняў.</string>
+
+    <string name="permission_overlay_title">Дазвол блакавання экрана</string>
+
+    <string name="settings_card_intruders_title">Злавіць зламыснікаў</string>
+    <string name="settings_enable_intruders_title">Сфатаграфуйце зламыснікаў</string>
+    <string name="settings_enable_intruders_description">Дазволіць злавіць зламыснікаў.</string>
+
+    <string name="settings_intruders_folder_title">Злоўленыя фотаздымкі зламысніка</string>
+    <string name="settings_intruders_folder_description">Націсніце, каб убачыць шпіёнаў на вашым тэлефоне.</string>
+
+    <string name="settings_card_advance_protection_title">Папярэдняя абарона</string>
+    <string name="settings_enable_advance_protection_title">Уключыць папярэднюю абарону</string>
+    <string name="settings_enable_advance_protection_description">Каб уключыць Advance Protection, уключыце App Lock Pro як "адміністратар прылады". Ён выкарыстоўваецца толькі для прадухілення выдалення зламыснікаў і прымусовага спынення App Lock Pro. Калі ласка, пераканайцеся, што App Lock Pro ніколі не будзе выкарыстоўваць гэты дазвол для доступу да вашых дадзеных аб прыватнасці .</string>
+    <string name="device_admin_permission_description">Актывуйце зараз, папярэднюю абарону і больш бяспечна! \n\nКаб уключыць Advance Protection, актывуйце App Lock Pro як "адміністратар прылады". Ён выкарыстоўваецца толькі для прадухілення выдалення зламыснікаў і прымусовага спынення App Lock Pro. Калі ласка, пераканайцеся, што App Lock Pro ніколі не будзе выкарыстоўваць гэты дазвол атрымаць доступ да вашых дадзеных прыватнасці.</string>
+
+
+    <string name="permission_overlay_description">Уключыце накладанне, каб паказаць экран блакавання.</string>
+    <string name="permission_toast_enable_permissions">Уключыце дазволы на выкарыстанне шафкі прыкладанняў</string>
+
+    <string name="draw_pattern_title">Стварыце новы ўзор</string>
+    <string name="redraw_pattern_title">Перамалюйце, каб скончыць</string>
+
+    <string name="recreate_pattern_error">Шаблон не супадае. Перамаляваць.</string>
+
+    <string name="create_pattern_successful">Паспяхова створана.</string>
+    <string name="overlay_prompt_pattern_title">Намалюйце шаблон, каб адкрыць прыкладанне</string>
+    <string name="overlay_prompt_pattern_title_wrong">Няправільны ўзор. Малюйце яшчэ раз.</string>
+    <string name="overlay_prompt_pattern_title_correct">Шаблон правільны.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Намалюйце шаблон, каб адкрыць прыкладанне</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Не супадае +. Засталося + %1$s +.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Адбіткі пальцаў супадаюць!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Памылка адбіткаў пальцаў! Паспрабуйце ўзор.</string>
+    <string name="dialog_title_rate_us">Вам спадабалася Secure Zone?</string>
+    <string name="dialog_description_rate_us">Мы будзем тааак рады, калі вы ацэніце нас на рынку.</string>
+    <string name="dialog_action_rate_us_rate">Ацаніце</string>
+
+    <string name="dialog_action_rate_us_later">Пазней</string>
+    <string name="dialog_title_usage_permission">Дазвол Android 5.0</string>
+    <string name="dialog_description_usage_permission">У Android 5.0 і вышэй неабходна дазволіць доступ да выкарыстання для
+        AppLocker, так што вы можаце выкарыстоўваць функцыю Secure Zone</string>
+    <string name="dialog_action_usage_permission_permit">Дазвол</string>
+
+    <string name="dialog_action_usage_permission_cancel">Адмяніць</string>
+    <string name="dialog_title_privacy_policy">Палітыка прыватнасці</string>
+    <string name="dialog_description_privacy_policy">Мы абнавілі палітыку прыватнасці. Працягваючы, вы згаджаецеся з<u> Палітыка прыватнасці</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Прыняць</string>
+
+    <string name="hint_browser_search">Шукайце альбо ўвядзіце URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Пашукайце ў Інтэрнэце. Надзейна.</string>
+    <string name="bookmarks">Закладкі</string>
+    <string name="title_name_unknown_number">Невядомы нумар</string>
+
+
+
+    <string name="blacklist_empty_title">Чорны спіс пусты</string>
+    <string name="blacklist_empty_description">Націсніце, каб заблакаваць нумар тэлефона</string>
+    <string name="call_log_empty_title">Няма часопісаў</string>
+
+    <string name="call_log_empty_description">Часопіс з\'яўляецца тут, калі званок заблакаваны</string>
+    <string name="dialog_add_to_blacklist_title">Заблакаваць нумар тэлефона</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Імя (неабавязкова)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Увядзіце нумар тэлефона</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Адмяніць</string>
+    <string name="dialog_black_list_delete_title">Выдаліць з чорнага спісу</string>
+    <string name="dialog_black_list_delete_description">Вы хочаце выдаліць заблакаваны нумар з чорнага спісу?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Адмяніць</string>
+    <string name="dialog_title_add_to_vault">Апрацоўка</string>
+    <string name="dialog_description_process">Вашы носьбіты выдаляюцца з галерэі і дадаюцца ў сховішча.</string>
+
+    <string name="dialog_title_removal_confirmation">Пацверджанне выдалення</string>
+    <string name="dialog_description_removal">Гэты файл будзе выдалены з сховішча і паказаны ў галерэі.</string>
+    <string name="dialog_action_removal_confirmation_accept">Прыняць</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault пусты</string>
+    <string name="vault_photo_empty_page_description">Дадаць значок, каб схаваць фатаграфіі з галерэі</string>
+    <string name="vault_video_empty_page_title">Відэа сховішча пустое</string>
+
+    <string name="vault_video_empty_page_description">Дадаць абразок да відэаздымкаў з галерэі</string>
+    <string-array name="tabs">
+        <item>Бяспека</item>
+        <item>Налады</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Чорны спіс</item>
+        <item>Часопісы выклікаў</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Выявы</item>
+        <item>Відэа</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">Ніякіх зламыснікаў не злоўлена</string>
+    <string name="empty_page_intruders_description">Ваш тэлефон у бяспецы!</string>
+    <string name="Vault">Звод</string>
+    <string name="Call_blocker">Блакіроўшчык выклікаў</string>
+    <string name="browser">Аглядальнік</string>
+    <string name="theme">Тэмы</string>
+    <string name="rate_us">Ацаніце нас</string>
+    <string name="removeads">Прэміум-версія</string>
+    <string name="enter_pin">Увядзіце шпільку</string>
+    <string name="pin_matched">Штыфт супадае</string>
+    <string name="confirm_pin">Пацвердзіце шпільку</string>
+    <string name="pin_chahnged">Пін паспяхова зменены</string>
+    <string name="pin_not_matched">Штыфт не супадае</string>
+    <string name="incorrect_pin">Няправільны штыфт</string>
+    <string name="settings_set_pin">Усталюйце шпільку</string>
+    <string name="change_pin">Зменіце шпільку</string>
+    <string name="settings_set_pin_description">Усталюйце новы штыфт</string>
+    <string name="create_new_pin">Стварыце новы шпільку</string>
+    <string name="home">Дадому</string>
+    <string name="settings_change_pin_description">Зменіце існуючы штыфт</string>
+    <string name="message_pin_changed">Штыфт паспяхова зменены</string>
+    <string name="non_protected">Не абаронены</string>
+    <string name="status_protected">Ахоўваецца</string>
+    <string name="starting_hour">Пачатковая гадзіна</string>
+    <string name="ending_hour">Заканчэнне гадзіны</string>
+    <string name="auto_start_p">дазвол на аўтаматычны запуск</string>
+    <string name="permission_usage_access_description1">адкрыйце опцыю аўтаматычнага запуску</string>
+
+
+    <string name="privat_browser">Прыватны аглядальнік</string>
+    <string name="prem_title">Прэміум-версія Forever</string>
+    <string name="prem_no_ads">Няма рэкламы назаўжды</string>
+    <string name="prem_restore">Аднавіць пакупку</string>
+
+    <string name="please_give_us_five_stars">Калі ласка, дайце нам пяць зорак на Google Play! Мы былі б вельмі ўдзячныя за гэта!</string>
+    <string name="great_tex">Выдатна!</string>
+    <string name="choose_the_icon">Выберыце значок, і арыгінальны значок будзе зменены. Схаваць гэта дадатак ад зламыснікаў</string>
+    <string name="app_name1">Гадзіннік</string>
+    <string name="app_name2">Карты</string>
+    <string name="app_name3">Каляндар</string>
+    <string name="app_name4">Музыка</string>
+    <string name="app_name5">Калькулятар</string>
+
+    <string name="callblocker_black">Чорны спіс</string>
+    <string name="callblocker_logs">Часопісы выклікаў</string>
+    <string name="icon_change_title">Абразкі</string>
+    <string name="intruders_title">Парушальнік</string>
+    <string name="intruders_access_apps">Доступ да праграм з выкарыстаннем</string>
+    <string name="main_unlocked">Адмыкнутая</string>
+    <string name="main_locked">Заблакаваны</string>
+    <string name="prem_not_sub">Гэта не падпіска. Вы плаціце толькі адзін раз!</string>
+    <string name="prem_fake_icon">Падроблены абразок</string>
+    <string name="prem_intruders">Парушальнік сэлфі</string>
+    <string name="prem_themes">Больш крэатыўныя тэмы</string>
+    <string name="prem_one_time">Аднаразовая аплата</string>
+    <string name="splash_create">Створана для абароны вашай прыватнасці</string>
+    <string name="vault_photos">Фотаздымкі</string>
+    <string name="vault_videos">Відэа</string>
+    <string name="btn_ok">добра</string>
+    <string name="dialog_intruder_text">Вы хочаце выдаліць фота?</string>
+    <string name="btn_cancel">АДМЕНА</string>
+    <string name="fragment_security_text">Опс! \n У вас яшчэ няма заблакаваных праграм</string>
+    <string name="settings_security">Бяспека</string>
+    <string name="settings_face_icon">Падроблены абразок</string>
+    <string name="settings_face_icon_text">Арыгінальны значок гэтага прыкладання будзе зменены</string>
+    <string name="rate_us_enjoying">Вам падабаецца AppLock?</string>
+    <string name="rate_us_could_be">можа быць і лепш</string>
+    <string name="menu_privacy">Палітыка прыватнасці</string>
+    <string name="menu_contact">Звяжыцеся з намі</string>
+    <string name="menu_face_icon">Падроблены абразок</string>
+    <string name="menu_intruder">Кіраўнік парушальніка</string>
+    <string name="menu_chat">Чат</string>
+
+</resources>

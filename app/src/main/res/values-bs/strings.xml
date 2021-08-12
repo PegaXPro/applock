@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">Postavke</string>
+
+
+
+    <string name="share">Podijeli</string>
+
+    <string name="notification_protecting_title">Zaštita vaših aplikacija</string>
+
+    <string name="notification_protecting_description">Zaključajte svoje aplikacije da biste zaštitili svoju privatnost.</string>
+
+    <string name="notification_permission_need_title">Omogućite dozvolu za zaštitu</string>
+
+    <string name="notification_permission_need_description">Omogućite svoja dopuštenja za upotrebu zaključavanja aplikacija.</string>
+    <string name="you_accept_privacy_policy">Nastavkom slažete se sa<u> Politika privatnosti</u> </string>
+
+    <string name="header_recommended_to_lock">Preporučuje se zaključavanje</string>
+    <string name="header_all_apps">Sve aplikacije</string>
+
+    <string name="title_general_settings">Generale</string>
+
+    <string name="title_lock_all">Zaključaj sve</string>
+    <string name="description_lock_all">Ovo će zaključati sve vaše aplikacije</string>
+
+
+    <string name="title_unlock_all">Otključaj sve</string>
+
+    <string name="description_unlock_all">Ovo će otključati sve vaše aplikacije</string>
+    <string name="settings_change_pattern_title">Promijenite obrazac</string>
+
+    <string name="settings_change_pattern_description">Promijenite postojeći obrazac</string>
+    <string name="message_pattern_changed">Uzorak se uspješno promijenio</string>
+
+    <string name="setting_in_stealth_mode_title">Sakrij crtež</string>
+    <string name="setting_in_stealth_mode_description">Nevidljivi uzorak tokom crtanja</string>
+    <string name="setting_fingerprint_title">Omogući otisak prsta</string>
+
+    <string name="setting_fingerprint_description">Pokrenite aplikaciju otiskom prsta.</string>
+    <string name="setting_fingerprint_not_supported_title">Otisak prsta nije podržan</string>
+
+    <string name="setting_fingerprint_not_supported_description">Uređaj nema senzor</string>
+    <string name="setting_fingerprint_not_registered_title">Registrirajte svoj otisak prsta</string>
+
+    <string name="setting_fingerprint_not_registered_description">Idite na sigurnosne postavke</string>
+    <string name="next">Sljedeći</string>
+
+    <string name="permission_usage_access_title">Dozvola za pristup upotrebi</string>
+    <string name="permission_usage_access_description">Omogućite pristup korištenju za korištenje zaključavača aplikacija.</string>
+
+    <string name="permission_overlay_title">Dozvola za zaključavanje ekrana</string>
+
+    <string name="settings_card_intruders_title">Uhvatite uljeze</string>
+    <string name="settings_enable_intruders_title">Slikajte uljeze</string>
+    <string name="settings_enable_intruders_description">Omogućiti hvatanje uljeza.</string>
+
+    <string name="settings_intruders_folder_title">Uhvaćene fotografije uljeza</string>
+    <string name="settings_intruders_folder_description">Kliknite da vidite špijune na svom telefonu.</string>
+
+    <string name="settings_card_advance_protection_title">Napredna zaštita</string>
+    <string name="settings_enable_advance_protection_title">Omogućite prethodnu zaštitu</string>
+    <string name="settings_enable_advance_protection_description">Da biste omogućili naprednu zaštitu, aktivirajte App Lock Pro kao "administratora uređaja". Koristi se samo za sprječavanje deinstaliranja uljeza i prisilno zaustavljanje App Lock Pro. Molimo vas pripazite da App Lock Pro nikada neće koristiti ovo odobrenje za pristup vašim podacima o privatnosti .</string>
+    <string name="device_admin_permission_description">Aktivirajte odmah, unaprijed zaštitite i sigurnije! \n\nDa biste omogućili naprednu zaštitu, aktivirajte App Lock Pro kao "administratora uređaja". Koristi se samo za sprječavanje deinstalacije uljeza i prisilno zaustavljanje App Lock Pro-a. Molimo vas pripazite da App Lock Pro nikada neće koristiti ovo odobrenje za pristupite vašim podacima o privatnosti.</string>
+
+
+    <string name="permission_overlay_description">Omogućite prekrivanje za prikaz zaključanog ekrana.</string>
+    <string name="permission_toast_enable_permissions">Omogućite dozvole za upotrebu zaključavanja aplikacija</string>
+
+    <string name="draw_pattern_title">Stvorite novi obrazac</string>
+    <string name="redraw_pattern_title">Precrtajte do kraja</string>
+
+    <string name="recreate_pattern_error">Uzorak se ne podudara. Precrtaj.</string>
+
+    <string name="create_pattern_successful">Uspješno kreirano.</string>
+    <string name="overlay_prompt_pattern_title">Nacrtajte obrazac za otvaranje aplikacije</string>
+    <string name="overlay_prompt_pattern_title_wrong">Pogrešan obrazac. Ponovo crtajte.</string>
+    <string name="overlay_prompt_pattern_title_correct">Uzorak ispravan.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Nacrtajte obrazac za otvaranje aplikacije</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Nije + podudarno. + %1$s + ostalo.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Otisak prsta se podudara!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Pogreška otiska prsta! Isprobajte obrazac.</string>
+    <string name="dialog_title_rate_us">Da li vam se svidjela sigurna zona?</string>
+    <string name="dialog_description_rate_us">Bit ćemo jako sretni ako nas ocijenite na tržištu.</string>
+    <string name="dialog_action_rate_us_rate">Ocijenite</string>
+
+    <string name="dialog_action_rate_us_later">Kasnije</string>
+    <string name="dialog_title_usage_permission">Dozvola za Android 5.0</string>
+    <string name="dialog_description_usage_permission">U Androidu 5.0 ili novijoj verziji, morate omogućiti pristup upotrebi za
+        AppLocker, tako da možete koristiti značajku sigurne zone</string>
+    <string name="dialog_action_usage_permission_permit">Dozvola</string>
+
+    <string name="dialog_action_usage_permission_cancel">Otkaži</string>
+    <string name="dialog_title_privacy_policy">Politika privatnosti</string>
+    <string name="dialog_description_privacy_policy">Ažurirali smo našu politiku privatnosti. Nastavkom slažete se sa<u> Politika privatnosti</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Prihvati</string>
+
+    <string name="hint_browser_search">Pretražite ili unesite URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Surfajte internetom. Sigurno.</string>
+    <string name="bookmarks">Oznake</string>
+    <string name="title_name_unknown_number">Nepoznati broj</string>
+
+
+
+    <string name="blacklist_empty_title">Crna lista je prazna</string>
+    <string name="blacklist_empty_description">Kliknite da blokirate telefonski broj</string>
+    <string name="call_log_empty_title">Nema dnevnika</string>
+
+    <string name="call_log_empty_description">Dnevnik se ovdje pojavljuje kada je poziv blokiran</string>
+    <string name="dialog_add_to_blacklist_title">Blokiraj broj telefona</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Ime (nije obavezno)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Unesite broj telefona</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Otkaži</string>
+    <string name="dialog_black_list_delete_title">Izbriši sa crne liste</string>
+    <string name="dialog_black_list_delete_description">Želite li ukloniti blokirani broj sa crne liste?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Otkaži</string>
+    <string name="dialog_title_add_to_vault">Obrada</string>
+    <string name="dialog_description_process">Vaš medij uklanja se iz galerije i dodaje u vaš trezor.</string>
+
+    <string name="dialog_title_removal_confirmation">Potvrda o uklanjanju</string>
+    <string name="dialog_description_removal">Ova datoteka će se ukloniti iz trezora i prikazati u galeriji.</string>
+    <string name="dialog_action_removal_confirmation_accept">Prihvati</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault je prazan</string>
+    <string name="vault_photo_empty_page_description">Dodaj ikonu da sakrijete fotografije iz galerije</string>
+    <string name="vault_video_empty_page_title">Video Trezor je prazan</string>
+
+    <string name="vault_video_empty_page_description">Dodajte ikonu na video fotografije iz galerije</string>
+    <string-array name="tabs">
+        <item>Sigurnost</item>
+        <item>Postavke</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Crna lista</item>
+        <item>Evidencije poziva</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Slike</item>
+        <item>Video</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">Nema uhvaćenih uljeza</string>
+    <string name="empty_page_intruders_description">Vaš telefon je siguran!</string>
+    <string name="Vault">Trezor</string>
+    <string name="Call_blocker">Bloker poziva</string>
+    <string name="browser">Pretraživač</string>
+    <string name="theme">Teme</string>
+    <string name="rate_us">Ocjeni nas</string>
+    <string name="removeads">Premium verzija</string>
+    <string name="enter_pin">Unesite pin</string>
+    <string name="pin_matched">Pin podudaran</string>
+    <string name="confirm_pin">Potvrdite pin</string>
+    <string name="pin_chahnged">Pin je uspješno promijenjen</string>
+    <string name="pin_not_matched">Pin se ne podudara</string>
+    <string name="incorrect_pin">Pogrešan pin</string>
+    <string name="settings_set_pin">Set pin</string>
+    <string name="change_pin">Promijenite pin</string>
+    <string name="settings_set_pin_description">Postavite novi pin</string>
+    <string name="create_new_pin">Stvorite novi pin</string>
+    <string name="home">Dom</string>
+    <string name="settings_change_pin_description">Promijenite svoj postojeći pin</string>
+    <string name="message_pin_changed">Pin je uspješno promijenjen</string>
+    <string name="non_protected">Nije zaštićeno</string>
+    <string name="status_protected">Zaštićeno</string>
+    <string name="starting_hour">Početni sat</string>
+    <string name="ending_hour">Završetak sata</string>
+    <string name="auto_start_p">dozvola za automatsko pokretanje</string>
+    <string name="permission_usage_access_description1">otvorite opciju automatskog pokretanja</string>
+
+
+    <string name="privat_browser">Privatni pregledač</string>
+    <string name="prem_title">Premium verzija zauvijek</string>
+    <string name="prem_no_ads">Bez oglasa zauvijek</string>
+    <string name="prem_restore">Vrati kupovinu</string>
+
+    <string name="please_give_us_five_stars">Dajte nam pet zvjezdica na Google Playu! Mnogo bismo to cijenili!</string>
+    <string name="great_tex">Super!</string>
+    <string name="choose_the_icon">Odaberite ikonu i originalna ikona će se promijeniti. Sakrij ovu aplikaciju od uljeza</string>
+    <string name="app_name1">Clock</string>
+    <string name="app_name2">Maps</string>
+    <string name="app_name3">Kalendar</string>
+    <string name="app_name4">Muzika</string>
+    <string name="app_name5">Kalkulator</string>
+
+    <string name="callblocker_black">Crna lista</string>
+    <string name="callblocker_logs">Evidencije poziva</string>
+    <string name="icon_change_title">Ikone</string>
+    <string name="intruders_title">Uljez</string>
+    <string name="intruders_access_apps">Pristupite aplikacijama uz upotrebu</string>
+    <string name="main_unlocked">Otključano</string>
+    <string name="main_locked">Zaključano</string>
+    <string name="prem_not_sub">Ovo nije pretplata. Plaćate samo jednom!</string>
+    <string name="prem_fake_icon">Lažna ikona</string>
+    <string name="prem_intruders">Uljez selfie</string>
+    <string name="prem_themes">Kreativnije teme</string>
+    <string name="prem_one_time">Jednokratno plaćanje</string>
+    <string name="splash_create">Stvoreno za zaštitu vaše privatnosti</string>
+    <string name="vault_photos">Fotografije</string>
+    <string name="vault_videos">Video</string>
+    <string name="btn_ok">uredu</string>
+    <string name="dialog_intruder_text">Želite li izbrisati fotografiju?</string>
+    <string name="btn_cancel">OTKAŽI</string>
+    <string name="fragment_security_text">Opps! \n Još nemate zaključane aplikacije</string>
+    <string name="settings_security">Sigurnost</string>
+    <string name="settings_face_icon">Lažna ikona</string>
+    <string name="settings_face_icon_text">Izmijenit će se originalna ikona ove aplikacije</string>
+    <string name="rate_us_enjoying">Da li uživate u AppLocku?</string>
+    <string name="rate_us_could_be">moglo bi biti i bolje</string>
+    <string name="menu_privacy">Politika privatnosti</string>
+    <string name="menu_contact">Kontaktiraj nas</string>
+    <string name="menu_face_icon">Lažna ikona</string>
+    <string name="menu_intruder">Menadžer uljeza</string>
+    <string name="menu_chat">Soba za čavrljanje</string>
+
+</resources>

@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">ಆಪ್‌ಲಾಕ್</string>
+
+    <string name="action_settings">ಸಂಯೋಜನೆಗಳು</string>
+
+  
+
+    <string name="share">ಹಂಚಿಕೊಳ್ಳಿ</string>
+
+    <string name="notification_protecting_title">ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ರಕ್ಷಿಸಲಾಗುತ್ತಿದೆ</string>
+
+    <string name="notification_protecting_description">ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಲಾಕ್ ಮಾಡಿ.</string>
+
+    <string name="notification_permission_need_title">ರಕ್ಷಣೆಗೆ ಅನುಮತಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+
+    <string name="notification_permission_need_description">ಅಪ್ಲಿಕೇಶನ್ ಲಾಕರ್ ಬಳಸಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ಅನುಮತಿಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
+    <string name="you_accept_privacy_policy">ಮುಂದುವರಿಸುವ ಮೂಲಕ ನೀವು ಒಪ್ಪುತ್ತೀರಿ<u> ಗೌಪ್ಯತಾ ನೀತಿ</u> </string>
+
+    <string name="header_recommended_to_lock">ಲಾಕ್ ಮಾಡಲು ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ</string>
+    <string name="header_all_apps">ಎಲ್ಲಾ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು</string>
+
+    <string name="title_general_settings">ಜನರಲ್</string>
+
+    <string name="title_lock_all">ಎಲ್ಲವನ್ನೂ ಲಾಕ್ ಮಾಡಿ</string>
+    <string name="description_lock_all">ಇದು ನಿಮ್ಮ ಎಲ್ಲಾ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಲಾಕ್ ಮಾಡುತ್ತದೆ</string>
+
+ 
+    <string name="title_unlock_all">ಎಲ್ಲವನ್ನೂ ಅನ್ಲಾಕ್ ಮಾಡಿ</string>
+
+    <string name="description_unlock_all">ಇದು ನಿಮ್ಮ ಎಲ್ಲಾ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅನ್ಲಾಕ್ ಮಾಡುತ್ತದೆ</string>
+    <string name="settings_change_pattern_title">ಮಾದರಿಯನ್ನು ಬದಲಾಯಿಸಿ</string>
+
+    <string name="settings_change_pattern_description">ನಿಮ್ಮ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಮಾದರಿಯನ್ನು ಬದಲಾಯಿಸಿ</string>
+    <string name="message_pattern_changed">ಪ್ಯಾಟರ್ನ್ ಯಶಸ್ವಿಯಾಗಿ ಬದಲಾಗಿದೆ</string>
+
+    <string name="setting_in_stealth_mode_title">ರೇಖಾಚಿತ್ರವನ್ನು ಮರೆಮಾಡಿ</string>
+    <string name="setting_in_stealth_mode_description">ಚಿತ್ರಿಸುವಾಗ ಅದೃಶ್ಯ ಮಾದರಿ</string>
+    <string name="setting_fingerprint_title">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+
+    <string name="setting_fingerprint_description">ನಿಮ್ಮ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್‌ನೊಂದಿಗೆ ಅಪ್ಲಿಕೇಶನ್ ಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="setting_fingerprint_not_supported_title">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ</string>
+
+    <string name="setting_fingerprint_not_supported_description">ನಿಮ್ಮ ಸಾಧನವು ಸಂವೇದಕವನ್ನು ಹೊಂದಿಲ್ಲ</string>
+    <string name="setting_fingerprint_not_registered_title">ನಿಮ್ಮ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್ನು ನೋಂದಾಯಿಸಿ</string>
+
+    <string name="setting_fingerprint_not_registered_description">ಭದ್ರತಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಹೋಗಿ</string>
+    <string name="next">ಮುಂದೆ</string>
+
+    <string name="permission_usage_access_title">ಬಳಕೆ ಪ್ರವೇಶ ಅನುಮತಿ</string>
+    <string name="permission_usage_access_description">ಅಪ್ಲಿಕೇಶನ್ ಲಾಕರ್ ಬಳಸಲು ಬಳಕೆಯ ಅಕ್ಸೆಸ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
+
+    <string name="permission_overlay_title">ಪರದೆಯ ಅನುಮತಿಯನ್ನು ಲಾಕ್ ಮಾಡಿ</string>
+
+    <string name="settings_card_intruders_title">ಒಳನುಗ್ಗುವವರನ್ನು ಹಿಡಿಯಿರಿ</string>
+    <string name="settings_enable_intruders_title">ಒಳನುಗ್ಗುವವರ ಚಿತ್ರವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ</string>
+    <string name="settings_enable_intruders_description">ಒಳನುಗ್ಗುವವರನ್ನು ಹಿಡಿಯಲು ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
+
+    <string name="settings_intruders_folder_title">ಒಳನುಗ್ಗುವವರ ಫೋಟೋಗಳನ್ನು ಸೆಳೆಯಲಾಗಿದೆ</string>
+    <string name="settings_intruders_folder_description">ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ಗೂ ies ಚಾರರನ್ನು ನೋಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ.</string>
+
+    <string name="settings_card_advance_protection_title">ಮುಂಗಡ ರಕ್ಷಣೆ</string>
+    <string name="settings_enable_advance_protection_title">ಮುಂಗಡ ರಕ್ಷಣೆ ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="settings_enable_advance_protection_description">ಅಡ್ವಾನ್ಸ್ ಪ್ರೊಟೆಕ್ಷನ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ದಯವಿಟ್ಟು ಅಪ್ಲಿಕೇಶನ್ ಲಾಕ್ ಪ್ರೊ ಅನ್ನು "ಡಿವೈಸ್ ಅಡ್ಮಿನಿಸ್ಟ್ರೇಟರ್" ಆಗಿ ಸಕ್ರಿಯಗೊಳಿಸಿ .ಇದು ಒಳನುಗ್ಗುವವರನ್ನು ಅಸ್ಥಾಪಿಸುವುದನ್ನು ತಡೆಯಲು ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್ ಲಾಕ್ ಪ್ರೊ ಅನ್ನು ಒತ್ತಾಯಿಸಲು ಮಾತ್ರ ಬಳಸಲಾಗುತ್ತದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಗೌಪ್ಯತೆ ಡೇಟಾವನ್ನು ಪ್ರವೇಶಿಸಲು ಅಪ್ಲಿಕೇಶನ್ ಲಾಕ್ ಪ್ರೊ ಎಂದಿಗೂ ಈ ಅನುಮತಿಯನ್ನು ಬಳಸುವುದಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. .</string>
+    <string name="device_admin_permission_description">ಇದೀಗ ಸಕ್ರಿಯಗೊಳಿಸಿ, ಮುಂಗಡ ರಕ್ಷಣೆ ಮತ್ತು ಹೆಚ್ಚು ಸುರಕ್ಷಿತ! Adv n \nಮುಂಗಡ ರಕ್ಷಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ದಯವಿಟ್ಟು ಅಪ್ಲಿಕೇಶನ್ ಲಾಕ್ ಪ್ರೊ ಅನ್ನು "ಸಾಧನ ನಿರ್ವಾಹಕರು" ಎಂದು ಸಕ್ರಿಯಗೊಳಿಸಿ .ಇದು ಒಳನುಗ್ಗುವವರನ್ನು ಅಸ್ಥಾಪಿಸುವುದನ್ನು ತಡೆಯಲು ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್ ಲಾಕ್ ಪ್ರೊ ಅನ್ನು ಬಲವಂತವಾಗಿ ನಿಲ್ಲಿಸಲು ಮಾತ್ರ ಬಳಸಲಾಗುತ್ತದೆ. ದಯವಿಟ್ಟು ಅಪ್ಲಿಕೇಶನ್ ಲಾಕ್ ಪ್ರೊ ಈ ಅನುಮತಿಯನ್ನು ಎಂದಿಗೂ ಬಳಸುವುದಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ ನಿಮ್ಮ ಗೌಪ್ಯತೆ ಡೇಟಾವನ್ನು ಪ್ರವೇಶಿಸಿ.</string>
+
+
+    <string name="permission_overlay_description">ಲಾಕ್ ಪರದೆಯನ್ನು ತೋರಿಸಲು ಓವರ್‌ಲೇ ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
+    <string name="permission_toast_enable_permissions">ಅಪ್ಲಿಕೇಶನ್ ಲಾಕರ್ ಬಳಸಲು ಅನುಮತಿಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+
+    <string name="draw_pattern_title">ಹೊಸ ಮಾದರಿಯನ್ನು ರಚಿಸಿ</string>
+    <string name="redraw_pattern_title">ಪೂರ್ಣಗೊಳಿಸಲು ಮತ್ತೆ ಎಳೆಯಿರಿ</string>
+
+    <string name="recreate_pattern_error">ಪ್ಯಾಟರ್ನ್ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ. ಮತ್ತೆ ಎಳೆಯಿರಿ.</string>
+
+    <string name="create_pattern_successful">ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ.</string>
+    <string name="overlay_prompt_pattern_title">ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಲು ಮಾದರಿಯನ್ನು ಎಳೆಯಿರಿ</string>
+    <string name="overlay_prompt_pattern_title_wrong">ತಪ್ಪಾದ ಮಾದರಿ. ಮತ್ತೆ ಎಳೆಯಿರಿ.</string>
+    <string name="overlay_prompt_pattern_title_correct">ಪ್ಯಾಟರ್ನ್ ಸರಿಯಾಗಿದೆ.</string>
+
+    <string name="overlay_prompt_fingerprint_title">ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಲು ಮಾದರಿಯನ್ನು ಎಳೆಯಿರಿ</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ. + %1$s + ಉಳಿದಿದೆ.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಹೊಂದಿಕೆಯಾಗಿದೆ!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">ಫಿಂಗರ್ಪ್ರಿಂಟ್ ದೋಷ! ಮಾದರಿಯನ್ನು ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="dialog_title_rate_us">ನೀವು ಸುರಕ್ಷಿತ ವಲಯವನ್ನು ಇಷ್ಟಪಟ್ಟಿದ್ದೀರಾ?</string>
+    <string name="dialog_description_rate_us">ನೀವು ನಮ್ಮನ್ನು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ರೇಟ್ ಮಾಡಿದರೆ ನಾವು ತುಂಬಾ ಸಂತೋಷವಾಗಿರುತ್ತೇವೆ.</string>
+    <string name="dialog_action_rate_us_rate">ದರ</string>
+
+    <string name="dialog_action_rate_us_later">ನಂತರ</string>
+    <string name="dialog_title_usage_permission">ಆಂಡ್ರಾಯ್ಡ್ 5.0 ಅನುಮತಿ</string>
+    <string name="dialog_description_usage_permission">ಆಂಡ್ರಾಯ್ಡ್ 5.0 ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನದರಲ್ಲಿ, ನೀವು ಬಳಕೆ ಪ್ರವೇಶವನ್ನು ಅನುಮತಿಸಬೇಕಾಗುತ್ತದೆ
+        ಆಪ್‌ಲಾಕರ್, ಇದರಿಂದ ನೀವು ಸುರಕ್ಷಿತ ವಲಯ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಬಹುದು</string>
+    <string name="dialog_action_usage_permission_permit">ಅನುಮತಿ</string>
+
+    <string name="dialog_action_usage_permission_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="dialog_title_privacy_policy">ಗೌಪ್ಯತಾ ನೀತಿ</string>
+    <string name="dialog_description_privacy_policy">ನಾವು ನಮ್ಮ ಗೌಪ್ಯತೆ ನೀತಿಯನ್ನು ನವೀಕರಿಸಿದ್ದೇವೆ. ಮುಂದುವರಿಸುವ ಮೂಲಕ ನೀವು ಒಪ್ಪುತ್ತೀರಿ<u> ಗೌಪ್ಯತಾ ನೀತಿ</u> </string>
+    <string name="dialog_action_privacy_policy_accept">ಒಪ್ಪಿಕೊಳ್ಳಿ</string>
+
+    <string name="hint_browser_search">URL ಅನ್ನು ಹುಡುಕಿ ಅಥವಾ ನಮೂದಿಸಿ</string>
+    <string name="facebook">ಫೇಸ್ಬುಕ್</string>
+
+    <string name="twitter">ಟ್ವಿಟರ್</string>
+
+    <string name="snapchat">ಸ್ನ್ಯಾಪ್‌ಚಾಟ್</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">ರೆಡ್ಡಿಟ್</string>
+    <string name="title_browser_empty">ಸುರಕ್ಷಿತ. ಸುರಕ್ಷಿತ. ಖಾಸಗಿ.</string>
+    <string name="subtitle_browser_empty">ಅಂತರ್ಜಾಲದಲ್ಲಿ ಸರ್ಫ್ ಮಾಡಿ. ಸುರಕ್ಷಿತವಾಗಿ.</string>
+    <string name="bookmarks">ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು</string>
+    <string name="title_name_unknown_number">ಅಜ್ಞಾತ ಸಂಖ್ಯೆ</string>
+
+
+
+    <string name="blacklist_empty_title">ಕಪ್ಪುಪಟ್ಟಿ ಖಾಲಿಯಾಗಿದೆ</string>
+    <string name="blacklist_empty_description">ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ನಿರ್ಬಂಧಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ</string>
+    <string name="call_log_empty_title">ದಾಖಲೆಗಳಿಲ್ಲ</string>
+
+    <string name="call_log_empty_description">ಕರೆ ನಿರ್ಬಂಧಿಸಿದಾಗ ಲಾಗ್ ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ</string>
+    <string name="dialog_add_to_blacklist_title">ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ನಿರ್ಬಂಧಿಸಿ</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">ಹೆಸರು (ಐಚ್ al ಿಕ)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="dialog_black_list_delete_title">ಕಪ್ಪುಪಟ್ಟಿಯಿಂದ ಅಳಿಸಿ</string>
+    <string name="dialog_black_list_delete_description">ನಿರ್ಬಂಧಿತ ಸಂಖ್ಯೆಯನ್ನು ಕಪ್ಪು ಪಟ್ಟಿಯಿಂದ ತೆಗೆದುಹಾಕಲು ನೀವು ಬಯಸುವಿರಾ?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="dialog_title_add_to_vault">ಸಂಸ್ಕರಣೆ</string>
+    <string name="dialog_description_process">ನಿಮ್ಮ ಮಾಧ್ಯಮವು ಗ್ಯಾಲರಿಯಿಂದ ತೆಗೆದುಹಾಕುತ್ತದೆ ಮತ್ತು ನಿಮ್ಮ ವಾಲ್ಟ್‌ಗೆ ಸೇರಿಸುತ್ತಿದೆ.</string>
+
+    <string name="dialog_title_removal_confirmation">ತೆಗೆದುಹಾಕುವ ದೃ ir ೀಕರಣ</string>
+    <string name="dialog_description_removal">ಈ ಫೈಲ್ ವಾಲ್ಟ್‌ನಿಂದ ತೆಗೆದುಹಾಕಿ ಗ್ಯಾಲರಿಗೆ ತೋರಿಸುತ್ತದೆ.</string>
+    <string name="dialog_action_removal_confirmation_accept">ಒಪ್ಪಿಕೊಳ್ಳಿ</string>
+
+    <string name="vault_photo_empty_page_title">ಫೋಟೋ ವಾಲ್ಟ್ ಖಾಲಿಯಾಗಿದೆ</string>
+    <string name="vault_photo_empty_page_description">ಗ್ಯಾಲರಿಯಿಂದ ಫೋಟೋಗಳನ್ನು ಮರೆಮಾಡಲು ಐಕಾನ್ ಸೇರಿಸಿ</string>
+    <string name="vault_video_empty_page_title">ವೀಡಿಯೊ ವಾಲ್ಟ್ ಖಾಲಿಯಾಗಿದೆ</string>
+
+    <string name="vault_video_empty_page_description">ಗ್ಯಾಲರಿಯಿಂದ ವೀಡಿಯೊ ಫೋಟೋಗಳಿಗೆ ಐಕಾನ್ ಸೇರಿಸಿ</string>
+    <string-array name="tabs">
+        <item>ಭದ್ರತೆ</item>
+        <item>ಸಂಯೋಜನೆಗಳು</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>ಕಪ್ಪುಪಟ್ಟಿ</item>
+        <item>ಕರೆ ಲಾಗ್‌ಗಳು</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>ಚಿತ್ರಗಳು</item>
+        <item>ವೀಡಿಯೊಗಳು</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">ಯಾವುದೇ ಒಳನುಗ್ಗುವವರು ಹಿಡಿಯಲಿಲ್ಲ</string>
+    <string name="empty_page_intruders_description">ನಿಮ್ಮ ಫೋನ್ ಸುರಕ್ಷಿತವಾಗಿದೆ!</string>
+    <string name="Vault">ವಾಲ್ಟ್</string>
+    <string name="Call_blocker">ಬ್ಲಾಕರ್‌ಗೆ ಕರೆ ಮಾಡಿ</string>
+    <string name="browser">ಬ್ರೌಸರ್</string>
+    <string name="theme">ಥೀಮ್ಗಳು</string>
+    <string name="rate_us">ನಮಗೆ ರೇಟ್ ಮಾಡಿ</string>
+    <string name="removeads">ಪ್ರೀಮಿಯಂ ಆವೃತ್ತಿ</string>
+    <string name="enter_pin">ಪಿನ್ ನಮೂದಿಸಿ</string>
+    <string name="pin_matched">ಪಿನ್ ಹೊಂದಿಕೆಯಾಗಿದೆ</string>
+    <string name="confirm_pin">ಪಿನ್ ಅನ್ನು ದೃ irm ೀಕರಿಸಿ</string>
+    <string name="pin_chahnged">ಪಿನ್ ಯಶಸ್ವಿಯಾಗಿ ಬದಲಾಗಿದೆ</string>
+    <string name="pin_not_matched">ಪಿನ್ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="incorrect_pin">ತಪ್ಪಾದ ಪಿನ್</string>
+    <string name="settings_set_pin">ಪಿನ್ ಹೊಂದಿಸಿ</string>
+    <string name="change_pin">ಪಿನ್ ಬದಲಾಯಿಸಿ</string>
+    <string name="settings_set_pin_description">ಹೊಸ ಪಿನ್ ಹೊಂದಿಸಿ</string>
+    <string name="create_new_pin">ಹೊಸ ಪಿನ್ ರಚಿಸಿ</string>
+    <string name="home">ಮನೆ</string>
+    <string name="settings_change_pin_description">ನಿಮ್ಮ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಪಿನ್ ಅನ್ನು ಬದಲಾಯಿಸಿ</string>
+    <string name="message_pin_changed">ಪಿನ್ ಯಶಸ್ವಿಯಾಗಿ ಬದಲಾಯಿಸಲಾಗಿದೆ</string>
+    <string name="non_protected">ರಕ್ಷಿತವಲ್ಲ</string>
+    <string name="status_protected">ಸಂರಕ್ಷಿಸಲಾಗಿದೆ</string>
+    <string name="starting_hour">ಪ್ರಾರಂಭದ ಗಂಟೆ</string>
+    <string name="ending_hour">ಗಂಟೆ ಮುಗಿಯುತ್ತಿದೆ</string>
+    <string name="auto_start_p">ಸ್ವಯಂ-ರನ್ ಅನುಮತಿ</string>
+    <string name="permission_usage_access_description1">ಸ್ವಯಂ-ರನ್ ಆಯ್ಕೆಯನ್ನು ತೆರೆಯಿರಿ</string>
+
+
+    <string name="privat_browser">ಖಾಸಗಿ ಬ್ರೌಸರ್</string>
+    <string name="prem_title">ಪ್ರೀಮಿಯಂ ಆವೃತ್ತಿ ಶಾಶ್ವತವಾಗಿ</string>
+    <string name="prem_no_ads">ಎಡಿಗಳು ಎಂದೆಂದಿಗೂ ಇಲ್ಲ</string>
+    <string name="prem_restore">ಖರೀದಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸಿ</string>
+
+    <string name="please_give_us_five_stars">ದಯವಿಟ್ಟು ಪ್ಲೇಮಾರ್ಕೆಟ್‌ನಲ್ಲಿ ಐದು ನಕ್ಷತ್ರಗಳನ್ನು ನಮಗೆ ನೀಡಿ! ನಾವು ಅದನ್ನು ತುಂಬಾ ಪ್ರಶಂಸಿಸುತ್ತೇವೆ!</string>
+    <string name="great_tex">ಅದ್ಭುತವಾಗಿದೆ!</string>
+    <string name="choose_the_icon">ಐಕಾನ್ ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು ಮೂಲ ಐಕಾನ್ ಅನ್ನು ಬದಲಾಯಿಸಲಾಗುತ್ತದೆ. ಒಳನುಗ್ಗುವವರಿಂದ ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮರೆಮಾಡಿ</string>
+    <string name="app_name1">ಗಡಿಯಾರ</string>
+    <string name="app_name2">ನಕ್ಷೆಗಳು</string>
+    <string name="app_name3">ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="app_name4">ಸಂಗೀತ</string>
+    <string name="app_name5">ಕ್ಯಾಲ್ಕುಲೇಟರ್</string>
+
+    <string name="callblocker_black">ಕಪ್ಪು ಪಟ್ಟಿ</string>
+    <string name="callblocker_logs">ಕರೆ ಲಾಗ್‌ಗಳು</string>
+    <string name="icon_change_title">ಚಿಹ್ನೆಗಳು</string>
+    <string name="intruders_title">ಒಳನುಗ್ಗುವವನು</string>
+    <string name="intruders_access_apps">ಬಳಕೆಯೊಂದಿಗೆ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಪ್ರವೇಶಿಸಿ</string>
+    <string name="main_unlocked">ಅನ್ಲಾಕ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="main_locked">ಲಾಕ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="prem_not_sub">ಇದು ಚಂದಾದಾರಿಕೆ ಅಲ್ಲ. ನೀವು ಒಮ್ಮೆ ಮಾತ್ರ ಪಾವತಿಸುತ್ತೀರಿ!</string>
+    <string name="prem_fake_icon">ನಕಲಿ ಐಕಾನ್</string>
+    <string name="prem_intruders">ಒಳನುಗ್ಗುವ ಸೆಲ್ಫಿ</string>
+    <string name="prem_themes">ಹೆಚ್ಚು ಸೃಜನಶೀಲ ವಿಷಯಗಳು</string>
+    <string name="prem_one_time">ಒಂದು ಬಾರಿ ಪಾವತಿ</string>
+    <string name="splash_create">ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು ರಚಿಸಲಾಗಿದೆ</string>
+    <string name="vault_photos">ಫೋಟೋಗಳು</string>
+    <string name="vault_videos">ವೀಡಿಯೊಗಳು</string>
+    <string name="btn_ok">ಸರಿ</string>
+    <string name="dialog_intruder_text">ಫೋಟೋವನ್ನು ಅಳಿಸಲು ನೀವು ಬಯಸುವಿರಾ?</string>
+    <string name="btn_cancel">ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="fragment_security_text">ಎದುರು! \n ನೀವು ಇನ್ನೂ ಲಾಕ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಹೊಂದಿಲ್ಲ</string>
+    <string name="settings_security">ಭದ್ರತೆ</string>
+    <string name="settings_face_icon">ನಕಲಿ ಐಕಾನ್</string>
+    <string name="settings_face_icon_text">ಈ ಅಪ್ಲಿಕೇಶನ್‌ನ ಮೂಲ ಐಕಾನ್ ಅನ್ನು ಬದಲಾಯಿಸಲಾಗುತ್ತದೆ</string>
+    <string name="rate_us_enjoying">ನೀವು ಆಪ್‌ಲಾಕ್ ಅನ್ನು ಆನಂದಿಸುತ್ತಿದ್ದೀರಾ?</string>
+    <string name="rate_us_could_be">ಇದು ಚೆನ್ನಾಗಿರಬಹುದು</string>
+    <string name="menu_privacy">ಗೌಪ್ಯತಾ ನೀತಿ</string>
+    <string name="menu_contact">ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="menu_face_icon">ನಕಲಿ ಐಕಾನ್</string>
+    <string name="menu_intruder">ಒಳನುಗ್ಗುವ ವ್ಯವಸ್ಥಾಪಕ</string>
+    <string name="menu_chat">ಹರಟೆ ಕೋಣೆ</string>
+
+</resources>

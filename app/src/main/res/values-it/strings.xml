@@ -1,0 +1,231 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">impostazioni</string>
+
+  
+
+    <string name="share">Condividere</string>
+
+    <string name="notification_protecting_title">Proteggi le tue app</string>
+
+    <string name="notification_protecting_description">Blocca le tue app per proteggere la tua privacy.</string>
+
+    <string name="notification_permission_need_title">Abilita l\'autorizzazione alla protezione</string>
+
+    <string name="notification_permission_need_description">Abilita le tue autorizzazioni per utilizzare l\'armadietto delle app.</string>
+    <string name="you_accept_privacy_policy">Continuando accetti il<u> politica sulla riservatezza</u> </string>
+
+    <string name="header_recommended_to_lock">Consigliato per bloccare</string>
+    <string name="header_all_apps">Tutte le applicazioni</string>
+
+    <string name="title_general_settings">Generale</string>
+
+    <string name="title_lock_all">Blocca tutto</string>
+    <string name="description_lock_all">Questo bloccherà tutte le tue app</string>
+
+ 
+    <string name="title_unlock_all">Sblocca tutto</string>
+
+    <string name="description_unlock_all">Questo sbloccherà tutte le tue app</string>
+    <string name="settings_change_pattern_title">Cambia modello</string>
+
+    <string name="settings_change_pattern_description">Cambia il tuo schema esistente</string>
+    <string name="message_pattern_changed">Il motivo è stato modificato con successo</string>
+
+    <string name="setting_in_stealth_mode_title">Nascondi disegno</string>
+    <string name="setting_in_stealth_mode_description">Modello invisibile durante il disegno</string>
+    <string name="setting_fingerprint_title">Abilita impronta digitale</string>
+
+    <string name="setting_fingerprint_description">Avvia l\'app con la tua impronta digitale.</string>
+    <string name="setting_fingerprint_not_supported_title">L\'impronta digitale non è supportata</string>
+
+    <string name="setting_fingerprint_not_supported_description">Il tuo dispositivo non ha il sensore</string>
+    <string name="setting_fingerprint_not_registered_title">Registra la tua impronta digitale</string>
+
+    <string name="setting_fingerprint_not_registered_description">Vai alle impostazioni di sicurezza</string>
+    <string name="next">Il prossimo</string>
+
+    <string name="permission_usage_access_title">Autorizzazione di accesso all\'utilizzo</string>
+    <string name="permission_usage_access_description">Abilita l\'accesso di utilizzo per utilizzare l\'armadietto delle app.</string>
+
+    <string name="permission_overlay_title">Permesso di blocco schermo</string>
+
+    <string name="settings_card_intruders_title">Cattura gli intrusi</string>
+    <string name="settings_enable_intruders_title">Scatta una foto degli intrusi</string>
+    <string name="settings_enable_intruders_description">Abilita per catturare gli intrusi.</string>
+
+    <string name="settings_intruders_folder_title">Catturate foto di intrusi</string>
+    <string name="settings_intruders_folder_description">Clicca per vedere le spie sul tuo telefono.</string>
+
+    <string name="settings_card_advance_protection_title">Protezione avanzata</string>
+    <string name="settings_enable_advance_protection_title">Abilita la protezione avanzata</string>
+    <string name="settings_enable_advance_protection_description">Per abilitare la protezione avanzata, attiva App Lock Pro come "amministratore del dispositivo". Viene utilizzato solo per impedire agli intrusi di disinstallare e forzare l\'arresto di App Lock Pro. Assicurati che App Lock Pro non utilizzerà mai questa autorizzazione per accedere ai dati sulla privacy .</string>
+    <string name="device_admin_permission_description">Attiva ora, protezione avanzata e più sicuro! \n\nPer abilitare la protezione avanzata, attiva App Lock Pro come "amministratore del dispositivo". Viene utilizzato solo per impedire la disinstallazione di intrusi e forzare l\'arresto di App Lock Pro. Assicurati che App Lock Pro non utilizzerà mai questa autorizzazione accedere ai tuoi dati sulla privacy.</string>
+
+
+    <string name="permission_overlay_description">Abilita overlay per mostrare la schermata di blocco.</string>
+    <string name="permission_toast_enable_permissions">Abilita le autorizzazioni per utilizzare l\'armadietto delle app</string>
+
+    <string name="draw_pattern_title">Crea un nuovo modello</string>
+    <string name="redraw_pattern_title">Ridisegna per completare</string>
+
+    <string name="recreate_pattern_error">Il motivo non corrisponde. Ridisegna.</string>
+
+    <string name="create_pattern_successful">Creato con successo.</string>
+    <string name="overlay_prompt_pattern_title">Disegna la sequenza per aprire l\'app</string>
+    <string name="overlay_prompt_pattern_title_wrong">Schema sbagliato. Disegna di nuovo.</string>
+    <string name="overlay_prompt_pattern_title_correct">Pattern corretto.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Disegna la sequenza per aprire l\'app</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Non + corrispondenti. + %1$s + rimanenti.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Impronta digitale abbinata!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Errore di impronta digitale! Prova il pattern.</string>
+    <string name="dialog_title_rate_us">Ti è piaciuto Secure Zone?</string>
+    <string name="dialog_description_rate_us">Saremo veramente felici se ci valuterai sul mercato.</string>
+    <string name="dialog_action_rate_us_rate">Vota</string>
+
+    <string name="dialog_action_rate_us_later">Dopo</string>
+    <string name="dialog_title_usage_permission">Autorizzazione per Android 5.0</string>
+    <string name="dialog_description_usage_permission">In Android 5.0 o versioni successive, è necessario consentire l\'accesso all\'utilizzo per
+        AppLocker, in modo da poter utilizzare la funzione Secure Zone</string>
+    <string name="dialog_action_usage_permission_permit">Permesso</string>
+
+    <string name="dialog_action_usage_permission_cancel">Annulla</string>
+    <string name="dialog_title_privacy_policy">politica sulla riservatezza</string>
+    <string name="dialog_description_privacy_policy">Abbiamo aggiornato la nostra politica sulla privacy. Continuando accetti il<u> politica sulla riservatezza</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Accettare</string>
+
+    <string name="hint_browser_search">Cerca o inserisci l\'URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Sicuro, protetto, privato.</string>
+    <string name="subtitle_browser_empty">Navigare su Internet. In modo sicuro.</string>
+    <string name="bookmarks">Segnalibri</string>
+    <string name="title_name_unknown_number">Numero sconosciuto</string>
+
+
+
+    <string name="blacklist_empty_title">La lista nera è vuota</string>
+    <string name="blacklist_empty_description">Fare clic per bloccare il numero di telefono</string>
+    <string name="call_log_empty_title">Nessun registro</string>
+
+    <string name="call_log_empty_description">Il registro viene visualizzato qui quando la chiamata è bloccata</string>
+    <string name="dialog_add_to_blacklist_title">Blocca numero di telefono</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nome (facoltativo)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Inserisci il numero di telefono</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Annulla</string>
+    <string name="dialog_black_list_delete_title">Elimina dalla lista nera</string>
+    <string name="dialog_black_list_delete_description">Vuoi rimuovere il numero bloccato dalla lista nera?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Annulla</string>
+    <string name="dialog_title_add_to_vault">in lavorazione</string>
+    <string name="dialog_description_process">I tuoi file multimediali vengono rimossi dalla galleria e aggiunti al tuo vault.</string>
+
+    <string name="dialog_title_removal_confirmation">Conferma di rimozione</string>
+    <string name="dialog_description_removal">Questo file verrà rimosso dal vault e mostrato nella galleria.</string>
+    <string name="dialog_action_removal_confirmation_accept">Accettare</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault è vuoto</string>
+    <string name="vault_photo_empty_page_description">Aggiungi icona per nascondere le foto dalla galleria</string>
+    <string name="vault_video_empty_page_title">Video Vault è vuoto</string>
+
+    <string name="vault_video_empty_page_description">Aggiungi un\'icona alle foto video dalla galleria</string>
+    <string-array name="tabs">
+        <item>Sicurezza</item>
+        <item>impostazioni</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Lista nera</item>
+        <item>Registro delle chiamate</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>immagini</item>
+        <item>Video</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Nessun intruso catturato</string>
+    <string name="empty_page_intruders_description">Il tuo telefono è al sicuro!</string>
+    <string name="Vault">Volta</string>
+    <string name="Call_blocker">Call Blocker</string>
+    <string name="browser">Browser</string>
+    <string name="theme">Temi</string>
+    <string name="rate_us">Valutaci</string>
+    <string name="removeads">Versione premium</string>
+    <string name="enter_pin">Inserisci il pin</string>
+    <string name="pin_matched">Pin abbinato</string>
+    <string name="confirm_pin">Conferma pin</string>
+    <string name="pin_chahnged">Pin modificato con successo</string>
+    <string name="pin_not_matched">Pin non corrispondente</string>
+    <string name="incorrect_pin">Pin errato</string>
+    <string name="settings_set_pin">Imposta pin</string>
+    <string name="change_pin">Cambia pin</string>
+    <string name="settings_set_pin_description">Imposta nuovo pin</string>
+    <string name="create_new_pin">Crea un nuovo segnaposto</string>
+    <string name="home">Casa</string>
+    <string name="settings_change_pin_description">Cambia il tuo pin esistente</string>
+    <string name="message_pin_changed">Pin modificato con successo</string>
+    <string name="non_protected">Non protetto</string>
+    <string name="status_protected">Protetto</string>
+    <string name="starting_hour">Ora di inizio</string>
+    <string name="ending_hour">Ora di fine</string>
+    <string name="auto_start_p">autorizzazione di esecuzione automatica</string>
+    <string name="permission_usage_access_description1">apri l\'opzione di esecuzione automatica</string>
+
+
+    <string name="privat_browser">Browser privato</string>
+    <string name="prem_title">Versione Premium per sempre</string>
+    <string name="prem_no_ads">Nessun annuncio per sempre</string>
+    <string name="prem_restore">Ripristinare acquisto</string>
+
+    <string name="please_give_us_five_stars">Per favore, dacci cinque stelle su Google Play! Lo apprezzeremmo molto!</string>
+    <string name="great_tex">Grande!</string>
+    <string name="choose_the_icon">Scegli l\'icona e l\'icona originale verrà modificata. Nascondi questa app dagli intrusi</string>
+    <string name="app_name1">Orologio</string>
+    <string name="app_name2">Mappe</string>
+    <string name="app_name3">Calendario</string>
+    <string name="app_name4">Musica</string>
+    <string name="app_name5">Calcolatrice</string>
+
+    <string name="callblocker_black">Lista nera</string>
+    <string name="callblocker_logs">Registro delle chiamate</string>
+    <string name="icon_change_title">Icone</string>
+    <string name="intruders_title">Intruso</string>
+    <string name="intruders_access_apps">Accedi alle app con l\'utilizzo</string>
+    <string name="main_unlocked">Sbloccato</string>
+    <string name="main_locked">Bloccato</string>
+    <string name="prem_not_sub">Questo non è un abbonamento. Paghi solo una volta!</string>
+    <string name="prem_fake_icon">Icona falsa</string>
+    <string name="prem_intruders">Selfie di intruso</string>
+    <string name="prem_themes">Temi più creativi</string>
+    <string name="prem_one_time">Pagamento unico</string>
+    <string name="splash_create">Creato per proteggere la tua privacy</string>
+    <string name="vault_photos">Fotografie</string>
+    <string name="vault_videos">Video</string>
+    <string name="btn_ok">ok</string>
+    <string name="dialog_intruder_text">Vuoi eliminare la foto?</string>
+    <string name="btn_cancel">ANNULLA</string>
+    <string name="fragment_security_text">Opps! \n Non hai ancora app bloccate</string>
+    <string name="settings_security">Sicurezza</string>
+    <string name="settings_face_icon">Icona falsa</string>
+    <string name="settings_face_icon_text">L\'icona originale di questa app verrà modificata</string>
+    <string name="rate_us_enjoying">Ti piace AppLock?</string>
+    <string name="rate_us_could_be">potrebbe essere meglio</string>
+    <string name="menu_privacy">politica sulla riservatezza</string>
+    <string name="menu_contact">Contattaci</string>
+    <string name="menu_face_icon">Icona falsa</string>
+    <string name="menu_intruder">Intruder Manager</string>
+    <string name="menu_chat">Chat room</string>
+</resources>

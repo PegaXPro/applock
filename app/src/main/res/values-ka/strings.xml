@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">პარამეტრები</string>
+
+  
+
+    <string name="share">გაზიარება</string>
+
+    <string name="notification_protecting_title">თქვენი აპების დაცვა</string>
+
+    <string name="notification_protecting_description">ჩაკეტეთ თქვენი აპები თქვენი პირადი ინფორმაციის დასაცავად.</string>
+
+    <string name="notification_permission_need_title">ჩართეთ დაცვა</string>
+
+    <string name="notification_permission_need_description">გთხოვთ, ჩართოთ თქვენი ნებართვები, რომ გამოიყენოთ აპის მბრძანებელი.</string>
+    <string name="you_accept_privacy_policy">გაგრძელებით თქვენ ეთანხმებით<u> Კონფიდენციალურობის პოლიტიკა</u> </string>
+
+    <string name="header_recommended_to_lock">რეკომენდირებულია ჩაკეტვა</string>
+    <string name="header_all_apps">ყველა პროგრამა</string>
+
+    <string name="title_general_settings">გენერალი</string>
+
+    <string name="title_lock_all">ყველა ჩაკეტვა</string>
+    <string name="description_lock_all">ეს ჩაკეტავს თქვენს ყველა აპს</string>
+
+ 
+    <string name="title_unlock_all">განბლოკეთ ყველა</string>
+
+    <string name="description_unlock_all">ეს განბლოკავს თქვენს ყველა აპს</string>
+    <string name="settings_change_pattern_title">ნიმუშის შეცვლა</string>
+
+    <string name="settings_change_pattern_description">შეცვალეთ თქვენი არსებული ნიმუში</string>
+    <string name="message_pattern_changed">ნიმუში წარმატებით შეიცვალა</string>
+
+    <string name="setting_in_stealth_mode_title">ნახატის დამალვა</string>
+    <string name="setting_in_stealth_mode_description">ნახვის დროს უხილავი ნიმუში</string>
+    <string name="setting_fingerprint_title">თითის ანაბეჭდის ჩართვა</string>
+
+    <string name="setting_fingerprint_description">აპის გაშვება თქვენი თითის ანაბეჭდით.</string>
+    <string name="setting_fingerprint_not_supported_title">თითის ანაბეჭდი არ არის მხარდაჭერილი</string>
+
+    <string name="setting_fingerprint_not_supported_description">თქვენს მოწყობილობას არ აქვს სენსორი</string>
+    <string name="setting_fingerprint_not_registered_title">დაარეგისტრირეთ თქვენი თითის ანაბეჭდი</string>
+
+    <string name="setting_fingerprint_not_registered_description">გადადით უსაფრთხოების პარამეტრებზე</string>
+    <string name="next">შემდეგი</string>
+
+    <string name="permission_usage_access_title">გამოყენების დაშვების ნებართვა</string>
+    <string name="permission_usage_access_description">აპლიკაციის მბრძანებლის გამოსაყენებლად ჩართეთ აქსესუარები.</string>
+
+    <string name="permission_overlay_title">ეკრანის დაბლოკვის ნებართვა</string>
+
+    <string name="settings_card_intruders_title">დაჭერა Intruders</string>
+    <string name="settings_enable_intruders_title">გადაიღეთ intruders სურათი</string>
+    <string name="settings_enable_intruders_description">ინტერატორების დაჭერის ჩართვა.</string>
+
+    <string name="settings_intruders_folder_title">დაიჭირეს შემოსავლის ფოტოები</string>
+    <string name="settings_intruders_folder_description">დააჭირეთ თქვენს ტელეფონზე ჯაშუშების სანახავად.</string>
+
+    <string name="settings_card_advance_protection_title">წინასწარი დაცვა</string>
+    <string name="settings_enable_advance_protection_title">წინასწარი დაცვის ჩართვა</string>
+    <string name="settings_enable_advance_protection_description">Advance Protection- ის ჩასართავად, გთხოვთ, გაააქტიუროთ App Lock Pro, როგორც „მოწყობილობის ადმინისტრატორი“. ის გამოიყენება მხოლოდ პროგრამაში, რომ არ შემოიფარგლონ ინსტალატორები და არ აიძულონ შეაჩერონ App Lock Pro. დარწმუნდით, რომ App Lock Pro არასდროს გამოიყენებს ამ ნებართვას თქვენი საიდუმლოების მონაცემებზე წვდომისთვის .</string>
+    <string name="device_admin_permission_description">გაააქტიურეთ ახლა, გააუმჯობესეთ დაცვა და უფრო დაცული! \n\nწინასწარი დაცვის გასააქტიურებლად, გთხოვთ, გაააქტიუროთ App Lock Pro, როგორც "მოწყობილობის ადმინისტრატორი". ის გამოიყენება მხოლოდ პროგრამაში, რომ არ შემოიფარგლონ ინსტალატორები და არ აიძულონ შეაჩერონ App Lock Pro. დარწმუნდით, რომ App Lock Pro არასდროს გამოიყენებს ამ ნებართვას თქვენს კონფიდენციალურობის მონაცემებზე წვდომა.</string>
+
+
+    <string name="permission_overlay_description">ჩაკეტილი ეკრანის საჩვენებლად გადაფარვის ჩართვა.</string>
+    <string name="permission_toast_enable_permissions">ჩართეთ ნებართვები, რომ გამოიყენოთ აპის მბრძანებელი</string>
+
+    <string name="draw_pattern_title">შექმენით ახალი ნიმუში</string>
+    <string name="redraw_pattern_title">დასრულების დასრულება</string>
+
+    <string name="recreate_pattern_error">ნიმუში არ ემთხვევა. ხელახლა დახატვა.</string>
+
+    <string name="create_pattern_successful">წარმატებით შეიქმნა.</string>
+    <string name="overlay_prompt_pattern_title">დახაზეთ შაბლონი აპის გასახსნელად</string>
+    <string name="overlay_prompt_pattern_title_wrong">არასწორი ნიმუში. ისევ დახაზეთ.</string>
+    <string name="overlay_prompt_pattern_title_correct">ნიმუში სწორია.</string>
+
+    <string name="overlay_prompt_fingerprint_title">დახაზეთ შაბლონი აპის გასახსნელად</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">არ არის + შესაბამისი. + %1$s + დარჩა.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">თითის ანაბეჭდი დაემთხვა!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">თითის ანაბეჭდის შეცდომა! სცადეთ ნიმუში.</string>
+    <string name="dialog_title_rate_us">მოგეწონათ უსაფრთხო ზონა?</string>
+    <string name="dialog_description_rate_us">ჩვენ ძალიან ბედნიერები ვიქნებით, თუ თქვენ შეაფასებთ ჩვენს ბაზარზე.</string>
+    <string name="dialog_action_rate_us_rate">შეფასება</string>
+
+    <string name="dialog_action_rate_us_later">მოგვიანებით</string>
+    <string name="dialog_title_usage_permission">Android 5.0 ნებართვა</string>
+    <string name="dialog_description_usage_permission">Android 5.0 ან უფრო მაღალ ვერსიაში, თქვენ უნდა დაუშვათ წვდომა გამოყენებისათვის
+        AppLocker, ასე რომ თქვენ შეგიძლიათ გამოიყენოთ უსაფრთხო ზონის ფუნქცია</string>
+    <string name="dialog_action_usage_permission_permit">ნებართვა</string>
+
+    <string name="dialog_action_usage_permission_cancel">გაუქმება</string>
+    <string name="dialog_title_privacy_policy">Კონფიდენციალურობის პოლიტიკა</string>
+    <string name="dialog_description_privacy_policy">ჩვენ განვაახლეთ ჩვენი კონფიდენციალურობის პოლიტიკა. გაგრძელებით თქვენ ეთანხმებით<u> Კონფიდენციალურობის პოლიტიკა</u> </string>
+    <string name="dialog_action_privacy_policy_accept">მიღება</string>
+
+    <string name="hint_browser_search">მოძებნეთ ან შეიყვანეთ URL</string>
+    <string name="facebook">ფეისბუქი</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">ინსტაგრამი</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">უსაფრთხო. უსაფრთხო. პირადი.</string>
+    <string name="subtitle_browser_empty">ვიჯდები ინტერნეტში. უსაფრთხოდ</string>
+    <string name="bookmarks">სანიშნეები</string>
+    <string name="title_name_unknown_number">უცნობი ნომერი</string>
+
+
+
+    <string name="blacklist_empty_title">შავი სია ცარიელია</string>
+    <string name="blacklist_empty_description">დააჭირეთ ტელეფონის ნომრის დაბლოკვას</string>
+    <string name="call_log_empty_title">ჟურნალები არ არის</string>
+
+    <string name="call_log_empty_description">ჟურნალი აქ გამოჩნდება, როდესაც ზარი დაბლოკილია</string>
+    <string name="dialog_add_to_blacklist_title">დაბლოკე ტელეფონის ნომერი</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">სახელი (არასავალდებულო)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">შეიყვანეთ ტელეფონის ნომერი</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">გაუქმება</string>
+    <string name="dialog_black_list_delete_title">წაშლა შავი სიიდან</string>
+    <string name="dialog_black_list_delete_description">გსურთ დაბლოკილი ნომრის ამოღება შავი სიიდან?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">გაუქმება</string>
+    <string name="dialog_title_add_to_vault">დამუშავება</string>
+    <string name="dialog_description_process">თქვენი მედია იხსნება გალერეიდან და ემატება თქვენს სარდაფს.</string>
+
+    <string name="dialog_title_removal_confirmation">მოცილების დადასტურება</string>
+    <string name="dialog_description_removal">ეს ფაილი ამოიღებს სარდაფს და გამოჩნდება გალერეაში.</string>
+    <string name="dialog_action_removal_confirmation_accept">მიღება</string>
+
+    <string name="vault_photo_empty_page_title">ფოტო სარდაფი ცარიელია</string>
+    <string name="vault_photo_empty_page_description">დაამატეთ ხატი, რომ გალერეიდან დაიმალოთ ფოტოები</string>
+    <string name="vault_video_empty_page_title">ვიდეო სარდაფი ცარიელია</string>
+
+    <string name="vault_video_empty_page_description">დაამატეთ ხატულა ვიდეო ფოტოებს გალერეიდან</string>
+    <string-array name="tabs">
+        <item>უსაფრთხოება</item>
+        <item>პარამეტრები</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>შავი სია</item>
+        <item>ზარის ჟურნალები</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>სურათები</item>
+        <item>ვიდეო</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">არცერთი შემტევი არ არის დაჭერილი</string>
+    <string name="empty_page_intruders_description">თქვენი ტელეფონი დაცულია!</string>
+    <string name="Vault">სარდაფით</string>
+    <string name="Call_blocker">ზარის ბლოკერი</string>
+    <string name="browser">ბრაუზერი</string>
+    <string name="theme">თემები</string>
+    <string name="rate_us">Შეგვაფასეთ</string>
+    <string name="removeads">პრემიუმ ვერსია</string>
+    <string name="enter_pin">შეიტანეთ პინი</string>
+    <string name="pin_matched">პინი დაემთხვა</string>
+    <string name="confirm_pin">დაადასტურეთ pin</string>
+    <string name="pin_chahnged">Pin წარმატებით შეიცვალა</string>
+    <string name="pin_not_matched">პინი არ ემთხვევა</string>
+    <string name="incorrect_pin">არასწორი pin</string>
+    <string name="settings_set_pin">დააყენეთ ქინძისთავი</string>
+    <string name="change_pin">პინის შეცვლა</string>
+    <string name="settings_set_pin_description">დააყენეთ ახალი პინი</string>
+    <string name="create_new_pin">შექმენით ახალი პინი</string>
+    <string name="home">მთავარი</string>
+    <string name="settings_change_pin_description">შეცვალეთ არსებული პინი</string>
+    <string name="message_pin_changed">პინი წარმატებით შეიცვალა</string>
+    <string name="non_protected">დაუცველი</string>
+    <string name="status_protected">დაცულია</string>
+    <string name="starting_hour">დაწყების საათი</string>
+    <string name="ending_hour">დასრულების საათი</string>
+    <string name="auto_start_p">ავტომატური გაშვების ნებართვა</string>
+    <string name="permission_usage_access_description1">გახსენით ავტომატური გაშვების ვარიანტი</string>
+
+
+    <string name="privat_browser">პირადი ბრაუზერი</string>
+    <string name="prem_title">Premium ვერსია სამუდამოდ</string>
+    <string name="prem_no_ads">AD არ არის სამუდამოდ</string>
+    <string name="prem_restore">შეძენის აღდგენა</string>
+
+    <string name="please_give_us_five_stars">გთხოვთ, მოგვცეთ ხუთი ვარსკვლავი Google Play– ზე! ჩვენ ამას ძალიან ვაფასებდით!</string>
+    <string name="great_tex">მშვენიერია!</string>
+    <string name="choose_the_icon">აირჩიეთ ხატი და ორიგინალი ხატი შეიცვლება. დამალეთ ეს აპი თავდამსხმელებისგან</string>
+    <string name="app_name1">საათი</string>
+    <string name="app_name2">რუქები</string>
+    <string name="app_name3">Კალენდარი</string>
+    <string name="app_name4">მუსიკა</string>
+    <string name="app_name5">კალკულატორი</string>
+
+    <string name="callblocker_black">შავი სია</string>
+    <string name="callblocker_logs">ზარის ჟურნალები</string>
+    <string name="icon_change_title">ხატები</string>
+    <string name="intruders_title">შემოჭრილი</string>
+    <string name="intruders_access_apps">აპებზე წვდომა გამოიყენეთ</string>
+    <string name="main_unlocked">განბლოკილი</string>
+    <string name="main_locked">ჩაკეტილი</string>
+    <string name="prem_not_sub">ეს არ არის გამოწერა. თქვენ იხდით მხოლოდ ერთხელ!</string>
+    <string name="prem_fake_icon">ყალბი ხატულა</string>
+    <string name="prem_intruders">შემოჭრილი სელფი</string>
+    <string name="prem_themes">უფრო კრეატიული თემები</string>
+    <string name="prem_one_time">ერთჯერადი გადახდა</string>
+    <string name="splash_create">შეიქმნა თქვენი კონფიდენციალურობის დასაცავად</string>
+    <string name="vault_photos">ფოტოები</string>
+    <string name="vault_videos">ვიდეო</string>
+    <string name="btn_ok">კარგი</string>
+    <string name="dialog_intruder_text">გსურთ ფოტო წაშალოთ?</string>
+    <string name="btn_cancel">გაუქმება</string>
+    <string name="fragment_security_text">წინააღმდეგობები! \n ჯერ არ გაქვთ ჩაკეტილი აპები</string>
+    <string name="settings_security">უსაფრთხოება</string>
+    <string name="settings_face_icon">ყალბი ხატულა</string>
+    <string name="settings_face_icon_text">ამ აპის ორიგინალი ხატი შეიცვლება</string>
+    <string name="rate_us_enjoying">მოგწონთ AppLock?</string>
+    <string name="rate_us_could_be">შეიძლება უკეთესი იყოს</string>
+    <string name="menu_privacy">Კონფიდენციალურობის პოლიტიკა</string>
+    <string name="menu_contact">Დაგვიკავშირდით</string>
+    <string name="menu_face_icon">ყალბი ხატულა</string>
+    <string name="menu_intruder">შემოსავლების მენეჯერი</string>
+    <string name="menu_chat">Სალაპარაკო ოთახი</string>
+
+</resources>

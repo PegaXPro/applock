@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">සැකසුම්</string>
+
+  
+
+    <string name="share">බෙදාගන්න</string>
+
+    <string name="notification_protecting_title">ඔබගේ යෙදුම් ආරක්ෂා කිරීම</string>
+
+    <string name="notification_protecting_description">ඔබගේ පුද්ගලිකත්වය ආරක්ෂා කිරීමට ඔබගේ යෙදුම් අගුළු දමන්න.</string>
+
+    <string name="notification_permission_need_title">ආරක්ෂාව සඳහා අවසරය සක්‍රීය කරන්න</string>
+
+    <string name="notification_permission_need_description">යෙදුම් ලොකර් භාවිතා කිරීමට කරුණාකර ඔබගේ අවසරයන් සක්‍රීය කරන්න.</string>
+    <string name="you_accept_privacy_policy">දිගටම කරගෙන යාමෙන් ඔබ එකඟ වේ<u> රහස්යතා ප්රතිපත්තිය</u> </string>
+
+    <string name="header_recommended_to_lock">අගුළු දැමීමට නිර්දේශ කෙරේ</string>
+    <string name="header_all_apps">සියලුම යෙදුම්</string>
+
+    <string name="title_general_settings">ජනරාල්</string>
+
+    <string name="title_lock_all">සියල්ල අගුළු දමන්න</string>
+    <string name="description_lock_all">මෙය ඔබගේ සියලුම යෙදුම් අගුළු දමනු ඇත</string>
+
+ 
+    <string name="title_unlock_all">සියල්ල අගුළු ඇරීම</string>
+
+    <string name="description_unlock_all">මෙය ඔබගේ සියලුම යෙදුම් අගුළු හරිනු ඇත</string>
+    <string name="settings_change_pattern_title">රටාව වෙනස් කරන්න</string>
+
+    <string name="settings_change_pattern_description">ඔබගේ පවතින රටාව වෙනස් කරන්න</string>
+    <string name="message_pattern_changed">රටාව සාර්ථකව වෙනස් විය</string>
+
+    <string name="setting_in_stealth_mode_title">ඇඳීම සඟවන්න</string>
+    <string name="setting_in_stealth_mode_description">ඇඳීමේදී නොපෙනෙන රටාව</string>
+    <string name="setting_fingerprint_title">ඇඟිලි සලකුණු සක්‍රීය කරන්න</string>
+
+    <string name="setting_fingerprint_description">ඔබගේ ඇඟිලි සලකුණ සමඟ යෙදුම දියත් කරන්න.</string>
+    <string name="setting_fingerprint_not_supported_title">ඇඟිලි සලකුණු සඳහා සහය නොදක්වයි</string>
+
+    <string name="setting_fingerprint_not_supported_description">ඔබගේ උපාංගයට සංවේදකයක් නොමැත</string>
+    <string name="setting_fingerprint_not_registered_title">ඔබේ ඇඟිලි සලකුණ ලියාපදිංචි කරන්න</string>
+
+    <string name="setting_fingerprint_not_registered_description">ආරක්ෂක සැකසුම් වෙත යන්න</string>
+    <string name="next">ඊළඟ</string>
+
+    <string name="permission_usage_access_title">භාවිතයට ප්‍රවේශවීමේ අවසරය</string>
+    <string name="permission_usage_access_description">යෙදුම් ලොකර් භාවිතා කිරීමට භාවිතයන් සක්‍රීය කරන්න.</string>
+
+    <string name="permission_overlay_title">අගුළු තිරයේ අවසරය</string>
+
+    <string name="settings_card_intruders_title">අනවසරයෙන් අල්ලා ගන්න</string>
+    <string name="settings_enable_intruders_title">අනවසරයෙන් පින්තූරයක් ගන්න</string>
+    <string name="settings_enable_intruders_description">අනවසරයෙන් අල්ලා ගැනීමට ඉඩ දෙන්න.</string>
+
+    <string name="settings_intruders_folder_title">අනවසර ඡායාරූප ලබා ගත්තා</string>
+    <string name="settings_intruders_folder_description">ඔබගේ දුරකථනයේ ඔත්තුකරුවන් බැලීමට ක්ලික් කරන්න.</string>
+
+    <string name="settings_card_advance_protection_title">අත්තිකාරම් ආරක්ෂාව</string>
+    <string name="settings_enable_advance_protection_title">අත්තිකාරම් ආරක්ෂාව සක්‍රීය කරන්න</string>
+    <string name="settings_enable_advance_protection_description">අත්තිකාරම් ආරක්ෂණය සක්‍රීය කිරීම සඳහා, කරුණාකර යෙදුම් අගුළු ප්‍රෝ "උපාංග පරිපාලක" ලෙස සක්‍රිය කරන්න .එය භාවිතා කරනුයේ අනවසරයෙන් ඇතුල්වීම වැළැක්වීම සහ ඇප් ලොක් ප්‍රෝ නැවැත්වීම වැළැක්වීම සඳහා පමණි. කරුණාකර ඔබගේ රහස්‍යතා දත්ත වෙත ප්‍රවේශ වීමට යෙදුම් ලොක් ප්‍රෝ කිසි විටෙකත් මෙම අවසරය භාවිතා නොකරන බවට සහතික වන්න. .</string>
+    <string name="device_admin_permission_description">දැන් ක්‍රියාත්මක කරන්න, අත්තිකාරම් ආරක්ෂාව සහ වඩා ආරක්ෂිතයි! Adv n \nඅත්තිකාරම් ආරක්ෂණය සක්‍රීය කිරීම සඳහා, කරුණාකර යෙදුම් අගුළු ප්‍රෝ "උපාංග පරිපාලක" ලෙස සක්‍රිය කරන්න .එය භාවිතා කරනුයේ අනවසරයෙන් ඇතුල්වීම වැළැක්වීම සහ ඇප් ලොක් ප්‍රෝ නැවැත්වීම වැළැක්වීම සඳහා පමණි. කරුණාකර යෙදුම් ලොක් ප්‍රෝ කිසි විටෙකත් මෙම අවසරය භාවිතා නොකරන බවට සහතික වන්න. ඔබගේ රහස්‍යතා දත්ත වෙත පිවිසෙන්න.</string>
+
+
+    <string name="permission_overlay_description">අගුළු තිරය පෙන්වීමට උඩිස් සක්‍රීය කරන්න.</string>
+    <string name="permission_toast_enable_permissions">යෙදුම් ලොකර් භාවිතා කිරීමට අවසර සක්‍රීය කරන්න</string>
+
+    <string name="draw_pattern_title">නව රටාවක් සාදන්න</string>
+    <string name="redraw_pattern_title">සම්පූර්ණ කිරීමට නැවත අදින්න</string>
+
+    <string name="recreate_pattern_error">රටාව නොගැලපේ. නැවත අදින්න.</string>
+
+    <string name="create_pattern_successful">සාර්ථකව නිර්මාණය කරන ලදි.</string>
+    <string name="overlay_prompt_pattern_title">යෙදුම විවෘත කිරීමට රටාව අඳින්න</string>
+    <string name="overlay_prompt_pattern_title_wrong">වැරදි රටාව. නැවත අඳින්න.</string>
+    <string name="overlay_prompt_pattern_title_correct">රටාව නිවැරදි ය.</string>
+
+    <string name="overlay_prompt_fingerprint_title">යෙදුම විවෘත කිරීමට රටාව අඳින්න</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ නොගැලපේ. + %1$s + වමේ.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">ඇඟිලි සලකුණු ගැලපේ!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">ඇඟිලි සලකුණු දෝෂයකි! රටාව උත්සාහ කරන්න.</string>
+    <string name="dialog_title_rate_us">ඔබ ආරක්ෂිත කලාපයට කැමතිද?</string>
+    <string name="dialog_description_rate_us">ඔබ අපව වෙළඳපොළට තක්සේරු කළහොත් අපි සතුටු වන්නෙමු.</string>
+    <string name="dialog_action_rate_us_rate">අනුපාතය</string>
+
+    <string name="dialog_action_rate_us_later">පසුව</string>
+    <string name="dialog_title_usage_permission">Android 5.0 අවසරය</string>
+    <string name="dialog_description_usage_permission">ඇන්ඩ්‍රොයිඩ් 5.0 හෝ ඊට ඉහළින්, ඔබට භාවිතයට ප්‍රවේශ වීමට අවසර දිය යුතුය
+        AppLocker, එවිට ඔබට ආරක්ෂිත කලාප විශේෂාංගය භාවිතා කළ හැකිය</string>
+    <string name="dialog_action_usage_permission_permit">අවසර දෙන්න</string>
+
+    <string name="dialog_action_usage_permission_cancel">අවලංගු කරන්න</string>
+    <string name="dialog_title_privacy_policy">රහස්යතා ප්රතිපත්තිය</string>
+    <string name="dialog_description_privacy_policy">අපි අපගේ රහස්‍යතා ප්‍රතිපත්තිය යාවත්කාලීන කර ඇත. දිගටම කරගෙන යාමෙන් ඔබ එකඟ වේ<u> රහස්යතා ප්රතිපත්තිය</u> </string>
+    <string name="dialog_action_privacy_policy_accept">පිළිගන්න</string>
+
+    <string name="hint_browser_search">URL සොයන්න හෝ ඇතුළත් කරන්න</string>
+    <string name="facebook">ෆේස්බුක්</string>
+
+    <string name="twitter">ට්විටර්</string>
+
+    <string name="snapchat">ස්නැප්චැට්</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">රෙඩ්ඩිට්</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">අන්තර්ජාලයේ සැරිසරන්න. ආරක්ෂිතව.</string>
+    <string name="bookmarks">පිටු සලකුණු</string>
+    <string name="title_name_unknown_number">නොදන්නා අංකය</string>
+
+
+
+    <string name="blacklist_empty_title">අසාදු ලේඛනය හිස් ය</string>
+    <string name="blacklist_empty_description">දුරකථන අංකය අවහිර කිරීමට ක්ලික් කරන්න</string>
+    <string name="call_log_empty_title">ලොග් නොමැත</string>
+
+    <string name="call_log_empty_description">ඇමතුම අවහිර වූ විට මෙහි ලොගය දිස්වේ</string>
+    <string name="dialog_add_to_blacklist_title">දුරකථන අංකය අවහිර කරන්න</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">නම (විකල්ප)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">දුරකථන අංකය ඇතුළත් කරන්න</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">අවලංගු කරන්න</string>
+    <string name="dialog_black_list_delete_title">අසාදු ලේඛනයෙන් මකන්න</string>
+    <string name="dialog_black_list_delete_description">අවහිර කළ අංකය කළු ලැයිස්තුවෙන් ඉවත් කිරීමට ඔබට අවශ්‍යද?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">අවලංගු කරන්න</string>
+    <string name="dialog_title_add_to_vault">සැකසීම</string>
+    <string name="dialog_description_process">ඔබේ මාධ්‍ය ගැලරියෙන් ඉවත් කර ඔබේ සුරක්ෂිතාගාරයට එක් කරයි.</string>
+
+    <string name="dialog_title_removal_confirmation">ඉවත් කිරීමේ තහවුරු කිරීම</string>
+    <string name="dialog_description_removal">මෙම ගොනුව සුරක්ෂිතාගාරයෙන් ඉවත් කර ගැලරියට පෙන්වනු ඇත.</string>
+    <string name="dialog_action_removal_confirmation_accept">පිළිගන්න</string>
+
+    <string name="vault_photo_empty_page_title">ෆොටෝ වෝල්ට් හිස් ය</string>
+    <string name="vault_photo_empty_page_description">ගැලරියෙන් ඡායාරූප සැඟවීමට අයිකනය එක් කරන්න</string>
+    <string name="vault_video_empty_page_title">වීඩියෝ වෝල්ට් හිස් ය</string>
+
+    <string name="vault_video_empty_page_description">ගැලරියේ සිට වීඩියෝ ඡායාරූප වලට අයිකනය එක් කරන්න</string>
+    <string-array name="tabs">
+        <item>ආරක්ෂක</item>
+        <item>සැකසුම්</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>අසාදු ලේඛනය</item>
+        <item>ඇමතුම් ලොග්</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>රූප</item>
+        <item>වීඩියෝ</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">අනවසරයෙන් අල්ලාගෙන නැත</string>
+    <string name="empty_page_intruders_description">ඔබගේ දුරකථනය ආරක්ෂිතයි!</string>
+    <string name="Vault">සුරක්ෂිතාගාරය</string>
+    <string name="Call_blocker">බ්ලෝකර් අමතන්න</string>
+    <string name="browser">බ්‍රව්සරය</string>
+    <string name="theme">තේමාවන්</string>
+    <string name="rate_us">අපිව අගය කරන්න</string>
+    <string name="removeads">වාරික අනුවාදය</string>
+    <string name="enter_pin">පින් ඇතුලත් කරන්න</string>
+    <string name="pin_matched">පින් ගැලපේ</string>
+    <string name="confirm_pin">පින් තහවුරු කරන්න</string>
+    <string name="pin_chahnged">පින් සාර්ථකව වෙනස් විය</string>
+    <string name="pin_not_matched">පින් නොගැලපේ</string>
+    <string name="incorrect_pin">වැරදි පින්</string>
+    <string name="settings_set_pin">පින් සකසන්න</string>
+    <string name="change_pin">පින් වෙනස් කරන්න</string>
+    <string name="settings_set_pin_description">නව පින් එකක් සකසන්න</string>
+    <string name="create_new_pin">නව පින් එකක් සාදන්න</string>
+    <string name="home">නිවස</string>
+    <string name="settings_change_pin_description">ඔබගේ පවතින පින් එක වෙනස් කරන්න</string>
+    <string name="message_pin_changed">පින් සාර්ථකව වෙනස් කරන ලදි</string>
+    <string name="non_protected">ආරක්ෂිත නොවේ</string>
+    <string name="status_protected">ආරක්ෂිතයි</string>
+    <string name="starting_hour">ආරම්භක වේලාව</string>
+    <string name="ending_hour">අවසන් පැය</string>
+    <string name="auto_start_p">ස්වයංක්‍රීයව ධාවනය කිරීමේ අවසරය</string>
+    <string name="permission_usage_access_description1">ස්වයංක්‍රීයව ක්‍රියාත්මක වීමේ විකල්පය විවෘත කරන්න</string>
+
+
+    <string name="privat_browser">පුද්ගලික බ්‍රව්සරය</string>
+    <string name="prem_title">වාරික අනුවාදය සදහටම</string>
+    <string name="prem_no_ads">සදහටම ADs නැත</string>
+    <string name="prem_restore">මිලදී ගැනීම යථා තත්වයට පත් කරන්න</string>
+
+    <string name="please_give_us_five_stars">කරුණාකර අපට Google Play හි තරු පහක් දෙන්න! අපි එය බොහෝ සෙයින් අගය කරමු!</string>
+    <string name="great_tex">මහා!</string>
+    <string name="choose_the_icon">නිරූපකය තෝරන්න සහ මුල් නිරූපකය වෙනස් වේ. අනවසරයෙන් මෙම යෙදුම සඟවන්න</string>
+    <string name="app_name1">ඔරලෝසුව</string>
+    <string name="app_name2">සිතියම්</string>
+    <string name="app_name3">දින දර්ශනය</string>
+    <string name="app_name4">සංගීතය</string>
+    <string name="app_name5">කැල්කියුලේටරය</string>
+
+    <string name="callblocker_black">කළු ලැයිස්තුව</string>
+    <string name="callblocker_logs">ඇමතුම් ලොග්</string>
+    <string name="icon_change_title">අයිකන</string>
+    <string name="intruders_title">අනවසරයෙන් ඇතුල් වන්න</string>
+    <string name="intruders_access_apps">භාවිතයෙන් යෙදුම් වෙත පිවිසෙන්න</string>
+    <string name="main_unlocked">අගුළු හරින ලදි</string>
+    <string name="main_locked">අගුළු දමා ඇත</string>
+    <string name="prem_not_sub">මෙය දායකත්වයක් නොවේ. ඔබ ගෙවන්නේ එක් වරක් පමණි!</string>
+    <string name="prem_fake_icon">ව්යාජ අයිකනය</string>
+    <string name="prem_intruders">අනවසර සෙල්ෆි</string>
+    <string name="prem_themes">වඩාත් නිර්මාණාත්මක තේමාවන්</string>
+    <string name="prem_one_time">එක් වරක් ගෙවීම</string>
+    <string name="splash_create">ඔබගේ පෞද්ගලිකත්වය ආරක්ෂා කිරීම සඳහා නිර්මාණය කරන ලදි</string>
+    <string name="vault_photos">ඡායාරූප</string>
+    <string name="vault_videos">වීඩියෝ</string>
+    <string name="btn_ok">හරි</string>
+    <string name="dialog_intruder_text">ඡායාරූපය මකා දැමීමට ඔබ කැමතිද?</string>
+    <string name="btn_cancel">අවලංගු කරන්න</string>
+    <string name="fragment_security_text">Opps! You n ඔබට තවම යෙදුම් අගුළු දමා නොමැත</string>
+    <string name="settings_security">ආරක්ෂක</string>
+    <string name="settings_face_icon">ව්යාජ අයිකනය</string>
+    <string name="settings_face_icon_text">මෙම යෙදුමේ මුල් නිරූපකය වෙනස් වේ</string>
+    <string name="rate_us_enjoying">ඔබ AppLock භුක්ති විඳිනවාද?</string>
+    <string name="rate_us_could_be">එය වඩාත් හොඳින් කළ හැකි</string>
+    <string name="menu_privacy">රහස්යතා ප්රතිපත්තිය</string>
+    <string name="menu_contact">අපව අමතන්න</string>
+    <string name="menu_face_icon">ව්යාජ අයිකනය</string>
+    <string name="menu_intruder">අනවසර කළමනාකරු</string>
+    <string name="menu_chat">චැට් රූම්</string>
+
+</resources>

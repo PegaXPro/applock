@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Saituna</string>
+
+  
+
+    <string name="share">Raba</string>
+
+    <string name="notification_protecting_title">Kare ayyukanku</string>
+
+    <string name="notification_protecting_description">Kulle ayyukanku don kare sirrinku.</string>
+
+    <string name="notification_permission_need_title">Enable izinin kariya</string>
+
+    <string name="notification_permission_need_description">Da fatan za a kunna izininka don amfani da kabad na kayan aiki.</string>
+    <string name="you_accept_privacy_policy">Ta hanyar ci gaba kun yarda da<u> takardar kebantawa</u> </string>
+
+    <string name="header_recommended_to_lock">Nagari don kullewa</string>
+    <string name="header_all_apps">Duk aikace-aikace</string>
+
+    <string name="title_general_settings">Janar</string>
+
+    <string name="title_lock_all">Kulle duka</string>
+    <string name="description_lock_all">Wannan zai kulle dukkan aikace-aikacenku</string>
+
+ 
+    <string name="title_unlock_all">Buše duk</string>
+
+    <string name="description_unlock_all">Wannan zai bude duk ayyukanku</string>
+    <string name="settings_change_pattern_title">Canza tsari</string>
+
+    <string name="settings_change_pattern_description">Canza tsarin da kake da shi</string>
+    <string name="message_pattern_changed">Tsarin ya canza cikin nasara</string>
+
+    <string name="setting_in_stealth_mode_title">Drawingoye zane</string>
+    <string name="setting_in_stealth_mode_description">Tsarin da ba a iya gani yayin zane</string>
+    <string name="setting_fingerprint_title">Saka ikon yatsan hannu</string>
+
+    <string name="setting_fingerprint_description">Kaddamar da aikace-aikace tare da zanan yatsan hannu.</string>
+    <string name="setting_fingerprint_not_supported_title">Hannun yatsu ba shi da tallafi</string>
+
+    <string name="setting_fingerprint_not_supported_description">Na\'urarka ba ta da firikwensin</string>
+    <string name="setting_fingerprint_not_registered_title">Yi rijistar zanen yatsan hannu</string>
+
+    <string name="setting_fingerprint_not_registered_description">Je zuwa saitunan tsaro</string>
+    <string name="next">Na gaba</string>
+
+    <string name="permission_usage_access_title">Izinin samun damar amfani</string>
+    <string name="permission_usage_access_description">Enable acces na amfani don amfani kabad kayan aiki.</string>
+
+    <string name="permission_overlay_title">Kulle allo izini</string>
+
+    <string name="settings_card_intruders_title">Kama Masu Shigarwa</string>
+    <string name="settings_enable_intruders_title">Pictureauki hoto masu kutse</string>
+    <string name="settings_enable_intruders_description">Ba da damar kama masu kutse.</string>
+
+    <string name="settings_intruders_folder_title">An kama hotuna masu ɓarna</string>
+    <string name="settings_intruders_folder_description">Danna don ganin \'yan leƙen asiri a kan wayarku.</string>
+
+    <string name="settings_card_advance_protection_title">Cigaban Kariya</string>
+    <string name="settings_enable_advance_protection_title">Kunna kariya ta gaba</string>
+    <string name="settings_enable_advance_protection_description">Domin kunna Kariyar Cigaba, da fatan za a kunna App Lock Pro a matsayin "mai kula da na\'urar" .An yi amfani da shi ne kawai don hana masu kutse cirewa da tilasta dakatar da App Lock Pro. Da fatan za a tabbatar cewa App Lock Pro ba zai taba amfani da wannan izinin ba don samun damar bayanan sirrinku .</string>
+    <string name="device_admin_permission_description">Kunna yanzu, kariya ta gaba kuma mafi aminci! \n\nDon ba da damar Kariyar Ci gaba, da fatan za a kunna App Lock Pro a matsayin "mai kula da na\'urar" .An yi amfani da shi ne kawai don hana masu kutse cirewa da kuma tilasta dakatar da App Lock Pro. Da fatan za a tabbatar cewa App Lock Pro ba zai taɓa amfani da wannan izinin ba isa ga bayanan sirrinka.</string>
+
+
+    <string name="permission_overlay_description">Enable overlay don nuna allon kulle.</string>
+    <string name="permission_toast_enable_permissions">Enable izini don amfani kabad kayan aiki</string>
+
+    <string name="draw_pattern_title">Irƙiri sabon tsari</string>
+    <string name="redraw_pattern_title">Redraw don kammala</string>
+
+    <string name="recreate_pattern_error">Juna bai daidaita ba. Redraw.</string>
+
+    <string name="create_pattern_successful">An ƙirƙira shi cikin nasara</string>
+    <string name="overlay_prompt_pattern_title">Zana zane don buɗe aikace-aikace</string>
+    <string name="overlay_prompt_pattern_title_wrong">Tsarin da ba daidai ba Zana sake.</string>
+    <string name="overlay_prompt_pattern_title_correct">Juna daidai.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Zana zane don buɗe aikace-aikace</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Ba a daidaita ba. + Hagu %1$s +</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Hannun yatsa ya dace!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Kuskuren yatsa! Gwada tsarin.</string>
+    <string name="dialog_title_rate_us">Shin kuna son Yankin Tsaro?</string>
+    <string name="dialog_description_rate_us">Za mu kasance masu farin ciki idan kun kimanta mu a kasuwa.</string>
+    <string name="dialog_action_rate_us_rate">Matsayi</string>
+
+    <string name="dialog_action_rate_us_later">Daga baya</string>
+    <string name="dialog_title_usage_permission">Izinin 5.0 na Android</string>
+    <string name="dialog_description_usage_permission">A cikin Android 5.0 ko sama, kuna buƙatar ba da izinin amfani don
+        AppLocker, don ku sami damar Amintaccen Yankin Yankin</string>
+    <string name="dialog_action_usage_permission_permit">Izini</string>
+
+    <string name="dialog_action_usage_permission_cancel">Soke</string>
+    <string name="dialog_title_privacy_policy">takardar kebantawa</string>
+    <string name="dialog_description_privacy_policy">Mun sabunta manufofinmu na sirri. Ta hanyar ci gaba kun yarda da<u> takardar kebantawa</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Yarda</string>
+
+    <string name="hint_browser_search">Bincika ko shigar da URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Amintacce.sire sirri.</string>
+    <string name="subtitle_browser_empty">Surf akan intanet. Amintacce.</string>
+    <string name="bookmarks">Alamomin shafi</string>
+    <string name="title_name_unknown_number">Lambar da ba a sani ba</string>
+
+
+
+    <string name="blacklist_empty_title">Blacklist fanko</string>
+    <string name="blacklist_empty_description">Danna don toshe lambar waya</string>
+    <string name="call_log_empty_title">Babu rajistan ayyukan</string>
+
+    <string name="call_log_empty_description">Lissafi yana bayyana anan lokacin da aka katange kira</string>
+    <string name="dialog_add_to_blacklist_title">Toshe lambar waya</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Suna (Zabi)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Shigar da lambar waya</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Soke</string>
+    <string name="dialog_black_list_delete_title">Share daga jerin sunayen baki</string>
+    <string name="dialog_black_list_delete_description">Shin kuna son cire lambar da aka toshe daga jerin baƙin?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Soke</string>
+    <string name="dialog_title_add_to_vault">Sarrafawa</string>
+    <string name="dialog_description_process">Kafofin watsa labarai naka suna cirewa daga gallery suna ƙarawa zuwa taskar ajiyarka.</string>
+
+    <string name="dialog_title_removal_confirmation">Cire Tabbatarwa</string>
+    <string name="dialog_description_removal">Wannan fayil ɗin zai cire daga vault kuma ya nuna cikin gallery.</string>
+    <string name="dialog_action_removal_confirmation_accept">Yarda</string>
+
+    <string name="vault_photo_empty_page_title">Vaaukar hoto fanko</string>
+    <string name="vault_photo_empty_page_description">Iconara gunki don ɓoye hotuna daga gallery</string>
+    <string name="vault_video_empty_page_title">Video Vault fanko ne</string>
+
+    <string name="vault_video_empty_page_description">Iconara gunki zuwa hotunan bidiyo daga gallery</string>
+    <string-array name="tabs">
+        <item>Tsaro</item>
+        <item>Saituna</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Jerin sunayen baki</item>
+        <item>Kira rajistan ayyukan</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Hotuna</item>
+        <item>Bidiyo</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Babu Masu Kutsawa da Aka Kama</string>
+    <string name="empty_page_intruders_description">Wayarka amintacciya!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Mai toshe kira</string>
+    <string name="browser">Browser</string>
+    <string name="theme">Jigogi</string>
+    <string name="rate_us">Rate mu</string>
+    <string name="removeads">Premium version</string>
+    <string name="enter_pin">Shigar da fil</string>
+    <string name="pin_matched">Fil ya dace</string>
+    <string name="confirm_pin">Tabbatar da fil</string>
+    <string name="pin_chahnged">Pin ya canza cikin nasara</string>
+    <string name="pin_not_matched">Fil bai dace ba</string>
+    <string name="incorrect_pin">Fil mara daidai</string>
+    <string name="settings_set_pin">Saita fil</string>
+    <string name="change_pin">Canja fil</string>
+    <string name="settings_set_pin_description">Saita sabon fil</string>
+    <string name="create_new_pin">Irƙiri sabon fil</string>
+    <string name="home">Gida</string>
+    <string name="settings_change_pin_description">Canja fil din da kake</string>
+    <string name="message_pin_changed">An canza Pin da nasara</string>
+    <string name="non_protected">Ba Kariya ba</string>
+    <string name="status_protected">Kare</string>
+    <string name="starting_hour">Fara Sa\'a</string>
+    <string name="ending_hour">Hoarshen Sa\'a</string>
+    <string name="auto_start_p">auto-gudu izni</string>
+    <string name="permission_usage_access_description1">bude zaɓi na atomatik</string>
+
+
+    <string name="privat_browser">Mai Bincike Mai zaman kansa</string>
+    <string name="prem_title">Premium Version Har abada</string>
+    <string name="prem_no_ads">Babu Talla har abada</string>
+    <string name="prem_restore">Dawo da Sayi</string>
+
+    <string name="please_give_us_five_stars">Da fatan za a ba mu taurari biyar a kan Google Play! Za mu yaba da shi sosai!</string>
+    <string name="great_tex">Babban!</string>
+    <string name="choose_the_icon">Zaɓi gunki kuma za a canza gunkin asali. Boye wannan manhajja daga masu kutse</string>
+    <string name="app_name1">Agogo</string>
+    <string name="app_name2">Taswirori</string>
+    <string name="app_name3">Kalanda</string>
+    <string name="app_name4">Waƙa</string>
+    <string name="app_name5">Kalkaleta</string>
+
+    <string name="callblocker_black">Jerin baki</string>
+    <string name="callblocker_logs">Kira rajistan ayyukan</string>
+    <string name="icon_change_title">Gumaka</string>
+    <string name="intruders_title">Mai kutsawa</string>
+    <string name="intruders_access_apps">Shiga aikace-aikace tare da amfani</string>
+    <string name="main_unlocked">An buɗe</string>
+    <string name="main_locked">An kulle</string>
+    <string name="prem_not_sub">Wannan ba biyan kuɗi bane. Kuna biya sau ɗaya kawai!</string>
+    <string name="prem_fake_icon">Alamar Karya</string>
+    <string name="prem_intruders">Mai shiga hoto kai tsaye</string>
+    <string name="prem_themes">Themesarin jigogi masu ƙira</string>
+    <string name="prem_one_time">Biyan Lokaci daya</string>
+    <string name="splash_create">An ƙirƙira shi don kare sirrinku</string>
+    <string name="vault_photos">Hotuna</string>
+    <string name="vault_videos">Bidiyo</string>
+    <string name="btn_ok">KO</string>
+    <string name="dialog_intruder_text">Kuna so ku goge hoton?</string>
+    <string name="btn_cancel">KASHE</string>
+    <string name="fragment_security_text">Opps! \n Ba ku da ƙa\'idodin kullewa tukuna</string>
+    <string name="settings_security">Tsaro</string>
+    <string name="settings_face_icon">Alamar Karya</string>
+    <string name="settings_face_icon_text">Za a canza asalin asalin wannan aikin</string>
+    <string name="rate_us_enjoying">Shin kuna jin daɗin AppLock?</string>
+    <string name="rate_us_could_be">zai iya zama mafi kyau</string>
+    <string name="menu_privacy">takardar kebantawa</string>
+    <string name="menu_contact">Saduwa da Mu</string>
+    <string name="menu_face_icon">Alamar Karya</string>
+    <string name="menu_intruder">Manajan Mai kutse</string>
+    <string name="menu_chat">Dakin hira</string>
+
+</resources>

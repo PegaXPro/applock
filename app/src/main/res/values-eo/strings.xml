@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">Agordoj</string>
+
+
+
+    <string name="share">Kunhavigi</string>
+
+    <string name="notification_protecting_title">Protektante viajn programojn</string>
+
+    <string name="notification_protecting_description">Ŝlosu viajn programojn por protekti vian privatecon.</string>
+
+    <string name="notification_permission_need_title">Ebligi permeson al protekto</string>
+
+    <string name="notification_permission_need_description">Bonvolu ebligi viajn permesojn uzi programŝrankon.</string>
+    <string name="you_accept_privacy_policy">Daŭrigante vi konsentas la<u> Privateca Politiko</u> </string>
+
+    <string name="header_recommended_to_lock">Rekomendita ŝlosi</string>
+    <string name="header_all_apps">Ĉiuj aplikoj</string>
+
+    <string name="title_general_settings">Ĝenerala</string>
+
+    <string name="title_lock_all">Ŝlosu ĉiujn</string>
+    <string name="description_lock_all">Ĉi tio ŝlosos ĉiujn viajn programojn</string>
+
+
+    <string name="title_unlock_all">Malŝlosu ĉiujn</string>
+
+    <string name="description_unlock_all">Ĉi tio malŝlosos ĉiujn viajn programojn</string>
+    <string name="settings_change_pattern_title">Ŝanĝi ŝablonon</string>
+
+    <string name="settings_change_pattern_description">Ŝanĝu vian ekzistantan ŝablonon</string>
+    <string name="message_pattern_changed">Ŝablono sukcese ŝanĝiĝis</string>
+
+    <string name="setting_in_stealth_mode_title">Kaŝi desegnon</string>
+    <string name="setting_in_stealth_mode_description">Nevidebla ŝablono dum desegno</string>
+    <string name="setting_fingerprint_title">Ebligi fingrospuron</string>
+
+    <string name="setting_fingerprint_description">Lanĉu programon per via fingrospuro.</string>
+    <string name="setting_fingerprint_not_supported_title">Fingrospuro ne estas subtenata</string>
+
+    <string name="setting_fingerprint_not_supported_description">Via aparato ne havas sensilon</string>
+    <string name="setting_fingerprint_not_registered_title">Registri vian fingrospuron</string>
+
+    <string name="setting_fingerprint_not_registered_description">Iru al sekurecaj agordoj</string>
+    <string name="next">Poste</string>
+
+    <string name="permission_usage_access_title">Uz-alira permeso</string>
+    <string name="permission_usage_access_description">Ebligu uzan aliron por uzi programŝrankon.</string>
+
+    <string name="permission_overlay_title">Permeso pri ŝlosila ekrano</string>
+
+    <string name="settings_card_intruders_title">Kaptu entrudulojn</string>
+    <string name="settings_enable_intruders_title">Fotu entrudulojn</string>
+    <string name="settings_enable_intruders_description">Ebligu kapti entrudulojn.</string>
+
+    <string name="settings_intruders_folder_title">Kaptis entrudajn fotojn</string>
+    <string name="settings_intruders_folder_description">Alklaku por vidi spionojn sur via telefono.</string>
+
+    <string name="settings_card_advance_protection_title">Antaŭa Protekto</string>
+    <string name="settings_enable_advance_protection_title">Ebligu antaŭan protekton</string>
+    <string name="settings_enable_advance_protection_description">Por ebligi Anticipan Protekton, bonvolu aktivigi App Lock Pro kiel "aparata administranto". Ĝi estas nur uzata por malhelpi entrudulojn malinstali kaj devigi haltigi App Lock Pro. Bonvolu certigi, ke App Lock Pro neniam uzos ĉi tiun permeson por aliri viajn privatajn datumojn. .</string>
+    <string name="device_admin_permission_description">Aktivigu nun, antaŭenigu protekton kaj pli sekure! \n\nPor ebligi Antaŭan Protekton, bonvolu aktivigi App Lock Pro kiel "aparata administranto". Ĝi estas uzata nur por malebligi malinstaladon de entruduloj kaj devigi haltigi App Lock Pro. aliru viajn privatecajn datumojn.</string>
+
+
+    <string name="permission_overlay_description">Ebligu surmetaĵon por montri ŝlosilan ekranon.</string>
+    <string name="permission_toast_enable_permissions">Ebligu permesojn uzi programŝrankon</string>
+
+    <string name="draw_pattern_title">Kreu novan ŝablonon</string>
+    <string name="redraw_pattern_title">Redesegni por kompletigi</string>
+
+    <string name="recreate_pattern_error">Ŝablono ne kongruas. Redesegni.</string>
+
+    <string name="create_pattern_successful">Sukcese kreita.</string>
+    <string name="overlay_prompt_pattern_title">Desegnu ŝablonon por malfermi programon</string>
+    <string name="overlay_prompt_pattern_title_wrong">Malĝusta ŝablono. Desegnu denove.</string>
+    <string name="overlay_prompt_pattern_title_correct">Skemo ĝusta.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Desegnu ŝablonon por malfermi programon</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Ne + kongruis. + %1$s + restas.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Fingrospuro kongruis!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Fingrospura eraro! Provu ŝablonon.</string>
+    <string name="dialog_title_rate_us">Ĉu vi ŝatis Sekuran Zonon?</string>
+    <string name="dialog_description_rate_us">Ni tre feliĉos Se vi taksas nin sur merkato.</string>
+    <string name="dialog_action_rate_us_rate">Imposto</string>
+
+    <string name="dialog_action_rate_us_later">Poste</string>
+    <string name="dialog_title_usage_permission">Permeso de Android 5.0</string>
+    <string name="dialog_description_usage_permission">En Android 5.0 aŭ supre, vi devas permesi uzan aliron por
+        AppLocker, por ke vi povu uzi Sekuran Zonon</string>
+    <string name="dialog_action_usage_permission_permit">Permeso</string>
+
+    <string name="dialog_action_usage_permission_cancel">Nuligi</string>
+    <string name="dialog_title_privacy_policy">Privateca Politiko</string>
+    <string name="dialog_description_privacy_policy">Ni ĝisdatigis nian privatecan politikon. Daŭrigante vi konsentas la<u> Privateca Politiko</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Akceptu</string>
+
+    <string name="hint_browser_search">Serĉu aŭ enigu URL</string>
+    <string name="facebook">Fejsbuko</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Sekura.Sekura.Privata.</string>
+    <string name="subtitle_browser_empty">Navigu interrete. Sekure.</string>
+    <string name="bookmarks">Legosignoj</string>
+    <string name="title_name_unknown_number">Nekonata Numero</string>
+
+
+
+    <string name="blacklist_empty_title">Nigra listo estas malplena</string>
+    <string name="blacklist_empty_description">Alklaku por bloki telefonnumeron</string>
+    <string name="call_log_empty_title">Sen Registroj</string>
+
+    <string name="call_log_empty_description">Protokolo aperas ĉi tie kiam alvoko estas blokita</string>
+    <string name="dialog_add_to_blacklist_title">Bloki telefonnumeron</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nomo (Nedeviga)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Enigu telefonnumeron</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Nuligi</string>
+    <string name="dialog_black_list_delete_title">Forigi el nigra listo</string>
+    <string name="dialog_black_list_delete_description">Ĉu vi volas forigi blokitan numeron de nigra listo?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Nuligi</string>
+    <string name="dialog_title_add_to_vault">Prilaborado</string>
+    <string name="dialog_description_process">Via amaskomunikilaro foriĝas de galerio kaj aldoniĝas al via volbo.</string>
+
+    <string name="dialog_title_removal_confirmation">Foriga Konfirmo</string>
+    <string name="dialog_description_removal">Ĉi tiu dosiero estos forigita de volbo kaj montrita en galerion.</string>
+    <string name="dialog_action_removal_confirmation_accept">Akceptu</string>
+
+    <string name="vault_photo_empty_page_title">Foto-Volbo estas malplena</string>
+    <string name="vault_photo_empty_page_description">Aldoni ikonon por kaŝi fotojn de galerio</string>
+    <string name="vault_video_empty_page_title">Video Vault estas malplena</string>
+
+    <string name="vault_video_empty_page_description">Aldonu ikonon al videofotoj el galerio</string>
+    <string-array name="tabs">
+        <item>Sekureco</item>
+        <item>Agordoj</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Nigra listo</item>
+        <item>Vokaj Registroj</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Bildoj</item>
+        <item>Vidbendoj</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">Neniuj Entrudiĝintoj Kaptiĝis</string>
+    <string name="empty_page_intruders_description">Via telefono estas sekura!</string>
+    <string name="Vault">Volbo</string>
+    <string name="Call_blocker">Voku Blokilon</string>
+    <string name="browser">Foliumilo</string>
+    <string name="theme">Temoj</string>
+    <string name="rate_us">Taksu nin</string>
+    <string name="removeads">Altkvalita versio</string>
+    <string name="enter_pin">Enigu pinglon</string>
+    <string name="pin_matched">Pinglo kongruis</string>
+    <string name="confirm_pin">Konfirmu pinglon</string>
+    <string name="pin_chahnged">Pinglo ŝanĝiĝis sukcese</string>
+    <string name="pin_not_matched">Pinglo ne kongruis</string>
+    <string name="incorrect_pin">Malĝusta pinglo</string>
+    <string name="settings_set_pin">Agordi pinglon</string>
+    <string name="change_pin">Ŝanĝi pinglon</string>
+    <string name="settings_set_pin_description">Agordi novan pinglon</string>
+    <string name="create_new_pin">Kreu novan pinglon</string>
+    <string name="home">Hejmo</string>
+    <string name="settings_change_pin_description">Ŝanĝu vian ekzistantan pinglon</string>
+    <string name="message_pin_changed">Pinglo Ŝanĝis Sukcese</string>
+    <string name="non_protected">Senprotektita</string>
+    <string name="status_protected">Protektata</string>
+    <string name="starting_hour">Komenca Horo</string>
+    <string name="ending_hour">Fina Horo</string>
+    <string name="auto_start_p">aŭtomate funkciigi permeson</string>
+    <string name="permission_usage_access_description1">malfermu la aŭtomatan funkciigan opcion</string>
+
+
+    <string name="privat_browser">Privata Retumilo</string>
+    <string name="prem_title">Altkvalita Versio Eterne</string>
+    <string name="prem_no_ads">Neniu anonco por ĉiam</string>
+    <string name="prem_restore">Restarigu Aĉeton</string>
+
+    <string name="please_give_us_five_stars">Bonvolu doni al ni kvin stelojn ĉe Google Play! Ni multe dankus ĝin!</string>
+    <string name="great_tex">Bonege!</string>
+    <string name="choose_the_icon">Elektu la ikonon kaj originala ikono estos ŝanĝita. Kaŝu ĉi tiun programon de entruduloj</string>
+    <string name="app_name1">Horloĝo</string>
+    <string name="app_name2">Mapoj</string>
+    <string name="app_name3">Kalendaro</string>
+    <string name="app_name4">Muziko</string>
+    <string name="app_name5">Kalkulilo</string>
+
+    <string name="callblocker_black">Nigra listo</string>
+    <string name="callblocker_logs">Vokaj protokoloj</string>
+    <string name="icon_change_title">Ikonoj</string>
+    <string name="intruders_title">Entrudiĝinto</string>
+    <string name="intruders_access_apps">Aliru programojn kun uzado</string>
+    <string name="main_unlocked">Malŝlosita</string>
+    <string name="main_locked">Ŝlosita</string>
+    <string name="prem_not_sub">Ĉi tio ne estas abono. Vi pagas nur unufoje!</string>
+    <string name="prem_fake_icon">Falsa Ikono</string>
+    <string name="prem_intruders">Entrudiĝinta selfie</string>
+    <string name="prem_themes">Pli kreivaj temoj</string>
+    <string name="prem_one_time">Unufoja Pago</string>
+    <string name="splash_create">Kreita por protekti vian privatecon</string>
+    <string name="vault_photos">Fotoj</string>
+    <string name="vault_videos">Vidbendoj</string>
+    <string name="btn_ok">bone</string>
+    <string name="dialog_intruder_text">Ĉu vi ŝatus forigi la foton?</string>
+    <string name="btn_cancel">NULIGI</string>
+    <string name="fragment_security_text">Opps! \n Vi ankoraŭ ne ŝlosis programojn</string>
+    <string name="settings_security">Sekureco</string>
+    <string name="settings_face_icon">Falsa Ikono</string>
+    <string name="settings_face_icon_text">La originala ikono de ĉi tiu programo estos ŝanĝita</string>
+    <string name="rate_us_enjoying">Ĉu vi ĝuas AppLock?</string>
+    <string name="rate_us_could_be">povus esti pli bone</string>
+    <string name="menu_privacy">Privateca Politiko</string>
+    <string name="menu_contact">Kontaktu Nin</string>
+    <string name="menu_face_icon">Falsa Ikono</string>
+    <string name="menu_intruder">Intruder Manager</string>
+    <string name="menu_chat">Babilejo</string>
+</resources>

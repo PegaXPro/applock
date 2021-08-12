@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">설정</string>
+
+  
+
+    <string name="share">공유</string>
+
+    <string name="notification_protecting_title">앱 보호</string>
+
+    <string name="notification_protecting_description">개인 정보를 보호하기 위해 앱을 잠급니다.</string>
+
+    <string name="notification_permission_need_title">보호 권한 활성화</string>
+
+    <string name="notification_permission_need_description">앱 보관함을 사용하려면 권한을 활성화하세요.</string>
+    <string name="you_accept_privacy_policy">계속하면 다음에 동의하게됩니다.<u> 개인 정보 정책</u> </string>
+
+    <string name="header_recommended_to_lock">잠금 권장</string>
+    <string name="header_all_apps">모든 애플리케이션</string>
+
+    <string name="title_general_settings">일반</string>
+
+    <string name="title_lock_all">모두 잠금</string>
+    <string name="description_lock_all">모든 앱이 잠 깁니다.</string>
+
+ 
+    <string name="title_unlock_all">모두 잠금 해제</string>
+
+    <string name="description_unlock_all">모든 앱이 잠금 해제됩니다.</string>
+    <string name="settings_change_pattern_title">패턴 변경</string>
+
+    <string name="settings_change_pattern_description">기존 패턴 변경</string>
+    <string name="message_pattern_changed">패턴이 성공적으로 변경되었습니다.</string>
+
+    <string name="setting_in_stealth_mode_title">그림 숨기기</string>
+    <string name="setting_in_stealth_mode_description">그리는 동안 보이지 않는 패턴</string>
+    <string name="setting_fingerprint_title">지문 활성화</string>
+
+    <string name="setting_fingerprint_description">지문으로 앱을 시작합니다.</string>
+    <string name="setting_fingerprint_not_supported_title">지문은 지원되지 않습니다.</string>
+
+    <string name="setting_fingerprint_not_supported_description">장치에 센서가 없습니다.</string>
+    <string name="setting_fingerprint_not_registered_title">지문 등록</string>
+
+    <string name="setting_fingerprint_not_registered_description">보안 설정으로 이동</string>
+    <string name="next">다음</string>
+
+    <string name="permission_usage_access_title">이용 접근 권한</string>
+    <string name="permission_usage_access_description">앱 로커를 사용하려면 사용 액세스를 활성화합니다.</string>
+
+    <string name="permission_overlay_title">잠금 화면 권한</string>
+
+    <string name="settings_card_intruders_title">침입자 잡기</string>
+    <string name="settings_enable_intruders_title">침입자 사진 찍기</string>
+    <string name="settings_enable_intruders_description">침입자를 잡을 수 있습니다.</string>
+
+    <string name="settings_intruders_folder_title">잡힌 침입자 사진</string>
+    <string name="settings_intruders_folder_description">전화에서 스파이를 보려면 클릭하십시오.</string>
+
+    <string name="settings_card_advance_protection_title">사전 보호</string>
+    <string name="settings_enable_advance_protection_title">고급 보호 활성화</string>
+    <string name="settings_enable_advance_protection_description">고급 보호를 활성화하려면 "장치 관리자"로 App Lock Pro를 활성화하십시오. 침입자가 App Lock Pro를 제거하는 것을 방지하고 강제로 중지하는 데만 사용됩니다. App Lock Pro는이 권한을 사용하여 개인 정보에 액세스하지 않도록하십시오. .</string>
+    <string name="device_admin_permission_description">지금 활성화하고 보호를 강화하고 더 안전하게! \n\n고급 보호를 활성화하려면 App Lock Pro를 "장치 관리자"로 활성화하십시오. 침입자가 App Lock Pro를 제거하는 것을 방지하고 강제로 중지하는 데만 사용됩니다. App Lock Pro가이 권한을 사용하지 않도록하십시오. 귀하의 개인 정보에 액세스하십시오.</string>
+
+
+    <string name="permission_overlay_description">잠금 화면을 표시하려면 오버레이를 활성화하십시오.</string>
+    <string name="permission_toast_enable_permissions">앱 보관함 사용 권한 활성화</string>
+
+    <string name="draw_pattern_title">새 패턴 만들기</string>
+    <string name="redraw_pattern_title">완료하려면 다시 그리기</string>
+
+    <string name="recreate_pattern_error">패턴이 일치하지 않습니다. 다시 그립니다.</string>
+
+    <string name="create_pattern_successful">성공적으로 생성되었습니다.</string>
+    <string name="overlay_prompt_pattern_title">앱을 열기위한 패턴 그리기</string>
+    <string name="overlay_prompt_pattern_title_wrong">패턴이 잘못되었습니다. 다시 그립니다.</string>
+    <string name="overlay_prompt_pattern_title_correct">패턴이 정확합니다.</string>
+
+    <string name="overlay_prompt_fingerprint_title">앱을 열기위한 패턴 그리기</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">일치하지 않습니다. +  %1$s + 남았습니다.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">지문이 일치했습니다!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">지문 오류! 패턴을 시도하십시오.</string>
+    <string name="dialog_title_rate_us">Secure Zone이 마음에 드 셨나요?</string>
+    <string name="dialog_description_rate_us">시장에서 우리를 평가하면 우리는 너무 행복 할 것입니다.</string>
+    <string name="dialog_action_rate_us_rate">율</string>
+
+    <string name="dialog_action_rate_us_later">나중</string>
+    <string name="dialog_title_usage_permission">Android 5.0 권한</string>
+    <string name="dialog_description_usage_permission">Android 5.0 이상에서는 다음에 대한 사용 액세스를 허용해야합니다.
+        보안 영역 기능을 사용할 수 있도록 AppLocker</string>
+    <string name="dialog_action_usage_permission_permit">허가</string>
+
+    <string name="dialog_action_usage_permission_cancel">취소</string>
+    <string name="dialog_title_privacy_policy">개인 정보 정책</string>
+    <string name="dialog_description_privacy_policy">개인 정보 보호 정책을 업데이트했습니다. 계속하면 다음에 동의하게됩니다.<u> 개인 정보 정책</u> </string>
+    <string name="dialog_action_privacy_policy_accept">동의하기</string>
+
+    <string name="hint_browser_search">URL 검색 또는 입력</string>
+    <string name="facebook">페이스 북</string>
+
+    <string name="twitter">트위터</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">인스 타 그램</string>
+    <string name="youtube">레딧</string>
+    <string name="title_browser_empty">안전하고, 안전하고, 비공개입니다.</string>
+    <string name="subtitle_browser_empty">인터넷 서핑. 안전하게.</string>
+    <string name="bookmarks">북마크</string>
+    <string name="title_name_unknown_number">알 수없는 번호</string>
+
+
+
+    <string name="blacklist_empty_title">블랙리스트가 비어 있습니다.</string>
+    <string name="blacklist_empty_description">전화 번호를 차단하려면 클릭하세요.</string>
+    <string name="call_log_empty_title">로그 없음</string>
+
+    <string name="call_log_empty_description">통화가 차단되면 여기에 로그가 표시됩니다.</string>
+    <string name="dialog_add_to_blacklist_title">전화 번호 차단</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">이름 (선택 사항)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">전화 번호 입력</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">취소</string>
+    <string name="dialog_black_list_delete_title">블랙리스트에서 삭제</string>
+    <string name="dialog_black_list_delete_description">차단 된 번호를 블랙리스트에서 제거 하시겠습니까?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">취소</string>
+    <string name="dialog_title_add_to_vault">가공</string>
+    <string name="dialog_description_process">미디어가 갤러리에서 제거되고 볼트에 추가됩니다.</string>
+
+    <string name="dialog_title_removal_confirmation">제거 확인</string>
+    <string name="dialog_description_removal">이 파일은 Vault에서 제거되고 갤러리에 표시됩니다.</string>
+    <string name="dialog_action_removal_confirmation_accept">동의하기</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault가 비어 있습니다.</string>
+    <string name="vault_photo_empty_page_description">갤러리에서 사진을 숨기려면 아이콘 추가</string>
+    <string name="vault_video_empty_page_title">Video Vault가 비어 있습니다.</string>
+
+    <string name="vault_video_empty_page_description">갤러리에서 비디오 사진에 아이콘 추가</string>
+    <string-array name="tabs">
+        <item>보안</item>
+        <item>설정</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>블랙리스트</item>
+        <item>통화 기록</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>이미지</item>
+        <item>동영상</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">잡힌 침입자 없음</string>
+    <string name="empty_page_intruders_description">당신의 전화는 안전합니다!</string>
+    <string name="Vault">둥근 천장</string>
+    <string name="Call_blocker">통화 차단기</string>
+    <string name="browser">브라우저</string>
+    <string name="theme">테마</string>
+    <string name="rate_us">평가</string>
+    <string name="removeads">프리미엄 버전</string>
+    <string name="enter_pin">PIN 입력</string>
+    <string name="pin_matched">핀 일치</string>
+    <string name="confirm_pin">PIN 확인</string>
+    <string name="pin_chahnged">핀이 성공적으로 변경되었습니다.</string>
+    <string name="pin_not_matched">핀이 일치하지 않습니다.</string>
+    <string name="incorrect_pin">잘못된 핀</string>
+    <string name="settings_set_pin">핀 설정</string>
+    <string name="change_pin">핀 변경</string>
+    <string name="settings_set_pin_description">새 PIN 설정</string>
+    <string name="create_new_pin">새 핀 만들기</string>
+    <string name="home">집</string>
+    <string name="settings_change_pin_description">기존 핀 변경</string>
+    <string name="message_pin_changed">핀이 성공적으로 변경되었습니다.</string>
+    <string name="non_protected">비보호</string>
+    <string name="status_protected">보호</string>
+    <string name="starting_hour">시작 시간</string>
+    <string name="ending_hour">종료 시간</string>
+    <string name="auto_start_p">자동 실행 권한</string>
+    <string name="permission_usage_access_description1">자동 실행 옵션을 엽니 다</string>
+
+
+    <string name="privat_browser">개인 브라우저</string>
+    <string name="prem_title">프리미엄 버전 영원히</string>
+    <string name="prem_no_ads">영원히 광고 없음</string>
+    <string name="prem_restore">구매 복원</string>
+
+    <string name="please_give_us_five_stars">Google Play에서 별 5 개를주세요! 우리는 그것을 많이 감사 할 것입니다!</string>
+    <string name="great_tex">큰!</string>
+    <string name="choose_the_icon">아이콘을 선택하면 원래 아이콘이 변경됩니다. 침입자로부터이 앱 숨기기</string>
+    <string name="app_name1">시계</string>
+    <string name="app_name2">지도</string>
+    <string name="app_name3">달력</string>
+    <string name="app_name4">음악</string>
+    <string name="app_name5">계산자</string>
+
+    <string name="callblocker_black">블랙리스트</string>
+    <string name="callblocker_logs">통화 기록</string>
+    <string name="icon_change_title">아이콘</string>
+    <string name="intruders_title">침입자</string>
+    <string name="intruders_access_apps">사용량으로 앱에 액세스</string>
+    <string name="main_unlocked">잠금 해제</string>
+    <string name="main_locked">잠김</string>
+    <string name="prem_not_sub">이것은 구독이 아닙니다. 한 번만 지불하세요!</string>
+    <string name="prem_fake_icon">가짜 아이콘</string>
+    <string name="prem_intruders">침입자 셀카</string>
+    <string name="prem_themes">더 창의적인 테마</string>
+    <string name="prem_one_time">일회성 결제</string>
+    <string name="splash_create">개인 정보를 보호하기 위해 만들어졌습니다.</string>
+    <string name="vault_photos">사진</string>
+    <string name="vault_videos">동영상</string>
+    <string name="btn_ok">확인</string>
+    <string name="dialog_intruder_text">사진을 삭제 하시겠습니까?</string>
+    <string name="btn_cancel">취소</string>
+    <string name="fragment_security_text">죄송합니다. \n아직 잠긴 앱이 없습니다.</string>
+    <string name="settings_security">보안</string>
+    <string name="settings_face_icon">가짜 아이콘</string>
+    <string name="settings_face_icon_text">이 앱의 원래 아이콘이 변경됩니다.</string>
+    <string name="rate_us_enjoying">AppLock을 즐기고 계십니까?</string>
+    <string name="rate_us_could_be">더 좋을 수 있습니다</string>
+    <string name="menu_privacy">개인 정보 정책</string>
+    <string name="menu_contact">문의하기</string>
+    <string name="menu_face_icon">가짜 아이콘</string>
+    <string name="menu_intruder">침입자 관리자</string>
+    <string name="menu_chat">대화방</string>
+
+</resources>

@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">Khóa ứng dụng</string>
+
+    <string name="action_settings">Cài đặt</string>
+
+  
+
+    <string name="share">Chia sẻ</string>
+
+    <string name="notification_protecting_title">Bảo vệ ứng dụng của bạn</string>
+
+    <string name="notification_protecting_description">Khóa các ứng dụng của bạn để bảo vệ quyền riêng tư của bạn.</string>
+
+    <string name="notification_permission_need_title">Cho phép quyền bảo vệ</string>
+
+    <string name="notification_permission_need_description">Vui lòng kích hoạt quyền của bạn để sử dụng khóa ứng dụng.</string>
+    <string name="you_accept_privacy_policy">Bằng cách tiếp tục, bạn đồng ý<u> Chính sách bảo mật</u> </string>
+
+    <string name="header_recommended_to_lock">Đề xuất để khóa</string>
+    <string name="header_all_apps">Tất cả các ứng dụng</string>
+
+    <string name="title_general_settings">Chung</string>
+
+    <string name="title_lock_all">Khóa tất cả</string>
+    <string name="description_lock_all">Điều này sẽ khóa tất cả các ứng dụng của bạn</string>
+
+ 
+    <string name="title_unlock_all">Mở khóa tất cả</string>
+
+    <string name="description_unlock_all">Điều này sẽ mở khóa tất cả các ứng dụng của bạn</string>
+    <string name="settings_change_pattern_title">Thay đổi mẫu</string>
+
+    <string name="settings_change_pattern_description">Thay đổi mẫu hiện có của bạn</string>
+    <string name="message_pattern_changed">Đã thay đổi mẫu thành công</string>
+
+    <string name="setting_in_stealth_mode_title">Ẩn bản vẽ</string>
+    <string name="setting_in_stealth_mode_description">Mẫu ẩn trong khi vẽ</string>
+    <string name="setting_fingerprint_title">Bật dấu vân tay</string>
+
+    <string name="setting_fingerprint_description">Khởi chạy ứng dụng bằng vân tay của bạn.</string>
+    <string name="setting_fingerprint_not_supported_title">Vân tay không được hỗ trợ</string>
+
+    <string name="setting_fingerprint_not_supported_description">Thiết bị của bạn không có cảm biến</string>
+    <string name="setting_fingerprint_not_registered_title">Đăng ký dấu vân tay của bạn</string>
+
+    <string name="setting_fingerprint_not_registered_description">Đi tới cài đặt bảo mật</string>
+    <string name="next">Kế tiếp</string>
+
+    <string name="permission_usage_access_title">Quyền truy cập sử dụng</string>
+    <string name="permission_usage_access_description">Bật tài khoản sử dụng để sử dụng khóa ứng dụng.</string>
+
+    <string name="permission_overlay_title">Quyền màn hình khóa</string>
+
+    <string name="settings_card_intruders_title">Bắt kẻ xâm nhập</string>
+    <string name="settings_enable_intruders_title">Chụp ảnh những kẻ xâm nhập</string>
+    <string name="settings_enable_intruders_description">Cho phép bắt những kẻ xâm nhập.</string>
+
+    <string name="settings_intruders_folder_title">Đã bắt được ảnh của kẻ xâm nhập</string>
+    <string name="settings_intruders_folder_description">Bấm để xem gián điệp trên điện thoại của bạn.</string>
+
+    <string name="settings_card_advance_protection_title">Bảo vệ trước</string>
+    <string name="settings_enable_advance_protection_title">Bật tính năng bảo vệ trước</string>
+    <string name="settings_enable_advance_protection_description">Để bật tính năng Bảo vệ nâng cao, vui lòng kích hoạt App Lock Pro với tư cách "quản trị viên thiết bị". Nó chỉ được sử dụng để ngăn những kẻ xâm nhập gỡ cài đặt và buộc dừng App Lock Pro. Hãy đảm bảo rằng App Lock Pro sẽ không bao giờ sử dụng quyền này để truy cập dữ liệu quyền riêng tư của bạn .</string>
+    <string name="device_admin_permission_description">Kích hoạt ngay bây giờ, bảo vệ nâng cao và an toàn hơn! \n\nĐể bật Bảo vệ nâng cao, vui lòng kích hoạt App Lock Pro với tư cách "quản trị viên thiết bị". Nó chỉ được sử dụng để ngăn những kẻ xâm nhập gỡ cài đặt và buộc dừng App Lock Pro. Hãy đảm bảo rằng App Lock Pro sẽ không bao giờ sử dụng quyền này để truy cập dữ liệu quyền riêng tư của bạn.</string>
+
+
+    <string name="permission_overlay_description">Bật lớp phủ để hiển thị màn hình khóa.</string>
+    <string name="permission_toast_enable_permissions">Bật quyền sử dụng trình khóa ứng dụng</string>
+
+    <string name="draw_pattern_title">Tạo một mẫu mới</string>
+    <string name="redraw_pattern_title">Vẽ lại để hoàn thành</string>
+
+    <string name="recreate_pattern_error">Mẫu không khớp. Vẽ lại.</string>
+
+    <string name="create_pattern_successful">Thành công trong việc tạo ra.</string>
+    <string name="overlay_prompt_pattern_title">Vẽ hình để mở ứng dụng</string>
+    <string name="overlay_prompt_pattern_title_wrong">Mô hình sai. Ve lai.</string>
+    <string name="overlay_prompt_pattern_title_correct">Đúng mẫu.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Vẽ hình để mở ứng dụng</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Không + phù hợp. Còn lại + %1$s +.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Vân tay đã khớp!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Lỗi vân tay! Hãy thử mẫu.</string>
+    <string name="dialog_title_rate_us">Bạn có thích Secure Zone?</string>
+    <string name="dialog_description_rate_us">Chúng tôi sẽ rất vui nếu bạn đánh giá chúng tôi trên thị trường.</string>
+    <string name="dialog_action_rate_us_rate">Tỷ lệ</string>
+
+    <string name="dialog_action_rate_us_later">Một lát sau</string>
+    <string name="dialog_title_usage_permission">Quyền của Android 5.0</string>
+    <string name="dialog_description_usage_permission">Trong Android 5.0 trở lên, bạn cần cấp quyền truy cập sử dụng cho
+        AppLocker, để bạn có thể sử dụng Tính năng Vùng bảo mật</string>
+    <string name="dialog_action_usage_permission_permit">Giấy phép</string>
+
+    <string name="dialog_action_usage_permission_cancel">Huỷ bỏ</string>
+    <string name="dialog_title_privacy_policy">Chính sách bảo mật</string>
+    <string name="dialog_description_privacy_policy">Chúng tôi đã cập nhật chính sách bảo mật của chúng tôi. Bằng cách tiếp tục, bạn đồng ý<u> Chính sách bảo mật</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Chấp nhận</string>
+
+    <string name="hint_browser_search">Tìm kiếm hoặc nhập URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">An toàn, Bảo mật. Riêng tư.</string>
+    <string name="subtitle_browser_empty">Lướt trên internet. Một cách an toàn.</string>
+    <string name="bookmarks">Dấu trang</string>
+    <string name="title_name_unknown_number">Số không xác định</string>
+
+
+
+    <string name="blacklist_empty_title">Danh sách đen trống</string>
+    <string name="blacklist_empty_description">Bấm để chặn số điện thoại</string>
+    <string name="call_log_empty_title">Không có nhật ký</string>
+
+    <string name="call_log_empty_description">Nhật ký xuất hiện ở đây khi cuộc gọi bị chặn</string>
+    <string name="dialog_add_to_blacklist_title">Chặn số điện thoại</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Tên (Tùy chọn)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Nhập số điện thoại</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Huỷ bỏ</string>
+    <string name="dialog_black_list_delete_title">Xóa khỏi danh sách đen</string>
+    <string name="dialog_black_list_delete_description">Bạn có muốn xóa số bị chặn khỏi danh sách đen không?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Huỷ bỏ</string>
+    <string name="dialog_title_add_to_vault">Chế biến</string>
+    <string name="dialog_description_process">Phương tiện của bạn đang xóa khỏi thư viện và thêm vào vault của bạn.</string>
+
+    <string name="dialog_title_removal_confirmation">Xác nhận xóa</string>
+    <string name="dialog_description_removal">Tệp này sẽ bị xóa khỏi vault và hiển thị trong thư viện.</string>
+    <string name="dialog_action_removal_confirmation_accept">Chấp nhận</string>
+
+    <string name="vault_photo_empty_page_title">Kho ảnh trống</string>
+    <string name="vault_photo_empty_page_description">Thêm biểu tượng để ẩn ảnh khỏi thư viện</string>
+    <string name="vault_video_empty_page_title">Kho video trống</string>
+
+    <string name="vault_video_empty_page_description">Thêm biểu tượng vào ảnh video từ thư viện</string>
+    <string-array name="tabs">
+        <item>Bảo vệ</item>
+        <item>Cài đặt</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Danh sách đen</item>
+        <item>Nhật ký cuộc gọi</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Hình ảnh</item>
+        <item>Video</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Không có kẻ xâm nhập nào bị bắt</string>
+    <string name="empty_page_intruders_description">Điện thoại của bạn được bảo mật!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Chặn cuộc gọi</string>
+    <string name="browser">Trình duyệt</string>
+    <string name="theme">Chủ đề</string>
+    <string name="rate_us">Đánh giá chúng tôi</string>
+    <string name="removeads">Phiên bản cao cấp</string>
+    <string name="enter_pin">Nhập PIN</string>
+    <string name="pin_matched">Ghim phù hợp</string>
+    <string name="confirm_pin">Xác nhận mã PIN</string>
+    <string name="pin_chahnged">Đã thay đổi mã pin thành công</string>
+    <string name="pin_not_matched">Ghim không khớp</string>
+    <string name="incorrect_pin">Ghim không chính xác</string>
+    <string name="settings_set_pin">Đặt ghim</string>
+    <string name="change_pin">Thay đổi pin</string>
+    <string name="settings_set_pin_description">Đặt mã pin mới</string>
+    <string name="create_new_pin">Tạo một ghim mới</string>
+    <string name="home">Trang Chủ</string>
+    <string name="settings_change_pin_description">Thay đổi mã pin hiện có của bạn</string>
+    <string name="message_pin_changed">Đã thay đổi mã pin thành công</string>
+    <string name="non_protected">Không được bảo vệ</string>
+    <string name="status_protected">Được bảo vệ</string>
+    <string name="starting_hour">Giờ bắt đầu</string>
+    <string name="ending_hour">Giờ kết thúc</string>
+    <string name="auto_start_p">quyền tự động chạy</string>
+    <string name="permission_usage_access_description1">mở tùy chọn chạy tự động</string>
+
+
+    <string name="privat_browser">Trình duyệt Riêng tư</string>
+    <string name="prem_title">Phiên bản cao cấp Mãi mãi</string>
+    <string name="prem_no_ads">Không có quảng cáo vĩnh viễn</string>
+    <string name="prem_restore">Khôi phục mua hàng</string>
+
+    <string name="please_give_us_five_stars">Vui lòng cho chúng tôi năm sao trên Google Play! Chúng tôi sẽ đánh giá cao nó rất nhiều!</string>
+    <string name="great_tex">Tuyệt quá!</string>
+    <string name="choose_the_icon">Chọn biểu tượng và biểu tượng ban đầu sẽ được thay đổi. Ẩn ứng dụng này khỏi những kẻ xâm nhập</string>
+    <string name="app_name1">Đồng hồ</string>
+    <string name="app_name2">Bản đồ</string>
+    <string name="app_name3">Lịch</string>
+    <string name="app_name4">Âm nhạc</string>
+    <string name="app_name5">Máy tính</string>
+
+    <string name="callblocker_black">Danh sách đen</string>
+    <string name="callblocker_logs">Nhật ký cuộc gọi</string>
+    <string name="icon_change_title">Biểu tượng</string>
+    <string name="intruders_title">Kẻ xâm nhập</string>
+    <string name="intruders_access_apps">Truy cập các ứng dụng với mức sử dụng</string>
+    <string name="main_unlocked">Đã mở khóa</string>
+    <string name="main_locked">Đã khóa</string>
+    <string name="prem_not_sub">Đây không phải là một đăng ký. Bạn chỉ phải trả một lần!</string>
+    <string name="prem_fake_icon">Biểu tượng giả mạo</string>
+    <string name="prem_intruders">Ảnh tự chụp của kẻ xâm nhập</string>
+    <string name="prem_themes">Nhiều chủ đề sáng tạo hơn</string>
+    <string name="prem_one_time">Thanh toán một lần</string>
+    <string name="splash_create">Được tạo để bảo vệ quyền riêng tư của bạn</string>
+    <string name="vault_photos">Hình ảnh</string>
+    <string name="vault_videos">Video</string>
+    <string name="btn_ok">đồng ý</string>
+    <string name="dialog_intruder_text">Bạn có muốn xóa ảnh không?</string>
+    <string name="btn_cancel">HỦY</string>
+    <string name="fragment_security_text">Rất tiếc! \n Bạn chưa khóa ứng dụng nào</string>
+    <string name="settings_security">Bảo vệ</string>
+    <string name="settings_face_icon">Biểu tượng giả mạo</string>
+    <string name="settings_face_icon_text">Biểu tượng ban đầu của ứng dụng này sẽ được thay đổi</string>
+    <string name="rate_us_enjoying">Bạn có thích AppLock không?</string>
+    <string name="rate_us_could_be">nó có thể tốt hơn</string>
+    <string name="menu_privacy">Chính sách bảo mật</string>
+    <string name="menu_contact">Liên hệ chúng tôi</string>
+    <string name="menu_face_icon">Biểu tượng giả mạo</string>
+    <string name="menu_intruder">Người quản lý kẻ xâm nhập</string>
+    <string name="menu_chat">Phòng chat</string>
+
+</resources>

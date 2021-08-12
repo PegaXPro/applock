@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Поставки</string>
+
+  
+
+    <string name="share">Сподели</string>
+
+    <string name="notification_protecting_title">Заштита на вашите апликации</string>
+
+    <string name="notification_protecting_description">Заклучете ги вашите апликации за да ја заштитите вашата приватност.</string>
+
+    <string name="notification_permission_need_title">Овозможете дозвола за заштита</string>
+
+    <string name="notification_permission_need_description">Овозможете ги вашите дозволи да користат шкафче за апликации.</string>
+    <string name="you_accept_privacy_policy">Со продолжување се согласувате со<u> Политика за приватност</u> </string>
+
+    <string name="header_recommended_to_lock">Се препорачува да се заклучи</string>
+    <string name="header_all_apps">Сите апликации</string>
+
+    <string name="title_general_settings">Генерал</string>
+
+    <string name="title_lock_all">Заклучи ги сите</string>
+    <string name="description_lock_all">Ова ќе ги заклучи сите ваши апликации</string>
+
+ 
+    <string name="title_unlock_all">Отклучи ги сите</string>
+
+    <string name="description_unlock_all">Ова ќе ги отклучи сите ваши апликации</string>
+    <string name="settings_change_pattern_title">Промена на моделот</string>
+
+    <string name="settings_change_pattern_description">Променете ја постоечката шема</string>
+    <string name="message_pattern_changed">Моделот е успешно променет</string>
+
+    <string name="setting_in_stealth_mode_title">Скриј цртеж</string>
+    <string name="setting_in_stealth_mode_description">Невидлива шема при цртање</string>
+    <string name="setting_fingerprint_title">Овозможете отпечаток</string>
+
+    <string name="setting_fingerprint_description">Стартувајте ја апликацијата со отпечаток од прст.</string>
+    <string name="setting_fingerprint_not_supported_title">Отпечатокот не е поддржан</string>
+
+    <string name="setting_fingerprint_not_supported_description">Вашиот уред нема сензор</string>
+    <string name="setting_fingerprint_not_registered_title">Регистрирајте го вашиот отпечаток од прст</string>
+
+    <string name="setting_fingerprint_not_registered_description">Одете во безбедносните поставки</string>
+    <string name="next">Следно</string>
+
+    <string name="permission_usage_access_title">Дозвола за пристап до употреба</string>
+    <string name="permission_usage_access_description">Овозможете пристап на употреба за да користите шкафче за апликации.</string>
+
+    <string name="permission_overlay_title">Дозвола за заклучување на екранот</string>
+
+    <string name="settings_card_intruders_title">Фати натрапници</string>
+    <string name="settings_enable_intruders_title">Фотографирајте натрапници</string>
+    <string name="settings_enable_intruders_description">Овозможете фаќање натрапници.</string>
+
+    <string name="settings_intruders_folder_title">Фатени фотографии од натрапници</string>
+    <string name="settings_intruders_folder_description">Кликнете за да видите шпиони на вашиот телефон.</string>
+
+    <string name="settings_card_advance_protection_title">Заштита однапред</string>
+    <string name="settings_enable_advance_protection_title">Овозможете претходна заштита</string>
+    <string name="settings_enable_advance_protection_description">За да овозможите Advance Protection, активирајте го App Lock Pro како „администратор на уредот“. Се користи само за спречување на деинсталирање на натрапниците и присилно запирање на App Lock Pro. Ве молиме осигурете се дека App Lock Pro никогаш нема да ја користи оваа дозвола за пристап до вашите податоци за приватност .</string>
+    <string name="device_admin_permission_description">Активирајте сега, унапредувајте заштита и побезбедно! \n\nЗа да овозможите Advance Protection, активирајте го App Lock Pro како „администратор на уредот“. Се користи само за спречување на деинсталирање на натрапниците и присилно запирање на App Lock Pro. Осигурете се дека App Lock Pro никогаш нема да ја користи оваа дозвола за пристапете до вашите податоци за приватност.</string>
+
+
+    <string name="permission_overlay_description">Овозможете преклопување за да се прикаже заклучениот екран.</string>
+    <string name="permission_toast_enable_permissions">Овозможете ги дозволите за користење шкафче за апликации</string>
+
+    <string name="draw_pattern_title">Создадете нова шема</string>
+    <string name="redraw_pattern_title">Прецртување за да се заврши</string>
+
+    <string name="recreate_pattern_error">Шемата не се совпаѓа. Прецртување.</string>
+
+    <string name="create_pattern_successful">Успешно создадено.</string>
+    <string name="overlay_prompt_pattern_title">Нацртајте шема за да ја отворите апликацијата</string>
+    <string name="overlay_prompt_pattern_title_wrong">Погрешен образец. Нацртај повторно.</string>
+    <string name="overlay_prompt_pattern_title_correct">Шемата е точна.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Нацртајте шема за да ја отворите апликацијата</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Не + се совпаѓа. + %1$s + преостанато.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Отпечатокот се совпадна!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Грешка во отпечатоци! Пробајте шема.</string>
+    <string name="dialog_title_rate_us">Дали ви се допаѓа Secure Zone?</string>
+    <string name="dialog_description_rate_us">Willе бидеме многу среќни Ако не оцените на пазарот.</string>
+    <string name="dialog_action_rate_us_rate">Оцени</string>
+
+    <string name="dialog_action_rate_us_later">Подоцна</string>
+    <string name="dialog_title_usage_permission">Дозвола за Android 5.0</string>
+    <string name="dialog_description_usage_permission">Во Android 5.0 или погоре, треба да дозволите пристап до употреба за
+        AppLocker, за да можете да користите функција за безбедна зона</string>
+    <string name="dialog_action_usage_permission_permit">Дозвола</string>
+
+    <string name="dialog_action_usage_permission_cancel">Откажи</string>
+    <string name="dialog_title_privacy_policy">Политика за приватност</string>
+    <string name="dialog_description_privacy_policy">Ја ажуриравме нашата политика за приватност. Со продолжување се согласувате со<u> Политика за приватност</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Прифати</string>
+
+    <string name="hint_browser_search">Пребарувајте или внесете URL</string>
+    <string name="facebook">Фејсбук</string>
+
+    <string name="twitter">Твитер</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Инстаграм</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Безбедно. Безбедно. Приватно.</string>
+    <string name="subtitle_browser_empty">Сурфајте на Интернет. Безбедно.</string>
+    <string name="bookmarks">Обележувачи</string>
+    <string name="title_name_unknown_number">Непознат број</string>
+
+
+
+    <string name="blacklist_empty_title">Црната листа е празна</string>
+    <string name="blacklist_empty_description">Кликнете за да го блокирате телефонскиот број</string>
+    <string name="call_log_empty_title">Без дневници</string>
+
+    <string name="call_log_empty_description">Логот се појавува тука кога повикот е блокиран</string>
+    <string name="dialog_add_to_blacklist_title">Блокирај го телефонскиот број</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Име (по избор)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Внесете телефонски број</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Откажи</string>
+    <string name="dialog_black_list_delete_title">Избришете од црната листа</string>
+    <string name="dialog_black_list_delete_description">Дали сакате да го отстраните блокираниот број од црната листа?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Откажи</string>
+    <string name="dialog_title_add_to_vault">Обработка</string>
+    <string name="dialog_description_process">Вашиот медиум се отстранува од галеријата и се додава на вашиот свод.</string>
+
+    <string name="dialog_title_removal_confirmation">Потврда за отстранување</string>
+    <string name="dialog_description_removal">Оваа датотека ќе се отстрани од трезорот и ќе се прикаже во галеријата.</string>
+    <string name="dialog_action_removal_confirmation_accept">Прифати</string>
+
+    <string name="vault_photo_empty_page_title">Фото сводот е празен</string>
+    <string name="vault_photo_empty_page_description">Додадете икона за да ги скриете фотографиите од галеријата</string>
+    <string name="vault_video_empty_page_title">Видео сводот е празен</string>
+
+    <string name="vault_video_empty_page_description">Додадете икона на видео фотографии од галерија</string>
+    <string-array name="tabs">
+        <item>Безбедност</item>
+        <item>Поставки</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Црна листа</item>
+        <item>Дневници за повици</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Слики</item>
+        <item>Видеа</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Нема фатени натрапници</string>
+    <string name="empty_page_intruders_description">Вашиот телефон е безбеден!</string>
+    <string name="Vault">Трезор</string>
+    <string name="Call_blocker">Повик блокатор</string>
+    <string name="browser">Прелистувач</string>
+    <string name="theme">Теми</string>
+    <string name="rate_us">Оцени нè</string>
+    <string name="removeads">Премиум верзија</string>
+    <string name="enter_pin">Внесете игла</string>
+    <string name="pin_matched">Игла одговараше</string>
+    <string name="confirm_pin">Потврдете игла</string>
+    <string name="pin_chahnged">Пин успешно се промени</string>
+    <string name="pin_not_matched">Пинот не се совпаѓа</string>
+    <string name="incorrect_pin">Неточен игла</string>
+    <string name="settings_set_pin">Поставете игла</string>
+    <string name="change_pin">Смени игла</string>
+    <string name="settings_set_pin_description">Поставете нов пин</string>
+    <string name="create_new_pin">Создадете нов пин</string>
+    <string name="home">Дома</string>
+    <string name="settings_change_pin_description">Променете ја вашата постоечка игла</string>
+    <string name="message_pin_changed">Пинот е успешно променет</string>
+    <string name="non_protected">Незаштитен</string>
+    <string name="status_protected">Заштитени</string>
+    <string name="starting_hour">Почеток на часот</string>
+    <string name="ending_hour">Час што завршува</string>
+    <string name="auto_start_p">дозвола за автоматско извршување</string>
+    <string name="permission_usage_access_description1">отворете ја опцијата за автоматско извршување</string>
+
+
+    <string name="privat_browser">Приватен прелистувач</string>
+    <string name="prem_title">Премиум верзија засекогаш</string>
+    <string name="prem_no_ads">Без огласи засекогаш</string>
+    <string name="prem_restore">Вратете ја набавката</string>
+
+    <string name="please_give_us_five_stars">Ве молиме, дајте ни пет starsвезди на Google Play! Би го ценеле многу!</string>
+    <string name="great_tex">Одлично!</string>
+    <string name="choose_the_icon">Изберете ја иконата и оригиналната икона ќе се смени. Скријте ја оваа апликација од натрапници</string>
+    <string name="app_name1">Часовник</string>
+    <string name="app_name2">Мапи</string>
+    <string name="app_name3">Календар</string>
+    <string name="app_name4">Музика</string>
+    <string name="app_name5">Калкулатор</string>
+
+    <string name="callblocker_black">Црна листа</string>
+    <string name="callblocker_logs">Дневници за повици</string>
+    <string name="icon_change_title">Икони</string>
+    <string name="intruders_title">Натрапник</string>
+    <string name="intruders_access_apps">Пристапете до апликациите со употреба</string>
+    <string name="main_unlocked">Отклучен</string>
+    <string name="main_locked">Заклучен</string>
+    <string name="prem_not_sub">Ова не е претплата. Плаќате само еднаш!</string>
+    <string name="prem_fake_icon">Лажна икона</string>
+    <string name="prem_intruders">Селфи со натрапници</string>
+    <string name="prem_themes">Повеќе креативни теми</string>
+    <string name="prem_one_time">Еднократно плаќање</string>
+    <string name="splash_create">Создадено за да ја заштити вашата приватност</string>
+    <string name="vault_photos">Фотографии</string>
+    <string name="vault_videos">Видеа</string>
+    <string name="btn_ok">добро</string>
+    <string name="dialog_intruder_text">Дали сакате да ја избришете фотографијата?</string>
+    <string name="btn_cancel">ОТКАИ</string>
+    <string name="fragment_security_text">Противници! \n Сè уште немате заклучени апликации</string>
+    <string name="settings_security">Безбедност</string>
+    <string name="settings_face_icon">Лажна икона</string>
+    <string name="settings_face_icon_text">Оригиналната икона на оваа апликација ќе се смени</string>
+    <string name="rate_us_enjoying">Дали уживате во AppLock?</string>
+    <string name="rate_us_could_be">може да биде подобро</string>
+    <string name="menu_privacy">Политика за приватност</string>
+    <string name="menu_contact">Контактирајте не</string>
+    <string name="menu_face_icon">Лажна икона</string>
+    <string name="menu_intruder">Менаџер на натрапници</string>
+    <string name="menu_chat">Соба за разговор</string>
+
+</resources>

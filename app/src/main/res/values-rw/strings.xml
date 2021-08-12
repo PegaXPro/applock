@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Igenamiterere</string>
+
+  
+
+    <string name="share">Sangira</string>
+
+    <string name="notification_protecting_title">Kurinda porogaramu zawe</string>
+
+    <string name="notification_protecting_description">Funga porogaramu zawe kugirango urinde ubuzima bwawe bwite.</string>
+
+    <string name="notification_permission_need_title">Emera uruhushya rwo kurinda</string>
+
+    <string name="notification_permission_need_description">Nyamuneka shoboza uruhushya rwawe rwo gukoresha porogaramu ifunga porogaramu.</string>
+    <string name="you_accept_privacy_policy">Mugukomeza wemera u<u> Politiki Yibanga</u> </string>
+
+    <string name="header_recommended_to_lock">Basabwe gufunga</string>
+    <string name="header_all_apps">Porogaramu zose</string>
+
+    <string name="title_general_settings">Jenerali</string>
+
+    <string name="title_lock_all">Funga byose</string>
+    <string name="description_lock_all">Ibi bizafunga porogaramu zawe zose</string>
+
+ 
+    <string name="title_unlock_all">Fungura byose</string>
+
+    <string name="description_unlock_all">Ibi bizafungura porogaramu zawe zose</string>
+    <string name="settings_change_pattern_title">Hindura uburyo</string>
+
+    <string name="settings_change_pattern_description">Hindura uburyo bwawe busanzwe</string>
+    <string name="message_pattern_changed">Icyitegererezo cyahindutse neza</string>
+
+    <string name="setting_in_stealth_mode_title">Hisha igishushanyo</string>
+    <string name="setting_in_stealth_mode_description">Uburyo butagaragara mugihe ushushanya</string>
+    <string name="setting_fingerprint_title">Gushoboza igikumwe</string>
+
+    <string name="setting_fingerprint_description">Tangiza porogaramu ukoresheje igikumwe cyawe.</string>
+    <string name="setting_fingerprint_not_supported_title">Urutoki ntirushyigikiwe</string>
+
+    <string name="setting_fingerprint_not_supported_description">Igikoresho cyawe ntigifite sensor</string>
+    <string name="setting_fingerprint_not_registered_title">Andika urutoki rwawe</string>
+
+    <string name="setting_fingerprint_not_registered_description">Jya kumiterere yumutekano</string>
+    <string name="next">Ibikurikira</string>
+
+    <string name="permission_usage_access_title">Uruhushya rwo gukoresha</string>
+    <string name="permission_usage_access_description">Gushoboza gukoresha imikoreshereze yo gufunga porogaramu.</string>
+
+    <string name="permission_overlay_title">Funga uruhushya rwa ecran</string>
+
+    <string name="settings_card_intruders_title">Fata Abacengezi</string>
+    <string name="settings_enable_intruders_title">Fata ifoto y\'abacengezi</string>
+    <string name="settings_enable_intruders_description">Gushoboza gufata abacengezi.</string>
+
+    <string name="settings_intruders_folder_title">Ifoto yabacengezi</string>
+    <string name="settings_intruders_folder_description">Kanda kugirango urebe intasi kuri terefone.</string>
+
+    <string name="settings_card_advance_protection_title">Kurinda Amajyambere</string>
+    <string name="settings_enable_advance_protection_title">Gushoboza kurinda mbere</string>
+    <string name="settings_enable_advance_protection_description">Kugirango ushoboze kurinda Avance, nyamuneka kora App Lock Pro nk "umuyobozi wibikoresho" .Bikoreshwa gusa mukurinda abinjira gukuramo no guhagarika ingufu za App Lock Pro. Nyamuneka wemeze neza ko App Lock Pro itazigera ikoresha urwo ruhushya kugirango igere ku makuru yawe bwite .</string>
+    <string name="device_admin_permission_description">Kora nonaha, uteze imbere kurinda kandi ufite umutekano! \n\nKugirango ushoboze Kurinda Iterambere, nyamuneka kora App Lock Pro nk "umuyobozi wibikoresho" .Bikoreshwa gusa mukurinda abacengezi gukuramo no guhagarika ingufu za App Lock Pro. Nyamuneka reba neza ko App Lock Pro itazigera ikoresha urwo ruhushya shaka amakuru yawe bwite.</string>
+
+
+    <string name="permission_overlay_description">Gushoboza hejuru kugirango werekane gufunga ecran.</string>
+    <string name="permission_toast_enable_permissions">Emera uruhushya rwo gukoresha gufunga porogaramu</string>
+
+    <string name="draw_pattern_title">Kora uburyo bushya</string>
+    <string name="redraw_pattern_title">Ongera urangize</string>
+
+    <string name="recreate_pattern_error">Icyitegererezo ntabwo gihuye. Ongera usubiremo.</string>
+
+    <string name="create_pattern_successful">Byaremwe neza.</string>
+    <string name="overlay_prompt_pattern_title">Shushanya uburyo bwo gufungura porogaramu</string>
+    <string name="overlay_prompt_pattern_title_wrong">Uburyo butari bwo. Ongera ushushanye.</string>
+    <string name="overlay_prompt_pattern_title_correct">Icyitegererezo.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Shushanya uburyo bwo gufungura porogaramu</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Ntabwo bihuye. + %1$s + hasigaye.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Urutoki rwahujwe!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Ikosa ry\'intoki! Gerageza icyitegererezo.</string>
+    <string name="dialog_title_rate_us">Wakunze Zone Yizewe?</string>
+    <string name="dialog_description_rate_us">Tuzishima cyaneeee Niba utugereranije ku isoko.</string>
+    <string name="dialog_action_rate_us_rate">Igipimo</string>
+
+    <string name="dialog_action_rate_us_later">Nyuma</string>
+    <string name="dialog_title_usage_permission">Uruhushya rwa Android 5.0</string>
+    <string name="dialog_description_usage_permission">Muri Android 5.0 cyangwa irenga, ugomba kwemerera gukoresha imikoreshereze ya
+        AppLocker, kugirango ubashe gukoresha Ikiranga Umutekano</string>
+    <string name="dialog_action_usage_permission_permit">Uruhushya</string>
+
+    <string name="dialog_action_usage_permission_cancel">Kureka</string>
+    <string name="dialog_title_privacy_policy">Politiki Yibanga</string>
+    <string name="dialog_description_privacy_policy">Twahinduye politiki y’ibanga. Mugukomeza wemera u<u> Politiki Yibanga</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Emera</string>
+
+    <string name="hint_browser_search">Shakisha cyangwa wandike URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Umutekano. Umutekano.</string>
+    <string name="subtitle_browser_empty">Reba kuri enterineti. Umutekano.</string>
+    <string name="bookmarks">Ibimenyetso</string>
+    <string name="title_name_unknown_number">Umubare utazwi</string>
+
+
+
+    <string name="blacklist_empty_title">Urutonde rwabirabura</string>
+    <string name="blacklist_empty_description">Kanda kugirango uhagarike numero ya terefone</string>
+    <string name="call_log_empty_title">Nta biti</string>
+
+    <string name="call_log_empty_description">Injira igaragara hano iyo guhamagarwa guhagaritswe</string>
+    <string name="dialog_add_to_blacklist_title">Hagarika nimero ya terefone</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Izina (Bihitamo)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Injiza numero ya terefone</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Kureka</string>
+    <string name="dialog_black_list_delete_title">Siba kurutonde rwabirabura</string>
+    <string name="dialog_black_list_delete_description">Urashaka gukuraho umubare wahagaritswe kurutonde rwabirabura?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Kureka</string>
+    <string name="dialog_title_add_to_vault">Gutunganya</string>
+    <string name="dialog_description_process">Itangazamakuru ryawe rirakura mubitabo no kongeramo ububiko bwawe.</string>
+
+    <string name="dialog_title_removal_confirmation">Kwemeza gukuraho</string>
+    <string name="dialog_description_removal">Iyi dosiye izavana mububiko no kwerekana mubitabo.</string>
+    <string name="dialog_action_removal_confirmation_accept">Emera</string>
+
+    <string name="vault_photo_empty_page_title">Ifoto Vault irimo ubusa</string>
+    <string name="vault_photo_empty_page_description">Ongeraho agashusho kugirango uhishe amafoto mubitabo</string>
+    <string name="vault_video_empty_page_title">Video Vault irimo ubusa</string>
+
+    <string name="vault_video_empty_page_description">Ongeraho igishushanyo kumafoto ya videwo kuva mubitabo</string>
+    <string-array name="tabs">
+        <item>Umutekano</item>
+        <item>Igenamiterere</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Urutonde</item>
+        <item>Hamagara</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Amashusho</item>
+        <item>Amashusho</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Nta mucengezi wafashwe</string>
+    <string name="empty_page_intruders_description">Terefone yawe ifite umutekano!</string>
+    <string name="Vault">Ububiko</string>
+    <string name="Call_blocker">Hamagara</string>
+    <string name="browser">Mucukumbuzi</string>
+    <string name="theme">Insanganyamatsiko</string>
+    <string name="rate_us">Gereranya</string>
+    <string name="removeads">Inyandiko nziza</string>
+    <string name="enter_pin">Injira pin</string>
+    <string name="pin_matched">Ipine rihuye</string>
+    <string name="confirm_pin">Emeza pin</string>
+    <string name="pin_chahnged">Pin yahindutse neza</string>
+    <string name="pin_not_matched">Ipine ntirihuye</string>
+    <string name="incorrect_pin">Ipin</string>
+    <string name="settings_set_pin">Shiraho pin</string>
+    <string name="change_pin">Hindura pin</string>
+    <string name="settings_set_pin_description">Shiraho pin nshya</string>
+    <string name="create_new_pin">Kora pin nshya</string>
+    <string name="home">Murugo</string>
+    <string name="settings_change_pin_description">Hindura pin yawe iriho</string>
+    <string name="message_pin_changed">Igipapuro cyahinduwe neza</string>
+    <string name="non_protected">Ntabwo arinzwe</string>
+    <string name="status_protected">Irinzwe</string>
+    <string name="starting_hour">Isaha yo Gutangira</string>
+    <string name="ending_hour">Isaha yo Kurangiza</string>
+    <string name="auto_start_p">uruhushya rwo gukora</string>
+    <string name="permission_usage_access_description1">fungura uburyo bwo gukora</string>
+
+
+    <string name="privat_browser">Mucukumbuzi yihariye</string>
+    <string name="prem_title">Impamyabumenyi Yibihe Byose</string>
+    <string name="prem_no_ads">Nta ADs Iteka</string>
+    <string name="prem_restore">Kugarura kugura</string>
+
+    <string name="please_give_us_five_stars">Nyamuneka uduhe inyenyeri eshanu kuri Google Play! Twabishima cyane!</string>
+    <string name="great_tex">Birakomeye!</string>
+    <string name="choose_the_icon">Hitamo igishushanyo nigishushanyo cyumwimerere kizahinduka. Hisha iyi porogaramu abacengezi</string>
+    <string name="app_name1">Isaha</string>
+    <string name="app_name2">Ikarita</string>
+    <string name="app_name3">Kalendari</string>
+    <string name="app_name4">Umuziki</string>
+    <string name="app_name5">Kubara</string>
+
+    <string name="callblocker_black">Urutonde rwirabura</string>
+    <string name="callblocker_logs">Ihamagarwa</string>
+    <string name="icon_change_title">Udushushondanga</string>
+    <string name="intruders_title">Umucengezi</string>
+    <string name="intruders_access_apps">Kugera kuri porogaramu ukoresheje</string>
+    <string name="main_unlocked">Gufungura</string>
+    <string name="main_locked">Ifunze</string>
+    <string name="prem_not_sub">Ntabwo ari abiyandikisha. Wishyura rimwe gusa!</string>
+    <string name="prem_fake_icon">Agashusho k\'impimbano</string>
+    <string name="prem_intruders">Kwinjira kwifotoza</string>
+    <string name="prem_themes">Insanganyamatsiko nyinshi zo guhanga</string>
+    <string name="prem_one_time">Kwishura Igihe kimwe</string>
+    <string name="splash_create">Byaremewe kurinda ubuzima bwawe bwite</string>
+    <string name="vault_photos">Amafoto</string>
+    <string name="vault_videos">Amashusho</string>
+    <string name="btn_ok">Nibyo</string>
+    <string name="dialog_intruder_text">Urashaka gusiba ifoto?</string>
+    <string name="btn_cancel">KANSELI</string>
+    <string name="fragment_security_text">Opps! \n Ntabwo ufunze porogaramu</string>
+    <string name="settings_security">Umutekano</string>
+    <string name="settings_face_icon">Agashusho k\'impimbano</string>
+    <string name="settings_face_icon_text">Igishushanyo cyumwimerere cyiyi porogaramu kizahindurwa</string>
+    <string name="rate_us_enjoying">Wishimiye AppLock?</string>
+    <string name="rate_us_could_be">birashobora kuba byiza</string>
+    <string name="menu_privacy">Politiki Yibanga</string>
+    <string name="menu_contact">Twandikire</string>
+    <string name="menu_face_icon">Agashusho k\'impimbano</string>
+    <string name="menu_intruder">Umuyobozi winjira</string>
+    <string name="menu_chat">Uruganiriro</string>
+
+</resources>

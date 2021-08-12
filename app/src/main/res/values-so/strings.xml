@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Dejinta</string>
+
+  
+
+    <string name="share">La wadaag</string>
+
+    <string name="notification_protecting_title">Ilaalinta barnaamijyadaada</string>
+
+    <string name="notification_protecting_description">Quful barnaamijyadaada si aad u ilaaliso arimahaaga gaarka ah.</string>
+
+    <string name="notification_permission_need_title">U oggolow rukhsadda ilaalinta</string>
+
+    <string name="notification_permission_need_description">Fadlan u oggolow oggolaanshahaaga inaad adeegsato qufulka barnaamijka.</string>
+    <string name="you_accept_privacy_policy">Markaad sii waddo waad ku raacsan tahay<u> Qaanuunka Arrimaha Khaaska ah</u> </string>
+
+    <string name="header_recommended_to_lock">Lagu taliyay in la xiro</string>
+    <string name="header_all_apps">Dhammaan codsiyada</string>
+
+    <string name="title_general_settings">Guud</string>
+
+    <string name="title_lock_all">Quful dhamaan</string>
+    <string name="description_lock_all">Tani waxay xiri doontaa dhammaan barnaamijyadaada</string>
+
+ 
+    <string name="title_unlock_all">Fur dhammaan</string>
+
+    <string name="description_unlock_all">Tani waxay furi doontaa dhammaan barnaamijyadaada</string>
+    <string name="settings_change_pattern_title">Beddel qaabka</string>
+
+    <string name="settings_change_pattern_description">Beddel qaabkaaga jira</string>
+    <string name="message_pattern_changed">Qaabku si guul leh ayuu isu beddelay</string>
+
+    <string name="setting_in_stealth_mode_title">Qari sawirka</string>
+    <string name="setting_in_stealth_mode_description">Qaabka aan la arki karin inta sawirku socdo</string>
+    <string name="setting_fingerprint_title">Daar faraha</string>
+
+    <string name="setting_fingerprint_description">Ku bilow barnaamijka farahaaga.</string>
+    <string name="setting_fingerprint_not_supported_title">Faraha laguma taageero</string>
+
+    <string name="setting_fingerprint_not_supported_description">Qalabkaagu ma laha dareemayaal</string>
+    <string name="setting_fingerprint_not_registered_title">Diiwaangali farahaaga</string>
+
+    <string name="setting_fingerprint_not_registered_description">Tag goobaha amniga</string>
+    <string name="next">Xiga</string>
+
+    <string name="permission_usage_access_title">Oggolaanshaha helitaanka isticmaalka</string>
+    <string name="permission_usage_access_description">Daar acces isticmaalka si aad u isticmaasho qufulka barnaamijka.</string>
+
+    <string name="permission_overlay_title">Qufulka oggolaanshaha shaashadda</string>
+
+    <string name="settings_card_intruders_title">Qabsada kuwa ku soo xadgudbay</string>
+    <string name="settings_enable_intruders_title">Qaado sawir kuwa ku soo xadgudbay</string>
+    <string name="settings_enable_intruders_description">Awood u yeelo qabqablayaasha.</string>
+
+    <string name="settings_intruders_folder_title">Sawirro soo duubay ayaa lagu qabtay</string>
+    <string name="settings_intruders_folder_description">Guji si aad u aragto jawaasiis taleefan kuugu soo diray.</string>
+
+    <string name="settings_card_advance_protection_title">Ilaalinta Hore</string>
+    <string name="settings_enable_advance_protection_title">Awoodi ilaalinta hore</string>
+    <string name="settings_enable_advance_protection_description">Si aad awood ugu yeelatid Badbaadinta Hordhaca, fadlan ka hawlgeli barnaamijka "App Lock Pro" "qalabka maamulka" .Waxaa kaliya loo adeegsadaa ka hortagga kuwa soo-dhex-dhexaadinta ah ee ka-saarista iyo xoojinta joojinta App Lock Pro. Fadlan hubso in App Lock Pro uusan waligiis u isticmaali doonin rukhsaddan si uu u helo xogtaada gaarka ah .</string>
+    <string name="device_admin_permission_description">Hada dhaqaaji, horey u sii ilaali oo amaan badan! \n\nSi aad awood ugu yeelatid Badbaadinta Hordhaca, fadlan ka shaqeyso App Lock Pro sida "qalabka qalabka" .Waxaa kaliya loo adeegsadaa ka hortagga kuwa soo-dhex-dhexaadinta ah ee ka-saarista iyo xoojinta joojinta App Lock Pro. Fadlan la hubiyo in App Lock Pro uusan waligiis u isticmaali doonin rukhsaddan marin xogtaada gaarka ah.</string>
+
+
+    <string name="permission_overlay_description">Daar dul-saar si aad u muujiso shaashadda qufulka.</string>
+    <string name="permission_toast_enable_permissions">Daar rukhsadaha si aad u isticmaasho qufulka barnaamijka</string>
+
+    <string name="draw_pattern_title">Abuur qaab cusub</string>
+    <string name="redraw_pattern_title">Dib u cusbooneysii si aad u dhameystirto</string>
+
+    <string name="recreate_pattern_error">Qaabku isma waafaqsana. Dib u rog</string>
+
+    <string name="create_pattern_successful">Si guul leh ayaa loo abuuray</string>
+    <string name="overlay_prompt_pattern_title">Sawir qaab si aad u furto abka</string>
+    <string name="overlay_prompt_pattern_title_wrong">Qaab qaldan. Mar kale sawir.</string>
+    <string name="overlay_prompt_pattern_title_correct">Qaabka saxda ah</string>
+
+    <string name="overlay_prompt_fingerprint_title">Sawir qaab si aad u furto abka</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Lama + dhigmin. + %1$s + ayaa hadhay.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Faraha ayaa iswaafajiyay!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Khaladka faraha! Isku day qaab.</string>
+    <string name="dialog_title_rate_us">Ma jeceshahay Aagga Nabdoon?</string>
+    <string name="dialog_description_rate_us">Aad ayaan u faraxsanaan doonnaa Haddii aad nagu qiimeyso suuqa.</string>
+    <string name="dialog_action_rate_us_rate">Qiimee</string>
+
+    <string name="dialog_action_rate_us_later">Mar dambe</string>
+    <string name="dialog_title_usage_permission">Oggolaanshaha 5.0 Android</string>
+    <string name="dialog_description_usage_permission">Android 5.0 ama wixii ka sareeya, waxaad u baahan tahay inaad u oggolaato helitaanka isticmaalka
+        AppLocker, si aad u isticmaali karto Muuqaalka Aag Sugan</string>
+    <string name="dialog_action_usage_permission_permit">Oggolaansho</string>
+
+    <string name="dialog_action_usage_permission_cancel">Jooji</string>
+    <string name="dialog_title_privacy_policy">Qaanuunka Arrimaha Khaaska ah</string>
+    <string name="dialog_description_privacy_policy">Waxaan cusbooneysiinay siyaasadeena asturnaanta. Markaad sii waddo waad ku raacsan tahay<u> Qaanuunka Arrimaha Khaaska ah</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Aqbal</string>
+
+    <string name="hint_browser_search">Raadi ama gal URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Dib u habeyn</string>
+    <string name="title_browser_empty">Ammaan. Amniga.</string>
+    <string name="subtitle_browser_empty">Ku dheji internetka. Si aamin ah.</string>
+    <string name="bookmarks">Calaamado</string>
+    <string name="title_name_unknown_number">Number aan la garanayn</string>
+
+
+
+    <string name="blacklist_empty_title">Liiska madow waa faaruq</string>
+    <string name="blacklist_empty_description">Guji si aad u joojiso lambarka taleefanka</string>
+    <string name="call_log_empty_title">Diiwaan gashan</string>
+
+    <string name="call_log_empty_description">Diiwaanka ayaa halkan ka muuqda marka wicitaanku xiran yahay</string>
+    <string name="dialog_add_to_blacklist_title">Xir lambarka taleefanka</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Magaca (Ikhtiyaar)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Gali lambarka taleefanka</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Jooji</string>
+    <string name="dialog_black_list_delete_title">Ka tirtir liiska madow</string>
+    <string name="dialog_black_list_delete_description">Ma rabtaa inaad ka saarto lambarka la xiray liiska madow?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Jooji</string>
+    <string name="dialog_title_add_to_vault">Hawlaha</string>
+    <string name="dialog_description_process">Saxaafadaadu way ka guureysaa gallery-ka waxayna ku daraysaa keydkaaga</string>
+
+    <string name="dialog_title_removal_confirmation">Xaqiijinta Saarista</string>
+    <string name="dialog_description_removal">Faylkani wuxuu ka saari doonaa kaydka wuxuuna ku soo bandhigi doonaa galabta.</string>
+    <string name="dialog_action_removal_confirmation_accept">Aqbal</string>
+
+    <string name="vault_photo_empty_page_title">Sawirka Sawirka waa madhan yahay</string>
+    <string name="vault_photo_empty_page_description">Kudar astaan ​​si aad uga qariso sawirada sawirada</string>
+    <string name="vault_video_empty_page_title">Video Vault waa faaruq</string>
+
+    <string name="vault_video_empty_page_description">Kudar astaamaha sawirrada fiidiyowga laga soo qaaday gallery</string>
+    <string-array name="tabs">
+        <item>Amniga</item>
+        <item>Dejinta</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Liiska madow</item>
+        <item>Wicitaanada Wicitaanka</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Sawirro</item>
+        <item>Fiidiyowyo</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Ma Jirto Kuwo Soo Afduubay</string>
+    <string name="empty_page_intruders_description">Taleefoonkaagu waa aamin!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Wac Jaangooyaha</string>
+    <string name="browser">Browser</string>
+    <string name="theme">Dulucda</string>
+    <string name="rate_us">Nagu qiimee</string>
+    <string name="removeads">Nooca Premium</string>
+    <string name="enter_pin">Gali biin</string>
+    <string name="pin_matched">Biin isku mid ah</string>
+    <string name="confirm_pin">Xaqiiji pin</string>
+    <string name="pin_chahnged">Biin si guul leh ayaa loo beddelay</string>
+    <string name="pin_not_matched">Biin aan la waafajin</string>
+    <string name="incorrect_pin">Biin khaldan</string>
+    <string name="settings_set_pin">Calan pin</string>
+    <string name="change_pin">Beddel pin</string>
+    <string name="settings_set_pin_description">Calan pin cusub</string>
+    <string name="create_new_pin">Abuur biin cusub</string>
+    <string name="home">Guri</string>
+    <string name="settings_change_pin_description">Beddel biinanka jira</string>
+    <string name="message_pin_changed">Biin Ku Beddel Guul</string>
+    <string name="non_protected">Aan La ilaalin</string>
+    <string name="status_protected">La ilaaliyay</string>
+    <string name="starting_hour">Saacadda Laga Bilaabayo</string>
+    <string name="ending_hour">Saacadda Dhammaad</string>
+    <string name="auto_start_p">ogolaansho otomaatig ah</string>
+    <string name="permission_usage_access_description1">fur ikhtiyaarka otomaatiga ah</string>
+
+
+    <string name="privat_browser">Browser gaar loo leeyahay</string>
+    <string name="prem_title">Nooca Premium Weligiis</string>
+    <string name="prem_no_ads">No ADs weligiis</string>
+    <string name="prem_restore">Soo Celinta Iibsashada</string>
+
+    <string name="please_give_us_five_stars">Fadlan na sii shan xiddig oo Google Play ah! Aad ayaan u qadarin lahayn!</string>
+    <string name="great_tex">Wanaagsan!</string>
+    <string name="choose_the_icon">Xulo astaanta iyo astaanta asalka ah waa la beddeli doonaa. Ka qari barnaamijkan kuwa ku soo xadgudbay</string>
+    <string name="app_name1">Saacad</string>
+    <string name="app_name2">Khariidadaha</string>
+    <string name="app_name3">Kalandarka</string>
+    <string name="app_name4">Muusig</string>
+    <string name="app_name5">Xisaabiyaha</string>
+
+    <string name="callblocker_black">Liiska madow</string>
+    <string name="callblocker_logs">Wicitaanada wac</string>
+    <string name="icon_change_title">Astaamo</string>
+    <string name="intruders_title">Xadgudbiye</string>
+    <string name="intruders_access_apps">Ku soo gal barnaamijyadooda adeegsiga</string>
+    <string name="main_unlocked">Quful furay</string>
+    <string name="main_locked">Qufulan</string>
+    <string name="prem_not_sub">Tani maahan rukumo. Waxaad bixinaysaa hal mar oo keliya!</string>
+    <string name="prem_fake_icon">Been Abuur</string>
+    <string name="prem_intruders">Xadgudubka selfie</string>
+    <string name="prem_themes">Mawduucyo hal abuur badan</string>
+    <string name="prem_one_time">Lacag Hal-Mar ah</string>
+    <string name="splash_create">Waxaa loo sameeyay si loo ilaaliyo arimahaaga gaarka ah</string>
+    <string name="vault_photos">Sawirro</string>
+    <string name="vault_videos">Fiidiyowyo</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">Miyaad jeceshahay inaad tirtirto sawirka?</string>
+    <string name="btn_cancel">LA SOO JOOJIYO</string>
+    <string name="fragment_security_text">Faaiidooyin! \n Ma lihid wali barnaamijyo xiran</string>
+    <string name="settings_security">Amniga</string>
+    <string name="settings_face_icon">Been Abuur</string>
+    <string name="settings_face_icon_text">Astaanta asalka ah ee barnaamijkan waa la beddeli doonaa</string>
+    <string name="rate_us_enjoying">Ma ku raaxeysaneysaa AppLock?</string>
+    <string name="rate_us_could_be">way ka fiicnaan kartaa</string>
+    <string name="menu_privacy">Qaanuunka Arrimaha Khaaska ah</string>
+    <string name="menu_contact">Nala soo xiriir</string>
+    <string name="menu_face_icon">Been Abuur</string>
+    <string name="menu_intruder">Maareeyaha Xadgudubka</string>
+    <string name="menu_chat">Qolka Wadahadalka</string>
+
+</resources>

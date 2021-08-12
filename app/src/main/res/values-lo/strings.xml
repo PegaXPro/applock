@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">ການຕັ້ງຄ່າ</string>
+
+  
+
+    <string name="share">ແບ່ງປັນ</string>
+
+    <string name="notification_protecting_title">ການປົກປ້ອງແອັບ your ຂອງທ່ານ</string>
+
+    <string name="notification_protecting_description">ລັອກແອັບ apps ຂອງທ່ານເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ.</string>
+
+    <string name="notification_permission_need_title">ເຮັດໃຫ້ການອະນຸຍາດປົກປ້ອງ</string>
+
+    <string name="notification_permission_need_description">ກະລຸນາເປີດການອະນຸຍາດຂອງທ່ານໃຫ້ໃຊ້ app locker.</string>
+    <string name="you_accept_privacy_policy">ໂດຍສືບຕໍ່ທ່ານເຫັນດີ ນຳ<u> ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</u> </string>
+
+    <string name="header_recommended_to_lock">ແນະ ນຳ ໃຫ້ລັອກ</string>
+    <string name="header_all_apps">ທຸກໃບສະ ໝັກ</string>
+
+    <string name="title_general_settings">ທົ່ວໄປ</string>
+
+    <string name="title_lock_all">ລັອກທັງຫມົດ</string>
+    <string name="description_lock_all">ນີ້ຈະລັອກກິດທັງ ໝົດ ຂອງທ່ານ</string>
+
+ 
+    <string name="title_unlock_all">ປົດລັອກທັງ ໝົດ</string>
+
+    <string name="description_unlock_all">ສິ່ງນີ້ຈະປົດລappsອກແອັບ your ທັງ ໝົດ ຂອງທ່ານ</string>
+    <string name="settings_change_pattern_title">ປ່ຽນຮູບແບບ</string>
+
+    <string name="settings_change_pattern_description">ປ່ຽນຮູບແບບທີ່ມີຢູ່ຂອງທ່ານ</string>
+    <string name="message_pattern_changed">ຮູບແບບປ່ຽນແປງຢ່າງ ສຳ ເລັດຜົນ</string>
+
+    <string name="setting_in_stealth_mode_title">ເຊື່ອງຮູບແຕ້ມ</string>
+    <string name="setting_in_stealth_mode_description">ຮູບແບບທີ່ເບິ່ງບໍ່ເຫັນໃນຂະນະທີ່ແຕ້ມ</string>
+    <string name="setting_fingerprint_title">ເປີດໃຊ້ນີ້ວມື</string>
+
+    <string name="setting_fingerprint_description">ເປີດແອັບ app ດ້ວຍນິ້ວມືຂອງທ່ານ.</string>
+    <string name="setting_fingerprint_not_supported_title">ລາຍນິ້ວມືບໍ່ໄດ້ຮັບການສະ ໜັບ ສະ ໜູນ</string>
+
+    <string name="setting_fingerprint_not_supported_description">ອຸປະກອນຂອງທ່ານບໍ່ມີເຊັນເຊີ</string>
+    <string name="setting_fingerprint_not_registered_title">ລົງທະບຽນລາຍນິ້ວມືຂອງທ່ານ</string>
+
+    <string name="setting_fingerprint_not_registered_description">ໄປທີ່ການຕັ້ງຄ່າຄວາມປອດໄພ</string>
+    <string name="next">ຕໍ່ໄປ</string>
+
+    <string name="permission_usage_access_title">ການ ນຳ ໃຊ້ການອະນຸຍາດ ນຳ ໃຊ້</string>
+    <string name="permission_usage_access_description">ເປີດໃຊ້ acces ການ ນຳ ໃຊ້ເພື່ອໃຊ້ app locker.</string>
+
+    <string name="permission_overlay_title">ການອະນຸຍາດລັອກ ໜ້າ ຈໍ</string>
+
+    <string name="settings_card_intruders_title">ຈັບຕົວບຸກລຸກ</string>
+    <string name="settings_enable_intruders_title">ຖ່າຍຮູບຜູ້ບຸກລຸກ</string>
+    <string name="settings_enable_intruders_description">ເຮັດໃຫ້ສາມາດຈັບຜູ້ບຸກລຸກ.</string>
+
+    <string name="settings_intruders_folder_title">ຮູບພາບຜູ້ບຸກລຸກ</string>
+    <string name="settings_intruders_folder_description">ກົດເພື່ອເບິ່ງຄົນສອດແນມຢູ່ໃນໂທລະສັບຂອງທ່ານ.</string>
+
+    <string name="settings_card_advance_protection_title">ການປ້ອງກັນລ່ວງ ໜ້າ</string>
+    <string name="settings_enable_advance_protection_title">ເປີດ ນຳ ໃຊ້ການປ້ອງກັນລ່ວງ ໜ້າ</string>
+    <string name="settings_enable_advance_protection_description">ເພື່ອເປີດໃຊ້ການປ້ອງກັນລ່ວງ ໜ້າ, ກະລຸນາກະຕຸ້ນ App Lock Pro ເປັນ "ຜູ້ເບິ່ງແຍງອຸປະກອນ". ມັນຖືກໃຊ້ເພື່ອປ້ອງກັນຜູ້ບຸກລຸກທີ່ບໍ່ຕິດຕັ້ງແລະບັງຄັບໃຫ້ຢຸດເຊົາການ App Lock Pro. .</string>
+    <string name="device_admin_permission_description">ເປີດໃຊ້ງານດຽວນີ້, ການປ້ອງກັນລ່ວງ ໜ້າ ແລະປອດໄພກວ່າເກົ່າ! \n\nເພື່ອເປີດໃຊ້ການປ້ອງກັນລ່ວງ ໜ້າ, ກະລຸນາເປີດໃຊ້ App Lock Pro ເປັນ "ຜູ້ເບິ່ງແຍງອຸປະກອນ". ມັນຖືກໃຊ້ ສຳ ລັບການປ້ອງກັນຜູ້ບຸກລຸກແລະຖອນການຕິດຕັ້ງ App Lock Pro ເທົ່ານັ້ນ. ເຂົ້າເຖິງຂໍ້ມູນຄວາມເປັນສ່ວນຕົວຂອງທ່ານ.</string>
+
+
+    <string name="permission_overlay_description">ເປີດໃຊ້ການຊ້ອນກັນເພື່ອສະແດງ ໜ້າ ຈໍລັອກ.</string>
+    <string name="permission_toast_enable_permissions">ເປີດສິດອະນຸຍາດໃຫ້ໃຊ້ app locker</string>
+
+    <string name="draw_pattern_title">ສ້າງຮູບແບບ ໃໝ່</string>
+    <string name="redraw_pattern_title">ຂຽນຄືນ ໃໝ່ ເພື່ອເຮັດ ສຳ ເລັດ</string>
+
+    <string name="recreate_pattern_error">ຮູບແບບບໍ່ກົງກັນ. ເອົາຄືນ.</string>
+
+    <string name="create_pattern_successful">ສ້າງ ສຳ ເລັດແລ້ວ.</string>
+    <string name="overlay_prompt_pattern_title">ແຕ້ມຮູບແບບເພື່ອເປີດແອັບ.</string>
+    <string name="overlay_prompt_pattern_title_wrong">ແບບບໍ່ຖືກຕ້ອງ. ແຕ້ມອີກຄັ້ງ.</string>
+    <string name="overlay_prompt_pattern_title_correct">ຮູບແບບທີ່ຖືກຕ້ອງ.</string>
+
+    <string name="overlay_prompt_fingerprint_title">ແຕ້ມຮູບແບບເພື່ອເປີດແອັບ.</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">ບໍ່ + ກົງກັນ. %1$s + ເຫຼືອ.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">ລາຍນິ້ວມືຖືກຈັບ!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">ຂໍ້ຜິດພາດຂອງນິ້ວມື! ລອງແບບ.</string>
+    <string name="dialog_title_rate_us">ທ່ານມັກເຂດປອດໄພບໍ?</string>
+    <string name="dialog_description_rate_us">ພວກເຮົາຈະດີໃຈຫຼາຍຖ້າທ່ານໃຫ້ຄະແນນພວກເຮົາໃນຕະຫຼາດ.</string>
+    <string name="dialog_action_rate_us_rate">ອັດຕາ</string>
+
+    <string name="dialog_action_rate_us_later">ຕໍ່ມາ</string>
+    <string name="dialog_title_usage_permission">ການອະນຸຍາດ Android 5.0</string>
+    <string name="dialog_description_usage_permission">ໃນລະບົບ Android 5.0 ຫຼືສູງກວ່າ, ທ່ານ ຈຳ ເປັນຕ້ອງໄດ້ອະນຸຍາດໃຫ້ເຂົ້າເຖິງການ ນຳ ໃຊ້
+        AppLocker, ເພື່ອໃຫ້ທ່ານສາມາດໃຊ້ງານທີ່ປອດໄພ</string>
+    <string name="dialog_action_usage_permission_permit">ໃບອະນຸຍາດ</string>
+
+    <string name="dialog_action_usage_permission_cancel">ຍົກເລີກ</string>
+    <string name="dialog_title_privacy_policy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="dialog_description_privacy_policy">ພວກເຮົາໄດ້ປັບປຸງນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງພວກເຮົາ. ໂດຍສືບຕໍ່ທ່ານເຫັນດີ ນຳ<u> ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</u> </string>
+    <string name="dialog_action_privacy_policy_accept">ຍອມ​ຮັບ</string>
+
+    <string name="hint_browser_search">ຄົ້ນຫາຫລືໃສ່ URL</string>
+    <string name="facebook">ເຟສບຸກ</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">SnapChat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">ແດງ</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Surf ໃນອິນເຕີເນັດ. ປອດໄພ.</string>
+    <string name="bookmarks">ຫມາຍ</string>
+    <string name="title_name_unknown_number">ບໍ່ຮູ້ເລກ</string>
+
+
+
+    <string name="blacklist_empty_title">ບັນຊີ ດຳ ແມ່ນຫວ່າງເປົ່າ</string>
+    <string name="blacklist_empty_description">ກົດເພື່ອສະກັດເບີໂທລະສັບ</string>
+    <string name="call_log_empty_title">ບໍ່ມີບັນທຶກ</string>
+
+    <string name="call_log_empty_description">ບັນທຶກຈະປາກົດຢູ່ບ່ອນນີ້ເມື່ອຖືກໂທອອກ</string>
+    <string name="dialog_add_to_blacklist_title">ຂັດຂວາງເບີໂທລະສັບ</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">ຊື່ (ທາງເລືອກ)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">ໃສ່ເບີໂທລະສັບ</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">ຍົກເລີກ</string>
+    <string name="dialog_black_list_delete_title">ລົບອອກຈາກບັນຊີ ດຳ</string>
+    <string name="dialog_black_list_delete_description">ທ່ານຕ້ອງການເອົາເລກທີ່ຖືກບລັອກອອກຈາກບັນຊີ ດຳ ບໍ?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">ຍົກເລີກ</string>
+    <string name="dialog_title_add_to_vault">ການປຸງແຕ່ງ</string>
+    <string name="dialog_description_process">ສື່ມວນຊົນຂອງທ່ານ ກຳ ລັງຖືກຍ້າຍອອກຈາກຫ້ອງສະແດງພາບແລະເພີ່ມເຂົ້າໃນຫ້ອງໂຖງຂອງທ່ານ.</string>
+
+    <string name="dialog_title_removal_confirmation">ການຢັ້ງຢືນການໂຍກຍ້າຍ</string>
+    <string name="dialog_description_removal">ເອກະສານນີ້ຈະເອົາຈາກ vault ແລະສະແດງໃຫ້ເຫັນໃນຄັງ.</string>
+    <string name="dialog_action_removal_confirmation_accept">ຍອມ​ຮັບ</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault ແມ່ນຫວ່າງເປົ່າ</string>
+    <string name="vault_photo_empty_page_description">ໃສ່ໄອຄອນເພື່ອຊ່ອນຮູບຈາກຄັງ</string>
+    <string name="vault_video_empty_page_title">ວີດີໂອ Vault ແມ່ນຫວ່າງເປົ່າ</string>
+
+    <string name="vault_video_empty_page_description">ເພີ່ມໄອຄອນໃສ່ຮູບພາບວິດີໂອຈາກຫ້ອງສະແດງພາບ</string>
+    <string-array name="tabs">
+        <item>ຄວາມປອດໄພ</item>
+        <item>ການຕັ້ງຄ່າ</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>ບັນຊີ ດຳ</item>
+        <item>ບັນທຶກການໂທ</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>ຮູບພາບຕ່າງໆ</item>
+        <item>ວິດີໂອ</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">ບໍ່ມີຜູ້ບຸກລຸກເຂົ້າຮ່ວມ</string>
+    <string name="empty_page_intruders_description">ໂທລະສັບຂອງທ່ານປອດໄພ!</string>
+    <string name="Vault">ວໍ້</string>
+    <string name="Call_blocker">Call Blocker</string>
+    <string name="browser">Browser</string>
+    <string name="theme">ຫົວຂໍ້</string>
+    <string name="rate_us">ໃຫ້ຄະແນນພວກເຮົາ</string>
+    <string name="removeads">ລຸ້ນທີ່ນິຍົມ</string>
+    <string name="enter_pin">ໃສ່ເຂັມ</string>
+    <string name="pin_matched">Pin ຖືກຈັບຄູ່</string>
+    <string name="confirm_pin">ຢືນຢັນເຂັມ</string>
+    <string name="pin_chahnged">Pin ປ່ຽນແປງຢ່າງ ສຳ ເລັດຜົນ</string>
+    <string name="pin_not_matched">PIN ບໍ່ຖືກຕ້ອງ</string>
+    <string name="incorrect_pin">ເຂັມຂັດບໍ່ຖືກຕ້ອງ</string>
+    <string name="settings_set_pin">ຕັ້ງເຂັມ</string>
+    <string name="change_pin">ປ່ຽນ PIN</string>
+    <string name="settings_set_pin_description">ຕັ້ງເຂັມ ໃໝ່</string>
+    <string name="create_new_pin">ສ້າງເຂັມ ໃໝ່</string>
+    <string name="home">ເຮືອນ</string>
+    <string name="settings_change_pin_description">ປ່ຽນ PIN ຂອງທ່ານທີ່ມີຢູ່ແລ້ວ</string>
+    <string name="message_pin_changed">Pin ປ່ຽນແປງຢ່າງ ສຳ ເລັດຜົນ</string>
+    <string name="non_protected">ບໍ່ໄດ້ຮັບການປົກປ້ອງ</string>
+    <string name="status_protected">ໄດ້ຮັບການປົກປ້ອງ</string>
+    <string name="starting_hour">ຊົ່ວໂມງເລີ່ມຕົ້ນ</string>
+    <string name="ending_hour">ສິ້ນສຸດຊົ່ວໂມງ</string>
+    <string name="auto_start_p">ການອະນຸຍາດແລ່ນໂດຍອັດຕະໂນມັດ</string>
+    <string name="permission_usage_access_description1">ເປີດຕົວເລືອກແບບ run-auto</string>
+
+
+    <string name="privat_browser">Browser ສ່ວນຕົວ</string>
+    <string name="prem_title">ລຸ້ນ Premium ຕະຫຼອດໄປ</string>
+    <string name="prem_no_ads">ບໍ່ມີ ADs ຕະຫຼອດໄປ</string>
+    <string name="prem_restore">ຟື້ນຟູການຊື້</string>
+
+    <string name="please_give_us_five_stars">ກະລຸນາໃຫ້ດາວ 5 ດາວໃນ Google Play ໃຫ້ພວກເຮົາ! ພວກເຮົາຈະຮູ້ຈັກມັນຫຼາຍ!</string>
+    <string name="great_tex">ຍິ່ງໃຫຍ່!</string>
+    <string name="choose_the_icon">ເລືອກຮູບສັນຍາລັກແລະໄອຄອນຕົ້ນສະບັບຈະຖືກປ່ຽນແປງ. ເຊື່ອງແອັບນີ້ຈາກຜູ້ບຸກລຸກ</string>
+    <string name="app_name1">ໂມງ</string>
+    <string name="app_name2">ແຜນທີ່</string>
+    <string name="app_name3">ປະຕິທິນ</string>
+    <string name="app_name4">ເພງ</string>
+    <string name="app_name5">ເຄື່ອງຄິດໄລ່</string>
+
+    <string name="callblocker_black">ບັນຊີ ດຳ</string>
+    <string name="callblocker_logs">ບັນທຶກການໂທ</string>
+    <string name="icon_change_title">ໄອຄອນ</string>
+    <string name="intruders_title">ຜູ້ບຸກລຸກ</string>
+    <string name="intruders_access_apps">ເຂົ້າເຖິງແອັບ with ດ້ວຍການ ນຳ ໃຊ້</string>
+    <string name="main_unlocked">ປົດລັອກ</string>
+    <string name="main_locked">ລັອກ</string>
+    <string name="prem_not_sub">ນີ້ບໍ່ແມ່ນການສະ ໝັກ ສະມາຊິກ. ທ່ານຈ່າຍພຽງຄັ້ງດຽວເທົ່ານັ້ນ!</string>
+    <string name="prem_fake_icon">ໄອຄອນປອມ</string>
+    <string name="prem_intruders">ການຖ່າຍຮູບ selfie</string>
+    <string name="prem_themes">ຫົວຂໍ້ທີ່ມີຄວາມຄິດສ້າງສັນຫຼາຍ</string>
+    <string name="prem_one_time">ການຈ່າຍເງິນຄັ້ງດຽວ</string>
+    <string name="splash_create">ສ້າງຂື້ນເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ</string>
+    <string name="vault_photos">ຮູບພາບ</string>
+    <string name="vault_videos">ວິດີໂອ</string>
+    <string name="btn_ok">ຕົກ​ລົງ</string>
+    <string name="dialog_intruder_text">ທ່ານຕ້ອງການລຶບຮູບບໍ່?</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="fragment_security_text">ໂອ້ຍ! \nທ່ານຍັງບໍ່ໄດ້ລັອກ app ເທື່ອ</string>
+    <string name="settings_security">ຄວາມປອດໄພ</string>
+    <string name="settings_face_icon">ໄອຄອນປອມ</string>
+    <string name="settings_face_icon_text">ໄອຄອນຕົ້ນສະບັບຂອງແອັບ this ນີ້ຈະຖືກປ່ຽນໄປ</string>
+    <string name="rate_us_enjoying">ທ່ານມີຄວາມສຸກກັບ AppLock ບໍ?</string>
+    <string name="rate_us_could_be">ມັນອາດຈະດີກວ່າ</string>
+    <string name="menu_privacy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="menu_contact">ຕິດ​ຕໍ່​ພວກ​ເຮົາ</string>
+    <string name="menu_face_icon">ໄອຄອນປອມ</string>
+    <string name="menu_intruder">ຜູ້ຈັດການ Intruder</string>
+    <string name="menu_chat">ຫ້ອງ​ສົນ​ທະ​ນາ</string>
+
+</resources>

@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Mipangilio</string>
+
+  
+
+    <string name="share">Shiriki</string>
+
+    <string name="notification_protecting_title">Kulinda programu zako</string>
+
+    <string name="notification_protecting_description">Funga programu zako kulinda faragha yako.</string>
+
+    <string name="notification_permission_need_title">Wezesha ruhusa ya ulinzi</string>
+
+    <string name="notification_permission_need_description">Tafadhali washa ruhusa zako kutumia programu ya kufuli.</string>
+    <string name="you_accept_privacy_policy">Kwa kuendelea unakubali<u> Sera ya faragha</u> </string>
+
+    <string name="header_recommended_to_lock">Imependekezwa kufunga</string>
+    <string name="header_all_apps">Maombi yote</string>
+
+    <string name="title_general_settings">Mkuu</string>
+
+    <string name="title_lock_all">Funga zote</string>
+    <string name="description_lock_all">Hii itafunga programu zako zote</string>
+
+ 
+    <string name="title_unlock_all">Fungua zote</string>
+
+    <string name="description_unlock_all">Hii itafungua programu zako zote</string>
+    <string name="settings_change_pattern_title">Badilisha muundo</string>
+
+    <string name="settings_change_pattern_description">Badilisha muundo wako uliopo</string>
+    <string name="message_pattern_changed">Mchoro umebadilika kwa mafanikio</string>
+
+    <string name="setting_in_stealth_mode_title">Ficha kuchora</string>
+    <string name="setting_in_stealth_mode_description">Sampuli isiyoonekana wakati wa kuchora</string>
+    <string name="setting_fingerprint_title">Washa alama ya kidole</string>
+
+    <string name="setting_fingerprint_description">Anzisha programu na alama ya kidole chako.</string>
+    <string name="setting_fingerprint_not_supported_title">Alama ya kidole haitumiki</string>
+
+    <string name="setting_fingerprint_not_supported_description">Kifaa chako hakina sensorer</string>
+    <string name="setting_fingerprint_not_registered_title">Sajili alama yako ya kidole</string>
+
+    <string name="setting_fingerprint_not_registered_description">Nenda kwenye mipangilio ya usalama</string>
+    <string name="next">Ifuatayo</string>
+
+    <string name="permission_usage_access_title">Ruhusa ya ufikiaji wa matumizi</string>
+    <string name="permission_usage_access_description">Washa utaftaji wa matumizi utumie kabati la programu.</string>
+
+    <string name="permission_overlay_title">Ruhusu skrini ya kufunga</string>
+
+    <string name="settings_card_intruders_title">Kukamata Waingiliaji</string>
+    <string name="settings_enable_intruders_title">Piga picha ya wavamizi</string>
+    <string name="settings_enable_intruders_description">Wezesha kukamata wavamizi.</string>
+
+    <string name="settings_intruders_folder_title">Picha za mwingiaji zilizopatikana</string>
+    <string name="settings_intruders_folder_description">Bonyeza kuona wapelelezi kwenye simu yako.</string>
+
+    <string name="settings_card_advance_protection_title">Ulinzi wa Mapema</string>
+    <string name="settings_enable_advance_protection_title">Wezesha ulinzi wa mapema</string>
+    <string name="settings_enable_advance_protection_description">Ili kuwezesha Ulinzi wa Mapema, tafadhali washa App Lock Pro kama "msimamizi wa kifaa" .Inatumika tu kwa kuzuia waingiliaji kusanidua na kulazimisha kusitisha App Lock Pro. Tafadhali hakikisha kwamba App Lock Pro haitatumia ruhusa hii kufikia data yako ya faragha. .</string>
+    <string name="device_admin_permission_description">Washa sasa, linda mapema na salama zaidi! \n\nIli kuwezesha Ulinzi wa Mapema, tafadhali washa App Lock Pro kama "msimamizi wa kifaa" .Inatumika tu kwa kuzuia waingiliaji kusanidua na kulazimisha kusitisha App Lock Pro. Tafadhali hakikisha kwamba App Lock Pro haitatumia ruhusa hii kamwe fikia data yako ya faragha.</string>
+
+
+    <string name="permission_overlay_description">Wezesha kufunika juu ili kuonyesha skrini iliyofungwa.</string>
+    <string name="permission_toast_enable_permissions">Washa ruhusa za kutumia kabati la programu</string>
+
+    <string name="draw_pattern_title">Unda muundo mpya</string>
+    <string name="redraw_pattern_title">Chora tena ili ukamilishe</string>
+
+    <string name="recreate_pattern_error">Sampuli hailingani. Chora tena.</string>
+
+    <string name="create_pattern_successful">Imefanikiwa.</string>
+    <string name="overlay_prompt_pattern_title">Chora muundo wa kufungua programu</string>
+    <string name="overlay_prompt_pattern_title_wrong">Sampuli isiyofaa. Chora tena.</string>
+    <string name="overlay_prompt_pattern_title_correct">Mchoro sahihi.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Chora muundo wa kufungua programu</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Hailingani. + %1$s + kushoto.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Alama ya kidole imeendana!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Hitilafu ya alama ya kidole! Jaribu muundo.</string>
+    <string name="dialog_title_rate_us">Ulipenda eneo salama?</string>
+    <string name="dialog_description_rate_us">Tutakuwa na furaha sana ukitupima kwenye soko.</string>
+    <string name="dialog_action_rate_us_rate">Kiwango</string>
+
+    <string name="dialog_action_rate_us_later">Baadae</string>
+    <string name="dialog_title_usage_permission">Ruhusa ya Android 5.0</string>
+    <string name="dialog_description_usage_permission">Katika Android 5.0 au hapo juu, unahitaji kuruhusu ufikiaji wa matumizi ya
+        AppLocker, ili uweze kutumia Sifa ya Ukanda Salama</string>
+    <string name="dialog_action_usage_permission_permit">Kibali</string>
+
+    <string name="dialog_action_usage_permission_cancel">Ghairi</string>
+    <string name="dialog_title_privacy_policy">Sera ya faragha</string>
+    <string name="dialog_description_privacy_policy">Tumesasisha sera yetu ya faragha. Kwa kuendelea unakubali<u> Sera ya faragha</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Kubali</string>
+
+    <string name="hint_browser_search">Tafuta au ingiza URL</string>
+    <string name="facebook">Picha za</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Salama.Salama.Binafsi.</string>
+    <string name="subtitle_browser_empty">Surf kwenye mtandao. Kwa usalama.</string>
+    <string name="bookmarks">Alamisho</string>
+    <string name="title_name_unknown_number">Nambari isiyojulikana</string>
+
+
+
+    <string name="blacklist_empty_title">Orodha nyeusi ni tupu</string>
+    <string name="blacklist_empty_description">Bonyeza kuzuia nambari ya simu</string>
+    <string name="call_log_empty_title">Hakuna Magogo</string>
+
+    <string name="call_log_empty_description">Ingia inaonekana hapa wakati simu imezuiwa</string>
+    <string name="dialog_add_to_blacklist_title">Zuia nambari ya simu</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Jina (Hiari)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Ingiza nambari ya simu</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Ghairi</string>
+    <string name="dialog_black_list_delete_title">Futa kutoka orodha nyeusi</string>
+    <string name="dialog_black_list_delete_description">Je! Unataka kuondoa nambari iliyozuiwa kutoka kwa orodha nyeusi?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Ghairi</string>
+    <string name="dialog_title_add_to_vault">Inasindika</string>
+    <string name="dialog_description_process">Vyombo vyako vya habari vinaondoa kwenye matunzio na inaongeza kwenye vault yako.</string>
+
+    <string name="dialog_title_removal_confirmation">Uthibitisho wa Kuondoa</string>
+    <string name="dialog_description_removal">Faili hii itaondoa kutoka kwa kuba na kuonyesha kwenye ghala.</string>
+    <string name="dialog_action_removal_confirmation_accept">Kubali</string>
+
+    <string name="vault_photo_empty_page_title">Picha Vault ni tupu</string>
+    <string name="vault_photo_empty_page_description">Ongeza ikoni ili kuficha picha kutoka kwa matunzio</string>
+    <string name="vault_video_empty_page_title">Video Vault ni tupu</string>
+
+    <string name="vault_video_empty_page_description">Ongeza ikoni kwenye picha za video kutoka kwa matunzio</string>
+    <string-array name="tabs">
+        <item>Usalama</item>
+        <item>Mipangilio</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Orodha nyeusi</item>
+        <item>Piga Magogo</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Picha</item>
+        <item>Video</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Hakuna Wavamizi Waliokamatwa</string>
+    <string name="empty_page_intruders_description">Simu yako iko salama!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Piga Kizuizi</string>
+    <string name="browser">Kivinjari</string>
+    <string name="theme">Mada</string>
+    <string name="rate_us">Kadiri yetu</string>
+    <string name="removeads">Toleo la malipo</string>
+    <string name="enter_pin">Ingiza pini</string>
+    <string name="pin_matched">Pini inalingana</string>
+    <string name="confirm_pin">Thibitisha pini</string>
+    <string name="pin_chahnged">Siri imebadilishwa vizuri</string>
+    <string name="pin_not_matched">Bandika hailingani</string>
+    <string name="incorrect_pin">Pini isiyo sahihi</string>
+    <string name="settings_set_pin">Weka pini</string>
+    <string name="change_pin">Badilisha pini</string>
+    <string name="settings_set_pin_description">Weka pini mpya</string>
+    <string name="create_new_pin">Unda pini mpya</string>
+    <string name="home">Nyumbani</string>
+    <string name="settings_change_pin_description">Badilisha pini yako iliyopo</string>
+    <string name="message_pin_changed">Pini Ilibadilishwa Kwa Mafanikio</string>
+    <string name="non_protected">Zisizolindwa</string>
+    <string name="status_protected">Kulindwa</string>
+    <string name="starting_hour">Kuanzia Saa</string>
+    <string name="ending_hour">Saa ya Kumaliza</string>
+    <string name="auto_start_p">ruhusa ya kuendesha kiotomatiki</string>
+    <string name="permission_usage_access_description1">fungua chaguo la kukimbia kiotomatiki</string>
+
+
+    <string name="privat_browser">Kivinjari cha Kibinafsi</string>
+    <string name="prem_title">Toleo la Premium Milele</string>
+    <string name="prem_no_ads">Hakuna ADs Milele</string>
+    <string name="prem_restore">Rejesha Ununuzi</string>
+
+    <string name="please_give_us_five_stars">Tafadhali tupe nyota tano kwenye Google Play! Tutashukuru sana!</string>
+    <string name="great_tex">Kubwa!</string>
+    <string name="choose_the_icon">Chagua ikoni na ikoni asili itabadilishwa. Ficha programu hii kutoka kwa wavamizi</string>
+    <string name="app_name1">Saa</string>
+    <string name="app_name2">Ramani</string>
+    <string name="app_name3">Kalenda</string>
+    <string name="app_name4">Muziki</string>
+    <string name="app_name5">Kikokotoo</string>
+
+    <string name="callblocker_black">Orodha nyeusi</string>
+    <string name="callblocker_logs">Piga magogo</string>
+    <string name="icon_change_title">Aikoni</string>
+    <string name="intruders_title">Mvamizi</string>
+    <string name="intruders_access_apps">Pata programu na matumizi</string>
+    <string name="main_unlocked">Imefunguliwa</string>
+    <string name="main_locked">Imefungwa</string>
+    <string name="prem_not_sub">Huu sio usajili. Unalipa mara moja tu!</string>
+    <string name="prem_fake_icon">Aikoni bandia</string>
+    <string name="prem_intruders">Selfie ya kuingilia</string>
+    <string name="prem_themes">Mandhari zaidi ya ubunifu</string>
+    <string name="prem_one_time">Malipo ya Mara Moja</string>
+    <string name="splash_create">Imeundwa kulinda faragha yako</string>
+    <string name="vault_photos">Picha</string>
+    <string name="vault_videos">Video</string>
+    <string name="btn_ok">sawa</string>
+    <string name="dialog_intruder_text">Je, ungependa kufuta picha?</string>
+    <string name="btn_cancel">GHAFU</string>
+    <string name="fragment_security_text">Lo! \n Huna programu zilizofungwa bado</string>
+    <string name="settings_security">Usalama</string>
+    <string name="settings_face_icon">Aikoni bandia</string>
+    <string name="settings_face_icon_text">Ikoni ya asili ya programu hii itabadilishwa</string>
+    <string name="rate_us_enjoying">Je! Unafurahiya AppLock?</string>
+    <string name="rate_us_could_be">inaweza kuwa bora</string>
+    <string name="menu_privacy">Sera ya faragha</string>
+    <string name="menu_contact">Wasiliana nasi</string>
+    <string name="menu_face_icon">Aikoni bandia</string>
+    <string name="menu_intruder">Meneja wa kuingilia</string>
+    <string name="menu_chat">Chumba cha Gumzo</string>
+
+</resources>

@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">АппЛоцк</string>
+
+    <string name="action_settings">Подешавања</string>
+
+  
+
+    <string name="share">Објави</string>
+
+    <string name="notification_protecting_title">Заштита апликација</string>
+
+    <string name="notification_protecting_description">Закључајте своје апликације да бисте заштитили своју приватност.</string>
+
+    <string name="notification_permission_need_title">Омогућите дозволу за заштиту</string>
+
+    <string name="notification_permission_need_description">Омогућите дозволе за коришћење закључавања апликација.</string>
+    <string name="you_accept_privacy_policy">Наставком слажете се са<u> Правила о приватности</u> </string>
+
+    <string name="header_recommended_to_lock">Препоручено за закључавање</string>
+    <string name="header_all_apps">Све апликације</string>
+
+    <string name="title_general_settings">Генерал</string>
+
+    <string name="title_lock_all">Закључај све</string>
+    <string name="description_lock_all">Ово ће закључати све ваше апликације</string>
+
+ 
+    <string name="title_unlock_all">Откључај све</string>
+
+    <string name="description_unlock_all">Ово ће откључати све ваше апликације</string>
+    <string name="settings_change_pattern_title">Промени образац</string>
+
+    <string name="settings_change_pattern_description">Промените постојећи образац</string>
+    <string name="message_pattern_changed">Узорак је успешно промењен</string>
+
+    <string name="setting_in_stealth_mode_title">Сакриј цртеж</string>
+    <string name="setting_in_stealth_mode_description">Невидљиви образац током цртања</string>
+    <string name="setting_fingerprint_title">Омогући отисак прста</string>
+
+    <string name="setting_fingerprint_description">Покрените апликацију помоћу отиска прста.</string>
+    <string name="setting_fingerprint_not_supported_title">Отисак прста није подржан</string>
+
+    <string name="setting_fingerprint_not_supported_description">Уређај нема сензор</string>
+    <string name="setting_fingerprint_not_registered_title">Региструјте отисак прста</string>
+
+    <string name="setting_fingerprint_not_registered_description">Идите на сигурносна подешавања</string>
+    <string name="next">Следећи</string>
+
+    <string name="permission_usage_access_title">Дозвола за приступ употреби</string>
+    <string name="permission_usage_access_description">Омогућите приступ коришћењу за коришћење закључавања апликација.</string>
+
+    <string name="permission_overlay_title">Дозвола за закључавање екрана</string>
+
+    <string name="settings_card_intruders_title">Ухватите уљезе</string>
+    <string name="settings_enable_intruders_title">Сликајте уљезе</string>
+    <string name="settings_enable_intruders_description">Омогућите хватање уљеза.</string>
+
+    <string name="settings_intruders_folder_title">Ухваћене фотографије уљеза</string>
+    <string name="settings_intruders_folder_description">Кликните да бисте видели шпијуне на свом телефону.</string>
+
+    <string name="settings_card_advance_protection_title">Унапред заштићена</string>
+    <string name="settings_enable_advance_protection_title">Омогућите претходну заштиту</string>
+    <string name="settings_enable_advance_protection_description">Да бисте омогућили напредну заштиту, активирајте Апп Лоцк Про као „администратора уређаја“. Користи се само за спречавање деинсталирања уљеза и присилно заустављање Апп Лоцк Про.Уверите се да Апп Лоцк Про никада неће користити ову дозволу за приступ подацима о приватности .</string>
+    <string name="device_admin_permission_description">Активирајте одмах, унапред заштитите и сигурније! \н \н Да бисте омогућили напредну заштиту, активирајте Апп Лоцк Про као „администратора уређаја“. Користи се само за спречавање деинсталирања уљеза и присилно заустављање Апп Лоцк Про-а. Молимо вас припазите да Апп Лоцк Про никада неће користити ову дозволу за приступите вашим подацима о приватности.</string>
+
+
+    <string name="permission_overlay_description">Омогућите прекривање за приказ закључаног екрана.</string>
+    <string name="permission_toast_enable_permissions">Омогућите дозволе за коришћење закључавања апликација</string>
+
+    <string name="draw_pattern_title">Направите нови образац</string>
+    <string name="redraw_pattern_title">Прецртајте до краја</string>
+
+    <string name="recreate_pattern_error">Узорак се не подудара. Редрав.</string>
+
+    <string name="create_pattern_successful">Успешно направљено.</string>
+    <string name="overlay_prompt_pattern_title">Нацртајте образац да бисте отворили апликацију</string>
+    <string name="overlay_prompt_pattern_title_wrong">Погрешан образац. Поново цртајте.</string>
+    <string name="overlay_prompt_pattern_title_correct">Узорак исправан.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Нацртајте образац да бисте отворили апликацију</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Није + подударно. +% 1 $ с + остало.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Отисак прста се подудара!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Грешка у отиску прста! Покушајте са шаблоном.</string>
+    <string name="dialog_title_rate_us">Да ли вам се свидела сигурна зона?</string>
+    <string name="dialog_description_rate_us">Бићемо јако задовољни ако нас оцените на тржишту.</string>
+    <string name="dialog_action_rate_us_rate">Оцените</string>
+
+    <string name="dialog_action_rate_us_later">Касније</string>
+    <string name="dialog_title_usage_permission">Дозвола за Андроид 5.0</string>
+    <string name="dialog_description_usage_permission">У Андроиду 5.0 или новијој верзији, морате да дозволите приступ коришћењу за
+        АппЛоцкер, тако да можете да користите функцију Сецуре Зоне</string>
+    <string name="dialog_action_usage_permission_permit">Дозвола</string>
+
+    <string name="dialog_action_usage_permission_cancel">Поништити, отказати</string>
+    <string name="dialog_title_privacy_policy">Правила о приватности</string>
+    <string name="dialog_description_privacy_policy">Ажурирали смо нашу политику приватности. Наставком слажете се са<u> Правила о приватности</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Прихвати</string>
+
+    <string name="hint_browser_search">Претражите или унесите УРЛ</string>
+    <string name="facebook">Фејсбук</string>
+
+    <string name="twitter">Твиттер</string>
+
+    <string name="snapchat">Снапцхат</string>
+
+
+    <string name="instagram">инстаграм</string>
+    <string name="youtube">Реддит</string>
+    <string name="title_browser_empty">Сафе.Сецуре.Привате.</string>
+    <string name="subtitle_browser_empty">Сурфајте по Интернету. Сигурно.</string>
+    <string name="bookmarks">обележивача</string>
+    <string name="title_name_unknown_number">Непознат број</string>
+
+
+
+    <string name="blacklist_empty_title">Црна листа је празна</string>
+    <string name="blacklist_empty_description">Кликните да бисте блокирали број телефона</string>
+    <string name="call_log_empty_title">Нема дневника</string>
+
+    <string name="call_log_empty_description">Дневник се овде појављује када је позив блокиран</string>
+    <string name="dialog_add_to_blacklist_title">Блокирај број телефона</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Име (опционално)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Унесите број телефона</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Поништити, отказати</string>
+    <string name="dialog_black_list_delete_title">Избриши са црне листе</string>
+    <string name="dialog_black_list_delete_description">Да ли желите да уклоните блокирани број са црне листе?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Поништити, отказати</string>
+    <string name="dialog_title_add_to_vault">Обрада</string>
+    <string name="dialog_description_process">Медији се уклањају из галерије и додају у ваш трезор.</string>
+
+    <string name="dialog_title_removal_confirmation">Потврда о уклањању</string>
+    <string name="dialog_description_removal">Ова датотека ће се уклонити из трезора и приказати у галерији.</string>
+    <string name="dialog_action_removal_confirmation_accept">Прихвати</string>
+
+    <string name="vault_photo_empty_page_title">Пхото Ваулт је празан</string>
+    <string name="vault_photo_empty_page_description">Додај икону да бисте сакрили фотографије из галерије</string>
+    <string name="vault_video_empty_page_title">Видео трезор је празан</string>
+
+    <string name="vault_video_empty_page_description">Додајте икону на видео фотографије из галерије</string>
+    <string-array name="tabs">
+        <item>Сигурност</item>
+        <item>Подешавања</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Црна листа</item>
+        <item>Евиденције позива</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Слике</item>
+        <item>Видеос</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Нема ухваћених уљеза</string>
+    <string name="empty_page_intruders_description">Ваш телефон је сигуран!</string>
+    <string name="Vault">Трезор</string>
+    <string name="Call_blocker">Цалл Блоцкер</string>
+    <string name="browser">Претраживач</string>
+    <string name="theme">Теме</string>
+    <string name="rate_us">Оцените нас</string>
+    <string name="removeads">Премиум верзија</string>
+    <string name="enter_pin">Унесите пин</string>
+    <string name="pin_matched">Пин подударан</string>
+    <string name="confirm_pin">Потврдите пин</string>
+    <string name="pin_chahnged">Пин је успешно промењен</string>
+    <string name="pin_not_matched">Пин се не подудара</string>
+    <string name="incorrect_pin">Нетачан пин</string>
+    <string name="settings_set_pin">Сет пин</string>
+    <string name="change_pin">Промени пин</string>
+    <string name="settings_set_pin_description">Поставите нови пин</string>
+    <string name="create_new_pin">Направите нови пин</string>
+    <string name="home">Кућа</string>
+    <string name="settings_change_pin_description">Промените постојећу пин</string>
+    <string name="message_pin_changed">Пин је успешно промењен</string>
+    <string name="non_protected">Није заштићено</string>
+    <string name="status_protected">Заштићено</string>
+    <string name="starting_hour">Почетни сат</string>
+    <string name="ending_hour">Завршава сат</string>
+    <string name="auto_start_p">дозвола за аутоматско покретање</string>
+    <string name="permission_usage_access_description1">отворите опцију аутоматског покретања</string>
+
+
+    <string name="privat_browser">Приватни прегледач</string>
+    <string name="prem_title">Премиум верзија заувек</string>
+    <string name="prem_no_ads">Без огласа заувек</string>
+    <string name="prem_restore">Врати куповину</string>
+
+    <string name="please_give_us_five_stars">Дајте нам пет звездица на ПлаиМаркету! Много бисмо то ценили!</string>
+    <string name="great_tex">Велики!</string>
+    <string name="choose_the_icon">Изаберите икону и оригинална икона ће бити промењена. Сакриј ову апликацију од уљеза</string>
+    <string name="app_name1">Цлоцк</string>
+    <string name="app_name2">Мапс</string>
+    <string name="app_name3">Календар</string>
+    <string name="app_name4">Музика</string>
+    <string name="app_name5">Калкулатор</string>
+
+    <string name="callblocker_black">Црна листа</string>
+    <string name="callblocker_logs">Евиденције позива</string>
+    <string name="icon_change_title">Иконе</string>
+    <string name="intruders_title">Уљез</string>
+    <string name="intruders_access_apps">Приступите апликацијама уз коришћење</string>
+    <string name="main_unlocked">Откључано</string>
+    <string name="main_locked">Закључано</string>
+    <string name="prem_not_sub">Ово није претплата. Плаћате само једном!</string>
+    <string name="prem_fake_icon">Лажна икона</string>
+    <string name="prem_intruders">Уљез селфи</string>
+    <string name="prem_themes">Креативније теме</string>
+    <string name="prem_one_time">Једанпут се плаћа</string>
+    <string name="splash_create">Створено да заштити вашу приватност</string>
+    <string name="vault_photos">Фотографије</string>
+    <string name="vault_videos">Видеос</string>
+    <string name="btn_ok">У реду</string>
+    <string name="dialog_intruder_text">Да ли желите да избришете фотографију?</string>
+    <string name="btn_cancel">ПОНИШТИТИ, ОТКАЗАТИ</string>
+    <string name="fragment_security_text">Оппс! \Н Још увек немате закључане апликације</string>
+    <string name="settings_security">Сигурност</string>
+    <string name="settings_face_icon">Лажна икона</string>
+    <string name="settings_face_icon_text">Првобитна икона ове апликације ће бити промењена</string>
+    <string name="rate_us_enjoying">Да ли уживате у АппЛоцк-у?</string>
+    <string name="rate_us_could_be">може бити боље</string>
+    <string name="menu_privacy">Правила о приватности</string>
+    <string name="menu_contact">Контактирајте нас</string>
+    <string name="menu_face_icon">Лажна икона</string>
+    <string name="menu_intruder">Менаџер уљеза</string>
+    <string name="menu_chat">Причаоница</string>
+
+</resources>

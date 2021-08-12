@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Sazlamalar</string>
+
+  
+
+    <string name="share">Paýlaş</string>
+
+    <string name="notification_protecting_title">Programmalaryňyzy goramak</string>
+
+    <string name="notification_protecting_description">Gizlinligiňizi goramak üçin programmalaryňyzy gulplaň.</string>
+
+    <string name="notification_permission_need_title">Goramaga rugsat beriň</string>
+
+    <string name="notification_permission_need_description">Programma şkafyny ulanmaga rugsat bermegiňizi haýyş edýäris.</string>
+    <string name="you_accept_privacy_policy">Dowam etmek bilen ylalaşýarsyňyz<u> Gizlinlik syýasaty</u> </string>
+
+    <string name="header_recommended_to_lock">Gulplamak maslahat berilýär</string>
+    <string name="header_all_apps">Applicationshli goýmalar</string>
+
+    <string name="title_general_settings">General</string>
+
+    <string name="title_lock_all">Hemmesini gulplaň</string>
+    <string name="description_lock_all">Bu, ähli programmalaryňyzy gulplar</string>
+
+ 
+    <string name="title_unlock_all">Hemmesini aç</string>
+
+    <string name="description_unlock_all">Bu, ähli programmalaryňyzy açar</string>
+    <string name="settings_change_pattern_title">Görnüşi üýtgediň</string>
+
+    <string name="settings_change_pattern_description">Bar bolan görnüşiňizi üýtgediň</string>
+    <string name="message_pattern_changed">Nusga üstünlikli üýtgedi</string>
+
+    <string name="setting_in_stealth_mode_title">Çyzgyny gizläň</string>
+    <string name="setting_in_stealth_mode_description">Surat çekilende görünmeýän nagyş</string>
+    <string name="setting_fingerprint_title">Barmak yzyny işjeňleşdiriň</string>
+
+    <string name="setting_fingerprint_description">Barmak yzyňyz bilen programmany işe giriziň.</string>
+    <string name="setting_fingerprint_not_supported_title">Barmak yzy goldanylmaýar</string>
+
+    <string name="setting_fingerprint_not_supported_description">Enjamyňyzda datçik ýok</string>
+    <string name="setting_fingerprint_not_registered_title">Barmak yzyňyzy bellige alyň</string>
+
+    <string name="setting_fingerprint_not_registered_description">Howpsuzlyk sazlamalaryna gidiň</string>
+    <string name="next">Indiki</string>
+
+    <string name="permission_usage_access_title">Ulanyş rugsady</string>
+    <string name="permission_usage_access_description">Programma şkafyny ulanmak üçin ulanyş ýazgylaryny açyň.</string>
+
+    <string name="permission_overlay_title">Ekranyň rugsady</string>
+
+    <string name="settings_card_intruders_title">Girýänleri tutuň</string>
+    <string name="settings_enable_intruders_title">Girýänleri surata alyň</string>
+    <string name="settings_enable_intruders_description">Çozýanlary tutmaga mümkinçilik beriň.</string>
+
+    <string name="settings_intruders_folder_title">Tutulan suratlar</string>
+    <string name="settings_intruders_folder_description">Telefonyňyzdaky içalylary görmek üçin basyň.</string>
+
+    <string name="settings_card_advance_protection_title">Awans goragy</string>
+    <string name="settings_enable_advance_protection_title">Öňünden goramagy üpjün ediň</string>
+    <string name="settings_enable_advance_protection_description">Öňünden goragy işjeňleşdirmek üçin “App Lock Pro” -ny “enjam dolandyryjysy” hökmünde işjeňleşdiriň .Bu diňe girýänleriň pozulmagynyň öňüni almak we App Lock Pro-ny duruzmak üçin ulanylýar. App Lock Pro-nyň gizlinlik maglumatlaryňyzy almak üçin hiç haçan bu rugsady ulanmajakdygyna göz ýetiriň. .</string>
+    <string name="device_admin_permission_description">Indi işjeňleşdiriň, goragy öňe sürüň we has ygtybarly! \n\nÖňünden goragy işjeňleşdirmek üçin “App Lock Pro” -ny “enjam dolandyryjysy” hökmünde işjeňleşdirmegiňizi haýyş edýäris .Bu diňe girýänleriň pozulmagynyň öňüni almak we App Lock Pro-ny togtatmak üçin ulanylýar. App Lock Pro-nyň bu rugsady hiç haçan ulanmajakdygyna göz ýetiriň. gizlinlik maglumatlaryňyza giriň.</string>
+
+
+    <string name="permission_overlay_description">Gulp ekrany görkezmek üçin örtügi açyň.</string>
+    <string name="permission_toast_enable_permissions">Programma şkafyny ulanmaga rugsat beriň</string>
+
+    <string name="draw_pattern_title">Täze nagyş dörediň</string>
+    <string name="redraw_pattern_title">Tamamlamak üçin gaýtadan çekiň</string>
+
+    <string name="recreate_pattern_error">Nusga gabat gelenok. Redraw.</string>
+
+    <string name="create_pattern_successful">Üstünlik bilen döredildi.</string>
+    <string name="overlay_prompt_pattern_title">Programmany açmak üçin nagyş çyzyň</string>
+    <string name="overlay_prompt_pattern_title_wrong">Nädogry nagyş Againene çyzyň.</string>
+    <string name="overlay_prompt_pattern_title_correct">Nusga dogry.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Programmany açmak üçin nagyş çyzyň</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ Gabat gelmedi. + %1$s + galdy.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Barmak yzy gabat geldi!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Barmak yzynda ýalňyşlyk! Nagyş synap görüň.</string>
+    <string name="dialog_title_rate_us">Howpsuz zonany haladyňyzmy?</string>
+    <string name="dialog_description_rate_us">Bazara baha berseňiz, gaty begeneris.</string>
+    <string name="dialog_action_rate_us_rate">Baha</string>
+
+    <string name="dialog_action_rate_us_later">Soňrak</string>
+    <string name="dialog_title_usage_permission">Android 5.0 rugsady</string>
+    <string name="dialog_description_usage_permission">“Android 5.0” ýa-da ondan ýokary ulgamda, ulanmaga rugsat bermeli
+        Howpsuz zona aýratynlygyny ulanyp bilersiňiz, “AppLocker”</string>
+    <string name="dialog_action_usage_permission_permit">Rugsat</string>
+
+    <string name="dialog_action_usage_permission_cancel">Elatyr</string>
+    <string name="dialog_title_privacy_policy">Gizlinlik syýasaty</string>
+    <string name="dialog_description_privacy_policy">Gizlinlik syýasatymyzy täzeledik. Dowam etmek bilen ylalaşýarsyňyz<u> Gizlinlik syýasaty</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Kabul et</string>
+
+    <string name="hint_browser_search">URL gözläň ýa-da giriziň</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Ygtybarly. Howpsuzlyk.</string>
+    <string name="subtitle_browser_empty">Internetde serf. Ygtybarly.</string>
+    <string name="bookmarks">Bellikler</string>
+    <string name="title_name_unknown_number">Näbelli belgisi</string>
+
+
+
+    <string name="blacklist_empty_title">Gara sanaw boş</string>
+    <string name="blacklist_empty_description">Telefon belgisini blokirlemek üçin basyň</string>
+    <string name="call_log_empty_title">Surnallar ýok</string>
+
+    <string name="call_log_empty_description">Çagyryş petiklenende bu ýerde peýda bolýar</string>
+    <string name="dialog_add_to_blacklist_title">Telefon belgisini bloklaň</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Ady (islege görä)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Telefon belgisini giriziň</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Elatyr</string>
+    <string name="dialog_black_list_delete_title">Gara sanawdan poz</string>
+    <string name="dialog_black_list_delete_description">Bloklanan belgini gara sanawdan aýyrmak isleýärsiňizmi?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Elatyr</string>
+    <string name="dialog_title_add_to_vault">Gaýtadan işlemek</string>
+    <string name="dialog_description_process">Mediýaňyz galereýadan aýrylýar we depäňize goşýar.</string>
+
+    <string name="dialog_title_removal_confirmation">Aýyrmak tassyklamasy</string>
+    <string name="dialog_description_removal">Bu faýl gümmezden aýrylar we galereýa görkeziler.</string>
+    <string name="dialog_action_removal_confirmation_accept">Kabul et</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault boş</string>
+    <string name="vault_photo_empty_page_description">Suratlary galereýadan gizlemek üçin nyşan goşuň</string>
+    <string name="vault_video_empty_page_title">Video Vault boş</string>
+
+    <string name="vault_video_empty_page_description">Galereýadaky wideo suratlaryna nyşan goşuň</string>
+    <string-array name="tabs">
+        <item>Howpsuzlyk</item>
+        <item>Sazlamalar</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Gara sanaw</item>
+        <item>Çagyryş surnallary</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Suratlar</item>
+        <item>Wideo</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Hiç kim girmedi</string>
+    <string name="empty_page_intruders_description">Telefonyňyz howpsuz!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Jaň ediji</string>
+    <string name="browser">Brauzer</string>
+    <string name="theme">Mowzuklar</string>
+    <string name="rate_us">Bize baha beriň</string>
+    <string name="removeads">Premium wersiýasy</string>
+    <string name="enter_pin">Pini giriziň</string>
+    <string name="pin_matched">Pin gabat geldi</string>
+    <string name="confirm_pin">Pini tassyklaň</string>
+    <string name="pin_chahnged">Pin üstünlikli üýtgedi</string>
+    <string name="pin_not_matched">Pin gabat gelmedi</string>
+    <string name="incorrect_pin">Nädogry pin</string>
+    <string name="settings_set_pin">Çeňňek düzüň</string>
+    <string name="change_pin">Pini çalyşyň</string>
+    <string name="settings_set_pin_description">Täze pin düzüň</string>
+    <string name="create_new_pin">Täze pin dörediň</string>
+    <string name="home">Öý</string>
+    <string name="settings_change_pin_description">Bar bolan piniňizi üýtgediň</string>
+    <string name="message_pin_changed">Pin üstünlikli üýtgedi</string>
+    <string name="non_protected">Goragsyz</string>
+    <string name="status_protected">Goragly</string>
+    <string name="starting_hour">Başlangyç sagady</string>
+    <string name="ending_hour">Ahyrky sagat</string>
+    <string name="auto_start_p">awtomatiki işletmek üçin rugsat</string>
+    <string name="permission_usage_access_description1">awtomatiki usulda açyň</string>
+
+
+    <string name="privat_browser">Hususy brauzer</string>
+    <string name="prem_title">Premium wersiýasy baky</string>
+    <string name="prem_no_ads">Baky reklamalar ýok</string>
+    <string name="prem_restore">Satyn almagy dikelt</string>
+
+    <string name="please_give_us_five_stars">Google Play-de bize bäş ýyldyz bermegiňizi haýyş edýäris! Biz muňa köp minnetdar bolardyk!</string>
+    <string name="great_tex">Gowy!</string>
+    <string name="choose_the_icon">Nyşan saýlaň we asyl nyşan üýtgediler. Bu programmany çozýanlardan gizläň</string>
+    <string name="app_name1">Sagat</string>
+    <string name="app_name2">Kartalar</string>
+    <string name="app_name3">Senenama</string>
+    <string name="app_name4">Saz</string>
+    <string name="app_name5">Kalkulýator</string>
+
+    <string name="callblocker_black">Gara sanaw</string>
+    <string name="callblocker_logs">Çagyryş surnallary</string>
+    <string name="icon_change_title">Nyşanlar</string>
+    <string name="intruders_title">Giriş</string>
+    <string name="intruders_access_apps">Ulanyş bilen programmalara giriň</string>
+    <string name="main_unlocked">Gulpy ýok</string>
+    <string name="main_locked">Gulply</string>
+    <string name="prem_not_sub">Bu abunalyk däl. Siz diňe bir gezek töleýärsiňiz!</string>
+    <string name="prem_fake_icon">Galp nyşan</string>
+    <string name="prem_intruders">Giriş selfi</string>
+    <string name="prem_themes">Has döredijilik temalary</string>
+    <string name="prem_one_time">Bir gezeklik töleg</string>
+    <string name="splash_create">Şahsy durmuşyňyzy goramak üçin döredildi</string>
+    <string name="vault_photos">Suratlar</string>
+    <string name="vault_videos">Wideo</string>
+    <string name="btn_ok">Bolýar</string>
+    <string name="dialog_intruder_text">Suraty pozmak isleýärsiňizmi?</string>
+    <string name="btn_cancel">ANCATY ..</string>
+    <string name="fragment_security_text">Opps! \n Entek programmalary gulplamadyňyz</string>
+    <string name="settings_security">Howpsuzlyk</string>
+    <string name="settings_face_icon">Galp nyşan</string>
+    <string name="settings_face_icon_text">Bu programmanyň asyl nyşany üýtgediler</string>
+    <string name="rate_us_enjoying">“AppLock” -dan lezzet alýarsyňyzmy?</string>
+    <string name="rate_us_could_be">has gowy bolup biler</string>
+    <string name="menu_privacy">Gizlinlik syýasaty</string>
+    <string name="menu_contact">Biz bilen habarlaşyň</string>
+    <string name="menu_face_icon">Galp nyşan</string>
+    <string name="menu_intruder">Giriş dolandyryjysy</string>
+    <string name="menu_chat">Söhbet otagy</string>
+
+</resources>

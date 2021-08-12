@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Көйләүләр</string>
+
+  
+
+    <string name="share">Бүлешү</string>
+
+    <string name="notification_protecting_title">Кушымталарны саклау</string>
+
+    <string name="notification_protecting_description">Сезнең хосусыйлыгыгызны саклау өчен кушымталарыгызны бикләгез.</string>
+
+    <string name="notification_permission_need_title">Сакларга рөхсәт бирегез</string>
+
+    <string name="notification_permission_need_description">Зинһар, кушымталар шкафын куллану өчен рөхсәтләрегезне эшләгез.</string>
+    <string name="you_accept_privacy_policy">Алга таба сез ризалашасыз<u> Шәхсилек сәясәте</u> </string>
+
+    <string name="header_recommended_to_lock">Ябарга тәкъдим ителә</string>
+    <string name="header_all_apps">Барлык кушымталар</string>
+
+    <string name="title_general_settings">Генерал</string>
+
+    <string name="title_lock_all">Барысын да бикләгез</string>
+    <string name="description_lock_all">Бу сезнең барлык кушымталарны бикләячәк</string>
+
+ 
+    <string name="title_unlock_all">Барысын да ачу</string>
+
+    <string name="description_unlock_all">Бу сезнең барлык кушымталарны ачыр</string>
+    <string name="settings_change_pattern_title">Patternрнәкне үзгәртү</string>
+
+    <string name="settings_change_pattern_description">Хәзерге формагызны үзгәртегез</string>
+    <string name="message_pattern_changed">Ternрнәк уңышлы үзгәрде</string>
+
+    <string name="setting_in_stealth_mode_title">Рәсемне яшер</string>
+    <string name="setting_in_stealth_mode_description">Рәсем ясаганда күренми торган үрнәк</string>
+    <string name="setting_fingerprint_title">Бармак эзен кушу</string>
+
+    <string name="setting_fingerprint_description">Бармак эзегез белән кушымтаны эшләтеп җибәрү.</string>
+    <string name="setting_fingerprint_not_supported_title">Бармак эзе булышмый</string>
+
+    <string name="setting_fingerprint_not_supported_description">Сезнең җайланмада сенсор юк</string>
+    <string name="setting_fingerprint_not_registered_title">Бармак эзегезне теркәгез</string>
+
+    <string name="setting_fingerprint_not_registered_description">Куркынычсызлык көйләүләренә керегез</string>
+    <string name="next">Чираттагы</string>
+
+    <string name="permission_usage_access_title">Куллану рөхсәте</string>
+    <string name="permission_usage_access_description">Кушымта шкафын куллану өчен куллану аксессуарларын рөхсәт итегез.</string>
+
+    <string name="permission_overlay_title">Экран рөхсәтен ябу</string>
+
+    <string name="settings_card_intruders_title">Керү</string>
+    <string name="settings_enable_intruders_title">Керүчеләр рәсемен алыгыз</string>
+    <string name="settings_enable_intruders_description">Килүчеләрне тотарга мөмкинлек.</string>
+
+    <string name="settings_intruders_folder_title">Тотылган фотолар</string>
+    <string name="settings_intruders_folder_description">Сезнең телефондагы шымчыларны карау өчен басыгыз.</string>
+
+    <string name="settings_card_advance_protection_title">Алдан саклау</string>
+    <string name="settings_enable_advance_protection_title">Алдан саклауны тәэмин итү</string>
+    <string name="settings_enable_advance_protection_description">Алдан саклауны тәэмин итү өчен, зинһар, App Lock Pro-ны "җайланма администраторы" итеп активлаштырыгыз .Бу кертүчеләрне юкка чыгару һәм кушымтаны туктату өчен кулланыла. Зинһар өчен, App Lock Pro сезнең рөхсәтне сезнең хосусыйлык мәгълүматларыгызга кертмәсен. .</string>
+    <string name="device_admin_permission_description">Хәзер активлаштырыгыз, алдан саклагыз һәм куркынычсызрак! \n\nАлдан саклауны тәэмин итү өчен, зинһар, App Lock Pro-ны "җайланма администраторы" итеп активлаштырыгыз .Бу кертүчеләрне юкка чыгару һәм App Lock Pro-ны туктату өчен кулланыла. Зинһар өчен, App Lock Pro бу рөхсәтне беркайчан да кулланмас. хосусыйлык мәгълүматларына керегез.</string>
+
+
+    <string name="permission_overlay_description">Блок экранын күрсәтү өчен каплауны рөхсәт итегез.</string>
+    <string name="permission_toast_enable_permissions">Кушымта шкафын куллану өчен рөхсәтне рөхсәт итегез</string>
+
+    <string name="draw_pattern_title">Яңа үрнәк булдырыгыз</string>
+    <string name="redraw_pattern_title">Тәмамлау өчен кире тарт</string>
+
+    <string name="recreate_pattern_error">Ternрнәк туры килми. Кабатлау.</string>
+
+    <string name="create_pattern_successful">Уңышлы ясалган.</string>
+    <string name="overlay_prompt_pattern_title">Кушымта ачу өчен үрнәк сызыгыз</string>
+    <string name="overlay_prompt_pattern_title_wrong">Ялгыш үрнәк. Тагын сызыгыз.</string>
+    <string name="overlay_prompt_pattern_title_correct">Ternрнәк дөрес.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Кушымта ачу өчен үрнәк сызыгыз</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ Туры килми. + %1$s + калды.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Бармак эзе туры килде!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Бармак эзе хата! Patternрнәкне карагыз.</string>
+    <string name="dialog_title_rate_us">Сезгә куркынычсыз зона ошадымы?</string>
+    <string name="dialog_description_rate_us">Әгәр дә сез безне базарда бәяләсәгез, без бик бәхетле булырбыз.</string>
+    <string name="dialog_action_rate_us_rate">Ставка</string>
+
+    <string name="dialog_action_rate_us_later">Соңрак</string>
+    <string name="dialog_title_usage_permission">Android 5.0 рөхсәте</string>
+    <string name="dialog_description_usage_permission">Android 5.0 яки аннан да күбрәк куллану өчен рөхсәт бирергә кирәк
+        AppLocker, сез куркынычсыз зона функциясен куллана аласыз</string>
+    <string name="dialog_action_usage_permission_permit">Рөхсәт</string>
+
+    <string name="dialog_action_usage_permission_cancel">Баш тарту</string>
+    <string name="dialog_title_privacy_policy">Шәхсилек сәясәте</string>
+    <string name="dialog_description_privacy_policy">Без хосусыйлык политикасын яңарттык. Алга таба сез ризалашасыз<u> Шәхсилек сәясәте</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Кабул ит</string>
+
+    <string name="hint_browser_search">URL эзләү яки кертү</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Твиттер</string>
+
+    <string name="snapchat">Снэпчат</string>
+
+
+    <string name="instagram">Инстаграм</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Куркынычсыз.</string>
+    <string name="subtitle_browser_empty">Интернетта серф. Куркынычсыз.</string>
+    <string name="bookmarks">Кыстармалар</string>
+    <string name="title_name_unknown_number">Билгесез номер</string>
+
+
+
+    <string name="blacklist_empty_title">Кара исемлек буш</string>
+    <string name="blacklist_empty_description">Телефон номерын блоклау өчен басыгыз</string>
+    <string name="call_log_empty_title">Бүрәнәләр юк</string>
+
+    <string name="call_log_empty_description">Чакыру блоклангач, бүрәнә монда барлыкка килә</string>
+    <string name="dialog_add_to_blacklist_title">Телефон номерын блоклагыз</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Исем (өстәмә)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Телефон номерын кертегез</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Баш тарту</string>
+    <string name="dialog_black_list_delete_title">Кара исемлектән бетерү</string>
+    <string name="dialog_black_list_delete_description">Блокланган номерны кара исемлектән бетерергә телисезме?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Баш тарту</string>
+    <string name="dialog_title_add_to_vault">Эшкәртү</string>
+    <string name="dialog_description_process">Сезнең медиа галереядан чыгарыла һәм гөмбәзегезгә өстәлә.</string>
+
+    <string name="dialog_title_removal_confirmation">Чыгаруны раслау</string>
+    <string name="dialog_description_removal">Бу файл гөмбәздән чыгарылачак һәм галереяга күрсәтеләчәк.</string>
+    <string name="dialog_action_removal_confirmation_accept">Кабул ит</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault буш</string>
+    <string name="vault_photo_empty_page_description">Галереядан фотоларны яшерү өчен иконка өстәгез</string>
+    <string name="vault_video_empty_page_title">Video Vault буш</string>
+
+    <string name="vault_video_empty_page_description">Галереядан видео фотоларга иконка өстәгез</string>
+    <string-array name="tabs">
+        <item>Куркынычсызлык</item>
+        <item>Көйләүләр</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Кара исемлек</item>
+        <item>Шалтырату журналлары</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Рәсемнәр</item>
+        <item>Видео</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Керүчеләр юк</string>
+    <string name="empty_page_intruders_description">Сезнең телефон куркынычсыз!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Блокерга ​​шалтыратыгыз</string>
+    <string name="browser">Браузер</string>
+    <string name="theme">Темалар</string>
+    <string name="rate_us">Безгә бәя бирегез</string>
+    <string name="removeads">Премиум версиясе</string>
+    <string name="enter_pin">Пин кертегез</string>
+    <string name="pin_matched">Пин туры килде</string>
+    <string name="confirm_pin">Пинны раслагыз</string>
+    <string name="pin_chahnged">Пин уңышлы үзгәрде</string>
+    <string name="pin_not_matched">Пин туры килми</string>
+    <string name="incorrect_pin">Дөрес булмаган пин</string>
+    <string name="settings_set_pin">Пин куегыз</string>
+    <string name="change_pin">Пинны алыштырыгыз</string>
+    <string name="settings_set_pin_description">Яңа пин куегыз</string>
+    <string name="create_new_pin">Яңа пин ясагыз</string>
+    <string name="home">Өй</string>
+    <string name="settings_change_pin_description">Булган пинны үзгәртегез</string>
+    <string name="message_pin_changed">Пин уңышлы үзгәрде</string>
+    <string name="non_protected">Сакланмаган</string>
+    <string name="status_protected">Сакланган</string>
+    <string name="starting_hour">Башлау сәгате</string>
+    <string name="ending_hour">Ахыр сәгать</string>
+    <string name="auto_start_p">автоматик рәвештә рөхсәт</string>
+    <string name="permission_usage_access_description1">авто-йөгерү вариантын ачу</string>
+
+
+    <string name="privat_browser">Шәхси браузер</string>
+    <string name="prem_title">Мәңге премиум версиясе</string>
+    <string name="prem_no_ads">Мәңге реклама юк</string>
+    <string name="prem_restore">Сатып алуны торгызу</string>
+
+    <string name="please_give_us_five_stars">Зинһар, безгә Google Playта биш йолдыз бирегез! Без моны бик кадерләр идек!</string>
+    <string name="great_tex">Бик яхшы!</string>
+    <string name="choose_the_icon">Символны сайлагыз һәм оригиналь иконка үзгәртеләчәк. Бу кушымтаны керүчеләрдән яшерегез</string>
+    <string name="app_name1">Сәгать</string>
+    <string name="app_name2">Карталар</string>
+    <string name="app_name3">Календарь</string>
+    <string name="app_name4">Музыка</string>
+    <string name="app_name5">Калькулятор</string>
+
+    <string name="callblocker_black">Кара исемлек</string>
+    <string name="callblocker_logs">Шалтырату журналлары</string>
+    <string name="icon_change_title">Икона</string>
+    <string name="intruders_title">Керү</string>
+    <string name="intruders_access_apps">Куллану белән кушымталарга керегез</string>
+    <string name="main_unlocked">Блок</string>
+    <string name="main_locked">Ябык</string>
+    <string name="prem_not_sub">Бу язылу түгел. Сез бер тапкыр гына түлисез!</string>
+    <string name="prem_fake_icon">Ялган икона</string>
+    <string name="prem_intruders">Селфи</string>
+    <string name="prem_themes">Күбрәк иҗади темалар</string>
+    <string name="prem_one_time">Бер тапкыр түләү</string>
+    <string name="splash_create">Сезнең хосусыйлыгыгызны саклау өчен ясалган</string>
+    <string name="vault_photos">Фотолар</string>
+    <string name="vault_videos">Видео</string>
+    <string name="btn_ok">Ярар</string>
+    <string name="dialog_intruder_text">Фотоны бетерергә телисезме?</string>
+    <string name="btn_cancel">БАСТЫРУ</string>
+    <string name="fragment_security_text">Opps! \n Сез әле кушымталарны бикләмәгәнсез</string>
+    <string name="settings_security">Куркынычсызлык</string>
+    <string name="settings_face_icon">Ялган икона</string>
+    <string name="settings_face_icon_text">Бу кушымтаның оригиналь иконасы үзгәртеләчәк</string>
+    <string name="rate_us_enjoying">Сез AppLock белән ләззәтләнәсезме?</string>
+    <string name="rate_us_could_be">яхшырак булырга мөмкин</string>
+    <string name="menu_privacy">Шәхсилек сәясәте</string>
+    <string name="menu_contact">Безнең белән элемтәгә чыгу</string>
+    <string name="menu_face_icon">Ялган икона</string>
+    <string name="menu_intruder">Керү менеджеры</string>
+    <string name="menu_chat">Чат бүлмәсе</string>
+
+</resources>

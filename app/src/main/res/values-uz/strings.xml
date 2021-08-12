@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Sozlamalar</string>
+
+  
+
+    <string name="share">Baham ko\'ring</string>
+
+    <string name="notification_protecting_title">Ilovalaringizni himoya qilish</string>
+
+    <string name="notification_protecting_description">Maxfiyligingizni himoya qilish uchun ilovalaringizni qulflang.</string>
+
+    <string name="notification_permission_need_title">Himoyalash uchun ruxsatni yoqing</string>
+
+    <string name="notification_permission_need_description">Iltimos, ilova shkafidan foydalanish uchun ruxsatlaringizni yoqing.</string>
+    <string name="you_accept_privacy_policy">Davom etish orqali siz rozilik bildirasiz<u> Maxfiylik siyosati</u> </string>
+
+    <string name="header_recommended_to_lock">Qulflash tavsiya etiladi</string>
+    <string name="header_all_apps">Barcha ilovalar</string>
+
+    <string name="title_general_settings">Umumiy</string>
+
+    <string name="title_lock_all">Barchasini qulflang</string>
+    <string name="description_lock_all">Bu sizning barcha ilovalaringizni bloklaydi</string>
+
+ 
+    <string name="title_unlock_all">Barchasini ochish</string>
+
+    <string name="description_unlock_all">Bu sizning barcha ilovalaringizni qulfdan chiqaradi</string>
+    <string name="settings_change_pattern_title">Naqshni o\'zgartirish</string>
+
+    <string name="settings_change_pattern_description">Mavjud naqshingizni o\'zgartiring</string>
+    <string name="message_pattern_changed">Naqsh muvaffaqiyatli o\'zgartirildi</string>
+
+    <string name="setting_in_stealth_mode_title">Chizilgan rasmni yashirish</string>
+    <string name="setting_in_stealth_mode_description">Chizish paytida ko\'rinmas naqsh</string>
+    <string name="setting_fingerprint_title">Barmoq izini yoqish</string>
+
+    <string name="setting_fingerprint_description">Ilovani barmoq izingiz bilan ishga tushiring.</string>
+    <string name="setting_fingerprint_not_supported_title">Barmoq izi qo‘llab-quvvatlanmaydi</string>
+
+    <string name="setting_fingerprint_not_supported_description">Qurilmangizda sensor mavjud emas</string>
+    <string name="setting_fingerprint_not_registered_title">Barmoq izingizni ro\'yxatdan o\'tkazing</string>
+
+    <string name="setting_fingerprint_not_registered_description">Xavfsizlik sozlamalariga o\'ting</string>
+    <string name="next">Keyingi</string>
+
+    <string name="permission_usage_access_title">Foydalanishga kirish uchun ruxsat</string>
+    <string name="permission_usage_access_description">Ilova shkafchasini ishlatish uchun akkreditivlarni yoqing.</string>
+
+    <string name="permission_overlay_title">Ekranni bloklash uchun ruxsat</string>
+
+    <string name="settings_card_intruders_title">Hujumchilarni tuting</string>
+    <string name="settings_enable_intruders_title">Bosqinlarni rasmga oling</string>
+    <string name="settings_enable_intruders_description">Hujumchilarni ushlash imkoniyatini bering.</string>
+
+    <string name="settings_intruders_folder_title">Buzg\'unchilarning fotosuratlari ushlandi</string>
+    <string name="settings_intruders_folder_description">Telefoningizda josuslarni ko\'rish uchun bosing.</string>
+
+    <string name="settings_card_advance_protection_title">Oldindan himoya qilish</string>
+    <string name="settings_enable_advance_protection_title">Oldindan himoyani yoqing</string>
+    <string name="settings_enable_advance_protection_description">Advance Protection-ni yoqish uchun iltimos, App Lock Pro-ni "qurilma ma\'muri" sifatida faollashtiring. Bu faqat tajovuzkorlarni o\'chirish va App Lock Pro-ni majburan to\'xtatishni oldini olish uchun ishlatiladi. .</string>
+    <string name="device_admin_permission_description">Hozir faollashtiring, oldindan himoya qiling va xavfsizroq! \n\nAdvance Protection-ni yoqish uchun iltimos, App Lock Pro-ni "qurilma ma\'muri" sifatida faollashtiring. Bu faqat buzg\'unchilarni olib tashlashni oldini olish va App Lock Pro-ni majburan to\'xtatishni ta\'minlash uchun ishlatiladi. Iltimos, App Lock Pro ushbu ruxsatdan hech qachon foydalanmasligi kerak. shaxsiy ma\'lumotlaringizga kirish.</string>
+
+
+    <string name="permission_overlay_description">Qulflangan ekranni ko\'rsatish uchun qatlamni yoqing.</string>
+    <string name="permission_toast_enable_permissions">Ilova shkafidan foydalanish uchun ruxsatlarni yoqing</string>
+
+    <string name="draw_pattern_title">Yangi naqsh yarating</string>
+    <string name="redraw_pattern_title">Tugatish uchun qayta torting</string>
+
+    <string name="recreate_pattern_error">Naqsh mos kelmaydi. Qayta chizish.</string>
+
+    <string name="create_pattern_successful">Muvaffaqiyatli yaratildi.</string>
+    <string name="overlay_prompt_pattern_title">Ilovani ochish uchun naqsh soling</string>
+    <string name="overlay_prompt_pattern_title_wrong">Noto\'g\'ri naqsh. Qayta chizish.</string>
+    <string name="overlay_prompt_pattern_title_correct">Naqsh to\'g\'ri.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Ilovani ochish uchun naqsh soling</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ Mos kelmadi. + %1$s + qoldi.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Barmoq izi mos keldi!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Barmoq izi xatosi! Naqshni sinab ko\'ring.</string>
+    <string name="dialog_title_rate_us">Sizga Xavfsiz Zona yoqdimi?</string>
+    <string name="dialog_description_rate_us">Agar bizni bozorda baholasangiz, biz juda xursand bo\'lamiz.</string>
+    <string name="dialog_action_rate_us_rate">Tezlik</string>
+
+    <string name="dialog_action_rate_us_later">Keyinchalik</string>
+    <string name="dialog_title_usage_permission">Android 5.0 ruxsatnomasi</string>
+    <string name="dialog_description_usage_permission">Android 5.0 yoki undan yuqori versiyalarida siz foydalanishga ruxsat berishingiz kerak
+        Xavfsiz hudud xususiyatidan foydalanishingiz uchun AppLocker</string>
+    <string name="dialog_action_usage_permission_permit">Ruxsat berish</string>
+
+    <string name="dialog_action_usage_permission_cancel">Bekor qilish</string>
+    <string name="dialog_title_privacy_policy">Maxfiylik siyosati</string>
+    <string name="dialog_description_privacy_policy">Biz maxfiylik siyosatimizni yangiladik. Davom etish orqali siz rozilik bildirasiz<u> Maxfiylik siyosati</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Qabul qiling</string>
+
+    <string name="hint_browser_search">URL manzilini qidiring yoki kiriting</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Xavfsiz.Secure.Xususiy.</string>
+    <string name="subtitle_browser_empty">Internetda sayr qiling. Xavfsiz.</string>
+    <string name="bookmarks">Xatcho\'plar</string>
+    <string name="title_name_unknown_number">Noma\'lum raqam</string>
+
+
+
+    <string name="blacklist_empty_title">Qora ro\'yxat bo\'sh</string>
+    <string name="blacklist_empty_description">Telefon raqamini bloklash uchun bosing</string>
+    <string name="call_log_empty_title">Jurnal yo\'q</string>
+
+    <string name="call_log_empty_description">Qo\'ng\'iroq bloklanganda bu erda jurnal paydo bo\'ladi</string>
+    <string name="dialog_add_to_blacklist_title">Telefon raqamini bloklash</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Ism (ixtiyoriy)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Telefon raqamini kiriting</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Bekor qilish</string>
+    <string name="dialog_black_list_delete_title">Qora ro\'yxatdan o\'chirish</string>
+    <string name="dialog_black_list_delete_description">Bloklangan raqamni qora ro\'yxatdan olib tashlamoqchimisiz?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Bekor qilish</string>
+    <string name="dialog_title_add_to_vault">Qayta ishlash</string>
+    <string name="dialog_description_process">Sizning ommaviy axborot vositangiz galereyadan olib tashlanadi va sizning omboringizga qo\'shiladi.</string>
+
+    <string name="dialog_title_removal_confirmation">Olib tashlashni tasdiqlash</string>
+    <string name="dialog_description_removal">Ushbu fayl kassadan olib tashlanadi va galereyada namoyish etiladi.</string>
+    <string name="dialog_action_removal_confirmation_accept">Qabul qiling</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault bo‘sh</string>
+    <string name="vault_photo_empty_page_description">Suratlarni galereyadan yashirish uchun belgini qo\'shing</string>
+    <string name="vault_video_empty_page_title">Video Vault bo\'sh</string>
+
+    <string name="vault_video_empty_page_description">Gallereyadagi video fotosuratlarga belgi qo\'shing</string>
+    <string-array name="tabs">
+        <item>Xavfsizlik</item>
+        <item>Sozlamalar</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Qora ro\'yxat</item>
+        <item>Qo\'ng\'iroqlar jurnallari</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Tasvirlar</item>
+        <item>Videolar</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Hujumchilar ushlanmadi</string>
+    <string name="empty_page_intruders_description">Sizning telefoningiz xavfsiz!</string>
+    <string name="Vault">Vault</string>
+    <string name="Call_blocker">Blocker-ga qo\'ng\'iroq qiling</string>
+    <string name="browser">Brauzer</string>
+    <string name="theme">Mavzular</string>
+    <string name="rate_us">Bizni baholang</string>
+    <string name="removeads">Premium versiya</string>
+    <string name="enter_pin">PIN-kodni kiriting</string>
+    <string name="pin_matched">PIN mos tushdi</string>
+    <string name="confirm_pin">PIN-kodni tasdiqlang</string>
+    <string name="pin_chahnged">Pin muvaffaqiyatli o\'zgartirildi</string>
+    <string name="pin_not_matched">PIN mos kelmadi</string>
+    <string name="incorrect_pin">Noto\'g\'ri pin</string>
+    <string name="settings_set_pin">PIN-kodni o\'rnating</string>
+    <string name="change_pin">PIN-kodni o\'zgartiring</string>
+    <string name="settings_set_pin_description">Yangi pinni o\'rnating</string>
+    <string name="create_new_pin">Yangi pin yarating</string>
+    <string name="home">Uy</string>
+    <string name="settings_change_pin_description">Mavjud pinni o\'zgartiring</string>
+    <string name="message_pin_changed">Pin muvaffaqiyatli o\'zgartirildi</string>
+    <string name="non_protected">Himoyalanmagan</string>
+    <string name="status_protected">Himoyalangan</string>
+    <string name="starting_hour">Ish vaqti</string>
+    <string name="ending_hour">Soat tugaydi</string>
+    <string name="auto_start_p">avtomatik ishga tushirish uchun ruxsat</string>
+    <string name="permission_usage_access_description1">avtomatik ishga tushirish parametrini oching</string>
+
+
+    <string name="privat_browser">Shaxsiy brauzer</string>
+    <string name="prem_title">Premium Version Forever</string>
+    <string name="prem_no_ads">Har doim AD mavjud emas</string>
+    <string name="prem_restore">Xaridni tiklang</string>
+
+    <string name="please_give_us_five_stars">Iltimos, bizga Google Play-da beshta yulduz bering! Biz buni juda qadrlaymiz!</string>
+    <string name="great_tex">Ajoyib!</string>
+    <string name="choose_the_icon">Belgini tanlang va asl belgi o\'zgartiriladi. Ushbu dasturni tajovuzkorlardan yashirish</string>
+    <string name="app_name1">Soat</string>
+    <string name="app_name2">Xaritalar</string>
+    <string name="app_name3">Taqvim</string>
+    <string name="app_name4">Musiqa</string>
+    <string name="app_name5">Kalkulyator</string>
+
+    <string name="callblocker_black">Qora ro\'yxat</string>
+    <string name="callblocker_logs">Qo\'ng\'iroqlar jurnallari</string>
+    <string name="icon_change_title">Belgilar</string>
+    <string name="intruders_title">Buzg\'unchi</string>
+    <string name="intruders_access_apps">Ilovalardan foydalanish bilan kirish</string>
+    <string name="main_unlocked">Qulfdan chiqarildi</string>
+    <string name="main_locked">Qulflangan</string>
+    <string name="prem_not_sub">Bu obuna emas. Siz faqat bir marta to\'laysiz!</string>
+    <string name="prem_fake_icon">Soxta belgi</string>
+    <string name="prem_intruders">Kiruvchi selfi</string>
+    <string name="prem_themes">Ko\'proq ijodiy mavzular</string>
+    <string name="prem_one_time">Bir martalik to\'lov</string>
+    <string name="splash_create">Maxfiyligingizni himoya qilish uchun yaratilgan</string>
+    <string name="vault_photos">Fotosuratlar</string>
+    <string name="vault_videos">Videolar</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">Suratni o\'chirmoqchimisiz?</string>
+    <string name="btn_cancel">Bekor qilish</string>
+    <string name="fragment_security_text">Opps! \n Sizda hali qulflangan ilovalar yo\'q</string>
+    <string name="settings_security">Xavfsizlik</string>
+    <string name="settings_face_icon">Soxta belgi</string>
+    <string name="settings_face_icon_text">Ushbu ilovaning asl belgisi o\'zgartiriladi</string>
+    <string name="rate_us_enjoying">AppLock sizga yoqyaptimi?</string>
+    <string name="rate_us_could_be">yaxshi bo\'lishi mumkin</string>
+    <string name="menu_privacy">Maxfiylik siyosati</string>
+    <string name="menu_contact">Biz bilan bog\'lanish</string>
+    <string name="menu_face_icon">Soxta belgi</string>
+    <string name="menu_intruder">Kiruvchi menejer</string>
+    <string name="menu_chat">Suhbat xonasi</string>
+
+</resources>

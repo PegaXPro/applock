@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">ការកំណត់</string>
+
+  
+
+    <string name="share">ចែករំលែក</string>
+
+    <string name="notification_protecting_title">ការពារកម្មវិធីរបស់អ្នក</string>
+
+    <string name="notification_protecting_description">ចាក់សោកម្មវិធីរបស់អ្នកដើម្បីការពារភាពឯកជនរបស់អ្នក។</string>
+
+    <string name="notification_permission_need_title">អនុញ្ញាតការអនុញ្ញាតឱ្យការពារ</string>
+
+    <string name="notification_permission_need_description">សូមអនុញ្ញាតសិទ្ធិរបស់អ្នកដើម្បីប្រើកម្មវិធីចាក់សោ។</string>
+    <string name="you_accept_privacy_policy">ដោយបន្តអ្នកយល់ព្រម<u> គោលការណ៍​ភាព​ឯកជន</u> </string>
+
+    <string name="header_recommended_to_lock">បានណែនាំឱ្យចាក់សោ</string>
+    <string name="header_all_apps">ពាក្យសុំទាំងអស់</string>
+
+    <string name="title_general_settings">ទូទៅ</string>
+
+    <string name="title_lock_all">ចាក់សោទាំងអស់</string>
+    <string name="description_lock_all">វានឹងចាក់សោកម្មវិធីរបស់អ្នកទាំងអស់</string>
+
+ 
+    <string name="title_unlock_all">ដោះសោទាំងអស់</string>
+
+    <string name="description_unlock_all">វានឹងដោះសោកម្មវិធីរបស់អ្នកទាំងអស់</string>
+    <string name="settings_change_pattern_title">ផ្លាស់ប្តូរលំនាំ</string>
+
+    <string name="settings_change_pattern_description">ផ្លាស់ប្តូរគំរូដែលមានស្រាប់របស់អ្នក</string>
+    <string name="message_pattern_changed">លំនាំបានផ្លាស់ប្តូរដោយជោគជ័យ</string>
+
+    <string name="setting_in_stealth_mode_title">លាក់គំនូរ</string>
+    <string name="setting_in_stealth_mode_description">លំនាំមើលមិនឃើញនៅពេលគូរ</string>
+    <string name="setting_fingerprint_title">បើកដំណើរការស្នាមម្រាមដៃ</string>
+
+    <string name="setting_fingerprint_description">បើកដំណើរការកម្មវិធីជាមួយស្នាមម្រាមដៃរបស់អ្នក។</string>
+    <string name="setting_fingerprint_not_supported_title">ស្នាមម្រាមដៃមិនត្រូវបានគាំទ្រទេ</string>
+
+    <string name="setting_fingerprint_not_supported_description">ឧបករណ៍របស់អ្នកមិនមានឧបករណ៍ចាប់សញ្ញាទេ</string>
+    <string name="setting_fingerprint_not_registered_title">ចុះឈ្មោះស្នាមម្រាមដៃរបស់អ្នក</string>
+
+    <string name="setting_fingerprint_not_registered_description">ចូលទៅកាន់ការកំណត់សុវត្ថិភាព</string>
+    <string name="next">បន្ទាប់</string>
+
+    <string name="permission_usage_access_title">ការអនុញ្ញាតចូលប្រើ</string>
+    <string name="permission_usage_access_description">បើកដំណើរការការចោទប្រកាន់ការប្រើប្រាស់ដើម្បីប្រើកម្មវិធីចាក់សោ។</string>
+
+    <string name="permission_overlay_title">ការអនុញ្ញាតចាក់សោអេក្រង់</string>
+
+    <string name="settings_card_intruders_title">ចាប់អ្នកឈ្លានពាន</string>
+    <string name="settings_enable_intruders_title">ថតរូបអ្នកឈ្លានពាន</string>
+    <string name="settings_enable_intruders_description">អនុញ្ញាតឱ្យចាប់អ្នកឈ្លានពាន។</string>
+
+    <string name="settings_intruders_folder_title">រូបថតអ្នកចាប់បាន</string>
+    <string name="settings_intruders_folder_description">ចុចដើម្បីមើលចារកម្មនៅលើទូរស័ព្ទរបស់អ្នក។</string>
+
+    <string name="settings_card_advance_protection_title">ការការពារជាមុន</string>
+    <string name="settings_enable_advance_protection_title">បើកដំណើរការការពារជាមុន</string>
+    <string name="settings_enable_advance_protection_description">ដើម្បីបើកការការពារជាមុនសូមធ្វើឱ្យកម្មវិធីចាក់សោរសកម្មជា "អ្នកគ្រប់គ្រងឧបករណ៍" ។ វាត្រូវបានប្រើសម្រាប់តែអ្នកការពារមិនឱ្យលុបនិងបញ្ឈប់ការចាក់សោកម្មវិធីចាក់សោ។ សូមប្រាកដថាកម្មវិធីចាក់សោគាំទ្រនឹងមិនប្រើសិទ្ធិនេះដើម្បីចូលប្រើទិន្នន័យឯកជនភាពរបស់អ្នកឡើយ។ ។</string>
+    <string name="device_admin_permission_description">ធ្វើឱ្យសកម្មឥឡូវនេះការការពារជាមុននិងកាន់តែមានសុវត្ថិភាព! \n\nដើម្បីបើកការការពារជាមុនសូមធ្វើឱ្យកម្មវិធីចាក់សោគាំទ្រជា "ឧបករណ៍គ្រប់គ្រងឧបករណ៍" ។ វាត្រូវបានប្រើសម្រាប់តែការការពារពីការរំលោភនិងការបញ្ឈប់កម្មវិធីចាក់សោរ។ សូមប្រាកដថាកម្មវិធីចាក់សោគាំទ្រនឹងមិនប្រើការអនុញ្ញាតនេះទៅ ចូលប្រើទិន្នន័យភាពឯកជនរបស់អ្នក។</string>
+
+
+    <string name="permission_overlay_description">បើកដំណើរការគម្របដើម្បីបង្ហាញអេក្រង់ចាក់សោ។</string>
+    <string name="permission_toast_enable_permissions">បើកសិទ្ធិអនុញ្ញាតឱ្យប្រើកម្មវិធីចាក់សោកម្មវិធី</string>
+
+    <string name="draw_pattern_title">បង្កើតលំនាំថ្មី</string>
+    <string name="redraw_pattern_title">គូរឡើងវិញដើម្បីបញ្ចប់</string>
+
+    <string name="recreate_pattern_error">លំនាំមិនត្រូវគ្នា។ រៀបចំឡើងវិញ។</string>
+
+    <string name="create_pattern_successful">បានបង្កើតដោយជោគជ័យ។</string>
+    <string name="overlay_prompt_pattern_title">គូរលំនាំដើម្បីបើកកម្មវិធី</string>
+    <string name="overlay_prompt_pattern_title_wrong">លំនាំខុស។ គូរម្តងទៀត។</string>
+    <string name="overlay_prompt_pattern_title_correct">លំនាំត្រឹមត្រូវ។</string>
+
+    <string name="overlay_prompt_fingerprint_title">គូរលំនាំដើម្បីបើកកម្មវិធី</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">មិន + ត្រូវគ្នា។ + %1$s + នៅសល់។</string>
+    <string name="overlay_prompt_fingerprint_title_correct">ស្នាមម្រាមដៃត្រូវគ្នា!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">កំហុសស្នាមម្រាមដៃ! សាកល្បងគំរូ។</string>
+    <string name="dialog_title_rate_us">តើអ្នកចូលចិត្តតំបន់សុវត្ថិភាពទេ?</string>
+    <string name="dialog_description_rate_us">យើងនឹងសប្បាយចិត្តប្រសិនបើអ្នកវាយតម្លៃយើងនៅលើទីផ្សារ។</string>
+    <string name="dialog_action_rate_us_rate">អត្រា</string>
+
+    <string name="dialog_action_rate_us_later">ក្រោយមកទៀត</string>
+    <string name="dialog_title_usage_permission">ការអនុញ្ញាតប្រព័ន្ធប្រតិបត្តិការ Android 5.0</string>
+    <string name="dialog_description_usage_permission">នៅក្នុងប្រព័ន្ធប្រតិបត្តិការ Android 5.0 ឬខ្ពស់ជាងនេះអ្នកត្រូវអនុញ្ញាតឱ្យចូលប្រើ
+        AppLocker ដូច្នេះអ្នកអាចប្រើមុខងារសុវត្ថិភាពតំបន់</string>
+    <string name="dialog_action_usage_permission_permit">ការអនុញ្ញាត</string>
+
+    <string name="dialog_action_usage_permission_cancel">បោះបង់</string>
+    <string name="dialog_title_privacy_policy">គោលការណ៍​ភាព​ឯកជន</string>
+    <string name="dialog_description_privacy_policy">យើងបានធ្វើបច្ចុប្បន្នភាពគោលការណ៍ឯកជនភាពរបស់យើង។ ដោយបន្តអ្នកយល់ព្រម<u> គោលការណ៍​ភាព​ឯកជន</u> </string>
+    <string name="dialog_action_privacy_policy_accept">ព្រមទទួល</string>
+
+    <string name="hint_browser_search">ស្វែងរកឬបញ្ចូល URL</string>
+    <string name="facebook">ហ្វេសប៊ុក</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private ។</string>
+    <string name="subtitle_browser_empty">ជិះលើអ៊ីនធឺណិត។ ដោយសុវត្ថិភាព។</string>
+    <string name="bookmarks">ចំណាំ</string>
+    <string name="title_name_unknown_number">លេខមិនស្គាល់</string>
+
+
+
+    <string name="blacklist_empty_title">បញ្ជីខ្មៅគឺទទេ</string>
+    <string name="blacklist_empty_description">ចុចដើម្បីបិទលេខទូរស័ព្ទ</string>
+    <string name="call_log_empty_title">គ្មានកំណត់ហេតុទេ</string>
+
+    <string name="call_log_empty_description">កំណត់ហេតុបង្ហាញនៅទីនេះនៅពេលការហៅត្រូវបានរារាំង</string>
+    <string name="dialog_add_to_blacklist_title">រារាំងលេខទូរស័ព្ទ</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">ឈ្មោះ (ជម្រើស)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">បញ្ចូលលេខទូរស័ព្ទ</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">បោះបង់</string>
+    <string name="dialog_black_list_delete_title">លុបចេញពីបញ្ជីខ្មៅ</string>
+    <string name="dialog_black_list_delete_description">តើអ្នកចង់លុបលេខដែលបានបិទពីបញ្ជីខ្មៅទេ?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">បោះបង់</string>
+    <string name="dialog_title_add_to_vault">ដំណើរការ</string>
+    <string name="dialog_description_process">មេឌៀរបស់អ្នកកំពុងដកចេញពីវិចិត្រសាលហើយបន្ថែមទៅតុដេករបស់អ្នក។</string>
+
+    <string name="dialog_title_removal_confirmation">ការបញ្ជាក់អំពីការដកយកចេញ</string>
+    <string name="dialog_description_removal">ឯកសារនេះនឹងយកចេញពីតុដេកនិងបង្ហាញទៅវិចិត្រសាល។</string>
+    <string name="dialog_action_removal_confirmation_accept">ព្រមទទួល</string>
+
+    <string name="vault_photo_empty_page_title">វ៉ាររូបថតគឺទទេ</string>
+    <string name="vault_photo_empty_page_description">បន្ថែមរូបតំណាងដើម្បីលាក់រូបថតពីវិចិត្រសាល</string>
+    <string name="vault_video_empty_page_title">វីដេអូវ៉ាល់តាគឺទទេ</string>
+
+    <string name="vault_video_empty_page_description">បន្ថែមរូបតំណាងទៅរូបថតវីដេអូពីវិចិត្រសាល</string>
+    <string-array name="tabs">
+        <item>សន្តិសុខ</item>
+        <item>ការកំណត់</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>បញ្ជីខ្មៅ</item>
+        <item>ហៅកំណត់ហេតុ</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>រូបភាព</item>
+        <item>វីដេអូ</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">គ្មានអ្នកឈ្លានពានត្រូវគេចាប់បាន</string>
+    <string name="empty_page_intruders_description">ទូរស័ព្ទរបស់អ្នកមានសុវត្ថិភាពហើយ!</string>
+    <string name="Vault">វណ្ណៈ</string>
+    <string name="Call_blocker">ហៅអ្នករារាំង</string>
+    <string name="browser">កម្មវិធីរុករក</string>
+    <string name="theme">ស្បែក</string>
+    <string name="rate_us">វាយតម្លៃយើង</string>
+    <string name="removeads">កំណែបុព្វលាភ</string>
+    <string name="enter_pin">បញ្ចូលម្ជុល</string>
+    <string name="pin_matched">ម្ជុលត្រូវគ្នា</string>
+    <string name="confirm_pin">បញ្ជាក់ម្ជុល</string>
+    <string name="pin_chahnged">ពិនផ្លាស់ប្តូរដោយជោគជ័យ</string>
+    <string name="pin_not_matched">ម្ជុលមិនត្រូវគ្នា</string>
+    <string name="incorrect_pin">ម្ជុលមិនត្រឹមត្រូវ</string>
+    <string name="settings_set_pin">កំណត់ម្ជុល</string>
+    <string name="change_pin">ប្តូរម្ជុល</string>
+    <string name="settings_set_pin_description">កំណត់ម្ជុលថ្មី</string>
+    <string name="create_new_pin">បង្កើតម្ជុលថ្មី</string>
+    <string name="home">ផ្ទះ</string>
+    <string name="settings_change_pin_description">ផ្លាស់ប្តូរម្ជុលដែលមានស្រាប់របស់អ្នក</string>
+    <string name="message_pin_changed">ពិនផ្លាស់ប្តូរដោយជោគជ័យ</string>
+    <string name="non_protected">មិនមានការការពារ</string>
+    <string name="status_protected">ការពារ</string>
+    <string name="starting_hour">ម៉ោងចាប់ផ្តើម</string>
+    <string name="ending_hour">បញ្ចប់ម៉ោង</string>
+    <string name="auto_start_p">ការអនុញ្ញាតដំណើរការដោយស្វ័យប្រវត្តិ</string>
+    <string name="permission_usage_access_description1">បើកជម្រើសរត់ដោយស្វ័យប្រវត្តិ</string>
+
+
+    <string name="privat_browser">កម្មវិធីរុករកឯកជន</string>
+    <string name="prem_title">កំណែពិសេសជារៀងរហូត</string>
+    <string name="prem_no_ads">គ្មានអេដស៍ជារៀងរហូត</string>
+    <string name="prem_restore">ស្តា​រ​ការ​ទិញ</string>
+
+    <string name="please_give_us_five_stars">សូមផ្តល់ឱ្យយើងផ្កាយប្រាំនៅលើ Google Play! យើងសូមកោតសរសើរចំពោះវាខ្លាំងណាស់!</string>
+    <string name="great_tex">អស្ចារ្យ!</string>
+    <string name="choose_the_icon">ជ្រើសរើសរូបតំណាងហើយរូបតំណាងដើមនឹងត្រូវបានផ្លាស់ប្តូរ។ លាក់កម្មវិធីនេះពីអ្នកឈ្លានពាន</string>
+    <string name="app_name1">នាឡិកា</string>
+    <string name="app_name2">ផែនទី</string>
+    <string name="app_name3">ប្រតិទិន</string>
+    <string name="app_name4">តន្ត្រី</string>
+    <string name="app_name5">ម៉ាស៊ីនគិតលេខ</string>
+
+    <string name="callblocker_black">បញ្ជីខ្មៅ</string>
+    <string name="callblocker_logs">កំណត់ហេតុការហៅ</string>
+    <string name="icon_change_title">រូបតំណាង</string>
+    <string name="intruders_title">អ្នកឈ្លានពាន</string>
+    <string name="intruders_access_apps">ចូលប្រើកម្មវិធីជាមួយការប្រើប្រាស់</string>
+    <string name="main_unlocked">ដោះសោ</string>
+    <string name="main_locked">ចាក់សោ</string>
+    <string name="prem_not_sub">នេះមិនមែនជាការជាវទេ។ អ្នកបង់តែម្តង!</string>
+    <string name="prem_fake_icon">រូបតំណាងក្លែងក្លាយ</string>
+    <string name="prem_intruders">អ្នកថតរូប Selfie</string>
+    <string name="prem_themes">ស្បែកច្នៃប្រឌិតបន្ថែមទៀត</string>
+    <string name="prem_one_time">ការទូទាត់តែម្តង</string>
+    <string name="splash_create">បង្កើតឡើងដើម្បីការពារភាពឯកជនរបស់អ្នក</string>
+    <string name="vault_photos">រូបថត</string>
+    <string name="vault_videos">វីដេអូ</string>
+    <string name="btn_ok">យល់ព្រម</string>
+    <string name="dialog_intruder_text">តើអ្នកចង់លុបរូបថតទេ?</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="fragment_security_text">អូយ! \nអ្នកមិនទាន់ចាក់សោកម្មវិធីនៅឡើយទេ</string>
+    <string name="settings_security">សន្តិសុខ</string>
+    <string name="settings_face_icon">រូបតំណាងក្លែងក្លាយ</string>
+    <string name="settings_face_icon_text">រូបតំណាងដើមនៃកម្មវិធីនេះនឹងត្រូវបានផ្លាស់ប្តូរ</string>
+    <string name="rate_us_enjoying">តើអ្នកកំពុងរីករាយជាមួយ AppLock ទេ?</string>
+    <string name="rate_us_could_be">វាអាចប្រសើរជាង</string>
+    <string name="menu_privacy">គោលការណ៍​ភាព​ឯកជន</string>
+    <string name="menu_contact">ទាក់ទង​មក​ពួក​យើង</string>
+    <string name="menu_face_icon">រូបតំណាងក្លែងក្លាយ</string>
+    <string name="menu_intruder">អ្នកគ្រប់គ្រងអ្នកឈ្លានពាន</string>
+    <string name="menu_chat">បន្ទប់​ជជែក​កំសាន្ត</string>
+
+</resources>

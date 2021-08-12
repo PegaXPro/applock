@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">యాప్‌లాక్</string>
+
+    <string name="action_settings">సెట్టింగులు</string>
+
+  
+
+    <string name="share">భాగస్వామ్యం చేయండి</string>
+
+    <string name="notification_protecting_title">మీ అనువర్తనాలను రక్షించడం</string>
+
+    <string name="notification_protecting_description">మీ గోప్యతను రక్షించడానికి మీ అనువర్తనాలను లాక్ చేయండి.</string>
+
+    <string name="notification_permission_need_title">రక్షణకు అనుమతి ప్రారంభించండి</string>
+
+    <string name="notification_permission_need_description">అనువర్తన లాకర్‌ను ఉపయోగించడానికి దయచేసి మీ అనుమతులను ప్రారంభించండి.</string>
+    <string name="you_accept_privacy_policy">కొనసాగించడం ద్వారా మీరు అంగీకరిస్తున్నారు<u> గోప్యతా విధానం</u> </string>
+
+    <string name="header_recommended_to_lock">లాక్ చేయడానికి సిఫార్సు చేయబడింది</string>
+    <string name="header_all_apps">అన్ని అనువర్తనాలు</string>
+
+    <string name="title_general_settings">జనరల్</string>
+
+    <string name="title_lock_all">అన్నీ లాక్ చేయండి</string>
+    <string name="description_lock_all">ఇది మీ అన్ని అనువర్తనాలను లాక్ చేస్తుంది</string>
+
+ 
+    <string name="title_unlock_all">అన్నీ అన్‌లాక్ చేయండి</string>
+
+    <string name="description_unlock_all">ఇది మీ అన్ని అనువర్తనాలను అన్‌లాక్ చేస్తుంది</string>
+    <string name="settings_change_pattern_title">నమూనాను మార్చండి</string>
+
+    <string name="settings_change_pattern_description">మీ ప్రస్తుత నమూనాను మార్చండి</string>
+    <string name="message_pattern_changed">సరళి విజయవంతంగా మార్చబడింది</string>
+
+    <string name="setting_in_stealth_mode_title">డ్రాయింగ్ దాచు</string>
+    <string name="setting_in_stealth_mode_description">డ్రాయింగ్ చేసేటప్పుడు కనిపించని నమూనా</string>
+    <string name="setting_fingerprint_title">వేలిముద్రను ప్రారంభించండి</string>
+
+    <string name="setting_fingerprint_description">మీ వేలిముద్రతో అనువర్తనాన్ని ప్రారంభించండి.</string>
+    <string name="setting_fingerprint_not_supported_title">వేలిముద్రకు మద్దతు లేదు</string>
+
+    <string name="setting_fingerprint_not_supported_description">మీ పరికరానికి సెన్సార్ లేదు</string>
+    <string name="setting_fingerprint_not_registered_title">మీ వేలిముద్రను నమోదు చేయండి</string>
+
+    <string name="setting_fingerprint_not_registered_description">భద్రతా సెట్టింగ్‌లకు వెళ్లండి</string>
+    <string name="next">తరువాత</string>
+
+    <string name="permission_usage_access_title">వినియోగ ప్రాప్యత అనుమతి</string>
+    <string name="permission_usage_access_description">అనువర్తన లాకర్‌ను ఉపయోగించడానికి వినియోగ చర్యలను ప్రారంభించండి.</string>
+
+    <string name="permission_overlay_title">స్క్రీన్ అనుమతి లాక్ చేయండి</string>
+
+    <string name="settings_card_intruders_title">చొరబాటుదారులను పట్టుకోండి</string>
+    <string name="settings_enable_intruders_title">చొరబాటుదారుల చిత్రాన్ని తీయండి</string>
+    <string name="settings_enable_intruders_description">చొరబాటుదారులను పట్టుకోవడం ప్రారంభించండి.</string>
+
+    <string name="settings_intruders_folder_title">చొరబాటు ఫోటోలను పట్టుకున్నారు</string>
+    <string name="settings_intruders_folder_description">మీ ఫోన్‌లో గూ ies చారులను చూడటానికి క్లిక్ చేయండి.</string>
+
+    <string name="settings_card_advance_protection_title">అడ్వాన్స్ ప్రొటెక్షన్</string>
+    <string name="settings_enable_advance_protection_title">ముందస్తు రక్షణను ప్రారంభించండి</string>
+    <string name="settings_enable_advance_protection_description">అడ్వాన్స్ ప్రొటెక్షన్‌ను ప్రారంభించడానికి, దయచేసి అనువర్తన లాక్ ప్రోను "డివైస్ అడ్మినిస్ట్రేటర్" గా సక్రియం చేయండి .ఇది చొరబాటుదారులను అన్‌ఇన్‌స్టాల్ చేయకుండా నిరోధించడానికి మరియు యాప్ లాక్ ప్రోని బలవంతంగా ఆపడానికి మాత్రమే ఉపయోగించబడుతుంది. దయచేసి మీ గోప్యతా డేటాను ప్రాప్యత చేయడానికి అనువర్తన లాక్ ప్రో ఈ అనుమతిని ఉపయోగించదని నిర్ధారించుకోండి. .</string>
+    <string name="device_admin_permission_description">ఇప్పుడే సక్రియం చేయండి, ముందస్తు రక్షణ మరియు మరింత సురక్షితం! Adv n \nఅడ్వాన్స్ ప్రొటెక్షన్‌ను ప్రారంభించడానికి, దయచేసి అనువర్తన లాక్ ప్రోను "డివైస్ అడ్మినిస్ట్రేటర్" గా సక్రియం చేయండి .ఇది చొరబాటుదారులను అన్‌ఇన్‌స్టాల్ చేయకుండా నిరోధించడానికి మరియు యాప్ లాక్ ప్రోని బలవంతంగా ఆపడానికి మాత్రమే ఉపయోగించబడుతుంది. దయచేసి అనువర్తన లాక్ ప్రో ఈ అనుమతిని ఎప్పటికీ ఉపయోగించదని నిర్ధారించుకోండి. మీ గోప్యతా డేటాను ప్రాప్యత చేయండి.</string>
+
+
+    <string name="permission_overlay_description">లాక్ స్క్రీన్ చూపించడానికి అతివ్యాప్తిని ప్రారంభించండి.</string>
+    <string name="permission_toast_enable_permissions">అనువర్తన లాకర్‌ను ఉపయోగించడానికి అనుమతులను ప్రారంభించండి</string>
+
+    <string name="draw_pattern_title">క్రొత్త నమూనాను సృష్టించండి</string>
+    <string name="redraw_pattern_title">పూర్తి చేయడానికి మళ్లీ గీయండి</string>
+
+    <string name="recreate_pattern_error">సరళి సరిపోలలేదు. మళ్లీ గీయండి.</string>
+
+    <string name="create_pattern_successful">విజయవంతంగా సృష్టించబడింది.</string>
+    <string name="overlay_prompt_pattern_title">అనువర్తనాన్ని తెరవడానికి నమూనాను గీయండి</string>
+    <string name="overlay_prompt_pattern_title_wrong">తప్పు నమూనా. మళ్ళీ గీయండి.</string>
+    <string name="overlay_prompt_pattern_title_correct">సరళి సరైనది.</string>
+
+    <string name="overlay_prompt_fingerprint_title">అనువర్తనాన్ని తెరవడానికి నమూనాను గీయండి</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ సరిపోలలేదు. + %1$s + మిగిలి ఉంది.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">వేలిముద్ర సరిపోలింది!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">వేలిముద్ర లోపం! నమూనాను ప్రయత్నించండి.</string>
+    <string name="dialog_title_rate_us">మీకు సురక్షిత జోన్ నచ్చిందా?</string>
+    <string name="dialog_description_rate_us">మీరు మమ్మల్ని మార్కెట్లో రేట్ చేస్తే మేము చాలా సంతోషంగా ఉంటాము.</string>
+    <string name="dialog_action_rate_us_rate">రేటు</string>
+
+    <string name="dialog_action_rate_us_later">తరువాత</string>
+    <string name="dialog_title_usage_permission">Android 5.0 అనుమతి</string>
+    <string name="dialog_description_usage_permission">Android 5.0 లేదా అంతకంటే ఎక్కువ, మీరు వినియోగ ప్రాప్యతను అనుమతించాలి
+        AppLocker, తద్వారా మీరు సురక్షిత జోన్ లక్షణాన్ని ఉపయోగించవచ్చు</string>
+    <string name="dialog_action_usage_permission_permit">అనుమతి</string>
+
+    <string name="dialog_action_usage_permission_cancel">రద్దు చేయండి</string>
+    <string name="dialog_title_privacy_policy">గోప్యతా విధానం</string>
+    <string name="dialog_description_privacy_policy">మేము మా గోప్యతా విధానాన్ని నవీకరించాము. కొనసాగించడం ద్వారా మీరు అంగీకరిస్తున్నారు<u> గోప్యతా విధానం</u> </string>
+    <string name="dialog_action_privacy_policy_accept">అంగీకరించు</string>
+
+    <string name="hint_browser_search">URL ను శోధించండి లేదా నమోదు చేయండి</string>
+    <string name="facebook">ఫేస్బుక్</string>
+
+    <string name="twitter">ట్విట్టర్</string>
+
+    <string name="snapchat">స్నాప్‌చాట్</string>
+
+
+    <string name="instagram">ఇన్స్టాగ్రామ్</string>
+    <string name="youtube">రెడ్డిట్</string>
+    <string name="title_browser_empty">సేఫ్.సెక్యూర్.ప్రైవేట్.</string>
+    <string name="subtitle_browser_empty">ఇంటర్నెట్‌లో సర్ఫ్ చేయండి. సురక్షితంగా.</string>
+    <string name="bookmarks">బుక్‌మార్క్‌లు</string>
+    <string name="title_name_unknown_number">తెలియని సంఖ్య</string>
+
+
+
+    <string name="blacklist_empty_title">బ్లాక్లిస్ట్ ఖాళీగా ఉంది</string>
+    <string name="blacklist_empty_description">ఫోన్ నంబర్‌ను బ్లాక్ చేయడానికి క్లిక్ చేయండి</string>
+    <string name="call_log_empty_title">లాగ్‌లు లేవు</string>
+
+    <string name="call_log_empty_description">కాల్ నిరోధించబడినప్పుడు లాగ్ ఇక్కడ కనిపిస్తుంది</string>
+    <string name="dialog_add_to_blacklist_title">ఫోన్ నంబర్‌ను బ్లాక్ చేయండి</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">పేరు (ఐచ్ఛికం)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">ఫోన్ నంబర్‌ను నమోదు చేయండి</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">రద్దు చేయండి</string>
+    <string name="dialog_black_list_delete_title">బ్లాక్లిస్ట్ నుండి తొలగించండి</string>
+    <string name="dialog_black_list_delete_description">మీరు బ్లాక్ జాబితా నుండి బ్లాక్ చేసిన సంఖ్యను తొలగించాలనుకుంటున్నారా?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">రద్దు చేయండి</string>
+    <string name="dialog_title_add_to_vault">ప్రాసెసింగ్</string>
+    <string name="dialog_description_process">మీ మీడియా గ్యాలరీ నుండి తీసివేసి మీ ఖజానాకు జోడిస్తోంది.</string>
+
+    <string name="dialog_title_removal_confirmation">తొలగింపు నిర్ధారణ</string>
+    <string name="dialog_description_removal">ఈ ఫైల్ ఖజానా నుండి తీసివేసి గ్యాలరీలోకి చూపబడుతుంది.</string>
+    <string name="dialog_action_removal_confirmation_accept">అంగీకరించు</string>
+
+    <string name="vault_photo_empty_page_title">ఫోటో వాల్ట్ ఖాళీగా ఉంది</string>
+    <string name="vault_photo_empty_page_description">గ్యాలరీ నుండి ఫోటోలను దాచడానికి చిహ్నాన్ని జోడించండి</string>
+    <string name="vault_video_empty_page_title">వీడియో వాల్ట్ ఖాళీగా ఉంది</string>
+
+    <string name="vault_video_empty_page_description">గ్యాలరీ నుండి వీడియో ఫోటోలకు చిహ్నాన్ని జోడించండి</string>
+    <string-array name="tabs">
+        <item>భద్రత</item>
+        <item>సెట్టింగులు</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>బ్లాక్లిస్ట్</item>
+        <item>కాల్ లాగ్స్</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>చిత్రాలు</item>
+        <item>వీడియోలు</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">చొరబాటుదారులు పట్టుకోలేదు</string>
+    <string name="empty_page_intruders_description">మీ ఫోన్ సురక్షితం!</string>
+    <string name="Vault">ఖజానా</string>
+    <string name="Call_blocker">కాల్ బ్లాకర్</string>
+    <string name="browser">బ్రౌజర్</string>
+    <string name="theme">థీమ్స్</string>
+    <string name="rate_us">మాకు రేట్ చేయండి</string>
+    <string name="removeads">ప్రీమియం వెర్షన్</string>
+    <string name="enter_pin">పిన్ నమోదు చేయండి</string>
+    <string name="pin_matched">పిన్ సరిపోలింది</string>
+    <string name="confirm_pin">పిన్ను నిర్ధారించండి</string>
+    <string name="pin_chahnged">పిన్ విజయవంతంగా మార్చబడింది</string>
+    <string name="pin_not_matched">పిన్ సరిపోలలేదు</string>
+    <string name="incorrect_pin">తప్పు పిన్</string>
+    <string name="settings_set_pin">పిన్ సెట్ చేయండి</string>
+    <string name="change_pin">పిన్ మార్చండి</string>
+    <string name="settings_set_pin_description">క్రొత్త పిన్ను సెట్ చేయండి</string>
+    <string name="create_new_pin">క్రొత్త పిన్ను సృష్టించండి</string>
+    <string name="home">హోమ్</string>
+    <string name="settings_change_pin_description">మీ ప్రస్తుత పిన్ను మార్చండి</string>
+    <string name="message_pin_changed">పిన్ విజయవంతంగా మార్చబడింది</string>
+    <string name="non_protected">రక్షించబడలేదు</string>
+    <string name="status_protected">రక్షించబడింది</string>
+    <string name="starting_hour">ప్రారంభ గంట</string>
+    <string name="ending_hour">గంట ముగిసింది</string>
+    <string name="auto_start_p">ఆటో-రన్ అనుమతి</string>
+    <string name="permission_usage_access_description1">ఆటో-రన్ ఎంపికను తెరవండి</string>
+
+
+    <string name="privat_browser">ప్రైవేట్ బ్రౌజర్</string>
+    <string name="prem_title">ప్రీమియం వెర్షన్ ఎప్పటికీ</string>
+    <string name="prem_no_ads">ఎప్పటికీ AD లు లేవు</string>
+    <string name="prem_restore">కొనుగోలు పునరుద్ధరించడానికి</string>
+
+    <string name="please_give_us_five_stars">దయచేసి ప్లేమార్కెట్‌లో మాకు ఐదు నక్షత్రాలను ఇవ్వండి! మేము చాలా అభినందిస్తున్నాము!</string>
+    <string name="great_tex">గొప్పది!</string>
+    <string name="choose_the_icon">చిహ్నాన్ని ఎంచుకోండి మరియు అసలు చిహ్నం మార్చబడుతుంది. చొరబాటుదారుల నుండి ఈ అనువర్తనాన్ని దాచండి</string>
+    <string name="app_name1">గడియారం</string>
+    <string name="app_name2">మ్యాప్స్</string>
+    <string name="app_name3">క్యాలెండర్</string>
+    <string name="app_name4">సంగీతం</string>
+    <string name="app_name5">కాలిక్యులేటర్</string>
+
+    <string name="callblocker_black">బ్లాక్ జాబితా</string>
+    <string name="callblocker_logs">కాల్ లాగ్‌లు</string>
+    <string name="icon_change_title">చిహ్నాలు</string>
+    <string name="intruders_title">చొరబాటుదారుడు</string>
+    <string name="intruders_access_apps">వినియోగంతో అనువర్తనాలను ప్రాప్యత చేయండి</string>
+    <string name="main_unlocked">అన్‌లాక్ చేయబడింది</string>
+    <string name="main_locked">లాక్ చేయబడింది</string>
+    <string name="prem_not_sub">ఇది చందా కాదు. మీరు ఒక్కసారి మాత్రమే చెల్లించాలి!</string>
+    <string name="prem_fake_icon">నకిలీ చిహ్నం</string>
+    <string name="prem_intruders">చొరబాటు సెల్ఫీ</string>
+    <string name="prem_themes">మరింత సృజనాత్మక థీమ్స్</string>
+    <string name="prem_one_time">వన్-టైమ్ చెల్లింపు</string>
+    <string name="splash_create">మీ గోప్యతను రక్షించడానికి సృష్టించబడింది</string>
+    <string name="vault_photos">ఫోటోలు</string>
+    <string name="vault_videos">వీడియోలు</string>
+    <string name="btn_ok">అలాగే</string>
+    <string name="dialog_intruder_text">మీరు ఫోటోను తొలగించాలనుకుంటున్నారా?</string>
+    <string name="btn_cancel">రద్దు చేయండి</string>
+    <string name="fragment_security_text">Opps! You n మీకు ఇంకా లాక్ చేసిన అనువర్తనాలు లేవు</string>
+    <string name="settings_security">భద్రత</string>
+    <string name="settings_face_icon">నకిలీ చిహ్నం</string>
+    <string name="settings_face_icon_text">ఈ అనువర్తనం యొక్క అసలు చిహ్నం మార్చబడుతుంది</string>
+    <string name="rate_us_enjoying">మీరు యాప్‌లాక్‌ను ఆనందిస్తున్నారా?</string>
+    <string name="rate_us_could_be">ఇంకా బాగా చెయ్యవచ్చు</string>
+    <string name="menu_privacy">గోప్యతా విధానం</string>
+    <string name="menu_contact">మమ్మల్ని సంప్రదించండి</string>
+    <string name="menu_face_icon">నకిలీ చిహ్నం</string>
+    <string name="menu_intruder">చొరబాటు మేనేజర్</string>
+    <string name="menu_chat">చాట్ రూమ్</string>
+
+</resources>

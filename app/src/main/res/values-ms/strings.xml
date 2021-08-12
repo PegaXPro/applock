@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Tetapan</string>
+
+  
+
+    <string name="share">Berkongsi</string>
+
+    <string name="notification_protecting_title">Melindungi aplikasi anda</string>
+
+    <string name="notification_protecting_description">Kunci aplikasi anda untuk melindungi privasi anda.</string>
+
+    <string name="notification_permission_need_title">Aktifkan kebenaran untuk perlindungan</string>
+
+    <string name="notification_permission_need_description">Tolong izinkan kebenaran anda untuk menggunakan loker aplikasi.</string>
+    <string name="you_accept_privacy_policy">Dengan meneruskan anda bersetuju<u> Dasar Privasi</u> </string>
+
+    <string name="header_recommended_to_lock">Disyorkan untuk dikunci</string>
+    <string name="header_all_apps">Semua aplikasi</string>
+
+    <string name="title_general_settings">Am</string>
+
+    <string name="title_lock_all">Kunci semua</string>
+    <string name="description_lock_all">Ini akan mengunci semua aplikasi anda</string>
+
+ 
+    <string name="title_unlock_all">Buka kunci semua</string>
+
+    <string name="description_unlock_all">Ini akan membuka kunci semua aplikasi anda</string>
+    <string name="settings_change_pattern_title">Tukar corak</string>
+
+    <string name="settings_change_pattern_description">Tukar corak yang ada</string>
+    <string name="message_pattern_changed">Corak berjaya diubah</string>
+
+    <string name="setting_in_stealth_mode_title">Sembunyikan lukisan</string>
+    <string name="setting_in_stealth_mode_description">Corak tidak kelihatan semasa melukis</string>
+    <string name="setting_fingerprint_title">Dayakan cap jari</string>
+
+    <string name="setting_fingerprint_description">Lancarkan aplikasi dengan cap jari anda.</string>
+    <string name="setting_fingerprint_not_supported_title">Cap jari tidak disokong</string>
+
+    <string name="setting_fingerprint_not_supported_description">Peranti anda tidak mempunyai sensor</string>
+    <string name="setting_fingerprint_not_registered_title">Daftarkan cap jari anda</string>
+
+    <string name="setting_fingerprint_not_registered_description">Pergi ke tetapan keselamatan</string>
+    <string name="next">Seterusnya</string>
+
+    <string name="permission_usage_access_title">Kebenaran akses penggunaan</string>
+    <string name="permission_usage_access_description">Aktifkan akses penggunaan untuk menggunakan loker aplikasi.</string>
+
+    <string name="permission_overlay_title">Kebenaran skrin kunci</string>
+
+    <string name="settings_card_intruders_title">Penceroboh Tangkap</string>
+    <string name="settings_enable_intruders_title">Ambil gambar penceroboh</string>
+    <string name="settings_enable_intruders_description">Membolehkan menangkap penceroboh.</string>
+
+    <string name="settings_intruders_folder_title">Menangkap gambar penceroboh</string>
+    <string name="settings_intruders_folder_description">Klik untuk melihat pengintip di telefon anda.</string>
+
+    <string name="settings_card_advance_protection_title">Perlindungan Pendahuluan</string>
+    <string name="settings_enable_advance_protection_title">Dayakan perlindungan pendahuluan</string>
+    <string name="settings_enable_advance_protection_description">Untuk mengaktifkan Advance Protection, aktifkan App Lock Pro sebagai "pentadbir peranti". Ia hanya digunakan untuk mencegah penyusup menyahpasang dan memaksa menghentikan App Lock Pro. Harap pastikan bahawa App Lock Pro tidak akan pernah menggunakan izin ini untuk mengakses data privasi anda .</string>
+    <string name="device_admin_permission_description">Aktifkan sekarang, perlindungan lebih awal dan lebih selamat! \n\nUntuk mengaktifkan Perlindungan Pendahuluan, aktifkan App Lock Pro sebagai "pentadbir peranti". Ia hanya digunakan untuk mencegah penyusup menyahpasang dan memaksa menghentikan App Lock Pro. Harap pastikan bahawa App Lock Pro tidak akan pernah menggunakan kebenaran ini untuk mengakses data privasi anda.</string>
+
+
+    <string name="permission_overlay_description">Dayakan tindanan untuk menunjukkan skrin kunci.</string>
+    <string name="permission_toast_enable_permissions">Dayakan kebenaran untuk menggunakan loker aplikasi</string>
+
+    <string name="draw_pattern_title">Buat corak baru</string>
+    <string name="redraw_pattern_title">Buat semula untuk menyelesaikan</string>
+
+    <string name="recreate_pattern_error">Corak tidak sepadan. Redraw.</string>
+
+    <string name="create_pattern_successful">Berjaya dibuat.</string>
+    <string name="overlay_prompt_pattern_title">Lukis corak untuk membuka aplikasi</string>
+    <string name="overlay_prompt_pattern_title_wrong">Corak yang salah. Lukis lagi.</string>
+    <string name="overlay_prompt_pattern_title_correct">Corak betul.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Lukis corak untuk membuka aplikasi</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Tidak + sepadan. + %1$s + kiri.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Cap jari dipadankan!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Kesalahan cap jari! Cuba corak.</string>
+    <string name="dialog_title_rate_us">Adakah anda suka Secure Zone?</string>
+    <string name="dialog_description_rate_us">Kami akan sangat gembira Sekiranya anda menilai kami di pasaran.</string>
+    <string name="dialog_action_rate_us_rate">Nilaikan</string>
+
+    <string name="dialog_action_rate_us_later">Kemudian</string>
+    <string name="dialog_title_usage_permission">Kebenaran Android 5.0</string>
+    <string name="dialog_description_usage_permission">Pada Android 5.0 atau lebih tinggi, anda perlu membenarkan akses penggunaan untuk
+        AppLocker, supaya anda dapat menggunakan Fitur Zon Selamat</string>
+    <string name="dialog_action_usage_permission_permit">Permit</string>
+
+    <string name="dialog_action_usage_permission_cancel">Batal</string>
+    <string name="dialog_title_privacy_policy">Dasar Privasi</string>
+    <string name="dialog_description_privacy_policy">Kami telah mengemas kini dasar privasi kami. Dengan meneruskan anda bersetuju<u> Dasar Privasi</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Terima</string>
+
+    <string name="hint_browser_search">Cari atau masukkan URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Selamat.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Melayari di internet. Dengan selamat.</string>
+    <string name="bookmarks">Penanda buku</string>
+    <string name="title_name_unknown_number">Nombor Tidak Diketahui</string>
+
+
+
+    <string name="blacklist_empty_title">Senarai hitam kosong</string>
+    <string name="blacklist_empty_description">Klik untuk menyekat nombor telefon</string>
+    <string name="call_log_empty_title">Tiada Log</string>
+
+    <string name="call_log_empty_description">Log muncul di sini apabila panggilan disekat</string>
+    <string name="dialog_add_to_blacklist_title">Sekat nombor telefon</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nama (Pilihan)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Masukkan nombor telefon</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Batal</string>
+    <string name="dialog_black_list_delete_title">Padamkan dari senarai hitam</string>
+    <string name="dialog_black_list_delete_description">Adakah anda mahu mengeluarkan nombor yang disekat dari senarai hitam?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Batal</string>
+    <string name="dialog_title_add_to_vault">Memproses</string>
+    <string name="dialog_description_process">Media anda mengeluarkan dari galeri dan menambahkan ke peti besi anda.</string>
+
+    <string name="dialog_title_removal_confirmation">Pengesahan Penyingkiran</string>
+    <string name="dialog_description_removal">Fail ini akan dikeluarkan dari peti besi dan ditunjukkan ke galeri.</string>
+    <string name="dialog_action_removal_confirmation_accept">Terima</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault kosong</string>
+    <string name="vault_photo_empty_page_description">Tambah ikon untuk menyembunyikan foto dari galeri</string>
+    <string name="vault_video_empty_page_title">Video Vault kosong</string>
+
+    <string name="vault_video_empty_page_description">Tambahkan ikon pada foto video dari galeri</string>
+    <string-array name="tabs">
+        <item>Keselamatan</item>
+        <item>Tetapan</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Senarai hitam</item>
+        <item>Log Panggilan</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Gambar</item>
+        <item>Video</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Tiada Penceroboh</string>
+    <string name="empty_page_intruders_description">Telefon anda selamat!</string>
+    <string name="Vault">Bilik kebal</string>
+    <string name="Call_blocker">Penyekat Panggilan</string>
+    <string name="browser">Penyemak Imbas</string>
+    <string name="theme">Tema</string>
+    <string name="rate_us">Nilaikan kami</string>
+    <string name="removeads">Versi premium</string>
+    <string name="enter_pin">Masukkan pin</string>
+    <string name="pin_matched">Pin dipadankan</string>
+    <string name="confirm_pin">Sahkan pin</string>
+    <string name="pin_chahnged">Pin berjaya diubah</string>
+    <string name="pin_not_matched">Pin tidak sepadan</string>
+    <string name="incorrect_pin">Pin yang tidak betul</string>
+    <string name="settings_set_pin">Tetapkan pin</string>
+    <string name="change_pin">Tukar pin</string>
+    <string name="settings_set_pin_description">Tetapkan pin baru</string>
+    <string name="create_new_pin">Buat pin baru</string>
+    <string name="home">Rumah</string>
+    <string name="settings_change_pin_description">Tukar pin yang ada</string>
+    <string name="message_pin_changed">Pin Berubah Berjaya</string>
+    <string name="non_protected">Tidak Dilindungi</string>
+    <string name="status_protected">Dilindungi</string>
+    <string name="starting_hour">Jam Permulaan</string>
+    <string name="ending_hour">Jam Akhir</string>
+    <string name="auto_start_p">kebenaran menjalankan automatik</string>
+    <string name="permission_usage_access_description1">buka pilihan larian automatik</string>
+
+
+    <string name="privat_browser">Penyemak Imbas Peribadi</string>
+    <string name="prem_title">Versi Premium Selamanya</string>
+    <string name="prem_no_ads">Tiada Iklan Selamanya</string>
+    <string name="prem_restore">Pulihkan Pembelian</string>
+
+    <string name="please_give_us_five_stars">Tolong beri kami lima bintang di Google Play! Kami sangat menghargainya!</string>
+    <string name="great_tex">Hebat!</string>
+    <string name="choose_the_icon">Pilih ikon dan ikon asal akan diubah. Sembunyikan aplikasi ini dari penceroboh</string>
+    <string name="app_name1">Jam</string>
+    <string name="app_name2">Peta</string>
+    <string name="app_name3">Kalendar</string>
+    <string name="app_name4">Muzik</string>
+    <string name="app_name5">Kalkulator</string>
+
+    <string name="callblocker_black">Senarai hitam</string>
+    <string name="callblocker_logs">Log panggilan</string>
+    <string name="icon_change_title">Ikon</string>
+    <string name="intruders_title">Penceroboh</string>
+    <string name="intruders_access_apps">Akses aplikasi dengan penggunaan</string>
+    <string name="main_unlocked">Tidak berkunci</string>
+    <string name="main_locked">Terkunci</string>
+    <string name="prem_not_sub">Ini bukan langganan. Anda bayar sekali sahaja!</string>
+    <string name="prem_fake_icon">Ikon Palsu</string>
+    <string name="prem_intruders">Selfie penceroboh</string>
+    <string name="prem_themes">Tema yang lebih kreatif</string>
+    <string name="prem_one_time">Bayaran sekali sahaja</string>
+    <string name="splash_create">Dicipta untuk melindungi privasi anda</string>
+    <string name="vault_photos">Gambar</string>
+    <string name="vault_videos">Video</string>
+    <string name="btn_ok">okey</string>
+    <string name="dialog_intruder_text">Adakah anda mahu memadamkan foto itu?</string>
+    <string name="btn_cancel">BATAL</string>
+    <string name="fragment_security_text">Opps! \n Anda belum mempunyai apl terkunci</string>
+    <string name="settings_security">Keselamatan</string>
+    <string name="settings_face_icon">Ikon Palsu</string>
+    <string name="settings_face_icon_text">Ikon asal aplikasi ini akan diubah</string>
+    <string name="rate_us_enjoying">Adakah anda menikmati AppLock?</string>
+    <string name="rate_us_could_be">ia boleh menjadi lebih baik</string>
+    <string name="menu_privacy">Dasar Privasi</string>
+    <string name="menu_contact">Hubungi Kami</string>
+    <string name="menu_face_icon">Ikon Palsu</string>
+    <string name="menu_intruder">Pengurus Penceroboh</string>
+    <string name="menu_chat">Bilik berbual</string>
+
+</resources>

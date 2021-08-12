@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Anviwònman</string>
+
+  
+
+    <string name="share">Pataje</string>
+
+    <string name="notification_protecting_title">Pwoteje apps ou yo</string>
+
+    <string name="notification_protecting_description">Fèmen pòt apps ou yo pou pwoteje vi prive ou.</string>
+
+    <string name="notification_permission_need_title">Pèmèt pèmisyon pou pwoteksyon</string>
+
+    <string name="notification_permission_need_description">Tanpri pèmèt otorizasyon ou yo sèvi ak kazye app.</string>
+    <string name="you_accept_privacy_policy">Pa kontinye ou dakò a<u> Règleman sou enfòmasyon prive</u> </string>
+
+    <string name="header_recommended_to_lock">Rekòmande pou fèmen</string>
+    <string name="header_all_apps">Tout aplikasyon yo</string>
+
+    <string name="title_general_settings">Jeneral</string>
+
+    <string name="title_lock_all">Fèmen tout bagay</string>
+    <string name="description_lock_all">Sa a pral fèmen tout nan apps ou</string>
+
+ 
+    <string name="title_unlock_all">Degaje tout</string>
+
+    <string name="description_unlock_all">Sa a pral déblotché tout nan apps ou</string>
+    <string name="settings_change_pattern_title">Chanje modèl</string>
+
+    <string name="settings_change_pattern_description">Chanje modèl ki egziste deja ou</string>
+    <string name="message_pattern_changed">Modèl chanje avèk siksè</string>
+
+    <string name="setting_in_stealth_mode_title">Kache desen an</string>
+    <string name="setting_in_stealth_mode_description">Modèl envizib pandan y ap trase</string>
+    <string name="setting_fingerprint_title">Pèmèt anprent</string>
+
+    <string name="setting_fingerprint_description">Lanse app ak anprent ou.</string>
+    <string name="setting_fingerprint_not_supported_title">Anprent pa sipòte</string>
+
+    <string name="setting_fingerprint_not_supported_description">Aparèy ou a pa gen Capteur</string>
+    <string name="setting_fingerprint_not_registered_title">Enskri anprent ou an</string>
+
+    <string name="setting_fingerprint_not_registered_description">Ale nan anviwònman sekirite</string>
+    <string name="next">Next</string>
+
+    <string name="permission_usage_access_title">Pèmisyon aksè Itilizasyon</string>
+    <string name="permission_usage_access_description">Pèmèt aksè l \'yo sèvi ak kazye app.</string>
+
+    <string name="permission_overlay_title">Fèmen ekran pèmisyon</string>
+
+    <string name="settings_card_intruders_title">Trape entrigan</string>
+    <string name="settings_enable_intruders_title">Pran foto entru</string>
+    <string name="settings_enable_intruders_description">Pèmèt trape entru.</string>
+
+    <string name="settings_intruders_folder_title">Kenbe foto entru</string>
+    <string name="settings_intruders_folder_description">Klike sou yo wè espyon sou telefòn ou.</string>
+
+    <string name="settings_card_advance_protection_title">Pwoteksyon Davans</string>
+    <string name="settings_enable_advance_protection_title">Pèmèt pwoteksyon davans</string>
+    <string name="settings_enable_advance_protection_description">Pou pèmèt Pwoteksyon Davans, tanpri aktive App Lock Pro kòm "administratè aparèy" .Li sèlman itilize pou anpeche entru dezenstalan ak fòs kanpe App Lock Pro.Tanpri asire ke App Lock Pro pap janm sèvi ak pèmisyon sa a pou jwenn aksè nan enfòmasyon prive ou yo. .</string>
+    <string name="device_admin_permission_description">Aktive kounye a, pwoteksyon davans ak plis sekirite! \n\nPou pèmèt Pwoteksyon Davans, tanpri aktive App Lock Pro kòm "administratè aparèy" .Li sèlman itilize pou anpeche entru dezenstalan ak fòs kanpe App Lock Pro.Tanpri asire ke App Lock Pro pap janm sèvi ak pèmisyon sa a pou jwenn aksè nan enfòmasyon prive ou yo.</string>
+
+
+    <string name="permission_overlay_description">Pèmèt kouvri yo montre ekran fèmen.</string>
+    <string name="permission_toast_enable_permissions">Pèmèt autorisations yo sèvi ak kazye app</string>
+
+    <string name="draw_pattern_title">Kreye yon nouvo modèl</string>
+    <string name="redraw_pattern_title">Redraw ranpli</string>
+
+    <string name="recreate_pattern_error">Modèl pa matche. Redraw.</string>
+
+    <string name="create_pattern_successful">Siksè kreye.</string>
+    <string name="overlay_prompt_pattern_title">Trase modèl yo louvri app</string>
+    <string name="overlay_prompt_pattern_title_wrong">Move modèl. Trase ankò.</string>
+    <string name="overlay_prompt_pattern_title_correct">Modèl kòrèk.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Trase modèl yo louvri app</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Pa + matche. + %1$s + kite.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Anprent matche!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Anprent erè! Eseye modèl.</string>
+    <string name="dialog_title_rate_us">Eske ou te renmen Tache Zòn?</string>
+    <string name="dialog_description_rate_us">Nou pral sooo kontan Si ou pousantaj nou sou mache.</string>
+    <string name="dialog_action_rate_us_rate">To</string>
+
+    <string name="dialog_action_rate_us_later">Pita</string>
+    <string name="dialog_title_usage_permission">Android 5.0 pèmisyon</string>
+    <string name="dialog_description_usage_permission">Nan android 5.0 oswa pi wo a, ou bezwen pèmèt aksè l \'pou
+        AppLocker, pou ke ou ka itilize Fonksyon Zòn Tache</string>
+    <string name="dialog_action_usage_permission_permit">Pèmi</string>
+
+    <string name="dialog_action_usage_permission_cancel">Anile</string>
+    <string name="dialog_title_privacy_policy">Règleman sou enfòmasyon prive</string>
+    <string name="dialog_description_privacy_policy">Nou mete ajou politik vi prive nou yo. Pa kontinye ou dakò a<u> Règleman sou enfòmasyon prive</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Aksepte</string>
+
+    <string name="hint_browser_search">Rechèch oswa antre URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Navige sou entènèt la. Byen.</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="title_name_unknown_number">Nimewo enkoni</string>
+
+
+
+    <string name="blacklist_empty_title">Lis nwa a vid</string>
+    <string name="blacklist_empty_description">Klike sou yo bloke nimewo telefòn</string>
+    <string name="call_log_empty_title">Pa gen mòso bwa</string>
+
+    <string name="call_log_empty_description">Journal parèt isit la lè apèl bloke</string>
+    <string name="dialog_add_to_blacklist_title">Bloke nimewo telefòn</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Non (Si ou vle)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Mete nimewo telefòn</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Anile</string>
+    <string name="dialog_black_list_delete_title">Efase nan lis nwa a</string>
+    <string name="dialog_black_list_delete_description">Èske ou vle retire nimewo bloke nan lis nwa?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Anile</string>
+    <string name="dialog_title_add_to_vault">Pwosesis</string>
+    <string name="dialog_description_process">Medya ou yo retire nan galri ak ajoute nan vout ou.</string>
+
+    <string name="dialog_title_removal_confirmation">Retire Konfimasyon</string>
+    <string name="dialog_description_removal">Dosye sa a pral retire nan vout epi montre nan galri.</string>
+    <string name="dialog_action_removal_confirmation_accept">Aksepte</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault vid</string>
+    <string name="vault_photo_empty_page_description">Add icon pou kache foto nan galri</string>
+    <string name="vault_video_empty_page_title">Vout Videyo a vid</string>
+
+    <string name="vault_video_empty_page_description">Add icon nan foto videyo ki soti nan galri</string>
+    <string-array name="tabs">
+        <item>Sekirite</item>
+        <item>Anviwònman</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Lis nwa</item>
+        <item>Rele mòso bwa</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Imaj</item>
+        <item>Videyo</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Pa gen entrigan kenbe</string>
+    <string name="empty_page_intruders_description">Telefòn ou an sekirite!</string>
+    <string name="Vault">Vout</string>
+    <string name="Call_blocker">Rele Blocker</string>
+    <string name="browser">Navigatè</string>
+    <string name="theme">Tèm</string>
+    <string name="rate_us">To nou</string>
+    <string name="removeads">Premium vèsyon</string>
+    <string name="enter_pin">Mete peny</string>
+    <string name="pin_matched">PIN matche</string>
+    <string name="confirm_pin">Konfime PIN</string>
+    <string name="pin_chahnged">PIN chanje avèk siksè</string>
+    <string name="pin_not_matched">PIN pa matche</string>
+    <string name="incorrect_pin">PIN ki pa kòrèk</string>
+    <string name="settings_set_pin">Mete PIN</string>
+    <string name="change_pin">Chanje peny</string>
+    <string name="settings_set_pin_description">Mete nouvo peny</string>
+    <string name="create_new_pin">Kreye yon nouvo peny</string>
+    <string name="home">Lakay</string>
+    <string name="settings_change_pin_description">Chanje PIN ki egziste deja ou</string>
+    <string name="message_pin_changed">PIN chanje avèk siksè</string>
+    <string name="non_protected">Ki pa Pwoteje</string>
+    <string name="status_protected">Pwoteje</string>
+    <string name="starting_hour">Kòmanse Lè</string>
+    <string name="ending_hour">Fini Lè</string>
+    <string name="auto_start_p">oto-kouri pèmisyon</string>
+    <string name="permission_usage_access_description1">louvri opsyon nan oto-kouri</string>
+
+
+    <string name="privat_browser">Navigatè Prive</string>
+    <string name="prem_title">Premium Version pou tout tan</string>
+    <string name="prem_no_ads">Pa gen piblisite pou tout tan</string>
+    <string name="prem_restore">Renmèt Achte</string>
+
+    <string name="please_give_us_five_stars">Tanpri, ban nou senk zetwal sou Google Play! Nou ta apresye li anpil!</string>
+    <string name="great_tex">Gran!</string>
+    <string name="choose_the_icon">Chwazi icon a epi yo pral chanje icon orijinal la. Kache app sa a soti nan entru</string>
+    <string name="app_name1">Revèy</string>
+    <string name="app_name2">Kat</string>
+    <string name="app_name3">Kalandriye</string>
+    <string name="app_name4">Mizik</string>
+    <string name="app_name5">Kalkilatris</string>
+
+    <string name="callblocker_black">Lis nwa</string>
+    <string name="callblocker_logs">Rele mòso bwa</string>
+    <string name="icon_change_title">Icônes</string>
+    <string name="intruders_title">Entrigan</string>
+    <string name="intruders_access_apps">Aksè apps ak itilizasyon</string>
+    <string name="main_unlocked">Degaje</string>
+    <string name="main_locked">Fèmen</string>
+    <string name="prem_not_sub">Sa a se pa yon abònman. Ou peye yon sèl fwa!</string>
+    <string name="prem_fake_icon">Fo Icon</string>
+    <string name="prem_intruders">Selfie entru</string>
+    <string name="prem_themes">Plis tèm kreyatif</string>
+    <string name="prem_one_time">Yon sèl-fwa Peman</string>
+    <string name="splash_create">Kreye pou pwoteje vi prive ou</string>
+    <string name="vault_photos">Foto</string>
+    <string name="vault_videos">Videyo</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">Èske ou ta renmen efase foto a?</string>
+    <string name="btn_cancel">ANILE</string>
+    <string name="fragment_security_text">Opps! \n Ou poko fèmen aplikasyon yo</string>
+    <string name="settings_security">Sekirite</string>
+    <string name="settings_face_icon">Fo Icon</string>
+    <string name="settings_face_icon_text">Pral icon orijinal la nan app sa a ap chanje</string>
+    <string name="rate_us_enjoying">Èske ou jwi AppLock?</string>
+    <string name="rate_us_could_be">li ta ka pi bon</string>
+    <string name="menu_privacy">Règleman sou enfòmasyon prive</string>
+    <string name="menu_contact">Kontakte nou</string>
+    <string name="menu_face_icon">Fo Icon</string>
+    <string name="menu_intruder">Manadjè entru</string>
+    <string name="menu_chat">Chat Room</string>
+
+</resources>

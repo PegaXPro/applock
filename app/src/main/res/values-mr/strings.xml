@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">अ‍ॅपलॉक</string>
+
+    <string name="action_settings">सेटिंग्ज</string>
+
+  
+
+    <string name="share">सामायिक करा</string>
+
+    <string name="notification_protecting_title">आपल्या अ‍ॅप्सचे संरक्षण करीत आहे</string>
+
+    <string name="notification_protecting_description">आपल्या गोपनीयतेचे रक्षण करण्यासाठी आपले अ‍ॅप्स लॉक करा.</string>
+
+    <string name="notification_permission_need_title">संरक्षणाची परवानगी सक्षम करा</string>
+
+    <string name="notification_permission_need_description">कृपया अ‍ॅप लॉकर वापरण्यासाठी आपल्या परवानग्या सक्षम करा.</string>
+    <string name="you_accept_privacy_policy">सुरु ठेवून आपण सहमती देता<u> गोपनीयता धोरण</u> </string>
+
+    <string name="header_recommended_to_lock">लॉक करण्याची शिफारस केली</string>
+    <string name="header_all_apps">सर्व अनुप्रयोग</string>
+
+    <string name="title_general_settings">सामान्य</string>
+
+    <string name="title_lock_all">सर्व लॉक करा</string>
+    <string name="description_lock_all">हे आपले सर्व अॅप्स लॉक करेल</string>
+
+ 
+    <string name="title_unlock_all">सर्व अनलॉक करा</string>
+
+    <string name="description_unlock_all">हे आपले सर्व अॅप्स अनलॉक करेल</string>
+    <string name="settings_change_pattern_title">पॅटर्न बदला</string>
+
+    <string name="settings_change_pattern_description">आपला विद्यमान पॅटर्न बदला</string>
+    <string name="message_pattern_changed">नमुना यशस्वीरित्या बदलला</string>
+
+    <string name="setting_in_stealth_mode_title">रेखांकन लपवा</string>
+    <string name="setting_in_stealth_mode_description">रेखांकन करताना अदृश्य नमुना</string>
+    <string name="setting_fingerprint_title">फिंगरप्रिंट सक्षम करा</string>
+
+    <string name="setting_fingerprint_description">आपल्या फिंगरप्रिंटसह अॅप लाँच करा.</string>
+    <string name="setting_fingerprint_not_supported_title">फिंगरप्रिंट समर्थित नाही</string>
+
+    <string name="setting_fingerprint_not_supported_description">आपल्या डिव्हाइसवर सेन्सर नाही</string>
+    <string name="setting_fingerprint_not_registered_title">आपला फिंगरप्रिंट नोंदवा</string>
+
+    <string name="setting_fingerprint_not_registered_description">सुरक्षा सेटिंग्जवर जा</string>
+    <string name="next">पुढे</string>
+
+    <string name="permission_usage_access_title">वापर प्रवेश परवानगी</string>
+    <string name="permission_usage_access_description">अ‍ॅप लॉकर वापरण्यासाठी वापर प्रवेश सक्षम करा.</string>
+
+    <string name="permission_overlay_title">लॉक स्क्रीन परवानगी</string>
+
+    <string name="settings_card_intruders_title">घुसखोरांना पकडा</string>
+    <string name="settings_enable_intruders_title">घुसखोरांचे चित्र घ्या</string>
+    <string name="settings_enable_intruders_description">घुसखोरांना पकडण्यास सक्षम करा.</string>
+
+    <string name="settings_intruders_folder_title">घुसखोरांचे फोटो घेतले</string>
+    <string name="settings_intruders_folder_description">आपण फोनवर हेर पाहण्यासाठी क्लिक करा.</string>
+
+    <string name="settings_card_advance_protection_title">आगाऊ संरक्षण</string>
+    <string name="settings_enable_advance_protection_title">आगाऊ संरक्षण सक्षम करा</string>
+    <string name="settings_enable_advance_protection_description">अ‍ॅडव्हान्स प्रोटेक्शन सक्षम करण्यासाठी, कृपया अ‍ॅप लॉक प्रोला "डिव्हाइस अ‍ॅडमिनिस्ट्रेटर" म्हणून सक्रिय करा. हे फक्त घुसखोरांना अनइन्स्टॉल करण्यापासून रोखण्यासाठी आणि अ‍ॅप लॉक प्रो सक्तीने थांबविण्याकरिता वापरले गेले आहे. कृपया सुनिश्चित करा की अ‍ॅप लॉक प्रो आपल्या गोपनीय डेटामध्ये प्रवेश करण्यासाठी या परवानगीचा कधीही वापर करणार नाही. .</string>
+    <string name="device_admin_permission_description">आता सक्रिय करा, आगाऊ संरक्षण आणि अधिक सुरक्षित! \n\nअ‍ॅडव्हान्स प्रोटेक्शन सक्षम करण्यासाठी, कृपया अ‍ॅप लॉक प्रो "डिव्हाइस अ‍ॅडमिनिस्ट्रेटर" म्हणून सक्रिय करा. घुसखोरांना अनइन्स्टॉल करण्यापासून रोखण्यासाठी आणि अ‍ॅप लॉक प्रो सक्तीने थांबविण्याकरिता याचा वापर केला गेला आहे. कृपया याची खात्री करुन घ्या की अ‍ॅप लॉक प्रो ही परवानगी कधीही वापरणार नाही. आपल्या गोपनीयता डेटामध्ये प्रवेश करा.</string>
+
+
+    <string name="permission_overlay_description">लॉक स्क्रीन दर्शविण्यासाठी आच्छादन सक्षम करा.</string>
+    <string name="permission_toast_enable_permissions">अ‍ॅप लॉकर वापरण्यासाठी परवानग्या सक्षम करा</string>
+
+    <string name="draw_pattern_title">एक नवीन नमुना तयार करा</string>
+    <string name="redraw_pattern_title">पूर्ण करण्यासाठी पुन्हा चित्रित करा</string>
+
+    <string name="recreate_pattern_error">नमुना जुळत नाही. रेड्रॉ.</string>
+
+    <string name="create_pattern_successful">यशस्वीरित्या तयार केले.</string>
+    <string name="overlay_prompt_pattern_title">अ‍ॅप उघडण्यासाठी नमुना काढा</string>
+    <string name="overlay_prompt_pattern_title_wrong">चुकीची पद्धत. पुन्हा काढा.</string>
+    <string name="overlay_prompt_pattern_title_correct">नमुना बरोबर.</string>
+
+    <string name="overlay_prompt_fingerprint_title">अ‍ॅप उघडण्यासाठी नमुना काढा</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ जुळले नाही. + %1$s + बाकी.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">फिंगरप्रिंट जुळला!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">फिंगरप्रिंट त्रुटी! नमुना वापरून पहा.</string>
+    <string name="dialog_title_rate_us">तुम्हाला सेक्टर झोन आवडला?</string>
+    <string name="dialog_description_rate_us">आपण आम्हाला बाजारात रेट केल्यास आम्ही खूप आनंदी होऊ.</string>
+    <string name="dialog_action_rate_us_rate">दर</string>
+
+    <string name="dialog_action_rate_us_later">नंतर</string>
+    <string name="dialog_title_usage_permission">Android 5.0 परवानगी</string>
+    <string name="dialog_description_usage_permission">Android 5.0 किंवा वरील मध्ये, आपल्याला यासाठी वापरासाठी प्रवेश करण्याची परवानगी देणे आवश्यक आहे
+        अ‍ॅपलॉकर, जेणेकरून आपण सिक्योर झोन फीचर वापरू शकता</string>
+    <string name="dialog_action_usage_permission_permit">परवानगी</string>
+
+    <string name="dialog_action_usage_permission_cancel">रद्द करा</string>
+    <string name="dialog_title_privacy_policy">गोपनीयता धोरण</string>
+    <string name="dialog_description_privacy_policy">आम्ही आमचे गोपनीयता धोरण अद्यतनित केले आहे. सुरु ठेवून आपण सहमती देता<u> गोपनीयता धोरण</u> </string>
+    <string name="dialog_action_privacy_policy_accept">स्वीकारा</string>
+
+    <string name="hint_browser_search">URL शोधा किंवा प्रविष्ट करा</string>
+    <string name="facebook">फेसबुक</string>
+
+    <string name="twitter">ट्विटर</string>
+
+    <string name="snapchat">स्नॅपचॅट</string>
+
+
+    <string name="instagram">इंस्टाग्राम</string>
+    <string name="youtube">रेडडिट</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">इंटरनेट वर सर्फ. सुरक्षितपणे.</string>
+    <string name="bookmarks">बुकमार्क</string>
+    <string name="title_name_unknown_number">अज्ञात क्रमांक</string>
+
+
+
+    <string name="blacklist_empty_title">ब्लॅकलिस्ट रिक्त आहे</string>
+    <string name="blacklist_empty_description">फोन नंबर ब्लॉक करण्यासाठी क्लिक करा</string>
+    <string name="call_log_empty_title">नोंदी नाहीत</string>
+
+    <string name="call_log_empty_description">कॉल अवरोधित केल्यावर लॉग येथे दिसते</string>
+    <string name="dialog_add_to_blacklist_title">फोन नंबर अवरोधित करा</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">नाव (पर्यायी)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">फोन नंबर प्रविष्ट करा</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">रद्द करा</string>
+    <string name="dialog_black_list_delete_title">ब्लॅकलिस्टमधून हटवा</string>
+    <string name="dialog_black_list_delete_description">आपण ब्लॅक सूचीमधून ब्लॉक केलेला नंबर काढू इच्छिता?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">रद्द करा</string>
+    <string name="dialog_title_add_to_vault">प्रक्रिया करीत आहे</string>
+    <string name="dialog_description_process">आपला मीडिया गॅलरीमधून काढून टाकत आहे आणि आपल्या व्हॉल्टमध्ये जोडत आहे.</string>
+
+    <string name="dialog_title_removal_confirmation">काढण्याची पुष्टीकरण</string>
+    <string name="dialog_description_removal">ही फाईल तिजोरीतून काढेल आणि गॅलरीमध्ये दर्शविली जाईल.</string>
+    <string name="dialog_action_removal_confirmation_accept">स्वीकारा</string>
+
+    <string name="vault_photo_empty_page_title">फोटो वॉल्ट रिक्त आहे</string>
+    <string name="vault_photo_empty_page_description">गॅलरीमधून फोटो लपविण्यासाठी चिन्ह जोडा</string>
+    <string name="vault_video_empty_page_title">व्हिडिओ वॉल्ट रिक्त आहे</string>
+
+    <string name="vault_video_empty_page_description">गॅलरीमधून व्हिडिओ फोटोंमध्ये चिन्ह जोडा</string>
+    <string-array name="tabs">
+        <item>सुरक्षा</item>
+        <item>सेटिंग्ज</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>ब्लॅकलिस्ट</item>
+        <item>कॉल लॉग</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>प्रतिमा</item>
+        <item>व्हिडिओ</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">कोणताही घुसखोर पकडला गेला नाही</string>
+    <string name="empty_page_intruders_description">आपला फोन सुरक्षित आहे!</string>
+    <string name="Vault">घर</string>
+    <string name="Call_blocker">कॉल ब्लॉकर</string>
+    <string name="browser">ब्राउझर</string>
+    <string name="theme">थीम्स</string>
+    <string name="rate_us">आम्हाला रेट करा</string>
+    <string name="removeads">प्रीमियम आवृत्ती</string>
+    <string name="enter_pin">पिन प्रविष्ट करा</string>
+    <string name="pin_matched">पिन जुळला</string>
+    <string name="confirm_pin">पिनची पुष्टी करा</string>
+    <string name="pin_chahnged">पिन यशस्वीरित्या बदलला</string>
+    <string name="pin_not_matched">पिन जुळत नाही</string>
+    <string name="incorrect_pin">चुकीचा पिन</string>
+    <string name="settings_set_pin">पिन सेट करा</string>
+    <string name="change_pin">पिन बदला</string>
+    <string name="settings_set_pin_description">नवीन पिन सेट करा</string>
+    <string name="create_new_pin">एक नवीन पिन तयार करा</string>
+    <string name="home">मुख्यपृष्ठ</string>
+    <string name="settings_change_pin_description">आपला विद्यमान पिन बदला</string>
+    <string name="message_pin_changed">पिन यशस्वीरित्या बदलला</string>
+    <string name="non_protected">न संरक्षित</string>
+    <string name="status_protected">संरक्षित</string>
+    <string name="starting_hour">प्रारंभ तास</string>
+    <string name="ending_hour">तास संपत</string>
+    <string name="auto_start_p">स्वयंचलितरित्या परवानगी</string>
+    <string name="permission_usage_access_description1">ऑटो-रन पर्याय उघडा</string>
+
+
+    <string name="privat_browser">खाजगी ब्राउझर</string>
+    <string name="prem_title">कायमचे प्रीमियम आवृत्ती</string>
+    <string name="prem_no_ads">कोणतीही जाहिरात कायमची नाही</string>
+    <string name="prem_restore">खरेदी पुनर्संचयित करा</string>
+
+    <string name="please_give_us_five_stars">कृपया आम्हाला Google Play वर पाच तारे द्या! आम्ही त्याचे खूप कौतुक करू!</string>
+    <string name="great_tex">मस्त!</string>
+    <string name="choose_the_icon">चिन्ह निवडा आणि मूळ चिन्ह बदलेल. घुसखोरांकडून हा अ‍ॅप लपवा</string>
+    <string name="app_name1">घड्याळ</string>
+    <string name="app_name2">नकाशे</string>
+    <string name="app_name3">कॅलेंडर</string>
+    <string name="app_name4">संगीत</string>
+    <string name="app_name5">कॅल्क्युलेटर</string>
+
+    <string name="callblocker_black">काळी यादी</string>
+    <string name="callblocker_logs">कॉल लॉग</string>
+    <string name="icon_change_title">चिन्हे</string>
+    <string name="intruders_title">घुसखोर</string>
+    <string name="intruders_access_apps">वापरासह अ‍ॅप्समध्ये प्रवेश करा</string>
+    <string name="main_unlocked">अनलॉक केले</string>
+    <string name="main_locked">लॉक केलेले</string>
+    <string name="prem_not_sub">ही सदस्यता नाही. आपण फक्त एकदाच पैसे द्या!</string>
+    <string name="prem_fake_icon">बनावट चिन्ह</string>
+    <string name="prem_intruders">घुसखोर सेल्फी</string>
+    <string name="prem_themes">अधिक सर्जनशील थीम</string>
+    <string name="prem_one_time">एक वेळ देय</string>
+    <string name="splash_create">आपली गोपनीयता संरक्षित करण्यासाठी तयार केले</string>
+    <string name="vault_photos">फोटो</string>
+    <string name="vault_videos">व्हिडिओ</string>
+    <string name="btn_ok">ठीक आहे</string>
+    <string name="dialog_intruder_text">आपण फोटो हटवू इच्छिता?</string>
+    <string name="btn_cancel">रद्द करा</string>
+    <string name="fragment_security_text">ऑप्स! \n आपल्याकडे अद्याप लॉक केलेले अ‍ॅप्स नाहीत</string>
+    <string name="settings_security">सुरक्षा</string>
+    <string name="settings_face_icon">बनावट चिन्ह</string>
+    <string name="settings_face_icon_text">या अ‍ॅपचे मूळ चिन्ह बदलले जाईल</string>
+    <string name="rate_us_enjoying">आपण अ‍ॅपलॉकचा आनंद घेत आहात?</string>
+    <string name="rate_us_could_be">ते अधिक चांगले असू शकते</string>
+    <string name="menu_privacy">गोपनीयता धोरण</string>
+    <string name="menu_contact">आमच्याशी संपर्क साधा</string>
+    <string name="menu_face_icon">बनावट चिन्ह</string>
+    <string name="menu_intruder">घुसखोर व्यवस्थापक</string>
+    <string name="menu_chat">संवाद कक्ष</string>
+
+</resources>

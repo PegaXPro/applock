@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">Applicatie vergrendeling</string>
+
+    <string name="action_settings">Instellingen</string>
+
+  
+
+    <string name="share">Delen</string>
+
+    <string name="notification_protecting_title">Uw apps beschermen</string>
+
+    <string name="notification_protecting_description">Vergrendel uw apps om uw privacy te beschermen.</string>
+
+    <string name="notification_permission_need_title">Schakel toestemming voor bescherming in</string>
+
+    <string name="notification_permission_need_description">Schakel uw rechten in om app-locker te gebruiken.</string>
+    <string name="you_accept_privacy_policy">Door verder te gaan, gaat u akkoord met het<u> Privacybeleid</u> </string>
+
+    <string name="header_recommended_to_lock">Aanbevolen om te vergrendelen</string>
+    <string name="header_all_apps">Alle toepassingen</string>
+
+    <string name="title_general_settings">Algemeen</string>
+
+    <string name="title_lock_all">Alles vergrendelen</string>
+    <string name="description_lock_all">Hiermee worden al uw apps vergrendeld</string>
+
+ 
+    <string name="title_unlock_all">Speel alles vrij</string>
+
+    <string name="description_unlock_all">Hiermee worden al je apps ontgrendeld</string>
+    <string name="settings_change_pattern_title">Verander het patroon</string>
+
+    <string name="settings_change_pattern_description">Verander je bestaande patroon</string>
+    <string name="message_pattern_changed">Patroon is succesvol gewijzigd</string>
+
+    <string name="setting_in_stealth_mode_title">Verberg tekening</string>
+    <string name="setting_in_stealth_mode_description">Onzichtbaar patroon tijdens het tekenen</string>
+    <string name="setting_fingerprint_title">Vingerafdruk inschakelen</string>
+
+    <string name="setting_fingerprint_description">Start de app met uw vingerafdruk.</string>
+    <string name="setting_fingerprint_not_supported_title">Vingerafdruk wordt niet ondersteund</string>
+
+    <string name="setting_fingerprint_not_supported_description">Uw apparaat heeft geen sensor</string>
+    <string name="setting_fingerprint_not_registered_title">Registreer uw vingerafdruk</string>
+
+    <string name="setting_fingerprint_not_registered_description">Ga naar beveiligingsinstellingen</string>
+    <string name="next">De volgende</string>
+
+    <string name="permission_usage_access_title">Gebruikstoegangsrechten</string>
+    <string name="permission_usage_access_description">Schakel gebruikstoegang in om app-locker te gebruiken.</string>
+
+    <string name="permission_overlay_title">Vergrendel scherm toestemming</string>
+
+    <string name="settings_card_intruders_title">Vang indringers</string>
+    <string name="settings_enable_intruders_title">Maak een foto van indringers</string>
+    <string name="settings_enable_intruders_description">Maak het mogelijk om indringers te vangen.</string>
+
+    <string name="settings_intruders_folder_title">Gevangen foto\'s van indringers</string>
+    <string name="settings_intruders_folder_description">Klik om spionnen op je telefoon te zien.</string>
+
+    <string name="settings_card_advance_protection_title">Geavanceerde bescherming</string>
+    <string name="settings_enable_advance_protection_title">Schakel geavanceerde bescherming in</string>
+    <string name="settings_enable_advance_protection_description">Om geavanceerde bescherming in te schakelen, activeert u App Lock Pro als "apparaatbeheerder". Het wordt alleen gebruikt om te voorkomen dat indringers App Lock Pro verwijderen en geforceerd stoppen. Zorg ervoor dat App Lock Pro deze toestemming nooit gebruikt om toegang te krijgen tot uw privacygegevens .</string>
+    <string name="device_admin_permission_description">Activeer nu, geavanceerde bescherming en veiliger! \n\nOm geavanceerde bescherming in te schakelen, activeert u App Lock Pro als "apparaatbeheerder". Het wordt alleen gebruikt om te voorkomen dat indringers App Lock Pro verwijderen en geforceerd stoppen. Zorg ervoor dat App Lock Pro deze toestemming nooit zal gebruiken om toegang tot uw privacygegevens.</string>
+
+
+    <string name="permission_overlay_description">Schakel overlay in om het vergrendelingsscherm weer te geven.</string>
+    <string name="permission_toast_enable_permissions">Schakel machtigingen in om app-locker te gebruiken</string>
+
+    <string name="draw_pattern_title">Maak een nieuw patroon</string>
+    <string name="redraw_pattern_title">Opnieuw tekenen om te voltooien</string>
+
+    <string name="recreate_pattern_error">Patroon komt niet overeen. Terugtrekken.</string>
+
+    <string name="create_pattern_successful">Succesvol gemaakt.</string>
+    <string name="overlay_prompt_pattern_title">Teken een patroon om de app te openen</string>
+    <string name="overlay_prompt_pattern_title_wrong">Verkeerd patroon. Teken opnieuw.</string>
+    <string name="overlay_prompt_pattern_title_correct">Patroon correct.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Teken een patroon om de app te openen</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Niet + komen overeen. + %1$s + resterend.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Vingerafdruk afgestemd!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Vingerafdrukfout! Probeer patroon.</string>
+    <string name="dialog_title_rate_us">Vond je Secure Zone leuk?</string>
+    <string name="dialog_description_rate_us">We zullen zooo blij zijn als u ons beoordeelt op de markt.</string>
+    <string name="dialog_action_rate_us_rate">Beoordeel</string>
+
+    <string name="dialog_action_rate_us_later">Later</string>
+    <string name="dialog_title_usage_permission">Toestemming voor Android 5.0</string>
+    <string name="dialog_description_usage_permission">In Android 5.0 of hoger moet u gebruikstoegang toestaan ​​voor
+        AppLocker, zodat u Secure Zone Feature kunt gebruiken</string>
+    <string name="dialog_action_usage_permission_permit">Toestaan</string>
+
+    <string name="dialog_action_usage_permission_cancel">annuleren</string>
+    <string name="dialog_title_privacy_policy">Privacybeleid</string>
+    <string name="dialog_description_privacy_policy">We hebben ons privacybeleid bijgewerkt. Door verder te gaan, gaat u akkoord met het<u> Privacybeleid</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Aanvaarden</string>
+
+    <string name="hint_browser_search">Zoek of voer een URL in</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Op het internet surfen. Veilig.</string>
+    <string name="bookmarks">Bladwijzers</string>
+    <string name="title_name_unknown_number">Onbekend nummer</string>
+
+
+
+    <string name="blacklist_empty_title">Zwarte lijst is leeg</string>
+    <string name="blacklist_empty_description">Klik om het telefoonnummer te blokkeren</string>
+    <string name="call_log_empty_title">Geen logboeken</string>
+
+    <string name="call_log_empty_description">Het logboek wordt hier weergegeven wanneer de oproep is geblokkeerd</string>
+    <string name="dialog_add_to_blacklist_title">Blokkeer telefoonnummer</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Naam: (Optioneel)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Voer telefoonnummer in</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">annuleren</string>
+    <string name="dialog_black_list_delete_title">Verwijderen uit zwarte lijst</string>
+    <string name="dialog_black_list_delete_description">Wilt u het geblokkeerde nummer van de zwarte lijst verwijderen?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">annuleren</string>
+    <string name="dialog_title_add_to_vault">Verwerken</string>
+    <string name="dialog_description_process">Uw media wordt verwijderd uit de galerij en toegevoegd aan uw kluis.</string>
+
+    <string name="dialog_title_removal_confirmation">Bevestiging van verwijdering</string>
+    <string name="dialog_description_removal">Dit bestand wordt uit de kluis verwijderd en in de galerij weergegeven.</string>
+    <string name="dialog_action_removal_confirmation_accept">Aanvaarden</string>
+
+    <string name="vault_photo_empty_page_title">Fotokluis is leeg</string>
+    <string name="vault_photo_empty_page_description">Pictogram toevoegen om foto\'s uit de galerij te verbergen</string>
+    <string name="vault_video_empty_page_title">Videokluis is leeg</string>
+
+    <string name="vault_video_empty_page_description">Pictogram toevoegen aan videofoto\'s vanuit galerij</string>
+    <string-array name="tabs">
+        <item>Veiligheid</item>
+        <item>Instellingen</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Zwarte lijst</item>
+        <item>Oproeplogboeken</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Afbeeldingen</item>
+        <item>Videos</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Geen indringers gepakt</string>
+    <string name="empty_page_intruders_description">Je telefoon is beveiligd!</string>
+    <string name="Vault">Kluis</string>
+    <string name="Call_blocker">Oproepblokkering</string>
+    <string name="browser">Browser</string>
+    <string name="theme">Thema\'s</string>
+    <string name="rate_us">Beoordeel ons</string>
+    <string name="removeads">Premium-versie</string>
+    <string name="enter_pin">Voer Pin-code in</string>
+    <string name="pin_matched">Pin komt overeen</string>
+    <string name="confirm_pin">Bevestig de pincode</string>
+    <string name="pin_chahnged">Pin succesvol gewijzigd</string>
+    <string name="pin_not_matched">Pin komt niet overeen</string>
+    <string name="incorrect_pin">Onjuiste pin</string>
+    <string name="settings_set_pin">Stel de pin in</string>
+    <string name="change_pin">Verander pincode</string>
+    <string name="settings_set_pin_description">Nieuwe pin instellen</string>
+    <string name="create_new_pin">Maak een nieuwe pin</string>
+    <string name="home">Huis</string>
+    <string name="settings_change_pin_description">Wijzig uw bestaande pincode</string>
+    <string name="message_pin_changed">Pin succesvol gewijzigd</string>
+    <string name="non_protected">Niet beschermd</string>
+    <string name="status_protected">Beschermd</string>
+    <string name="starting_hour">Startuur</string>
+    <string name="ending_hour">Einde uur</string>
+    <string name="auto_start_p">auto-run toestemming</string>
+    <string name="permission_usage_access_description1">open de auto-run optie</string>
+
+
+    <string name="privat_browser">Privébrowser</string>
+    <string name="prem_title">Premium-versie voor altijd</string>
+    <string name="prem_no_ads">Geen advertenties voor altijd</string>
+    <string name="prem_restore">Herstel aankoop</string>
+
+    <string name="please_give_us_five_stars">Geef ons alstublieft vijf sterren op Google Play! We zouden het erg waarderen!</string>
+    <string name="great_tex">Super goed!</string>
+    <string name="choose_the_icon">Kies het pictogram en het originele pictogram wordt gewijzigd. Verberg deze app voor indringers</string>
+    <string name="app_name1">Klok</string>
+    <string name="app_name2">Kaarten</string>
+    <string name="app_name3">Kalender</string>
+    <string name="app_name4">Muziek</string>
+    <string name="app_name5">Rekenmachine</string>
+
+    <string name="callblocker_black">Zwarte lijst</string>
+    <string name="callblocker_logs">Oproeplogboeken</string>
+    <string name="icon_change_title">Pictogrammen</string>
+    <string name="intruders_title">Indringer</string>
+    <string name="intruders_access_apps">Toegang tot apps met gebruik</string>
+    <string name="main_unlocked">Ontgrendeld</string>
+    <string name="main_locked">Op slot</string>
+    <string name="prem_not_sub">Dit is geen abonnement. U betaalt maar één keer!</string>
+    <string name="prem_fake_icon">Nep pictogram</string>
+    <string name="prem_intruders">Indringer selfie</string>
+    <string name="prem_themes">Meer creatieve thema\'s</string>
+    <string name="prem_one_time">Eenmalige betaling</string>
+    <string name="splash_create">Gemaakt om uw privacy te beschermen</string>
+    <string name="vault_photos">Foto\'s</string>
+    <string name="vault_videos">Videos</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">Wilt u de foto verwijderen?</string>
+    <string name="btn_cancel">ANNULEREN</string>
+    <string name="fragment_security_text">Opps! \n U heeft nog geen vergrendelde apps</string>
+    <string name="settings_security">Veiligheid</string>
+    <string name="settings_face_icon">Nep pictogram</string>
+    <string name="settings_face_icon_text">Het originele pictogram van deze app wordt gewijzigd</string>
+    <string name="rate_us_enjoying">Geniet je van AppLock?</string>
+    <string name="rate_us_could_be">het kon beter</string>
+    <string name="menu_privacy">Privacybeleid</string>
+    <string name="menu_contact">Neem contact op</string>
+    <string name="menu_face_icon">Nep pictogram</string>
+    <string name="menu_intruder">Indringer Manager</string>
+    <string name="menu_chat">Chat room</string>
+
+</resources>

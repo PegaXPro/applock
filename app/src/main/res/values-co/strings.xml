@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppLock</string>
+
+    <string name="action_settings">Impostazioni</string>
+
+
+
+    <string name="share">Sparte</string>
+
+    <string name="notification_protecting_title">Prutegge e vostre app</string>
+
+    <string name="notification_protecting_description">Bloccate e vostre app per prutege a vostra privacy.</string>
+
+    <string name="notification_permission_need_title">Attivà l\'autorizazione per a prutezzione</string>
+
+    <string name="notification_permission_need_description">Attivate per piacè i vostri permessi per aduprà u locker di app.</string>
+    <string name="you_accept_privacy_policy">Cuntinuendu accettate u<u> Pulitica di Privacidad</u> </string>
+
+    <string name="header_recommended_to_lock">Recomanatu per bluccà</string>
+    <string name="header_all_apps">Tutte l\'applicazioni</string>
+
+    <string name="title_general_settings">Generale</string>
+
+    <string name="title_lock_all">Chjave tuttu</string>
+    <string name="description_lock_all">Questu chjudarà tutte e vostre app</string>
+
+
+    <string name="title_unlock_all">Sblocca tuttu</string>
+
+    <string name="description_unlock_all">Questu sbloccherà tutte e vostre app</string>
+    <string name="settings_change_pattern_title">Cambia u mudellu</string>
+
+    <string name="settings_change_pattern_description">Cambiate u vostru mudellu esistente</string>
+    <string name="message_pattern_changed">U mudellu hè cambiatu cù successu</string>
+
+    <string name="setting_in_stealth_mode_title">Oculta u disegnu</string>
+    <string name="setting_in_stealth_mode_description">Pattern invisibile mentre disegna</string>
+    <string name="setting_fingerprint_title">Attivà l\'impronta digitale</string>
+
+    <string name="setting_fingerprint_description">Lanciari app cù u vostru Agriculture.</string>
+    <string name="setting_fingerprint_not_supported_title">L\'impronta digitale ùn hè micca supportata</string>
+
+    <string name="setting_fingerprint_not_supported_description">U vostru dispositivu ùn hà micca sensore</string>
+    <string name="setting_fingerprint_not_registered_title">Arregistrà a vostra impronta digitale</string>
+
+    <string name="setting_fingerprint_not_registered_description">Andà à i paràmetri di sicurità</string>
+    <string name="next">Dopu</string>
+
+    <string name="permission_usage_access_title">Permessu di accessu d\'utilizazione</string>
+    <string name="permission_usage_access_description">Attivate l\'accessu à l\'usu per aduprà u locker app.</string>
+
+    <string name="permission_overlay_title">Permessu di schermu di serratura</string>
+
+    <string name="settings_card_intruders_title">Catturà Intrusi</string>
+    <string name="settings_enable_intruders_title">Pigliate una foto di intrusi</string>
+    <string name="settings_enable_intruders_description">Abilitate à catturà intrusi.</string>
+
+    <string name="settings_intruders_folder_title">Ritratti intrappulati</string>
+    <string name="settings_intruders_folder_description">Cliccate per vede spie in u vostru telefunu.</string>
+
+    <string name="settings_card_advance_protection_title">Prutezzione Avanzata</string>
+    <string name="settings_enable_advance_protection_title">Attivate a prutezzione anticipata</string>
+    <string name="settings_enable_advance_protection_description">Per attivà a Prutezzione Avanzata, per piacè attivate App Lock Pro cum\'è "amministratore di dispositivi". Hè solu adupratu per impedisce l\'intrusione di disinstallà è forzà a fermata di App Lock Pro. Assicuratevi chì App Lock Pro ùn userà mai questu permessu per accede à i vostri dati di privacy .</string>
+    <string name="device_admin_permission_description">Attivate avà, prutegge in anticipu è più sicuru! \n\nPer attivà a Prutezzione Avanzata, per piacè attivate App Lock Pro cum\'è "amministratore di dispositivi". Hè adupratu solu per impedisce l\'intrusione di disinstallà è forzà à piantà App Lock Pro. Assicuratevi chì App Lock Pro ùn userà mai questu permessu per accede à i vostri dati di privacy.</string>
+
+
+    <string name="permission_overlay_description">Attivà a superposizione per vede u schermu di bloccu.</string>
+    <string name="permission_toast_enable_permissions">Attivati ​​i permessi per aduprà u locker di app</string>
+
+    <string name="draw_pattern_title">Crea un novu mudellu</string>
+    <string name="redraw_pattern_title">Ritruvà à compie</string>
+
+    <string name="recreate_pattern_error">U mudellu ùn currisponde micca. Rifatta.</string>
+
+    <string name="create_pattern_successful">Creatu cù successu.</string>
+    <string name="overlay_prompt_pattern_title">Disegna u mudellu per apre l\'app</string>
+    <string name="overlay_prompt_pattern_title_wrong">Patrunu sbagliatu. Disegna dinò.</string>
+    <string name="overlay_prompt_pattern_title_correct">Pattern currettu.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Disegna u mudellu per apre l\'app</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">Micca + accurdatu. + %1$s + manca.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Impronta digitale assuciata!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Errore di impronta digitale! Pruvate u mudellu.</string>
+    <string name="dialog_title_rate_us">Ti piace a Zona Secura?</string>
+    <string name="dialog_description_rate_us">Saremu cusì felici Se ci valutate nantu à u mercatu.</string>
+    <string name="dialog_action_rate_us_rate">Tariffa</string>
+
+    <string name="dialog_action_rate_us_later">Più tardi</string>
+    <string name="dialog_title_usage_permission">Permissione Android 5.0</string>
+    <string name="dialog_description_usage_permission">In Android 5.0 o superiore, avete bisognu di permette l\'accessu à l\'usu per
+        AppLocker, da pudè aduprà Funzione Zona Secura</string>
+    <string name="dialog_action_usage_permission_permit">Permessu</string>
+
+    <string name="dialog_action_usage_permission_cancel">Annulla</string>
+    <string name="dialog_title_privacy_policy">Pulitica di Privacidad</string>
+    <string name="dialog_description_privacy_policy">Avemu aghjurnatu a nostra pulitica di privacy. Cuntinuendu accettate u<u> Pulitica di Privacidad</u> </string>
+    <string name="dialog_action_privacy_policy_accept">Accetta</string>
+
+    <string name="hint_browser_search">Cerca o inserisci URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Surf in Internet. Securely.</string>
+    <string name="bookmarks">Marcatori</string>
+    <string name="title_name_unknown_number">Numaru Inconnu</string>
+
+
+
+    <string name="blacklist_empty_title">A lista nera hè viota</string>
+    <string name="blacklist_empty_description">Cliccate per bluccà u numeru di telefonu</string>
+    <string name="call_log_empty_title">Nisun Regnu</string>
+
+    <string name="call_log_empty_description">U log apparisce quì quandu a chjama hè bluccata</string>
+    <string name="dialog_add_to_blacklist_title">Bluccà u numeru di telefonu</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Nome (Facultativu)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Inserite u numeru di telefonu</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Annulla</string>
+    <string name="dialog_black_list_delete_title">Sguassà da a lista nera</string>
+    <string name="dialog_black_list_delete_description">Vulete sguassà u numeru bluccatu da a lista nera?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Annulla</string>
+    <string name="dialog_title_add_to_vault">Trasfurmazioni</string>
+    <string name="dialog_description_process">I vostri media sò rimossi da a galeria è aghjunghjenu à a vostra volta.</string>
+
+    <string name="dialog_title_removal_confirmation">Cunferma di rimozione</string>
+    <string name="dialog_description_removal">Stu fugliale serà eliminatu da a volta è mostrerà in a galleria.</string>
+    <string name="dialog_action_removal_confirmation_accept">Accetta</string>
+
+    <string name="vault_photo_empty_page_title">Photo Vault hè viotu</string>
+    <string name="vault_photo_empty_page_description">Aghjunghje icona per piattà e foto da a galleria</string>
+    <string name="vault_video_empty_page_title">Video Vault hè viotu</string>
+
+    <string name="vault_video_empty_page_description">Aghjunghje icona à e foto di video da a galleria</string>
+    <string-array name="tabs">
+        <item>Sicurezza</item>
+        <item>Impostazioni</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Lista nera</item>
+        <item>Log di Chjamate</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Images</item>
+        <item>Video</item>
+    </string-array>
+
+    <string name="empty_page_intruders_title">Nisun Intrusu Catturatu</string>
+    <string name="empty_page_intruders_description">U vostru telefunu hè sicuru!</string>
+    <string name="Vault">Volta</string>
+    <string name="Call_blocker">Call Blocker</string>
+    <string name="browser">Navigatore</string>
+    <string name="theme">Temi</string>
+    <string name="rate_us">Valuta ci</string>
+    <string name="removeads">Versione premium</string>
+    <string name="enter_pin">Ingressu u pin</string>
+    <string name="pin_matched">Pin assuciatu</string>
+    <string name="confirm_pin">Cunfirmà u pin</string>
+    <string name="pin_chahnged">Pin cambiatu cù successu</string>
+    <string name="pin_not_matched">Pin micca assuciatu</string>
+    <string name="incorrect_pin">Pin incorrettu</string>
+    <string name="settings_set_pin">Set pin</string>
+    <string name="change_pin">Cambia u pin</string>
+    <string name="settings_set_pin_description">Piazzà novu pin</string>
+    <string name="create_new_pin">Crea un novu pin</string>
+    <string name="home">Home</string>
+    <string name="settings_change_pin_description">Cambiate u vostru pin esistenti</string>
+    <string name="message_pin_changed">Pin Cambiatu Successu</string>
+    <string name="non_protected">Non Prutettu</string>
+    <string name="status_protected">Prutettu</string>
+    <string name="starting_hour">Ora di partenza</string>
+    <string name="ending_hour">Ora Finita</string>
+    <string name="auto_start_p">auturizazione di auturizazione</string>
+    <string name="permission_usage_access_description1">apre l\'opzione auto-run</string>
+
+
+    <string name="privat_browser">Navigatore Privatu</string>
+    <string name="prem_title">Versione Premium Forever</string>
+    <string name="prem_no_ads">No ADs Forever</string>
+    <string name="prem_restore">Risturà Purchase</string>
+
+    <string name="please_give_us_five_stars">Per piacè date ci cinque stelle nantu à Google Play! A ringraziemu assai!</string>
+    <string name="great_tex">Perfettu!</string>
+    <string name="choose_the_icon">Sceglite l\'icona è l\'icona originale serà cambiata. Oculta sta app da l\'intrusi</string>
+    <string name="app_name1">Orologio</string>
+    <string name="app_name2">Mappe</string>
+    <string name="app_name3">Calendariu</string>
+    <string name="app_name4">Musica</string>
+    <string name="app_name5">Calculatrice</string>
+
+    <string name="callblocker_black">Lista nera</string>
+    <string name="callblocker_logs">Registri di chjamate</string>
+    <string name="icon_change_title">Icone</string>
+    <string name="intruders_title">Intrusu</string>
+    <string name="intruders_access_apps">Accede à l\'applicazioni cù l\'usu</string>
+    <string name="main_unlocked">Sbloccatu</string>
+    <string name="main_locked">Chjuditu</string>
+    <string name="prem_not_sub">Questu ùn hè micca un abbonamentu. Ùn paghe chè una volta!</string>
+    <string name="prem_fake_icon">Falsu Icona</string>
+    <string name="prem_intruders">Intruder selfie</string>
+    <string name="prem_themes">Temi più creativi</string>
+    <string name="prem_one_time">Pagamentu One-Time</string>
+    <string name="splash_create">Creatu per prutege a vostra privacy</string>
+    <string name="vault_photos">Foto</string>
+    <string name="vault_videos">Video</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">Vulete sguassà a foto?</string>
+    <string name="btn_cancel">ANNULA</string>
+    <string name="fragment_security_text">Opps! \n Ùn avete ancu e applicazioni bluccate</string>
+    <string name="settings_security">Sicurezza</string>
+    <string name="settings_face_icon">Falsu Icona</string>
+    <string name="settings_face_icon_text">L\'icona originale di questa app serà cambiata</string>
+    <string name="rate_us_enjoying">Ti piace AppLock?</string>
+    <string name="rate_us_could_be">puderia esse megliu</string>
+    <string name="menu_privacy">Pulitica di Privacidad</string>
+    <string name="menu_contact">Cuntatta ci</string>
+    <string name="menu_face_icon">Falsu Icona</string>
+    <string name="menu_intruder">Manager Intruder</string>
+    <string name="menu_chat">Sala di Chat</string>
+</resources>

@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">nastavenie</string>
+
+  
+
+    <string name="share">zdieľam</string>
+
+    <string name="notification_protecting_title">Ochrana vašich aplikácií</string>
+
+    <string name="notification_protecting_description">Zamknite svoje aplikácie, aby ste chránili svoje súkromie.</string>
+
+    <string name="notification_permission_need_title">Povoliť povolenie na ochranu</string>
+
+    <string name="notification_permission_need_description">Povolte svoje povolenia na používanie skrinky na aplikáciu.</string>
+    <string name="you_accept_privacy_policy">Pokračovaním vyjadrujete súhlas s<u> Zásady ochrany osobných údajov</u> </string>
+
+    <string name="header_recommended_to_lock">Odporúča sa uzamknúť</string>
+    <string name="header_all_apps">Všetky aplikácie</string>
+
+    <string name="title_general_settings">Všeobecné</string>
+
+    <string name="title_lock_all">Zamknúť všetko</string>
+    <string name="description_lock_all">Týmto sa uzamknú všetky vaše aplikácie</string>
+
+ 
+    <string name="title_unlock_all">Odomknite všetky</string>
+
+    <string name="description_unlock_all">Týmto sa odomknú všetky vaše aplikácie</string>
+    <string name="settings_change_pattern_title">Zmeniť vzor</string>
+
+    <string name="settings_change_pattern_description">Zmeňte svoj existujúci vzor</string>
+    <string name="message_pattern_changed">Vzor sa úspešne zmenil</string>
+
+    <string name="setting_in_stealth_mode_title">Skryť kresbu</string>
+    <string name="setting_in_stealth_mode_description">Počas kreslenia neviditeľný vzor</string>
+    <string name="setting_fingerprint_title">Povoliť odtlačok prsta</string>
+
+    <string name="setting_fingerprint_description">Spustite aplikáciu pomocou odtlačku prsta.</string>
+    <string name="setting_fingerprint_not_supported_title">Odtlačok prsta nie je podporovaný</string>
+
+    <string name="setting_fingerprint_not_supported_description">Vaše zariadenie nemá snímač</string>
+    <string name="setting_fingerprint_not_registered_title">Zaregistrujte si odtlačok prsta</string>
+
+    <string name="setting_fingerprint_not_registered_description">Prejdite na nastavenia zabezpečenia</string>
+    <string name="next">Ďalšie</string>
+
+    <string name="permission_usage_access_title">Povolenie na prístup k použitiu</string>
+    <string name="permission_usage_access_description">Ak chcete používať skrinku aplikácií, povoľte prístup k použitiu.</string>
+
+    <string name="permission_overlay_title">Povolenie uzamknutej obrazovky</string>
+
+    <string name="settings_card_intruders_title">Chyťte votrelcov</string>
+    <string name="settings_enable_intruders_title">Odfoťte votrelcov</string>
+    <string name="settings_enable_intruders_description">Povoliť chytiť votrelcov.</string>
+
+    <string name="settings_intruders_folder_title">Zachytené fotografie votrelca</string>
+    <string name="settings_intruders_folder_description">Kliknutím zobrazíte špiónov v telefóne.</string>
+
+    <string name="settings_card_advance_protection_title">Predbežná ochrana</string>
+    <string name="settings_enable_advance_protection_title">Povoliť predbežnú ochranu</string>
+    <string name="settings_enable_advance_protection_description">Ak chcete povoliť predbežnú ochranu, aktivujte aplikáciu App Lock Pro ako „správcu zariadenia“. Používa sa iba na zabránenie odinštalovaniu votrelcov a vynútené zastavenie aplikácie App Lock Pro. Zaistite, aby aplikácia App Lock Pro nikdy nepoužila toto povolenie na prístup k vašim súkromným údajom .</string>
+    <string name="device_admin_permission_description">Aktivujte teraz, zvýšte ochranu a zabezpečte viac! \n\nAk chcete povoliť Advance Protection, aktivujte aplikáciu App Lock Pro ako „správcu zariadenia“. Používa sa iba na zabránenie odinštalovaniu votrelcov a vynútené zastavenie aplikácie App Lock Pro. Zaistite, aby aplikácia App Lock Pro nikdy nepoužila toto povolenie na prístup k vašim súkromným údajom.</string>
+
+
+    <string name="permission_overlay_description">Povolením prekrytia zobrazíte uzamknutú obrazovku.</string>
+    <string name="permission_toast_enable_permissions">Povolte povolenie na používanie skrinky na aplikáciu</string>
+
+    <string name="draw_pattern_title">Vytvorte nový vzor</string>
+    <string name="redraw_pattern_title">Prekreslite znova</string>
+
+    <string name="recreate_pattern_error">Vzor sa nezhoduje. Prekresliť.</string>
+
+    <string name="create_pattern_successful">Úspešne vytvorené.</string>
+    <string name="overlay_prompt_pattern_title">Ak chcete otvoriť aplikáciu, nakreslite vzor</string>
+    <string name="overlay_prompt_pattern_title_wrong">Nesprávny vzor. Opäť nakreslite.</string>
+    <string name="overlay_prompt_pattern_title_correct">Vzor správny.</string>
+
+    <string name="overlay_prompt_fingerprint_title">Ak chcete otvoriť aplikáciu, nakreslite vzor</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">+ Nezodpovedá. + %1$s + zostáva.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Odtlačok prsta zhodný!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Chyba odtlačku prsta! Vyskúšajte vzor.</string>
+    <string name="dialog_title_rate_us">Páčila sa vám Secure Zone?</string>
+    <string name="dialog_description_rate_us">Budeme tak šťastní, ak nás ohodnotíte na trhu.</string>
+    <string name="dialog_action_rate_us_rate">Sadzba</string>
+
+    <string name="dialog_action_rate_us_later">Neskôr</string>
+    <string name="dialog_title_usage_permission">Povolenie systému Android 5.0</string>
+    <string name="dialog_description_usage_permission">V systéme Android 5.0 alebo novšom musíte povoliť prístup k použitiu pre
+        AppLocker, aby ste mohli používať funkciu zabezpečenej zóny</string>
+    <string name="dialog_action_usage_permission_permit">Povolenie</string>
+
+    <string name="dialog_action_usage_permission_cancel">Zrušiť</string>
+    <string name="dialog_title_privacy_policy">Zásady ochrany osobných údajov</string>
+    <string name="dialog_description_privacy_policy">Aktualizovali sme naše pravidlá ochrany osobných údajov. Pokračovaním vyjadrujete súhlas s<u> Zásady ochrany osobných údajov</u> </string>
+    <string name="dialog_action_privacy_policy_accept">súhlasiť</string>
+
+    <string name="hint_browser_search">Vyhľadajte alebo zadajte adresu URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Safe.Secure.Private.</string>
+    <string name="subtitle_browser_empty">Surfujte na internete. Bezpečne.</string>
+    <string name="bookmarks">Záložky</string>
+    <string name="title_name_unknown_number">Neznáme číslo</string>
+
+
+
+    <string name="blacklist_empty_title">Čierna listina je prázdna</string>
+    <string name="blacklist_empty_description">Kliknutím zablokujete telefónne číslo</string>
+    <string name="call_log_empty_title">Žiadne protokoly</string>
+
+    <string name="call_log_empty_description">Keď je hovor blokovaný, zobrazí sa tu denník</string>
+    <string name="dialog_add_to_blacklist_title">Blokovať telefónne číslo</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Meno (voliteľné)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">Zadajte telefónne číslo</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Zrušiť</string>
+    <string name="dialog_black_list_delete_title">Odstrániť z čiernej listiny</string>
+    <string name="dialog_black_list_delete_description">Chcete odstrániť blokované číslo z čiernej listiny?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Zrušiť</string>
+    <string name="dialog_title_add_to_vault">Spracovanie</string>
+    <string name="dialog_description_process">Vaše médiá sa odstraňujú z galérie a pridávajú sa do vášho trezoru.</string>
+
+    <string name="dialog_title_removal_confirmation">Potvrdenie odstránenia</string>
+    <string name="dialog_description_removal">Tento súbor sa odstráni z trezoru a zobrazí sa v galérii.</string>
+    <string name="dialog_action_removal_confirmation_accept">súhlasiť</string>
+
+    <string name="vault_photo_empty_page_title">Foto trezor je prázdny</string>
+    <string name="vault_photo_empty_page_description">Pridať ikonu na skrytie fotografií z galérie</string>
+    <string name="vault_video_empty_page_title">Video trezor je prázdny</string>
+
+    <string name="vault_video_empty_page_description">Pridajte ikonu k videám z galérie</string>
+    <string-array name="tabs">
+        <item>Bezpečnosť</item>
+        <item>nastavenie</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Čierna listina</item>
+        <item>Denníky hovorov</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>snímky</item>
+        <item>Videá</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">Chytení žiadni votrelci</string>
+    <string name="empty_page_intruders_description">Váš telefón je zabezpečený!</string>
+    <string name="Vault">Trezor</string>
+    <string name="Call_blocker">Volajte blokátora</string>
+    <string name="browser">Prehliadač</string>
+    <string name="theme">Témy</string>
+    <string name="rate_us">Ohodnoť nás</string>
+    <string name="removeads">Prémiová verzia</string>
+    <string name="enter_pin">Zadajte kód PIN</string>
+    <string name="pin_matched">Pin sa zhodoval</string>
+    <string name="confirm_pin">Potvrďte špendlík</string>
+    <string name="pin_chahnged">PIN sa úspešne zmenil</string>
+    <string name="pin_not_matched">Pin sa nezhoduje</string>
+    <string name="incorrect_pin">Nesprávny špendlík</string>
+    <string name="settings_set_pin">Nastaviť čap</string>
+    <string name="change_pin">Vymeniť špendlík</string>
+    <string name="settings_set_pin_description">Nastaviť nový špendlík</string>
+    <string name="create_new_pin">Vytvorte nový špendlík</string>
+    <string name="home">Domov</string>
+    <string name="settings_change_pin_description">Zmeňte svoj existujúci pin</string>
+    <string name="message_pin_changed">Pin bol úspešne zmenený</string>
+    <string name="non_protected">Nechránené</string>
+    <string name="status_protected">Chránené</string>
+    <string name="starting_hour">Počiatočná hodina</string>
+    <string name="ending_hour">Koncová hodina</string>
+    <string name="auto_start_p">povolenie na automatické spustenie</string>
+    <string name="permission_usage_access_description1">otvorte možnosť automatického spustenia</string>
+
+
+    <string name="privat_browser">Súkromný prehliadač</string>
+    <string name="prem_title">Prémiová verzia navždy</string>
+    <string name="prem_no_ads">Žiadne reklamy navždy</string>
+    <string name="prem_restore">Obnoviť nákup</string>
+
+    <string name="please_give_us_five_stars">Dajte nám, prosím, päť hviezdičiek v službe Google Play! Veľmi by sme to ocenili!</string>
+    <string name="great_tex">Skvelé!</string>
+    <string name="choose_the_icon">Vyberte ikonu a pôvodná ikona sa zmení. Skryť túto aplikáciu pred votrelcami</string>
+    <string name="app_name1">Hodiny</string>
+    <string name="app_name2">Mapy</string>
+    <string name="app_name3">Kalendár</string>
+    <string name="app_name4">Hudba</string>
+    <string name="app_name5">Kalkulačka</string>
+
+    <string name="callblocker_black">Čierna listina</string>
+    <string name="callblocker_logs">Denníky hovorov</string>
+    <string name="icon_change_title">Ikony</string>
+    <string name="intruders_title">Votrelec</string>
+    <string name="intruders_access_apps">Prístup k aplikáciám s využitím</string>
+    <string name="main_unlocked">Odomknuté</string>
+    <string name="main_locked">Zamknuté</string>
+    <string name="prem_not_sub">Toto nie je predplatné. Platíte iba raz!</string>
+    <string name="prem_fake_icon">Falošná ikona</string>
+    <string name="prem_intruders">Votrelec selfie</string>
+    <string name="prem_themes">Kreatívnejšie témy</string>
+    <string name="prem_one_time">Jednorazová platba</string>
+    <string name="splash_create">Vytvorené na ochranu vášho súkromia</string>
+    <string name="vault_photos">Fotografie</string>
+    <string name="vault_videos">Videá</string>
+    <string name="btn_ok">Ok</string>
+    <string name="dialog_intruder_text">Prajete si vymazať fotografiu?</string>
+    <string name="btn_cancel">ZRUŠIŤ</string>
+    <string name="fragment_security_text">Opps! \n Zatiaľ nemáte uzamknuté aplikácie</string>
+    <string name="settings_security">Bezpečnosť</string>
+    <string name="settings_face_icon">Falošná ikona</string>
+    <string name="settings_face_icon_text">Pôvodná ikona tejto aplikácie sa zmení</string>
+    <string name="rate_us_enjoying">Páči sa vám AppLock?</string>
+    <string name="rate_us_could_be">mohlo to byť lepšie</string>
+    <string name="menu_privacy">Zásady ochrany osobných údajov</string>
+    <string name="menu_contact">Kontaktuj nás</string>
+    <string name="menu_face_icon">Falošná ikona</string>
+    <string name="menu_intruder">Správca votrelca</string>
+    <string name="menu_chat">Chatovacia miestnosť</string>
+
+</resources>

@@ -1,0 +1,10 @@
+apply from: "../common_android_module.gradle"
+
+dependencies {
+
+    api koin_dependencies.values()
+    api coroutines_dependencies.values()
+    api platform('com.google.firebase:firebase-bom:26.1.0')
+    api firebase_dependencies.values()
+    api 'com.android.billingclient:billing:3.0.3'
+}

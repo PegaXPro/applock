@@ -1,0 +1,232 @@
+<resources>
+
+<string name="app_name">AppLock</string>
+
+    <string name="action_settings">Nā koho</string>
+
+  
+
+    <string name="share">Māhele</string>
+
+    <string name="notification_protecting_title">Ka pale ʻana i kāu mau polokalamu</string>
+
+    <string name="notification_protecting_description">Laka i kāu mau polokalamu e pale ai i kāu pilikino.</string>
+
+    <string name="notification_permission_need_title">E ʻae i ka ʻae i ka pale</string>
+
+    <string name="notification_permission_need_description">E ʻoluʻolu e ʻae i kāu ʻae e hoʻohana i ka laka ʻo app.</string>
+    <string name="you_accept_privacy_policy">Ma ka hoʻomau ʻana e ʻae ʻoe i ka<u> Kulekele pilikino</u> </string>
+
+    <string name="header_recommended_to_lock">Paipai ʻia e laka</string>
+    <string name="header_all_apps">Nā noi āpau</string>
+
+    <string name="title_general_settings">Generala</string>
+
+    <string name="title_lock_all">Laka i nā mea āpau</string>
+    <string name="description_lock_all">Laka kēia i kāu mau polokalamu āpau</string>
+
+ 
+    <string name="title_unlock_all">Wehe i nā mea āpau</string>
+
+    <string name="description_unlock_all">E wehe kēia i kāu mau polokalamu āpau</string>
+    <string name="settings_change_pattern_title">Hoʻohuli lauana</string>
+
+    <string name="settings_change_pattern_description">E hoʻololi i kāu lauana e kū nei</string>
+    <string name="message_pattern_changed">Ua hoʻololi kūleʻa</string>
+
+    <string name="setting_in_stealth_mode_title">Hūnā kiʻi</string>
+    <string name="setting_in_stealth_mode_description">Nā hiʻohiʻona ʻike ʻole ʻia i ke kaha kiʻi ʻana</string>
+    <string name="setting_fingerprint_title">Hiki i ka manamana lima</string>
+
+    <string name="setting_fingerprint_description">E neenee i ka polokalamu me kou manamanalima.</string>
+    <string name="setting_fingerprint_not_supported_title">Kākoʻo ʻole ʻia ka manamana lima</string>
+
+    <string name="setting_fingerprint_not_supported_description">ʻAʻole loaʻa i kāu hāmeʻa kahi mea ʻike</string>
+    <string name="setting_fingerprint_not_registered_title">E hoʻopaʻa inoa i kou manamana lima</string>
+
+    <string name="setting_fingerprint_not_registered_description">E hele i nā hoʻonohonoho palekana</string>
+    <string name="next">Aʻe aʻe</string>
+
+    <string name="permission_usage_access_title">ʻAe ʻae hoʻohana</string>
+    <string name="permission_usage_access_description">Hoʻohana i nā acces hoʻohana e hoʻohana i ka loka locker.</string>
+
+    <string name="permission_overlay_title">ʻĀpono laka</string>
+
+    <string name="settings_card_intruders_title">Hopu komo hewa</string>
+    <string name="settings_enable_intruders_title">E kiʻi i nā mea komohewa</string>
+    <string name="settings_enable_intruders_description">Hiki iā ʻoe ke hopu i nā mea komohewa.</string>
+
+    <string name="settings_intruders_folder_title">Nā kiʻi komohewa i hopu ʻia</string>
+    <string name="settings_intruders_folder_description">Kaomi aku e ʻike i nā kiu ma kāu kelepona.</string>
+
+    <string name="settings_card_advance_protection_title">Pale mua</string>
+    <string name="settings_enable_advance_protection_title">Hiki i ka palekana mua</string>
+    <string name="settings_enable_advance_protection_description">I hiki ai iā Advance Protection, e ʻoluʻolu e hoʻoiho iā App Lock Pro ma ke ʻano he "luna hoʻoponopono". Hoʻohana wale ʻia ia no ka pale ʻana i nā poʻe komo hewa e kāpae ana a me ka hoʻokū ʻana i ka App Lock Pro. .</string>
+    <string name="device_admin_permission_description">Hoʻā i kēia manawa, pale mua a paʻa hou aku! \n\n I hiki ai iā Advance Protection, e ʻoluʻolu e hoʻoiho i App Lock Pro ma ke ʻano he "luna hoʻoponopono". Hoʻohana wale ʻia ia no ka pale ʻana i ka poʻe komo hewa e uninstall a me ka ikaika e kāpae iā App Lock Pro. ʻike i kāu ʻikepili pilikino.</string>
+
+
+    <string name="permission_overlay_description">Hiki i ka uhi ʻana ke hōʻike i ka pale laka.</string>
+    <string name="permission_toast_enable_permissions">E ʻae i nā ʻae e hoʻohana i ka waihona locker</string>
+
+    <string name="draw_pattern_title">E hana i kahi kumu hou</string>
+    <string name="redraw_pattern_title">Hana hou e hoʻopau</string>
+
+    <string name="recreate_pattern_error">Kūlike ʻole ke kumu hoʻohālike. Redraw.</string>
+
+    <string name="create_pattern_successful">Hana maikaʻi ʻia.</string>
+    <string name="overlay_prompt_pattern_title">E kaha kiʻi e wehe i ka polokalamu</string>
+    <string name="overlay_prompt_pattern_title_wrong">Kuhi hewa. Kaha hou.</string>
+    <string name="overlay_prompt_pattern_title_correct">Pololei pololei.</string>
+
+    <string name="overlay_prompt_fingerprint_title">E kaha kiʻi e wehe i ka polokalamu</string>
+    <string name="overlay_prompt_fingerprint_title_wrong">ʻAʻole + kūlike. + %1$s + hema.</string>
+    <string name="overlay_prompt_fingerprint_title_correct">Pākuʻi ʻia ka manamana lima!</string>
+
+    <string name="overlay_prompt_fingerprint_title_error">Hewa ka manamana lima! E hoʻāʻo i ke kumu.</string>
+    <string name="dialog_title_rate_us">Ua makemake ʻoe i kahi ʻāpana palekana?</string>
+    <string name="dialog_description_rate_us">E hauʻoli loa mākou inā helu ʻoe iā mākou ma ka mākeke.</string>
+    <string name="dialog_action_rate_us_rate">Lākiō</string>
+
+    <string name="dialog_action_rate_us_later">Ma hope</string>
+    <string name="dialog_title_usage_permission">Android 5.0 ʻAe</string>
+    <string name="dialog_description_usage_permission">I ka Android 5.0 a i luna paha, pono ʻoe e ʻae i ka hoʻohana hoʻohana ʻana no
+        AppLocker, i hiki ai iā ʻoe ke hoʻohana i ka hiʻona ʻo Secure Zone</string>
+    <string name="dialog_action_usage_permission_permit">ʻAe ʻae</string>
+
+    <string name="dialog_action_usage_permission_cancel">Hoʻopau</string>
+    <string name="dialog_title_privacy_policy">Kulekele pilikino</string>
+    <string name="dialog_description_privacy_policy">Ua hōʻano hou mākou i kā mākou kulekele pilikino. Ma ka hoʻomau ʻana e ʻae ʻoe i ka<u> Kulekele pilikino</u> </string>
+    <string name="dialog_action_privacy_policy_accept">ʻAe</string>
+
+    <string name="hint_browser_search">Huli a komo i URL</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="twitter">ʻO Twitter</string>
+
+    <string name="snapchat">Snapchat</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Reddit</string>
+    <string name="title_browser_empty">Palekana. Palekana.</string>
+    <string name="subtitle_browser_empty">Heʻe nalu ma ka pūnaewele. Maluhia.</string>
+    <string name="bookmarks">Hōʻailona puke</string>
+    <string name="title_name_unknown_number">Helu ʻike ʻole ʻia</string>
+
+
+
+    <string name="blacklist_empty_title">Hakahaka ka papa inoa ʻeleʻele</string>
+    <string name="blacklist_empty_description">Kaomi aku e pale i ka helu kelepona</string>
+    <string name="call_log_empty_title">ʻAʻohe Lepe</string>
+
+    <string name="call_log_empty_description">Kū mai ka log ma aneʻi ke kāohi ʻia ke kāhea</string>
+    <string name="dialog_add_to_blacklist_title">Palaka helu kelepona</string>
+
+    <string name="dialog_add_to_blacklist_name_hint">Inoa (ponoʻole)</string>
+    <string name="dialog_add_to_blacklist_phone_hint">E hoʻokomo i ka helu kelepona</string>
+
+    <string name="dialog_add_to_blacklist_action_cancel">Hoʻopau</string>
+    <string name="dialog_black_list_delete_title">Holoi mai ka papa inoa ʻeleʻele</string>
+    <string name="dialog_black_list_delete_description">Makemake ʻoe e hemo i ka helu ālai ʻia mai ka papa inoa ʻeleʻele?</string>
+
+    <string name="dialog_black_list_delete_action_cancel">Hoʻopau</string>
+    <string name="dialog_title_add_to_vault">Ke hana nei</string>
+    <string name="dialog_description_process">Ke lawe nei kāu pāpaho mai ka hale hōʻikeʻike a hoʻohui i kāu waihona.</string>
+
+    <string name="dialog_title_removal_confirmation">Hoʻopaʻa Holoi</string>
+    <string name="dialog_description_removal">E hoʻoneʻe ʻia kēia faile mai ka waihona a hōʻike i loko o ka waihona.</string>
+    <string name="dialog_action_removal_confirmation_accept">ʻAe</string>
+
+    <string name="vault_photo_empty_page_title">ʻAʻohe o Photo Vault</string>
+    <string name="vault_photo_empty_page_description">Pākuʻi ikona e hūnā i nā kiʻi mai ka hale hōʻikeʻike</string>
+    <string name="vault_video_empty_page_title">ʻAʻohe o Video Vault</string>
+
+    <string name="vault_video_empty_page_description">Pākuʻi ikona i nā kiʻi wikiō mai ke kiʻi</string>
+    <string-array name="tabs">
+        <item>Palekana</item>
+        <item>Nā koho</item>
+    </string-array>
+
+    <string-array name="call_blocker_tabs">
+        <item>Papa inoa ʻeleʻele</item>
+        <item>Kāhea Lāʻau</item>
+    </string-array>
+    <string-array name="vault_tabs">
+        <item>Nā Kiʻi</item>
+        <item>Nā wikiō</item>
+    </string-array>
+	
+	<string name="empty_page_intruders_title">ʻAʻohe mea komohewa i hopu ʻia</string>
+    <string name="empty_page_intruders_description">Palekana kāu kelepona!</string>
+    <string name="Vault">Hale Kūʻai</string>
+    <string name="Call_blocker">Kāhea iā Blocker</string>
+    <string name="browser">Pūnaewele</string>
+    <string name="theme">Nā Kumuhana</string>
+    <string name="rate_us">Loiloi iā mākou</string>
+    <string name="removeads">Mana mana</string>
+    <string name="enter_pin">Komo pin</string>
+    <string name="pin_matched">Ua like ʻo Pin</string>
+    <string name="confirm_pin">Hoʻopaʻa pin</string>
+    <string name="pin_chahnged">Ua hoʻololi kūleʻa ʻo Pin</string>
+    <string name="pin_not_matched">ʻAʻole kūlike ʻo Pin</string>
+    <string name="incorrect_pin">Pika pololei ʻole</string>
+    <string name="settings_set_pin">Pihi hoʻonoho</string>
+    <string name="change_pin">Hoʻololi kui</string>
+    <string name="settings_set_pin_description">E hoʻonoho i nā pine hou</string>
+    <string name="create_new_pin">E hana i kahi pine hou</string>
+    <string name="home">Ka home</string>
+    <string name="settings_change_pin_description">E hoʻololi i kāu pine e kū nei</string>
+    <string name="message_pin_changed">Ua hoʻololi kūleʻa ʻia ʻo Pin</string>
+    <string name="non_protected">Palekana ʻole ʻia</string>
+    <string name="status_protected">Palekana ʻia</string>
+    <string name="starting_hour">Hoʻomaka hola</string>
+    <string name="ending_hour">ʻO ka hola hoʻopau</string>
+    <string name="auto_start_p">ʻae ʻae holo auto</string>
+    <string name="permission_usage_access_description1">wehe i ke koho holo-auto</string>
+
+
+    <string name="privat_browser">Pūnaewele Pilikino</string>
+    <string name="prem_title">Premium mana mau loa</string>
+    <string name="prem_no_ads">ʻAʻohe AD mau loa</string>
+    <string name="prem_restore">Hoʻihoʻi kūʻai</string>
+
+    <string name="please_give_us_five_stars">E ʻoluʻolu e hāʻawi mai iā mākou i nā hōkū ʻelima ma Google Play! Mahalo nui mākou iā ia!</string>
+    <string name="great_tex">Nui!</string>
+    <string name="choose_the_icon">Koho i ka ikona a hoʻololi ʻia ke kiʻi kumu. Hūnā i kēia polokalamu mai nā poʻe komo hewa</string>
+    <string name="app_name1">Uaki</string>
+    <string name="app_name2">Palapala ʻāina</string>
+    <string name="app_name3">Kalena</string>
+    <string name="app_name4">Mele</string>
+    <string name="app_name5">Ka m\'kini helu</string>
+
+    <string name="callblocker_black">Papa inoa ʻeleʻele</string>
+    <string name="callblocker_logs">Nā Lā Kelepona</string>
+    <string name="icon_change_title">Ikona</string>
+    <string name="intruders_title">Hoʻokomo</string>
+    <string name="intruders_access_apps">Loaʻa i nā polokalamu me ka hoʻohana</string>
+    <string name="main_unlocked">Wehe ʻia</string>
+    <string name="main_locked">Laka ʻia</string>
+    <string name="prem_not_sub">ʻAʻole kēia kahi kau inoa. Hoʻokahi wale nō kou uku ʻana!</string>
+    <string name="prem_fake_icon">Ikona hoʻopunipuni</string>
+    <string name="prem_intruders">Hoʻopili iho selfie</string>
+    <string name="prem_themes">Nā poʻomanaʻo hana hou aʻe</string>
+    <string name="prem_one_time">Uku Hoʻokahi-Manawa</string>
+    <string name="splash_create">Hana ʻia e pale i kou pilikino</string>
+    <string name="vault_photos">Nā kiʻi paʻi</string>
+    <string name="vault_videos">Nā wikiō</string>
+    <string name="btn_ok">OK</string>
+    <string name="dialog_intruder_text">Makemake ʻoe e kāpae i ka kiʻi?</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="fragment_security_text">Opps! \n ʻAʻole i laka ʻia nā polokalamu</string>
+    <string name="settings_security">Palekana</string>
+    <string name="settings_face_icon">Ikona hoʻopunipuni</string>
+    <string name="settings_face_icon_text">E hoʻololi ʻia ka ikona kumu o kēia polokalamu</string>
+    <string name="rate_us_enjoying">Ke hauʻoli nei ʻoe iā AppLock?</string>
+    <string name="rate_us_could_be">hiki ke ʻoi aku ka maikaʻi</string>
+    <string name="menu_privacy">Kulekele pilikino</string>
+    <string name="menu_contact">Kāhea iā mā ˚ ou</string>
+    <string name="menu_face_icon">Ikona hoʻopunipuni</string>
+    <string name="menu_intruder">Luna Hoʻokomo</string>
+    <string name="menu_chat">Lumi kūkā kamaʻilio</string>
+
+</resources>

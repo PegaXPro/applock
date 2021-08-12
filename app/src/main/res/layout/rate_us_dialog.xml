@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/view4"
+        android:layout_width="302dp"
+        android:layout_height="385dp"
+        android:background="@drawable/dialog_back"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/text_rate_us"
+        android:layout_width="0dp"
+        android:layout_height="85dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:text="@string/please_give_us_five_stars"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/closeBt"
+        app:layout_constraintEnd_toEndOf="@+id/view4"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/view4"
+        app:layout_constraintTop_toBottomOf="@+id/text_rating" />
+
+    <TextView
+        android:id="@+id/closeBt"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="12dp"
+        android:gravity="center"
+        android:text="@string/btn_cancel"
+        android:textColor="#959595"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/view4"
+        app:layout_constraintEnd_toStartOf="@+id/yesBt"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/view4"
+        app:layout_constraintTop_toBottomOf="@+id/text_rate_us" />
+
+    <RelativeLayout
+        android:id="@+id/premstars"
+        android:layout_width="0dp"
+        android:layout_height="94dp"
+        android:layout_marginHorizontal="15dp"
+        android:background="@drawable/stars_back"
+        app:layout_constraintBottom_toTopOf="@+id/text_rating"
+        app:layout_constraintEnd_toEndOf="@+id/view4"
+        app:layout_constraintStart_toStartOf="@+id/view4"
+        app:layout_constraintTop_toBottomOf="@+id/textView13"/>
+
+    <ImageView
+        android:id="@+id/premstar1"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="25dp"
+        app:layout_constraintBottom_toBottomOf="@+id/premstars"
+        app:layout_constraintStart_toStartOf="@+id/premstars"
+        app:layout_constraintTop_toTopOf="@+id/premstars"
+        app:srcCompat="@drawable/star_not_fill" />
+    <!-- android:srcCompat="@drawable/star_fill" -->
+
+    <ImageView
+        android:id="@+id/premstar2"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="@+id/premstars"
+        app:layout_constraintEnd_toStartOf="@+id/premstar3"
+        app:layout_constraintStart_toEndOf="@+id/premstar1"
+        app:layout_constraintTop_toTopOf="@+id/premstars"
+        app:srcCompat="@drawable/star_not_fill" />
+    <!-- android:srcCompat="@drawable/star_fill" -->
+
+    <ImageView
+        android:id="@+id/premstar3"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="@+id/premstars"
+        app:layout_constraintEnd_toStartOf="@+id/premstar4"
+        app:layout_constraintStart_toEndOf="@+id/premstar2"
+        app:layout_constraintTop_toTopOf="@+id/premstars"
+        app:srcCompat="@drawable/star_not_fill" />
+    <!-- android:srcCompat="@drawable/star_fill" -->
+
+    <ImageView
+        android:id="@+id/premstar4"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="@+id/premstars"
+        app:layout_constraintEnd_toStartOf="@+id/premstar5"
+        app:layout_constraintStart_toEndOf="@+id/premstar3"
+        app:layout_constraintTop_toTopOf="@+id/premstars"
+        app:srcCompat="@drawable/star_not_fill" />
+    <!-- android:srcCompat="@drawable/star_fill" -->
+
+    <ImageView
+        android:id="@+id/premstar5"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginEnd="25dp"
+        app:layout_constraintBottom_toBottomOf="@+id/premstars"
+        app:layout_constraintEnd_toEndOf="@+id/premstars"
+        app:layout_constraintTop_toTopOf="@+id/premstars"
+        app:srcCompat="@drawable/star_not_fill" />
+    <!-- android:srcCompat="@drawable/star_fill" -->
+
+    <TextView
+        android:id="@+id/text_rating"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:gravity="center"
+        android:text="@string/great_tex"
+        android:textColor="#3F1EAF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/text_rate_us"
+        app:layout_constraintEnd_toEndOf="@+id/view4"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/view4"
+        app:layout_constraintTop_toBottomOf="@+id/premstars" />
+
+    <!-- удалить -->
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="24dp"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="@string/rate_us_enjoying"
+        android:textColor="@color/colorTextGray"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/premstars"
+        app:layout_constraintEnd_toEndOf="@+id/view4"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/view4"
+        app:layout_constraintTop_toTopOf="@+id/view4" />
+
+    <TextView
+        android:id="@+id/yesBt"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginEnd="22dp"
+        android:background="@drawable/rate_us_back"
+        android:gravity="center"
+        android:text="@string/btn_ok"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/closeBt"
+        app:layout_constraintEnd_toEndOf="@+id/view4"
+        app:layout_constraintStart_toEndOf="@+id/closeBt"
+        app:layout_constraintTop_toTopOf="@+id/closeBt" />
+
+    <TextView
+        android:id="@+id/noBt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/rate_us_could_be"
+        android:textColor="@color/colorBlack"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/view4"
+        app:layout_constraintEnd_toEndOf="@+id/view4"
+        app:layout_constraintStart_toStartOf="@+id/view4" />
+
+    <ImageView
+        android:id="@+id/closeBt_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:padding="5dp"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="@+id/view4"
+        app:layout_constraintTop_toTopOf="@+id/view4"
+        app:srcCompat="@drawable/ic_close" />
+</androidx.constraintlayout.widget.ConstraintLayout>
